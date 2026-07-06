@@ -364,7 +364,8 @@ body {
 
 .name-highlight {
   color: var(--name-highlight);
-  text-decoration: underline dotted;
+  text-decoration: underline solid;
+  text-decoration-thickness: 1.5px;
   text-underline-offset: 3px;
 }
 
