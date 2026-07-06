@@ -76,6 +76,131 @@ body {
   margin-bottom: 24px;
 }
 
+.category-select {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  padding: 6px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.match-section {
+  margin-bottom: 24px;
+}
+
+.section-heading {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 6px;
+  margin: 0 0 12px;
+}
+
+.fixture-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.fixture-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 14px 16px;
+}
+
+.fixture-label {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 8px;
+}
+
+.fixture-score-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.fixture-team {
+  font-size: 15px;
+  font-weight: 600;
+  flex: 1;
+}
+
+.fixture-team:last-child {
+  text-align: right;
+}
+
+.fixture-score {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 17px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.fixture-score-vs {
+  color: var(--text-muted);
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.fixture-meta {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  color: var(--text-muted);
+  margin: 6px 0 0;
+}
+
+.player-ratings {
+  list-style: none;
+  margin: 10px 0 0;
+  padding: 8px 0 0;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.player-rating-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+}
+
+.player-name {
+  flex: 1;
+}
+
+.player-contrib {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.player-rating {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  font-weight: 700;
+  min-width: 28px;
+  text-align: right;
+}
+
+@media (max-width: 560px) {
+  .fixture-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .tier-filters {
   display: flex;
   gap: 6px;

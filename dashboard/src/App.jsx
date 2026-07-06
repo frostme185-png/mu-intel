@@ -118,10 +118,97 @@ function StoryCard({ story, isRead, onToggleRead }) {
   );
 }
 
+function formatFixtureDate(iso) {
+  if (!iso) return "";
+  try {
+    return new Date(iso).toLocaleString("vi-VN", {
+      dateStyle: "medium",
+      timeStyle: "short",
+    });
+  } catch {
+    return iso;
+  }
+}
+
+function FixtureCard({ label, fixture, playerStats }) {
+  if (!fixture) return null;
+
+  const home = fixture.teams?.home?.name ?? "?";
+  const away = fixture.teams?.away?.name ?? "?";
+  const homeGoals = fixture.goals?.home;
+  const awayGoals = fixture.goals?.away;
+  const hasScore = homeGoals !== null && homeGoals !== undefined;
+  const statusShort = fixture.fixture?.status?.short;
+  const dateStr = formatFixtureDate(fixture.fixture?.date);
+
+  const topPlayers = (playerStats ?? [])
+    .filter((p) => typeof p.rating === "number")
+    .sort((a, b) => b.rating - a.rating)
+    .slice(0, 5);
+
+  return (
+    <div className="fixture-card">
+      <p className="fixture-label">{label}</p>
+      <div className="fixture-score-row">
+        <span className="fixture-team">{home}</span>
+        <span className={`fixture-score ${hasScore ? "" : "fixture-score-vs"}`}>
+          {hasScore ? `${homeGoals} – ${awayGoals}` : "vs"}
+        </span>
+        <span className="fixture-team">{away}</span>
+      </div>
+      <p className="fixture-meta">
+        {dateStr}
+        {statusShort ? ` · ${statusShort}` : ""}
+      </p>
+      {topPlayers.length > 0 && (
+        <ul className="player-ratings">
+          {topPlayers.map((p, i) => (
+            <li key={i} className="player-rating-row">
+              <span className="player-name">{p.player_name}</span>
+              <span className="player-contrib">
+                {p.goals > 0 ? `⚽×${p.goals} ` : ""}
+                {p.assists > 0 ? `🅰×${p.assists}` : ""}
+              </span>
+              <span className="player-rating">{p.rating.toFixed(1)}</span>
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  );
+}
+
+function MatchDataSection({ matchData }) {
+  if (!matchData) return null;
+  const hasRecent = !!matchData.recent_fixture;
+  const hasUpcoming = !!matchData.upcoming_fixture;
+
+  return (
+    <section className="match-section">
+      <h2 className="section-heading">Số liệu trận đấu</h2>
+      {!hasRecent && !hasUpcoming ? (
+        <p className="status-text">
+          Chưa có trận đấu MUFC nào gần đây hoặc sắp tới (khả năng đang giữa mùa giải).
+        </p>
+      ) : (
+        <div className="fixture-grid">
+          <FixtureCard
+            label="Trận gần nhất"
+            fixture={matchData.recent_fixture}
+            playerStats={matchData.recent_fixture_player_stats}
+          />
+          <FixtureCard label="Trận sắp tới" fixture={matchData.upcoming_fixture} />
+        </div>
+      )}
+    </section>
+  );
+}
+
 export default function App() {
   const { manifest, loading: manifestLoading } = useReportManifest();
   const [selectedDate, setSelectedDate] = useState(null);
   const [activeTiers, setActiveTiers] = useState(new Set([0, 1, 2, 3, 4]));
+  const [selectedCategory, setSelectedCategory] = useState("all");
   const [search, setSearch] = useState("");
 
   useEffect(() => {
@@ -142,7 +229,7 @@ export default function App() {
     });
   };
 
-  const filteredStories = useMemo(() => {
+  const tierFilteredStories = useMemo(() => {
     if (!report) return [];
     return report.stories.filter((story) => {
       if (!activeTiers.has(story.min_tier)) return false;
@@ -158,14 +245,17 @@ export default function App() {
 
   const groupedStories = useMemo(() => {
     const groups = { transfer: [], match: [], off_pitch: [] };
-    for (const story of filteredStories) {
+    for (const story of tierFilteredStories) {
       const key = groups[story.category] ? story.category : "off_pitch";
       groups[key].push(story);
     }
     return groups;
-  }, [filteredStories]);
+  }, [tierFilteredStories]);
 
-  const unreadCount = filteredStories.filter((s) => !readIds.has(storyId(s))).length;
+  const visibleStories =
+    selectedCategory === "all" ? tierFilteredStories : groupedStories[selectedCategory] ?? [];
+
+  const unreadCount = visibleStories.filter((s) => !readIds.has(storyId(s))).length;
 
   return (
     <div className="app">
@@ -190,6 +280,8 @@ export default function App() {
         )}
       </header>
 
+      {report && <MatchDataSection matchData={report.match_data} />}
+
       <div className="filter-bar">
         <div className="tier-filters">
           {Object.entries(TIER_META).map(([tier, meta]) => (
@@ -202,6 +294,18 @@ export default function App() {
             </button>
           ))}
         </div>
+        <select
+          className="category-select"
+          value={selectedCategory}
+          onChange={(e) => setSelectedCategory(e.target.value)}
+        >
+          <option value="all">Tất cả mục ({tierFilteredStories.length})</option>
+          {CATEGORY_ORDER.map((cat) => (
+            <option key={cat} value={cat}>
+              {CATEGORY_META[cat].label} ({groupedStories[cat].length})
+            </option>
+          ))}
+        </select>
         <input
           className="search-input"
           type="text"
@@ -224,28 +328,42 @@ export default function App() {
         {report && (
           <>
             <p className="story-count">
-              {filteredStories.length} / {report.stories.length} story · {unreadCount} chưa đọc
+              {visibleStories.length} / {report.stories.length} story · {unreadCount} chưa đọc
             </p>
-            {CATEGORY_ORDER.map(
-              (cat) =>
-                groupedStories[cat].length > 0 && (
-                  <section key={cat} className="category-section">
-                    <h2 className="category-heading">
-                      {CATEGORY_META[cat].label}
-                      <span className="category-count">{groupedStories[cat].length}</span>
-                    </h2>
-                    <div className="story-list">
-                      {groupedStories[cat].map((story) => (
-                        <StoryCard
-                          key={storyId(story)}
-                          story={story}
-                          isRead={readIds.has(storyId(story))}
-                          onToggleRead={() => toggleRead(storyId(story))}
-                        />
-                      ))}
-                    </div>
-                  </section>
-                )
+
+            {selectedCategory === "all" ? (
+              CATEGORY_ORDER.map(
+                (cat) =>
+                  groupedStories[cat].length > 0 && (
+                    <section key={cat} className="category-section">
+                      <h2 className="category-heading">
+                        {CATEGORY_META[cat].label}
+                        <span className="category-count">{groupedStories[cat].length}</span>
+                      </h2>
+                      <div className="story-list">
+                        {groupedStories[cat].map((story) => (
+                          <StoryCard
+                            key={storyId(story)}
+                            story={story}
+                            isRead={readIds.has(storyId(story))}
+                            onToggleRead={() => toggleRead(storyId(story))}
+                          />
+                        ))}
+                      </div>
+                    </section>
+                  )
+              )
+            ) : (
+              <div className="story-list">
+                {visibleStories.map((story) => (
+                  <StoryCard
+                    key={storyId(story)}
+                    story={story}
+                    isRead={readIds.has(storyId(story))}
+                    onToggleRead={() => toggleRead(storyId(story))}
+                  />
+                ))}
+              </div>
             )}
           </>
         )}
