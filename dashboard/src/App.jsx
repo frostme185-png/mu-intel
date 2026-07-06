@@ -64,10 +64,16 @@ function StoryCard({ story }) {
       </div>
       <h3 className="story-title">{story.representative_title}</h3>
       <div className="story-sources">
-        {story.sources.map((source) => (
-          <span key={source} className="source-tag">
-            {source}
-          </span>
+        {story.items.map((item, i) => (
+          <a
+            key={i}
+            className="source-tag"
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {item.source} ↗
+          </a>
         ))}
       </div>
     </article>
