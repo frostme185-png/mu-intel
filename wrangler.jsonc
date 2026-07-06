@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mu-intel",
+  "compatibility_date": "2026-07-06",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "dashboard"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
