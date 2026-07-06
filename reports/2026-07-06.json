@@ -1,33 +1,478 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T01:00:00+00:00",
-  "_note": "Đây là SAMPLE DATA để test dashboard, không phải tin thật. Xoá file này khi pipeline thật đã chạy.",
+  "generated_at": "2026-07-06T08:42:19.918845+00:00",
   "match_data": {
-    "collected_at": "2026-07-06T01:00:00+00:00",
-    "fixtures": []
+    "collected_at": "2026-07-06T08:42:17.819411+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
   },
   "stories": [
     {
-      "representative_title": "Man United hoàn tất ký hợp đồng tiền đạo mới (ví dụ)",
-      "sources": ["BBC Sport - Manchester United", "Manchester Evening News"],
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Gaz and Jay discuss new stadium plans and why Mainoo should be starting for England.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0nvqnzx?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 29 Jun 2026 11:45:00 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "Marcus Rashford insists England will improve after topping Group L.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0nvplp6?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 29 Jun 2026 08:15:23 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "Man Utd's Matheus Cunha on scoring in Brazil's 3-0 win over Scotland at the World Cup.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0ntzp2g?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 25 Jun 2026 07:49:50 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "Gaz and Joe discuss Marcus Rashford's future and Man Utd's Premier League fixtures.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0ntf7nk?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 22 Jun 2026 12:02:00 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
       "min_tier": 1,
-      "corroboration_count": 2
-    },
-    {
-      "representative_title": "Đồn đoán United quan tâm hậu vệ cánh trẻ (ví dụ)",
-      "sources": ["Caught Offside"],
-      "min_tier": 3,
       "corroboration_count": 1
     },
     {
-      "representative_title": "Fan forum đồn có thể có thương vụ bất ngờ (ví dụ)",
-      "sources": ["r/reddevils"],
+      "representative_title": "[World Cup Watch] Round of 16: Brazil - Norway // Mexico — England",
+      "items": [
+        {
+          "title": "[World Cup Watch] Round of 16: Brazil - Norway // Mexico — England",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Brazil — Norway 1:2 FT</h1> <p>Start: 21:00 BST</p> <p>Red Devils involved: Matheus Cuhna starts (with Casemiro, and Ederson on the bench)</p> <h1>Mexico — England 2:3 FT</h1> <p>Start: <del>01:00</del> 02:00 BST</p> <p>Red Devils involved: Marcus Rashford on the bench</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Hexogen\"> /u/Lord_Hexogen </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobrtq/world_cup_watch_round_of_16_brazil_norway_mexico/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobrtq/world_cup_watch_round_of_16_brazil_norway_mexico/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uobrtq/world_cup_watch_round_of_16_brazil_norway_mexico/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T19:54:40+00:00"
+        },
+        {
+          "title": "[World Cup Watch] Round of 16: Canada - Morocco // Paraguay - France",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Red Devils involved: Mazraoui starts for Morocco</p> <h1>Canada - Morocco</h1> <p>18:00 BST</p> <h1>Paraguay - France</h1> <p>22:00 BST</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Hexogen\"> /u/Lord_Hexogen </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1une4eh/world_cup_watch_round_of_16_canada_morocco/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1une4eh/world_cup_watch_round_of_16_canada_morocco/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1une4eh/world_cup_watch_round_of_16_canada_morocco/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T16:59:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T20:00:53+00:00"
+        },
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unjxk4/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unjxk4/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unjxk4/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T21:00:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Casemiro after Brazil’s elimination: “We did our best, but we lost our dream… we disappointed all Brazilians. We will always be the generation that didn’t win the World Cup.”",
+      "items": [
+        {
+          "title": "Casemiro after Brazil’s elimination: “We did our best, but we lost our dream… we disappointed all Brazilians. We will always be the generation that didn’t win the World Cup.”",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/justaino\"> /u/justaino </a> <br /> <span><a href=\"https://v.redd.it/h9g2h7jd2jbh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uoml1q/casemiro_after_brazils_elimination_we_did_our/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uoml1q/casemiro_after_brazils_elimination_we_did_our/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-06T04:00:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Andy Mitten]Manchester United’s greatest players: No 20, Gary Neville",
+      "items": [
+        {
+          "title": "[Andy Mitten]Manchester United’s greatest players: No 20, Gary Neville",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uoo80q/andy_mittenmanchester_uniteds_greatest_players_no/\"> <img alt=\"[Andy Mitten]Manchester United’s greatest players: No 20, Gary Neville\" src=\"https://external-preview.redd.it/PZR8mciladZg_6pZSGKo4FGPeOxpt1fGrUvBFUrRrKU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a98a33e4d05242fc8571b18167844ded44f192b\" title=\"[Andy Mitten]Manchester United’s greatest players: No 20, Gary Neville\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7423177/2026/07/06/manchester-united-greatest-players-gary-neville/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uoo80q/andy_mittenmanchester_uniteds_greatest_players_no/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uoo80q/andy_mittenmanchester_uniteds_greatest_players_no/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-06T05:25:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Simon Stone] Told intention still for Ederson to have full @ManUtd medical when Brazil’s World Cup campaign at an end.",
+      "items": [
+        {
+          "title": "[Simon Stone] Told intention still for Ederson to have full @ManUtd medical when Brazil’s World Cup campaign at an end.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uob210/simon_stone_told_intention_still_for_ederson_to/\"> <img alt=\"[Simon Stone] Told intention still for Ederson to have full @ManUtd medical when Brazil’s World Cup campaign at an end.\" src=\"https://preview.redd.it/h53rgfpnpgbh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89f2c8e416a0dd1e987932912f6412814abd62b4\" title=\"[Simon Stone] Told intention still for Ederson to have full @ManUtd medical when Brazil’s World Cup campaign at an end.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/h53rgfpnpgbh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uob210/simon_stone_told_intention_still_for_ederson_to/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uob210/simon_stone_told_intention_still_for_ederson_to/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T19:26:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Rashford’s nutmeg on Konsa 😂",
+      "items": [
+        {
+          "title": "Rashford’s nutmeg on Konsa 😂",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1unzkb1/rashfords_nutmeg_on_konsa/\"> <img alt=\"Rashford’s nutmeg on Konsa 😂\" src=\"https://external-preview.redd.it/bG95YTBkeHg5ZWJoMZko20ps_bSTW5w6Orq-H6m6JAWkKBnJa9wJgrw81oga.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25f20a3c76aaeb12dc864972a8b227de680dc6da\" title=\"Rashford’s nutmeg on Konsa 😂\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pingbread\"> /u/pingbread </a> <br /> <span><a href=\"https://v.redd.it/kn3z7n1y9ebh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unzkb1/rashfords_nutmeg_on_konsa/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unzkb1/rashfords_nutmeg_on_konsa/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T11:14:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[@Wimbledon] From Old Trafford to the Royal Box ✨ Great to have you at Wimbledon, Michael Carrick 👋",
+      "items": [
+        {
+          "title": "[@Wimbledon] From Old Trafford to the Royal Box ✨ Great to have you at Wimbledon, Michael Carrick 👋",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uo1q10/wimbledon_from_old_trafford_to_the_royal_box/\"> <img alt=\"[@Wimbledon] From Old Trafford to the Royal Box ✨ Great to have you at Wimbledon, Michael Carrick 👋\" src=\"https://preview.redd.it/bkn369v5tebh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd59dbe8d8fc07a6f39608dddfa57b686fb76221\" title=\"[@Wimbledon] From Old Trafford to the Royal Box ✨ Great to have you at Wimbledon, Michael Carrick 👋\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/bkn369v5tebh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uo1q10/wimbledon_from_old_trafford_to_the_royal_box/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uo1q10/wimbledon_from_old_trafford_to_the_royal_box/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T13:04:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Chris Wheeler] Man United explore surprise move for Chelsea star Andrey Santos. Chelsea are believed to value him at around £50million, although it’s unlikely United would be willing to pay that much.",
+      "items": [
+        {
+          "title": "[Chris Wheeler] Man United explore surprise move for Chelsea star Andrey Santos. Chelsea are believed to value him at around £50million, although it’s unlikely United would be willing to pay that much.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uo3oq6/chris_wheeler_man_united_explore_surprise_move/\"> <img alt=\"[Chris Wheeler] Man United explore surprise move for Chelsea star Andrey Santos. Chelsea are believed to value him at around £50million, although it’s unlikely United would be willing to pay that much.\" src=\"https://external-preview.redd.it/2h5ebhf4J8_HpUvV-19wRbqASttuAUlZRl6XF4KcR98.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bf8a500fd097d3d7e6a956251fd0b815c6373ca\" title=\"[Chris Wheeler] Man United explore surprise move for Chelsea star Andrey Santos. Chelsea are believed to value him at around £50million, although it’s unlikely United would be willing to pay that much.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-15954357/Man-United-explore-surprise-Chelsea-star-Andrey-Santos.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uo3oq6/chris_wheeler_man_united_explore_surprise_move/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uo3oq6/chris_wheeler_man_united_explore_surprise_move/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T14:32:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[David Ornstein] Manchester United exploring move for Chelsea midfielder Andrey Santos",
+      "items": [
+        {
+          "title": "[David Ornstein] Manchester United exploring move for Chelsea midfielder Andrey Santos",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uo2vai/david_ornstein_manchester_united_exploring_move/\"> <img alt=\"[David Ornstein] Manchester United exploring move for Chelsea midfielder Andrey Santos\" src=\"https://external-preview.redd.it/VlmCdReQaYOt0d6INKcUMxbZxxCRWvwSjmTl30CrmXM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4a12aecbefe84c2adaa9867e3aaf371bb102cc7\" title=\"[David Ornstein] Manchester United exploring move for Chelsea midfielder Andrey Santos\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7423090/2026/07/05/andrey-santos-manchester-united-chelsea-transfer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uo2vai/david_ornstein_manchester_united_exploring_move/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uo2vai/david_ornstein_manchester_united_exploring_move/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T13:57:14+00:00"
+        },
+        {
+          "title": "Manchester United consider move for Chelsea’s £50m-rated Andrey Santos",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Club forced to broaden horizons in search for new midfielder after missing out on Elliot Anderson and Mateus Fernandes, and long-term injury to Manuel Ugarte</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RicciRox\"> /u/RicciRox </a> <br /> <span><a href=\"https://www.thetimes.com/sport/football/article/manchester-united-andrey-santos-chelsea-2cxxgnc2d\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uo5vvb/manchester_united_consider_move_for_chelseas/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uo5vvb/manchester_united_consider_move_for_chelseas/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T16:02:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Matheus Cunha starts for Brazil against Norway - World Cup Round of 16",
+      "items": [
+        {
+          "title": "Matheus Cunha starts for Brazil against Norway - World Cup Round of 16",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uo9qie/matheus_cunha_starts_for_brazil_against_norway/\"> <img alt=\"Matheus Cunha starts for Brazil against Norway - World Cup Round of 16\" src=\"https://preview.redd.it/zu8diet1ggbh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=16ae00ba4ddae41a55bbf995acb03e3032f9ca5f\" title=\"Matheus Cunha starts for Brazil against Norway - World Cup Round of 16\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1uo9qie\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uo9qie/matheus_cunha_starts_for_brazil_against_norway/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uo9qie/matheus_cunha_starts_for_brazil_against_norway/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T18:34:32+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Academy] Kai Rooney and Jacey Carrick signed their scholarships with Man United this weekend.",
+      "items": [
+        {
+          "title": "[Academy] Kai Rooney and Jacey Carrick signed their scholarships with Man United this weekend.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1unwu43/academy_kai_rooney_and_jacey_carrick_signed_their/\"> <img alt=\"[Academy] Kai Rooney and Jacey Carrick signed their scholarships with Man United this weekend.\" src=\"https://preview.redd.it/jb4sderegdbh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=18a91dc330b08eda492d2abe76a9d52bf5099d69\" title=\"[Academy] Kai Rooney and Jacey Carrick signed their scholarships with Man United this weekend.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/berbatouchbg\"> /u/berbatouchbg </a> <br /> <span><a href=\"https://i.redd.it/jb4sderegdbh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unwu43/academy_kai_rooney_and_jacey_carrick_signed_their/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unwu43/academy_kai_rooney_and_jacey_carrick_signed_their/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T08:29:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Ancelotti: \"The only one who could really be the right person to give me advice is Alex Ferguson\"",
+      "items": [
+        {
+          "title": "Ancelotti: \"The only one who could really be the right person to give me advice is Alex Ferguson\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1unqifq/ancelotti_the_only_one_who_could_really_be_the/\"> <img alt=\"Ancelotti: &quot;The only one who could really be the right person to give me advice is Alex Ferguson&quot;\" src=\"https://external-preview.redd.it/4_htmwkGmm81Ju4rGjmozMEWpkN2v94kgX4AN_rt930.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b13b934b1a1577b44a4fd82cf17ecf2fa5366d10\" title=\"Ancelotti: &quot;The only one who could really be the right person to give me advice is Alex Ferguson&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/tungowiii\"> /u/tungowiii </a> <br /> <span><a href=\"https://www.goal.com/en/lists/carlo-ancelotti-brazil-world-cup-critics-sir-alex-ferguson-man-utd/bltdccedd170b07d8c9\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unqifq/ancelotti_the_only_one_who_could_really_be_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unqifq/ancelotti_the_only_one_who_could_really_be_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T02:26:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Man Utd: Who will club turn to as they address midfield issues?",
+      "items": [
+        {
+          "title": "Man Utd: Who will club turn to as they address midfield issues?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uo5izc/man_utd_who_will_club_turn_to_as_they_address/\"> <img alt=\"Man Utd: Who will club turn to as they address midfield issues?\" src=\"https://external-preview.redd.it/5yoanWmHG2brFFDTgRUWze7VBq1Zgh6xrFqd5vMgTxY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6da8630e6a3522edb74f17b5f41c12dc3f250ded\" title=\"Man Utd: Who will club turn to as they address midfield issues?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/simplsimonmetapieman\"> /u/simplsimonmetapieman </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cp9llnxk45jo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uo5izc/man_utd_who_will_club_turn_to_as_they_address/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uo5izc/man_utd_who_will_club_turn_to_as_they_address/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T15:48:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Guardian] A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator",
+      "items": [
+        {
+          "title": "[Guardian] A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uo0x1t/guardian_a_footballing_deepfake_how_bruno/\"> <img alt=\"[Guardian] A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator\" src=\"https://external-preview.redd.it/rgs7A4aKluRKNGCN51dk7gyTJnsGi13UF5W4TMlRfmA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=866210d3767475e99e921cab1966ba2fb873e7c1\" title=\"[Guardian] A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.theguardian.com/football/2026/jul/05/a-footballing-deepfake-how-bruno-fernandes-fell-victim-to-an-unlicensed-betting-operator\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uo0x1t/guardian_a_footballing_deepfake_how_bruno/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uo0x1t/guardian_a_footballing_deepfake_how_bruno/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T12:25:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Cobolli's tribute to Cunha at Wimbledon | Manchester United",
+      "items": [
+        {
+          "title": "Cobolli's tribute to Cunha at Wimbledon | Manchester United",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/The-Black-Angel\"> /u/The-Black-Angel </a> <br /> <span><a href=\"https://www.manutd.com/en/news/flavio-cobolli-tribute-to-matheus-cunha-at-wimbledon\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unxg4q/cobollis_tribute_to_cunha_at_wimbledon_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unxg4q/cobollis_tribute_to_cunha_at_wimbledon_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T09:07:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Noussair Mazraoui made more defensive contributions (13) than any other player on the pitch vs. Canada. He also won 7 of the 8 ground duels he contested. Another HUGE performance. 👏",
+      "items": [
+        {
+          "title": "Noussair Mazraoui made more defensive contributions (13) than any other player on the pitch vs. Canada. He also won 7 of the 8 ground duels he contested. Another HUGE performance. 👏",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1unhm9q/noussair_mazraoui_made_more_defensive/\"> <img alt=\"Noussair Mazraoui made more defensive contributions (13) than any other player on the pitch vs. Canada. He also won 7 of the 8 ground duels he contested. Another HUGE performance. 👏\" src=\"https://preview.redd.it/iw6duc7wj9bh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4fa990ec63c39d42d465f6d3f6f6feffbb85afcc\" title=\"Noussair Mazraoui made more defensive contributions (13) than any other player on the pitch vs. Canada. He also won 7 of the 8 ground duels he contested. Another HUGE performance. 👏\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/iw6duc7wj9bh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unhm9q/noussair_mazraoui_made_more_defensive/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unhm9q/noussair_mazraoui_made_more_defensive/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T19:21:21+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
+      "items": [
+        {
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p>​ <strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">-</td> <td align=\"left\">Contact Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T10:01:20+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Man United were prepared to go to £80m + £5m for Mateus Fernandes, with some expectation he would join. But Tottenham’s guaranteed fee + wages swung talks. Significant signing to miss out on. #MUFC onto other targets.",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Man United were prepared to go to £80m + £5m for Mateus Fernandes, with some expectation he would join. But Tottenham’s guaranteed fee + wages swung talks. Significant signing to miss out on. #MUFC onto other targets.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uncwli/laurie_whitwell_man_united_were_prepared_to_go_to/\"> <img alt=\"[Laurie Whitwell] Man United were prepared to go to £80m + £5m for Mateus Fernandes, with some expectation he would join. But Tottenham’s guaranteed fee + wages swung talks. Significant signing to miss out on. #MUFC onto other targets.\" src=\"https://preview.redd.it/pl3vuxifl8bh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae977dcf6f20e87225418cc41f4429a7dfeda5b6\" title=\"[Laurie Whitwell] Man United were prepared to go to £80m + £5m for Mateus Fernandes, with some expectation he would join. But Tottenham’s guaranteed fee + wages swung talks. Significant signing to miss out on. #MUFC onto other targets.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/pl3vuxifl8bh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uncwli/laurie_whitwell_man_united_were_prepared_to_go_to/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uncwli/laurie_whitwell_man_united_were_prepared_to_go_to/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T16:08:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Kinsella, BBC, In Article] Several clubs have expressed an interest in midfielder Alex Scott, who is reported to be valued at about £80m. However, club sources insist he is not for sale despite enquiries from Arsenal, Manchester City and Manchester United.",
+      "items": [
+        {
+          "title": "[Kinsella, BBC, In Article] Several clubs have expressed an interest in midfielder Alex Scott, who is reported to be valued at about £80m. However, club sources insist he is not for sale despite enquiries from Arsenal, Manchester City and Manchester United.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1un8vra/kinsella_bbc_in_article_several_clubs_have/\"> <img alt=\"[Kinsella, BBC, In Article] Several clubs have expressed an interest in midfielder Alex Scott, who is reported to be valued at about £80m. However, club sources insist he is not for sale despite enquiries from Arsenal, Manchester City and Manchester United.\" src=\"https://external-preview.redd.it/PCKd_zwysOckCoMf7MQsAMqEiA0T74Mr7b4PMqMtgqI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4242b1233bb12e7801cabb40a7e4c9d0446b93c4\" title=\"[Kinsella, BBC, In Article] Several clubs have expressed an interest in midfielder Alex Scott, who is reported to be valued at about £80m. However, club sources insist he is not for sale despite enquiries from Arsenal, Manchester City and Manchester United.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/ckg40qlnneko\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1un8vra/kinsella_bbc_in_article_several_clubs_have/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1un8vra/kinsella_bbc_in_article_several_clubs_have/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T13:18:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[@RioMeets] Thiago Alcântara on Kobbie Mainoo",
+      "items": [
+        {
+          "title": "[@RioMeets] Thiago Alcântara on Kobbie Mainoo",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1un8r4r/riomeets_thiago_alcântara_on_kobbie_mainoo/\"> <img alt=\"[@RioMeets] Thiago Alcântara on Kobbie Mainoo\" src=\"https://external-preview.redd.it/cGxnMzhkNTNxN2JoMVt7WQAdNpkIAmDKkxPyCTnuR6bT297hkAgHqCl8a0OE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=096672c71b4b4eaa62f25a984907147e95f43117\" title=\"[@RioMeets] Thiago Alcântara on Kobbie Mainoo\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/6d4roe43q7bh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1un8r4r/riomeets_thiago_alcântara_on_kobbie_mainoo/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1un8r4r/riomeets_thiago_alcântara_on_kobbie_mainoo/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T13:12:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:",
+      "items": [
+        {
+          "title": "[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1umvbfm/statman_dave_lisandro_martinezs_game_by_numbers/\"> <img alt=\"[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:\" src=\"https://preview.redd.it/ifjr2mlo34bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0fb4a218eeb7e7fa06ff8c934611bb388e40627b\" title=\"[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/user_franc1s\"> /u/user_franc1s </a> <br /> <span><a href=\"https://i.redd.it/ifjr2mlo34bh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1umvbfm/statman_dave_lisandro_martinezs_game_by_numbers/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1umvbfm/statman_dave_lisandro_martinezs_game_by_numbers/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T01:01:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Lisandro Martínez post match: \"When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup\"",
+      "items": [
+        {
+          "title": "Lisandro Martínez post match: \"When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1umxoc5/lisandro_martínez_post_match_when_i_think_about/\"> <img alt=\"Lisandro Martínez post match: &quot;When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup&quot;\" src=\"https://preview.redd.it/b2dqhp67k4bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eab2621b709136dd7d6afa8bdd7f93419aaffa20\" title=\"Lisandro Martínez post match: &quot;When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HappySisyphus22\"> /u/HappySisyphus22 </a> <br /> <span><a href=\"https://i.redd.it/b2dqhp67k4bh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1umxoc5/lisandro_martínez_post_match_when_i_think_about/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1umxoc5/lisandro_martínez_post_match_when_i_think_about/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-04T02:57:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
       "min_tier": 4,
       "corroboration_count": 1
     }
   ],
   "meta": {
-    "raw_item_count": 4,
-    "story_count": 3
+    "raw_item_count": 29,
+    "story_count": 23
   }
 }

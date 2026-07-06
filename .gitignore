@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+scripts/.cache/
 
 # Dashboard (Node/Vite)
 dashboard/node_modules/

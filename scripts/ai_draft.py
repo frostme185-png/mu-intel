@@ -14,6 +14,9 @@ Chạy thử: python scripts/ai_draft.py reports/2026-07-06.json
 import os
 import sys
 import json
+from dotenv import load_dotenv
+
+load_dotenv()
 
 try:
     import anthropic
