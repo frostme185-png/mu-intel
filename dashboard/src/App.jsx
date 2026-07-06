@@ -8,6 +8,17 @@ const TIER_META = {
   4: { label: "Tier 4", desc: "Đồn đoán", key: "tier-4" },
 };
 
+const CATEGORY_META = {
+  transfer: { label: "Chuyển nhượng" },
+  match: { label: "Trận đấu" },
+  off_pitch: { label: "Khác" },
+};
+const CATEGORY_ORDER = ["transfer", "match", "off_pitch"];
+
+function storyId(story) {
+  return story.items?.[0]?.url ?? story.representative_title;
+}
+
 function useReportManifest() {
   const [manifest, setManifest] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -44,6 +55,28 @@ function useReport(filename) {
   return { report, loading };
 }
 
+function useReadState(selectedDate) {
+  const [readIds, setReadIds] = useState(new Set());
+
+  useEffect(() => {
+    if (!selectedDate) return;
+    const raw = localStorage.getItem(`mu-intel:read:${selectedDate}`);
+    setReadIds(new Set(raw ? JSON.parse(raw) : []));
+  }, [selectedDate]);
+
+  const toggleRead = (id) => {
+    setReadIds((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id);
+      else next.add(id);
+      localStorage.setItem(`mu-intel:read:${selectedDate}`, JSON.stringify([...next]));
+      return next;
+    });
+  };
+
+  return { readIds, toggleRead };
+}
+
 function TierBadge({ tier }) {
   const meta = TIER_META[tier] ?? { label: `Tier ${tier}`, desc: "", key: "tier-4" };
   return (
@@ -53,14 +86,19 @@ function TierBadge({ tier }) {
   );
 }
 
-function StoryCard({ story }) {
+function StoryCard({ story, isRead, onToggleRead }) {
   return (
-    <article className={`story-card tier-${story.min_tier}-border`}>
+    <article className={`story-card tier-${story.min_tier}-border ${isRead ? "is-read" : ""}`}>
       <div className="story-head">
         <TierBadge tier={story.min_tier} />
-        {story.corroboration_count > 1 && (
-          <span className="corroboration">×{story.corroboration_count} nguồn</span>
-        )}
+        <div className="story-head-right">
+          {story.corroboration_count > 1 && (
+            <span className="corroboration">×{story.corroboration_count} nguồn</span>
+          )}
+          <button className="read-toggle" onClick={onToggleRead}>
+            {isRead ? "✓ Đã đọc" : "Đánh dấu đã đọc"}
+          </button>
+        </div>
       </div>
       <h3 className="story-title">{story.representative_title}</h3>
       <div className="story-sources">
@@ -93,6 +131,7 @@ export default function App() {
   }, [manifest, selectedDate]);
 
   const { report, loading: reportLoading } = useReport(selectedDate);
+  const { readIds, toggleRead } = useReadState(selectedDate);
 
   const toggleTier = (tier) => {
     setActiveTiers((prev) => {
@@ -116,6 +155,17 @@ export default function App() {
       return true;
     });
   }, [report, activeTiers, search]);
+
+  const groupedStories = useMemo(() => {
+    const groups = { transfer: [], match: [], off_pitch: [] };
+    for (const story of filteredStories) {
+      const key = groups[story.category] ? story.category : "off_pitch";
+      groups[key].push(story);
+    }
+    return groups;
+  }, [filteredStories]);
+
+  const unreadCount = filteredStories.filter((s) => !readIds.has(storyId(s))).length;
 
   return (
     <div className="app">
@@ -174,13 +224,29 @@ export default function App() {
         {report && (
           <>
             <p className="story-count">
-              {filteredStories.length} / {report.stories.length} story
+              {filteredStories.length} / {report.stories.length} story · {unreadCount} chưa đọc
             </p>
-            <div className="story-list">
-              {filteredStories.map((story, i) => (
-                <StoryCard key={i} story={story} />
-              ))}
-            </div>
+            {CATEGORY_ORDER.map(
+              (cat) =>
+                groupedStories[cat].length > 0 && (
+                  <section key={cat} className="category-section">
+                    <h2 className="category-heading">
+                      {CATEGORY_META[cat].label}
+                      <span className="category-count">{groupedStories[cat].length}</span>
+                    </h2>
+                    <div className="story-list">
+                      {groupedStories[cat].map((story) => (
+                        <StoryCard
+                          key={storyId(story)}
+                          story={story}
+                          isRead={readIds.has(storyId(story))}
+                          onToggleRead={() => toggleRead(storyId(story))}
+                        />
+                      ))}
+                    </div>
+                  </section>
+                )
+            )}
           </>
         )}
       </main>

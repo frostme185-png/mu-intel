@@ -1,19 +1,37 @@
 """
 Thu thập tin tức/rumor từ RSS feeds đa tier (config/sources.yaml).
 
-Trạng thái: FUNCTIONAL SKELETON — logic fetch + parse RSS đã chạy được,
-cần Claude Code mở rộng:
-  - Verify và điền các RSS URL còn để null trong sources.yaml
-  - Xử lý feed lỗi/timeout mà không làm crash toàn bộ pipeline
-  - Lọc item theo khoảng thời gian (VD chỉ lấy tin trong 48h qua)
+Ngoài fetch + parse RSS cơ bản, module này còn:
+  - Lọc theo thời gian: chỉ giữ item trong TIME_WINDOW_HOURS giờ gần nhất,
+    tránh feed trả lại tin cũ mỗi lần chạy.
+  - Lọc độ liên quan: nguồn có scope "general" (feed tổng nhiều CLB, xem
+    config/sources.yaml) phải chứa từ khoá liên quan Man United mới được giữ.
+  - Dedup xuyên ngày: lưu danh sách URL đã từng thu thập vào
+    reports/.state/seen_items.json (rolling window SEEN_RETENTION_DAYS),
+    để report mỗi ngày chỉ chứa tin thực sự mới, không lặp lại tin hôm trước.
 """
 
 import os
+import json
 import yaml
 import feedparser
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), "..", "config", "sources.yaml")
+SEEN_STATE_PATH = os.path.join(
+    os.path.dirname(__file__), "..", "reports", ".state", "seen_items.json"
+)
+
+TIME_WINDOW_HOURS = 48
+SEEN_RETENTION_DAYS = 7
+
+RELEVANCE_KEYWORDS = [
+    "manchester united",
+    "man utd",
+    "man united",
+    "mufc",
+    "old trafford",
+]
 
 
 def load_sources():
@@ -21,8 +39,48 @@ def load_sources():
         return yaml.safe_load(f)
 
 
-def fetch_feed(source_name, rss_url, tier):
-    """Fetch và parse 1 RSS feed, trả về list item đã chuẩn hoá."""
+def is_recent(entry, window_hours=TIME_WINDOW_HOURS):
+    """Kiểm tra entry có nằm trong window_hours gần nhất không.
+    Nếu không xác định được thời gian publish, giữ lại (tránh loại nhầm)."""
+    parsed_time = entry.get("published_parsed") or entry.get("updated_parsed")
+    if not parsed_time:
+        return True
+    published_at = datetime(*parsed_time[:6], tzinfo=timezone.utc)
+    return datetime.now(timezone.utc) - published_at <= timedelta(hours=window_hours)
+
+
+def is_relevant_to_mufc(title, summary):
+    text = f"{title} {summary}".lower()
+    return any(keyword in text for keyword in RELEVANCE_KEYWORDS)
+
+
+def load_seen_state():
+    if not os.path.exists(SEEN_STATE_PATH):
+        return {}
+    with open(SEEN_STATE_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def prune_seen_state(seen_state, retention_days=SEEN_RETENTION_DAYS):
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=retention_days)).date()
+    pruned = {}
+    for url, first_seen_date in seen_state.items():
+        try:
+            if datetime.fromisoformat(first_seen_date).date() >= cutoff:
+                pruned[url] = first_seen_date
+        except ValueError:
+            continue
+    return pruned
+
+
+def save_seen_state(seen_state):
+    os.makedirs(os.path.dirname(SEEN_STATE_PATH), exist_ok=True)
+    with open(SEEN_STATE_PATH, "w", encoding="utf-8") as f:
+        json.dump(seen_state, f, ensure_ascii=False, indent=2)
+
+
+def fetch_feed(source_name, rss_url, tier, scope):
+    """Fetch và parse 1 RSS feed, trả về list item đã chuẩn hoá + lọc thời gian/độ liên quan."""
     items = []
     try:
         parsed = feedparser.parse(rss_url)
@@ -38,10 +96,19 @@ def fetch_feed(source_name, rss_url, tier):
             return items
 
         for entry in parsed.entries:
+            if not is_recent(entry):
+                continue
+
+            title = entry.get("title", "")
+            summary = entry.get("summary", "")
+
+            if scope == "general" and not is_relevant_to_mufc(title, summary):
+                continue
+
             items.append(
                 {
-                    "title": entry.get("title", ""),
-                    "summary": entry.get("summary", ""),
+                    "title": title,
+                    "summary": summary,
                     "url": entry.get("link", ""),
                     "source": source_name,
                     "tier": tier,
@@ -55,7 +122,8 @@ def fetch_feed(source_name, rss_url, tier):
 
 
 def collect_news():
-    """Entry point — duyệt qua toàn bộ tier trong sources.yaml, fetch từng feed."""
+    """Entry point — duyệt qua toàn bộ tier trong sources.yaml, fetch từng feed,
+    rồi lọc bớt item đã xuất hiện trong report của những ngày gần đây."""
     sources = load_sources()
     all_items = []
 
@@ -68,18 +136,29 @@ def collect_news():
             if not rss_url:
                 # Nguồn chưa có RSS verified - bỏ qua, không đoán URL
                 continue
-            items = fetch_feed(source["name"], rss_url, tier_num)
+            scope = source.get("scope", "team")
+            items = fetch_feed(source["name"], rss_url, tier_num, scope)
             all_items.extend(items)
+
+    seen_state = load_seen_state()
+    today_str = datetime.now(timezone.utc).date().isoformat()
+
+    new_items = []
+    for item in all_items:
+        if item["url"] in seen_state:
+            continue
+        new_items.append(item)
+        seen_state[item["url"]] = today_str
+
+    save_seen_state(prune_seen_state(seen_state))
 
     return {
         "collected_at": datetime.now(timezone.utc).isoformat(),
-        "items": all_items,
+        "items": new_items,
     }
 
 
 if __name__ == "__main__":
-    import json
-
     result = collect_news()
-    print(f"Thu thập được {len(result['items'])} tin.")
+    print(f"Thu thập được {len(result['items'])} tin mới (đã lọc thời gian/độ liên quan/trùng ngày trước).")
     print(json.dumps(result, indent=2, ensure_ascii=False)[:2000])

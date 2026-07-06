@@ -34,6 +34,9 @@ Tin tức đa tier (RSS)      ─┘                                            
 3. **Giữ cả nguồn tier thấp (forum, tabloid).** Tín hiệu quan trọng nhất không phải "nguồn có đáng tin không" mà là "bao nhiêu nguồn độc lập cùng đưa 1 tin" — đây là lý do bước dedup/cross-reference quan trọng hơn bước lọc bỏ nguồn kém.
 4. **Hosting = GitHub Actions + Cloudflare Pages, không tự dựng backend server.** Vì đây là tool cá nhân, 1 người dùng, không cần real-time — server riêng là overkill, tốn maintenance/chi phí không cần thiết.
 5. **Report lưu dạng JSON, commit thẳng vào repo** (không dùng database riêng) — tận dụng git làm nơi lưu trữ + version history có sẵn.
+6. **State xuyên ngày (cross-day dedup) cũng commit vào repo**, không dùng cache bên ngoài. `reports/.state/seen_items.json` lưu URL đã thu thập trong `SEEN_RETENTION_DAYS` (7 ngày) gần nhất, để `collect_news.py` không lặp lại tin đã có trong report ngày trước. Vì GitHub Actions runner không có state riêng giữa các lần chạy, mọi state cần persist đều phải nằm trong file commit vào repo (giống report) — workflow `daily-report.yml` đã `git add reports/` nên tự động bắt được luôn.
+7. **Dedup dùng `rapidfuzz.fuzz.token_set_ratio`, không dùng difflib.** Các báo đặt tiêu đề khác nhau cho cùng 1 tin (khác thứ tự từ, thêm tiền tố "Man Utd news:"...) nên cần thuật toán bỏ qua thứ tự từ. Ngưỡng `SIMILARITY_THRESHOLD = 70` (thang 0-100) được calibrate bằng cách so sánh cặp tiêu đề thật/giả trong report — xem comment đầu file `scripts/aggregate.py`. Nếu vẫn miss nhiều cặp trùng, cân nhắc lên embedding.
+8. **Category (transfer/match/off_pitch) là heuristic keyword, không phải AI.** Chỉ cần đủ tốt để nhóm hiển thị trên dashboard, không cần chính xác tuyệt đối — tránh phình to thành NLP pipeline riêng.
 
 ## Hệ thống phân loại độ tin cậy (tier)
 
@@ -68,12 +71,12 @@ Nguồn mới/chưa biết mặc định vào Tier 4 cho đến khi được rev
 
 ## Việc CHƯA làm / cần Claude Code implement tiếp
 
-- [ ] Viết logic thật cho `scripts/collect_match_data.py` (hiện tại là skeleton có sẵn cấu trúc gọi API)
-- [ ] Viết logic thật cho `scripts/collect_news.py` (fetch RSS, parse, chuẩn hoá format)
-- [ ] Hoàn thiện `scripts/classify_sources.py` (map domain → tier, xử lý nguồn không có trong bảng)
-- [ ] Hoàn thiện `scripts/aggregate.py` (fuzzy match tiêu đề/nội dung để nhóm tin trùng nhau giữa các nguồn)
-- [ ] Verify các RSS URL trong `config/sources.yaml` — chỉ URL BBC Sport MUFC đã được xác nhận hoạt động, các URL khác là placeholder cần kiểm tra lại trước khi dùng thật
-- [ ] Build dashboard React thật (hiện tại chỉ có skeleton Vite trống)
+- [x] Viết logic thật cho `scripts/collect_match_data.py` — lọc fixture recent/upcoming, chuẩn hoá player stats, retry/backoff + cache local
+- [x] Viết logic thật cho `scripts/collect_news.py` — fetch RSS, parse, chuẩn hoá, lọc thời gian (48h), lọc độ liên quan cho feed tổng, dedup xuyên ngày
+- [ ] Hoàn thiện `scripts/classify_sources.py` — vẫn chỉ là tool phụ để review domain lạ thủ công, chưa wire vào pipeline chính (không bắt buộc)
+- [x] Hoàn thiện `scripts/aggregate.py` — dùng `rapidfuzz.fuzz.token_set_ratio` thay difflib, thêm phân loại category (transfer/match/off_pitch)
+- [x] Verify RSS URL trong `config/sources.yaml` — đã xác nhận thật cho BBC, MEN, Mirror, Caught Offside, Football Insider, r/reddevils. Xác nhận KHÔNG có RSS công khai cho club official, Fabrizio Romano, David Ornstein, TEAMtalk (đã thử nhiều path, xem comment trong file)
+- [x] Build dashboard React — list theo ngày, filter tier, search, group theo category, link nguồn click được, đánh dấu đã đọc (localStorage)
 - [ ] Set up GitHub Secrets: `API_FOOTBALL_KEY`, (optional) `ANTHROPIC_API_KEY`
 - [ ] Kết nối repo với Cloudflare Pages (làm thủ công qua dashboard Cloudflare, không thể tự động qua Claude Code)
 

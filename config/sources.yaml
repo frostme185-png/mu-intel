@@ -6,6 +6,11 @@
 # (kiểm tra ngày 2026-07-06 bằng cách fetch trực tiếp URL và xem nội dung XML trả về).
 # Các feed đánh dấu "verified: false" nghĩa là không tìm được RSS thật cho nguồn đó
 # (paywall, chỉ publish qua X, hoặc site không có RSS) — xem comment từng dòng.
+#
+# "scope" cho collect_news.py biết feed đã lọc riêng MUFC chưa:
+#   - "team": feed chỉ chứa tin MUFC (tag riêng, hoặc cả nguồn chỉ nói về MUFC) -> giữ nguyên
+#   - "general": feed tổng nhiều CLB (không lọc riêng) -> phải chạy qua bộ lọc từ khoá
+#     liên quan Man United trước khi đưa vào report, tránh lẫn tin CLB khác
 
 tier_0:
   description: "Nguồn chính thức tuyệt đối — luôn đúng, không cần cross-reference"
@@ -24,6 +29,7 @@ tier_1:
       website: "https://www.bbc.co.uk/sport/football/teams/manchester-united"
       rss: "https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml"
       verified: true
+      scope: "team"
     - name: "David Ornstein / The Athletic"
       type: "journalist"
       website: "https://theathletic.com"
@@ -43,11 +49,13 @@ tier_2:
       website: "https://www.manchestereveningnews.co.uk"
       rss: "https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc/rss.xml" # feed theo tag MUFC riêng, đã fetch xác nhận có item mới (Jul 2026), không phải feed tổng
       verified: true
+      scope: "team"
     - name: "Mirror Football - Man United"
       type: "outlet"
       website: "https://www.mirror.co.uk/sport/football"
       rss: "https://www.mirror.co.uk/all-about/manchester-united-fc/rss.xml" # feed theo tag MUFC riêng (tương tự MEN, cùng nền Reach plc), đã fetch xác nhận có item mới (Jul 2026)
       verified: true
+      scope: "team"
 
 tier_3:
   description: "Không đáng tin nếu đứng một mình, thiên clickbait"
@@ -57,16 +65,19 @@ tier_3:
       website: "https://www.caughtoffside.com"
       rss: "https://www.caughtoffside.com/feed/" # feed tổng (không lọc riêng MUFC) - đã thử tag /tag/manchester-united/feed/ nhưng feed đó không cập nhật từ 2026-02-18 nên dùng feed tổng, item MUFC vẫn xuất hiện lẫn trong đó
       verified: true
+      scope: "general"
     - name: "Football Insider"
       type: "aggregator"
       website: "https://www.footballinsider247.com"
       rss: "https://www.footballinsider247.com/feed/" # feed tổng (không lọc riêng MUFC), đã fetch xác nhận có item mới (Jul 2026); không tìm được feed riêng theo team
       verified: true
+      scope: "general"
     - name: "TEAMtalk"
       type: "aggregator"
       website: "https://www.teamtalk.com"
       rss: null # đã thử nhiều path (/feed, /rss.xml, /manchester-united/feed, /rss/manchester-united...) đều 404 hoặc redirect về trang bài viết thường, site không có RSS công khai
       verified: false
+      scope: "general"
 
 tier_4:
   description: "Không đáng tin, câu traffic - vẫn thu thập vì đôi khi rumor xuất hiện sớm nhất ở đây"
@@ -76,6 +87,7 @@ tier_4:
       website: "https://www.reddit.com/r/reddevils"
       rss: "https://www.reddit.com/r/reddevils/.rss"
       verified: true # đã fetch xác nhận trả về Atom feed hợp lệ với entry mới (Jul 2026); lưu ý Reddit rate-limit khá gắt (429) theo IP, script thu thập nên có retry/backoff
+      scope: "team"
 
 # Nguồn mới phát hiện trong quá trình thu thập mà không có trong bảng này
 # -> mặc định xếp vào tier_4 cho đến khi được review thủ công và thêm vào đây.

@@ -1,54 +1,40 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T08:51:18.336188+00:00",
+  "generated_at": "2026-07-06T09:17:35.634724+00:00",
   "match_data": {
-    "collected_at": "2026-07-06T08:51:09.825608+00:00",
+    "collected_at": "2026-07-06T09:17:27.901272+00:00",
     "recent_fixture": null,
     "recent_fixture_player_stats": [],
     "upcoming_fixture": null
   },
   "stories": [
     {
-      "representative_title": "Manchester United",
+      "representative_title": "Man United latest: Ayyoub Bouaddi stance clear as new £50million transfer target emerges",
       "items": [
         {
-          "title": "Manchester United",
-          "summary": "Gaz and Jay discuss new stadium plans and why Mainoo should be starting for England.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0nvqnzx?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport - Manchester United",
-          "tier": 1,
-          "published_at": "Mon, 29 Jun 2026 11:45:00 GMT"
+          "title": "Man United latest: Ayyoub Bouaddi stance clear as new £50million transfer target emerges",
+          "summary": "Manchester United have been linked with various stars during the summer transfer window, including Lille prospect Ayyoub Bouaddi",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-ayyoub-bouaddi-34239947",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 6 Jul 2026 04:30:00 +0000"
         },
         {
-          "title": "Manchester United",
-          "summary": "Marcus Rashford insists England will improve after topping Group L.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0nvplp6?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport - Manchester United",
-          "tier": 1,
-          "published_at": "Mon, 29 Jun 2026 08:15:23 GMT"
-        },
-        {
-          "title": "Manchester United",
-          "summary": "Man Utd's Matheus Cunha on scoring in Brazil's 3-0 win over Scotland at the World Cup.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0ntzp2g?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport - Manchester United",
-          "tier": 1,
-          "published_at": "Thu, 25 Jun 2026 07:49:50 GMT"
-        },
-        {
-          "title": "Manchester United",
-          "summary": "Gaz and Joe discuss Marcus Rashford's future and Man Utd's Premier League fixtures.",
-          "url": "https://www.bbc.co.uk/sounds/play/p0ntf7nk?at_medium=RSS&at_campaign=rss",
-          "source": "BBC Sport - Manchester United",
-          "tier": 1,
-          "published_at": "Mon, 22 Jun 2026 12:02:00 GMT"
+          "title": "Man Utd news: Fresh £50million transfer target emerges as Ayyoub Bouaddi warning received",
+          "summary": "Manchester United have been linked with several players throughout the summer transfer window, including Lille midfielder Ayyoub Bouaddi",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-ayyoub-bouaddi-37389952",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 6 Jul 2026 03:30:00 +0000"
         }
       ],
       "sources": [
-        "BBC Sport - Manchester United"
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
       ],
-      "min_tier": 1,
-      "corroboration_count": 1
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
     },
     {
       "representative_title": "Ederson to Man United transfer truth after deal collapse claims",
@@ -75,7 +61,64 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 2
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wimbledon star pays tribute to Man United ace Matheus Cunha with World Cup move",
+      "items": [
+        {
+          "title": "Wimbledon star pays tribute to Man United ace Matheus Cunha with World Cup move",
+          "summary": "Manchester United forward Matheus Cunha has been showing his class during the World Cup this summer and Wimbledon star Flavio Cobolli has now paid tribute",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mateus-cunha-wimbledon-34239741",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 5 Jul 2026 14:12:39 +0000"
+        },
+        {
+          "title": "Cobolli's tribute to Cunha at Wimbledon | Manchester United",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/The-Black-Angel\"> /u/The-Black-Angel </a> <br /> <span><a href=\"https://www.manutd.com/en/news/flavio-cobolli-tribute-to-matheus-cunha-at-wimbledon\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unxg4q/cobollis_tribute_to_cunha_at_wimbledon_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unxg4q/cobollis_tribute_to_cunha_at_wimbledon_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-05T09:07:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Transfer decision saw Mexico's top scorer and Man United legend break down in tears",
+      "items": [
+        {
+          "title": "Transfer decision saw Mexico's top scorer and Man United legend break down in tears",
+          "summary": "One Manchester United alumnus was reduced to tears after learning he was no longer wanted by a former employer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-transfer-mexico-hernandez-34230091",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 5 Jul 2026 07:30:00 +0000"
+        },
+        {
+          "title": "Mexico's top scorer broke down crying over transfer decision after Man Utd exit",
+          "summary": "Following the curtain call on his Manchester United career, Mexico's all-time leading goalscorer broke down in tears after realising his European dream was over",
+          "url": "https://www.mirror.co.uk/sport/football/news/mexico-world-cup-man-utd-37380057",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 5 Jul 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
     },
     {
       "representative_title": "Michael Carrick's Marcus Rashford stance as Kobbie Mainoo situation offers Man United hope",
@@ -102,7 +145,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 2
+      "corroboration_count": 2,
+      "category": "transfer"
     },
     {
       "representative_title": "Man United transfer news LIVE: Andrey Santos 'contact', Rashford 'talks', Tchouameni, Berge latest",
@@ -120,7 +164,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Matheus Cunha releases heartbreaking statement as Man United star sent home from World Cup",
@@ -138,7 +183,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "The Manchester United players expected back for Michael Carrick's first day of pre-season training",
@@ -156,25 +202,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man United latest: Ayyoub Bouaddi stance clear as new £50million transfer target emerges",
-      "items": [
-        {
-          "title": "Man United latest: Ayyoub Bouaddi stance clear as new £50million transfer target emerges",
-          "summary": "Manchester United have been linked with various stars during the summer transfer window, including Lille prospect Ayyoub Bouaddi",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-ayyoub-bouaddi-34239947",
-          "source": "Manchester Evening News - MUFC",
-          "tier": 2,
-          "published_at": "Mon, 6 Jul 2026 04:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Manchester Evening News - MUFC"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "Manchester United could face familiar problem after adding Andrey Santos to transfer wishlist",
@@ -192,25 +221,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Wimbledon star pays tribute to Man United ace Matheus Cunha with World Cup move",
-      "items": [
-        {
-          "title": "Wimbledon star pays tribute to Man United ace Matheus Cunha with World Cup move",
-          "summary": "Manchester United forward Matheus Cunha has been showing his class during the World Cup this summer and Wimbledon star Flavio Cobolli has now paid tribute",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mateus-cunha-wimbledon-34239741",
-          "source": "Manchester Evening News - MUFC",
-          "tier": 2,
-          "published_at": "Sun, 5 Jul 2026 14:12:39 +0000"
-        }
-      ],
-      "sources": [
-        "Manchester Evening News - MUFC"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Kai Rooney and Jacey Carrick sign Man United deals as eight agree contracts",
@@ -228,7 +240,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "The Matheus Cunha role change that could hand Marcus Rashford another Manchester United chance",
@@ -246,7 +259,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "Full confirmed list of Man United ins and outs this summer as first sale confirmed",
@@ -264,7 +278,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Why Lisandro Martinez's moment of World Cup magic offers Man United clue as Lionel Messi benefits",
@@ -282,25 +297,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Transfer decision saw Mexico's top scorer and Man United legend break down in tears",
-      "items": [
-        {
-          "title": "Transfer decision saw Mexico's top scorer and Man United legend break down in tears",
-          "summary": "One Manchester United alumnus was reduced to tears after learning he was no longer wanted by a former employer",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-transfer-mexico-hernandez-34230091",
-          "source": "Manchester Evening News - MUFC",
-          "tier": 2,
-          "published_at": "Sun, 5 Jul 2026 07:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Manchester Evening News - MUFC"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "Man United latest: Marcus Rashford addresses future as 'number one' target named",
@@ -318,7 +316,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Marcus Rashford U-turn, Sandro Tonali theory, midfield nightmare - Man United transfer questions answered",
@@ -336,7 +335,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Man United signed world class striker, World Cup winner and ex-Barcelona flop as free agents",
@@ -354,7 +354,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Marcus Rashford vs Matheus Cunha: Man United left wing verdict after transfer update",
@@ -372,7 +373,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Lisandro Martinez is proving Manchester United right",
@@ -390,7 +392,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "Marcus Rashford exit latest: Man United stance, Barcelona nightmare, transfer statement",
@@ -408,7 +411,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Marcus Rashford has told Man United what they needed to hear",
@@ -426,7 +430,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "Tottenham's £85m Mateus Fernandes transfer might have ruined another Man United deal",
@@ -444,7 +449,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Man United plot instant Tottenham transfer revenge and 'make checks' on £85m Arsenal target",
@@ -462,61 +468,8 @@
         "Manchester Evening News - MUFC"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Marcus Rashford sends 'very clear' transfer message to Manchester United",
-      "items": [
-        {
-          "title": "Marcus Rashford sends 'very clear' transfer message to Manchester United",
-          "summary": "Man United forward Marcus Rashford has spoken about his future while away with England at the World Cup.",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/marcus-rashford-sends-very-clear-34236170",
-          "source": "Manchester Evening News - MUFC",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 07:57:03 +0000"
-        }
-      ],
-      "sources": [
-        "Manchester Evening News - MUFC"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Argentinian media single out Lisandro Martinez for Argentina as Man United get food for thought",
-      "items": [
-        {
-          "title": "Argentinian media single out Lisandro Martinez for Argentina as Man United get food for thought",
-          "summary": "Lisandro Martinez played every minute in Argentina's thrilling victory over Cape Verde in the World Cup 2026 knockout stages",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-martinez-world-cup-34236086",
-          "source": "Manchester Evening News - MUFC",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 07:28:01 +0000"
-        }
-      ],
-      "sources": [
-        "Manchester Evening News - MUFC"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man United transfer news RECAP: Carlos Baleba deal on, Summerville £50m talks, Leao meeting",
-      "items": [
-        {
-          "title": "Man United transfer news RECAP: Carlos Baleba deal on, Summerville £50m talks, Leao meeting",
-          "summary": "The latest Manchester United transfer news with updates on Crysencio Summerville, Marcus Rashford, Felix Nmecha, Andre Onana, Sandro Tonali, Ederson, Aurelien Tchouameni and much more.",
-          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34222062",
-          "source": "Manchester Evening News - MUFC",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 06:53:24 +0000"
-        }
-      ],
-      "sources": [
-        "Manchester Evening News - MUFC"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Transfer news LIVE: Man Utd line up £86m deal, Thuram to Liverpool, Rashford latest",
@@ -534,25 +487,8 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man Utd news: Fresh £50million transfer target emerges as Ayyoub Bouaddi warning received",
-      "items": [
-        {
-          "title": "Man Utd news: Fresh £50million transfer target emerges as Ayyoub Bouaddi warning received",
-          "summary": "Manchester United have been linked with several players throughout the summer transfer window, including Lille midfielder Ayyoub Bouaddi",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-ayyoub-bouaddi-37389952",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Mon, 6 Jul 2026 03:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Man Utd handed Andrey Santos green light as Chelsea make transfer stance clear",
@@ -570,7 +506,8 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Wimbledon star explains why he copied Matheus Cunha's Man Utd goal celebration",
@@ -588,7 +525,8 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
       "representative_title": "Napoli make radical Scott McTominay transfer decision as future clarified",
@@ -606,7 +544,8 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Man Utd, Arsenal and Liverpool sent strong warning over signing World Cup breakout star",
@@ -624,25 +563,8 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Mexico's top scorer broke down crying over transfer decision after Man Utd exit",
-      "items": [
-        {
-          "title": "Mexico's top scorer broke down crying over transfer decision after Man Utd exit",
-          "summary": "Following the curtain call on his Manchester United career, Mexico's all-time leading goalscorer broke down in tears after realising his European dream was over",
-          "url": "https://www.mirror.co.uk/sport/football/news/mexico-world-cup-man-utd-37380057",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Sun, 5 Jul 2026 06:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Man Utd signed World Cup hero, legendary striker and Lionel Messi's former team-mate for free",
@@ -660,7 +582,8 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Man Utd news: Michael Carrick’s top target emerges as Marcus Rashford speaks out",
@@ -678,7 +601,8 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Arsenal told transfer target is 'priceless' as Newcastle and Man Utd eye alternative",
@@ -696,295 +620,27 @@
         "Mirror Football - Man United"
       ],
       "min_tier": 2,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
-      "representative_title": "Marcus Rashford makes new and clear Man Utd transfer statement - 'I won't deal with it'",
+      "representative_title": "New: Chelsea discuss possible swap options in race to sign Man United target",
       "items": [
         {
-          "title": "Marcus Rashford makes new and clear Man Utd transfer statement - 'I won't deal with it'",
-          "summary": "Marcus Rashford is still featuring for England at the World Cup, but things are still uncertain in regards to his club future",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/marcus-rashford-man-utd-england-37386519",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 07:58:13 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Transfer news: Granit Xhaka to Chelsea decision made, Arsenal move hijacked",
-      "items": [
-        {
-          "title": "Transfer news: Granit Xhaka to Chelsea decision made, Arsenal move hijacked",
-          "summary": "The latest transfer news and rumours with updates on Bradley Barcola, Crysencio Summerville, Eduardo Camavinga, Granit Xhaka, Sandro Tonali and much more",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-summer-deals-37375773",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 06:19:52 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "'I was forced out of Man Utd but boss wanted me to stay – now I'm in last 16 of World Cup'",
-      "items": [
-        {
-          "title": "'I was forced out of Man Utd but boss wanted me to stay – now I'm in last 16 of World Cup'",
-          "summary": "One former Manchester United star who won the FA Cup during his time in England has recovered from a harsh exit and is now starring at the World Cup",
-          "url": "https://www.mirror.co.uk/sport/football/news/world-cup-man-utd-morocco-37378065",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 05:00:00 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Marcus Rashford showed true colours mentioning Liverpool while discussing transfer options",
-      "items": [
-        {
-          "title": "Marcus Rashford showed true colours mentioning Liverpool while discussing transfer options",
-          "summary": "Marcus Rashford's comments offered a clue regarding where his future lies",
-          "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-transfer-37377576",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 04:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man Utd news: Rafael Leao transfer agreement reached as new contract offer accepted",
-      "items": [
-        {
-          "title": "Man Utd news: Rafael Leao transfer agreement reached as new contract offer accepted",
-          "summary": "Manchester United could make a step towards acquiring new blood after the latest update on their reported target",
-          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rafael-leao-transfer-37384590",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Sat, 4 Jul 2026 03:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man Utd confirm Andre Onana exit as Michael Carrick's transfer plan takes shape",
-      "items": [
-        {
-          "title": "Man Utd confirm Andre Onana exit as Michael Carrick's transfer plan takes shape",
-          "summary": "Manchester United are yet to make a signing since the summer transfer window opened, but Michael Carrick has moved one step closer after the departure of Andre Onana",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-andre-onana-trabzonspor-37384547",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Fri, 3 Jul 2026 15:13:35 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "'I snubbed Man Utd for Tottenham just like Mateus Fernandes - I massively regret it'",
-      "items": [
-        {
-          "title": "'I snubbed Man Utd for Tottenham just like Mateus Fernandes - I massively regret it'",
-          "summary": "Mateus Fernandes has joined Tottenham from West Ham in an £85million deal, despite being pursued by Manchester United",
-          "url": "https://www.mirror.co.uk/sport/football/news/mateus-fernandes-man-utd-tottenham-37382517",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Fri, 3 Jul 2026 10:37:09 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man Utd dream midfield next season as Michael Carrick signs £160m duo after transfer blows",
-      "items": [
-        {
-          "title": "Man Utd dream midfield next season as Michael Carrick signs £160m duo after transfer blows",
-          "summary": "Manchester United are re-assessing their position in the transfer market after missing out on several of their top targets, including Mateus Fernandes and Elliot Anderson",
-          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-dream-midfield-signings-37378149",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Fri, 3 Jul 2026 04:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man Utd news: Adam Wharton and Carlos Baleba verdicts reached as double transfer planned",
-      "items": [
-        {
-          "title": "Man Utd news: Adam Wharton and Carlos Baleba verdicts reached as double transfer planned",
-          "summary": "Manchester United are yet to get rolling in the transfer market but will need to strengthen ahead of a Champions League campaign",
-          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-midfield-targets-transfers-37379094",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Fri, 3 Jul 2026 03:30:00 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man Utd closing in on first summer transfer after contract discussions break down",
-      "items": [
-        {
-          "title": "Man Utd closing in on first summer transfer after contract discussions break down",
-          "summary": "Manchester United are reportedly close to signing the teenager on a free transfer.",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-contract-deal-37379378",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Thu, 2 Jul 2026 15:49:31 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Man Utd midfield transfer plan after sticking to their guns over Mateus Fernandes",
-      "items": [
-        {
-          "title": "Man Utd midfield transfer plan after sticking to their guns over Mateus Fernandes",
-          "summary": "Manchester United have missed out on Mateus Fernandes and Elliot Anderson this summer, forcing a rethink in their midfield transfer search after they refused to match the £85m Tottenham spent on Fernandes",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-midfield-targets-latest-37377061",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Thu, 2 Jul 2026 11:03:12 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Mateus Fernandes' £85m Tottenham transfer confirmed as he breaks silence after Man Utd miss out",
-      "items": [
-        {
-          "title": "Mateus Fernandes' £85m Tottenham transfer confirmed as he breaks silence after Man Utd miss out",
-          "summary": "Portugal midfielder Mateus Fernandes has left West Ham to complete a permanent move to London rivals Tottenham Hotspur following the Hammers' relegation to the Championship",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/fernandes-transfer-tottenham-man-utd-37371764",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Thu, 2 Jul 2026 09:05:20 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Transfer news: Sandro Tonali £100m move agreed, Arsenal confirm deals, Man Utd latest",
-      "items": [
-        {
-          "title": "Transfer news: Sandro Tonali £100m move agreed, Arsenal confirm deals, Man Utd latest",
-          "summary": "The latest transfer news this summer, with updates on Arsenal, Chelsea, Liverpool, Manchester City, Manchester United, Tottenham Hotspur and more clubs throughout the day",
-          "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37355449",
-          "source": "Mirror Football - Man United",
-          "tier": 2,
-          "published_at": "Thu, 2 Jul 2026 06:12:20 +0000"
-        }
-      ],
-      "sources": [
-        "Mirror Football - Man United"
-      ],
-      "min_tier": 2,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "“He did everything” – Ex-England man singles out “fantastic” star who’s going to get the team over the line",
-      "items": [
-        {
-          "title": "“He did everything” – Ex-England man singles out “fantastic” star who’s going to get the team over the line",
-          "summary": "<p>Former England striker Emile Heskey has singled out Jude Bellingham for praise after his superb performance in the win over Mexico. The Three Lions showed they mean business at this World Cup with an impressive 3-2 win against the co-hosts, who had won all their games without conceding a goal until last night&#8217;s clash. Bellingham [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/jude-bellingham-england-mexico-praise/\">&#8220;He did everything&#8221; &#8211; Ex-England man singles out &#8220;fantastic&#8221; star who&#8217;s going to get the team over the line</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/jude-bellingham-england-mexico-praise/",
+          "title": "New: Chelsea discuss possible swap options in race to sign Man United target",
+          "summary": "<p>Chelsea are reportedly interested in West Ham United winger Crysencio Summerville, along with clubs like Manchester United and Fulham. The Blues have seemingly already had some contact with West Ham over this potential deal, which has led to mention of players who could move in the opposite direction as part of any negotiation. That&#8217;s according [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/chelsea-discuss-crysencio-summerville-swap-transfer/\">New: Chelsea discuss possible swap options in race to sign Man United target</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/06/chelsea-discuss-crysencio-summerville-swap-transfer/",
           "source": "Caught Offside",
           "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 08:26:49 +0000"
+          "published_at": "Mon, 06 Jul 2026 08:54:06 +0000"
         }
       ],
       "sources": [
         "Caught Offside"
       ],
       "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Club statement next: “All documents are signed” for major Tottenham deal to go through – Fabrizio Romano",
-      "items": [
-        {
-          "title": "Club statement next: “All documents are signed” for major Tottenham deal to go through – Fabrizio Romano",
-          "summary": "<p>Tottenham are reportedly now preparing an official club statement to confirm the signing of Sandro Tonali as all documents for the deal have been signed off. That&#8217;s according to Fabrizio Romano in an update on X this morning, with the Italian journalist confirming that everything is done for Tonali to join Spurs from Newcastle United. [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/tottenham-to-announce-sandro-tonali-transfer/\">Club statement next: &#8220;All documents are signed&#8221; for major Tottenham deal to go through &#8211; Fabrizio Romano</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/tottenham-to-announce-sandro-tonali-transfer/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 08:08:58 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Sources: Liverpool face major decision as winger valued at £50m becomes hot property",
-      "items": [
-        {
-          "title": "Sources: Liverpool face major decision as winger valued at £50m becomes hot property",
-          "summary": "<p>Liverpool’s search for another wide attacker could bring them back to Crysencio Summerville, with the West Ham winger becoming one of the most discussed names of the summer window. The Dutch forward has attracted interest after an impressive campaign and a strong showing at the 2026 World Cup, with West Ham now valuing him at [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/sources-liverpool-face-major-decision-winger-demand/\">Sources: Liverpool face major decision as winger valued at £50m becomes hot property</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/sources-liverpool-face-major-decision-winger-demand/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 05:44:46 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "22-year-old willing to leave Chelsea for Man United move to get more playing time",
@@ -1002,61 +658,8 @@
         "Caught Offside"
       ],
       "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Arsenal and Liverpool learn fresh Bradley Barcola twist at Paris Saint-Germain",
-      "items": [
-        {
-          "title": "Arsenal and Liverpool learn fresh Bradley Barcola twist at Paris Saint-Germain",
-          "summary": "<p>Bradley Barcola’s future at Paris Saint-Germain is becoming one of the more interesting stories of the summer, with Arsenal and Liverpool both keeping a close eye on the France international. According to talkSPORT, Barcola’s position in Paris is not fully settled, despite PSG not actively pushing him towards the exit door. The 23-year-old remains highly [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/arsenal-liverpool-learn-bradley-barcola-twist/\">Arsenal and Liverpool learn fresh Bradley Barcola twist at Paris Saint-Germain</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/arsenal-liverpool-learn-bradley-barcola-twist/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 05:01:24 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Carlo Ancelotti makes Vini Jr penalty claim that is expected to raise some eyebrows",
-      "items": [
-        {
-          "title": "Carlo Ancelotti makes Vini Jr penalty claim that is expected to raise some eyebrows",
-          "summary": "<p>Brazil’s World Cup dream is over after a painful 2-1 defeat to Norway in the round of 16, and much of the post-match discussion has centred on the penalty that got away. Carlo Ancelotti’s side had the chance to take control early in the game, but Bruno Guimarães saw his spot-kick saved by Norway goalkeeper [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/carlo-ancelotti-makes-vini-jr-penalty-claim/\">Carlo Ancelotti makes Vini Jr penalty claim that is expected to raise some eyebrows</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/carlo-ancelotti-makes-vini-jr-penalty-claim/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 04:47:34 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Newcastle United have World Cup star on radar but  €60m demand is made by his club",
-      "items": [
-        {
-          "title": "Newcastle United have World Cup star on radar but  €60m demand is made by his club",
-          "summary": "<p>Newcastle United have identified Freiburg midfielder Johan Manzambi as one of the most exciting names on their summer radar after his impressive performances for Switzerland at the World Cup. According to journalist Florian Plettenberg, Newcastle appreciate the 20-year-old highly and have already been informed of the key financial details around a possible deal. DOWNLOAD THE [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/newcastle-united-world-cup-star-on-radar/\">Newcastle United have World Cup star on radar but  €60m demand is made by his club</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/newcastle-united-world-cup-star-on-radar/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 04:38:00 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Man United still expected to complete deal for Brazilian star as medical plan becomes clear",
@@ -1074,187 +677,8 @@
         "Caught Offside"
       ],
       "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Positive talks: Tottenham involved in talks with wing wizard on Arsenal radar",
-      "items": [
-        {
-          "title": "Positive talks: Tottenham involved in talks with wing wizard on Arsenal radar",
-          "summary": "<p>Tottenham’s summer rebuild could be about to move into another exciting phase, with Rafael Leão, Savinho and Antonio Nusa all reportedly under consideration as attacking targets. According to a source on X, Spurs have recently held positive talks with Leão’s camp as they continue to explore options for a new wide forward. DOWNLOAD THE OFFICIAL [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/positive-talks-tottenham-involved-in-talks-wing-wizard/\">Positive talks: Tottenham involved in talks with wing wizard on Arsenal radar</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/positive-talks-tottenham-involved-in-talks-wing-wizard/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 04:28:54 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "England player ratings vs Mexico: Bellingham shines, Quansah sent off & Pickford shows quality",
-      "items": [
-        {
-          "title": "England player ratings vs Mexico: Bellingham shines, Quansah sent off & Pickford shows quality",
-          "summary": "<p>England just pulled off one of their grittiest knockout victories in recent history, surviving a hostile Estadio Azteca to edge co-hosts Mexico 3-2. Under Thomas Tuchel, this team showed a resilient spine that historical England squads completely lacked. DOWNLOAD THE OFFICIAL CAUGHTOFFSIDE APP FOR ALL THE LATEST &#38; BREAKING UPDATES – STRAIGHT TO YOUR PHONE! [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/england-player-ratings-mexico-bellingham-shines/\">England player ratings vs Mexico: Bellingham shines, Quansah sent off &#038; Pickford shows quality</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/england-player-ratings-mexico-bellingham-shines/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 04:21:56 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "'Astonishing' - Ex-refs chief suggests what England and World Cup teams should do in response to ‘totally unfair’ Folarin Balogun U-turn",
-      "items": [
-        {
-          "title": "'Astonishing' - Ex-refs chief suggests what England and World Cup teams should do in response to ‘totally unfair’ Folarin Balogun U-turn",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/match/astonishing-ex-refs-chief-suggests-what-england-and-world-cup-teams-should-do-in-response-to-totally-unfair-folarin-balogun-u-turn",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 06:37:46 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Elliot Anderson: Man City new boy is what England have 'been missing for the past decade'",
-      "items": [
-        {
-          "title": "Elliot Anderson: Man City new boy is what England have 'been missing for the past decade'",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/nottingham-forest/elliot-anderson-man-city-new-boy-is-what-england-have-been-missing-for-the-past-decade",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 06:33:12 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Supercomputer predicts England's chances of winning World Cup after famous win vs Mexico",
-      "items": [
-        {
-          "title": "Supercomputer predicts England's chances of winning World Cup after famous win vs Mexico",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/match/supercomputer-predicts-englands-chances-of-winning-world-cup-after-famous-win-vs-mexico",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 06:32:04 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Dan Burn hailed 'brilliant' as his eyecatching stats from England win vs Mexico revealed",
-      "items": [
-        {
-          "title": "Dan Burn hailed 'brilliant' as his eyecatching stats from England win vs Mexico revealed",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/newcastle-united/dan-burn-hailed-brilliant-as-his-eyecatching-stats-from-england-win-vs-mexico-revealed",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 06:15:00 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Bruno Guimaraes: Brazilian media blast Newcastle star as 'worst player on the pitch' vs Norway",
-      "items": [
-        {
-          "title": "Bruno Guimaraes: Brazilian media blast Newcastle star as 'worst player on the pitch' vs Norway",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/newcastle-united/bruno-guimaraes-brazilian-media-blast-newcastle-star-as-worst-player-on-the-pitch-vs-norway",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 05:40:00 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "'VAR should not have intervened' in controversial moment in England win vs Mexico - ex-refs chief",
-      "items": [
-        {
-          "title": "'VAR should not have intervened' in controversial moment in England win vs Mexico - ex-refs chief",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/match/var-should-not-have-intervened-in-controversial-moment-in-england-win-vs-mexico-ex-refs-chief",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 05:24:53 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Antonio Nusa: How Norwegian media reacted to Aston Villa target's display vs Brazil",
-      "items": [
-        {
-          "title": "Antonio Nusa: How Norwegian media reacted to Aston Villa target's display vs Brazil",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/aston-villa/antonio-nusa-how-norwegian-media-reacted-to-aston-villa-targets-display-vs-brazil",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 05:15:59 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Tottenham should accelerate move for Norway star as stats from display vs Brazil emerge",
-      "items": [
-        {
-          "title": "Tottenham should accelerate move for Norway star as stats from display vs Brazil emerge",
-          "summary": "",
-          "url": "https://www.footballinsider247.com/tottenham-hotspur/tottenham-should-accelerate-move-for-norway-star-as-stats-from-display-vs-brazil-emerge",
-          "source": "Football Insider",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 05:15:17 +0000"
-        }
-      ],
-      "sources": [
-        "Football Insider"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "[World Cup Watch] Round of 16: Brazil - Norway // Mexico — England",
@@ -1280,33 +704,35 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
-      "representative_title": "Daily Discussion",
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
       "items": [
         {
-          "title": "Daily Discussion",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/\">[comments]</a></span>",
-          "url": "https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/",
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p>​ <strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">-</td> <td align=\"left\">Contact Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uorxcn/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uorxcn/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uorxcn/transfer_round_up_discussion_summer_2026/",
           "source": "r/reddevils",
           "tier": 4,
-          "published_at": "2026-07-05T20:00:53+00:00"
+          "published_at": "2026-07-06T09:01:06+00:00"
         },
         {
-          "title": "Daily Discussion",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unjxk4/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unjxk4/daily_discussion/\">[comments]</a></span>",
-          "url": "https://www.reddit.com/r/reddevils/comments/1unjxk4/daily_discussion/",
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p>​ <strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">-</td> <td align=\"left\">Contact Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/",
           "source": "r/reddevils",
           "tier": 4,
-          "published_at": "2026-07-04T21:00:22+00:00"
+          "published_at": "2026-07-05T10:01:20+00:00"
         }
       ],
       "sources": [
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Casemiro after Brazil’s elimination: “We did our best, but we lost our dream… we disappointed all Brazilians. We will always be the generation that didn’t win the World Cup.”",
@@ -1324,7 +750,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "[Andy Mitten]Manchester United’s greatest players: No 20, Gary Neville",
@@ -1342,7 +769,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
       "representative_title": "[Simon Stone] Told intention still for Ederson to have full @ManUtd medical when Brazil’s World Cup campaign at an end.",
@@ -1360,7 +788,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Rashford’s nutmeg on Konsa 😂",
@@ -1378,7 +807,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
       "representative_title": "[@Wimbledon] From Old Trafford to the Royal Box ✨ Great to have you at Wimbledon, Michael Carrick 👋",
@@ -1396,7 +826,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
       "representative_title": "[Chris Wheeler] Man United explore surprise move for Chelsea star Andrey Santos. Chelsea are believed to value him at around £50million, although it’s unlikely United would be willing to pay that much.",
@@ -1414,7 +845,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "[David Ornstein] Manchester United exploring move for Chelsea midfielder Andrey Santos",
@@ -1440,7 +872,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Matheus Cunha starts for Brazil against Norway - World Cup Round of 16",
@@ -1458,7 +891,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "[Academy] Kai Rooney and Jacey Carrick signed their scholarships with Man United this weekend.",
@@ -1476,7 +910,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "Ancelotti: \"The only one who could really be the right person to give me advice is Alex Ferguson\"",
@@ -1494,7 +929,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
       "representative_title": "Man Utd: Who will club turn to as they address midfield issues?",
@@ -1512,7 +948,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
       "representative_title": "[Guardian] A footballing deepfake: how Bruno Fernandes fell victim to an unlicensed betting operator",
@@ -1530,25 +967,27 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
-      "representative_title": "Cobolli's tribute to Cunha at Wimbledon | Manchester United",
+      "representative_title": "Daily Discussion",
       "items": [
         {
-          "title": "Cobolli's tribute to Cunha at Wimbledon | Manchester United",
-          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/The-Black-Angel\"> /u/The-Black-Angel </a> <br /> <span><a href=\"https://www.manutd.com/en/news/flavio-cobolli-tribute-to-matheus-cunha-at-wimbledon\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unxg4q/cobollis_tribute_to_cunha_at_wimbledon_manchester/\">[comments]</a></span>",
-          "url": "https://www.reddit.com/r/reddevils/comments/1unxg4q/cobollis_tribute_to_cunha_at_wimbledon_manchester/",
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uobxfc/daily_discussion/",
           "source": "r/reddevils",
           "tier": 4,
-          "published_at": "2026-07-05T09:07:08+00:00"
+          "published_at": "2026-07-05T20:00:53+00:00"
         }
       ],
       "sources": [
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     },
     {
       "representative_title": "Noussair Mazraoui made more defensive contributions (13) than any other player on the pitch vs. Canada. He also won 7 of the 8 ground duels he contested. Another HUGE performance. 👏",
@@ -1566,25 +1005,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
-      "items": [
-        {
-          "title": "[Transfer Round Up & Discussion] Summer 2026",
-          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p>​ <strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">-</td> <td align=\"left\">Contact Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
-          "url": "https://www.reddit.com/r/reddevils/comments/1unybf9/transfer_round_up_discussion_summer_2026/",
-          "source": "r/reddevils",
-          "tier": 4,
-          "published_at": "2026-07-05T10:01:20+00:00"
-        }
-      ],
-      "sources": [
-        "r/reddevils"
-      ],
-      "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "match"
     },
     {
       "representative_title": "[Laurie Whitwell] Man United were prepared to go to £80m + £5m for Mateus Fernandes, with some expectation he would join. But Tottenham’s guaranteed fee + wages swung talks. Significant signing to miss out on. #MUFC onto other targets.",
@@ -1602,7 +1024,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "[Kinsella, BBC, In Article] Several clubs have expressed an interest in midfielder Alex Scott, who is reported to be valued at about £80m. However, club sources insist he is not for sale despite enquiries from Arsenal, Manchester City and Manchester United.",
@@ -1620,7 +1043,8 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "transfer"
     },
     {
       "representative_title": "[@RioMeets] Thiago Alcântara on Kobbie Mainoo",
@@ -1638,47 +1062,12 @@
         "r/reddevils"
       ],
       "min_tier": 4,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:",
-      "items": [
-        {
-          "title": "[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:",
-          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1umvbfm/statman_dave_lisandro_martinezs_game_by_numbers/\"> <img alt=\"[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:\" src=\"https://preview.redd.it/ifjr2mlo34bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0fb4a218eeb7e7fa06ff8c934611bb388e40627b\" title=\"[Statman Dave] Lisandro Martinez’s game by numbers vs. Cape Verde:\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/user_franc1s\"> /u/user_franc1s </a> <br /> <span><a href=\"https://i.redd.it/ifjr2mlo34bh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1umvbfm/statman_dave_lisandro_martinezs_game_by_numbers/\">[comments]</a></span> </td></tr></table>",
-          "url": "https://www.reddit.com/r/reddevils/comments/1umvbfm/statman_dave_lisandro_martinezs_game_by_numbers/",
-          "source": "r/reddevils",
-          "tier": 4,
-          "published_at": "2026-07-04T01:01:16+00:00"
-        }
-      ],
-      "sources": [
-        "r/reddevils"
-      ],
-      "min_tier": 4,
-      "corroboration_count": 1
-    },
-    {
-      "representative_title": "Lisandro Martínez post match: \"When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup\"",
-      "items": [
-        {
-          "title": "Lisandro Martínez post match: \"When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup\"",
-          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1umxoc5/lisandro_martínez_post_match_when_i_think_about/\"> <img alt=\"Lisandro Martínez post match: &quot;When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup&quot;\" src=\"https://preview.redd.it/b2dqhp67k4bh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eab2621b709136dd7d6afa8bdd7f93419aaffa20\" title=\"Lisandro Martínez post match: &quot;When I think about what I went through with my injury, it makes me want to cry. I hardly know where I stand. If my daughter hadn't been born right when I got injured, I don't know if I’d be playing here now, and today I scored a goal in a World Cup&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HappySisyphus22\"> /u/HappySisyphus22 </a> <br /> <span><a href=\"https://i.redd.it/b2dqhp67k4bh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1umxoc5/lisandro_martínez_post_match_when_i_think_about/\">[comments]</a></span> </td></tr></table>",
-          "url": "https://www.reddit.com/r/reddevils/comments/1umxoc5/lisandro_martínez_post_match_when_i_think_about/",
-          "source": "r/reddevils",
-          "tier": 4,
-          "published_at": "2026-07-04T02:57:38+00:00"
-        }
-      ],
-      "sources": [
-        "r/reddevils"
-      ],
-      "min_tier": 4,
-      "corroboration_count": 1
+      "corroboration_count": 1,
+      "category": "off_pitch"
     }
   ],
   "meta": {
-    "raw_item_count": 97,
-    "story_count": 89
+    "raw_item_count": 60,
+    "story_count": 52
   }
 }
