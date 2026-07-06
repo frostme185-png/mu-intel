@@ -19,6 +19,137 @@ function storyId(story) {
   return story.items?.[0]?.url ?? story.representative_title;
 }
 
+// Highlight tên riêng trong tiêu đề bằng heuristic viết hoa, KHÔNG dùng NLP —
+// đủ tốt để lọc mắt nhanh, không cần chính xác tuyệt đối:
+//   - Cụm ≥2 từ viết hoa liên tiếp (VD "Ayyoub Bouaddi") được coi là tên người,
+//     trừ khi khớp NON_PERSON_PHRASES (tên CLB/giải đấu/media hay lặp lại).
+//   - Từ viết hoa đơn lẻ chỉ highlight nếu nằm trong KNOWN_SINGLE_NAMES (HLV,
+//     cựu cầu thủ, cầu thủ trụ cột hay được nhắc một mình) — danh sách này ổn
+//     định hơn nhiều so với roster đầy đủ (đổi theo transfer window) nên chấp
+///    nhận maintain thủ công, mở rộng dần khi thấy tên hay xuất hiện mà miss.
+const NON_PERSON_PHRASES = new Set([
+  "man united", "man utd", "manchester united", "manchester city",
+  "aston villa", "newcastle united", "west ham", "crystal palace",
+  "nottingham forest", "leeds united", "wolverhampton wanderers",
+  "sheffield united", "brighton hove", "real madrid", "bayern munich",
+  "inter milan", "atletico madrid", "borussia dortmund", "paris saint",
+  "premier league", "champions league", "europa league", "conference league",
+  "world cup", "old trafford", "the athletic", "sky sports", "bbc sport",
+  "daily mail", "daily mirror", "manchester evening", "royal box",
+  "transfer round", "daily discussion", "world cup watch",
+]);
+
+// Từ nối đầu câu/đầu cụm chỉ viết hoa vì VỊ TRÍ (đầu title hoặc đầu vế câu
+// trong tiêu đề kiểu Reddit), không phải vì là tên riêng — phải bóc ra khỏi
+// đầu run trước khi xét phần còn lại, nếu không "The Manchester United",
+// "Why Lisandro Martinez's" sẽ bị coi nhầm là tên.
+const LEADING_STOPWORDS = new Set([
+  "the", "a", "an", "this", "that", "these", "those", "why", "how", "what",
+  "who", "new", "but", "full", "some", "no", "another", "from", "told",
+]);
+
+const KNOWN_SINGLE_NAMES = new Set([
+  "ancelotti", "guardiola", "klopp", "arteta", "amorim", "mourinho",
+  "ferguson", "carrick", "postecoglou", "emery", "howe", "moyes",
+  "neville", "carragher", "keane", "scholes", "rooney", "ronaldo", "messi",
+  "casemiro", "cunha", "rashford", "onana", "mainoo", "garnacho", "diallo",
+  "ugarte", "mazraoui", "martinez", "fernandes", "shaw", "dalot", "yoro",
+  "mount", "amad", "hojlund", "sancho", "malacia", "evans", "lindelof",
+  "ederson", "bruno",
+]);
+
+// 1 "run" viết hoa liên tiếp có thể chứa NHIỀU tên khác nhau nối bởi sở hữu
+// cách (VD "Michael Carrick's Marcus Rashford stance..." — 2 người, không phải
+// 1) — nên phải cắt run thành từng đoạn ngay sau từ có 's/'s, mỗi đoạn xử lý
+// (chặn theo NON_PERSON_PHRASES / check KNOWN_SINGLE_NAMES) độc lập.
+function splitOnPossessive(words) {
+  const chunks = [];
+  let current = [];
+  for (const word of words) {
+    current.push(word);
+    if (/['’]s$/i.test(word)) {
+      chunks.push(current);
+      current = [];
+    }
+  }
+  if (current.length > 0) chunks.push(current);
+  return chunks;
+}
+
+function highlightNames(title) {
+  // Yêu cầu ≥1 chữ thường sau chữ cái đầu — loại các chữ cái viết hoa lẻ loi
+  // (VD "U" trong "U-turn", "H" trong "HUGE") vô tình bị regex nuốt vào cụm.
+  const runPattern = /[A-ZÀ-Ý][\p{Ll}À-ÿ]+(?:['’][\p{Ll}]+)?(?:\s+[A-ZÀ-Ý][\p{Ll}À-ÿ]+(?:['’][\p{Ll}]+)?)*/gu;
+  const segments = [];
+  let cursor = 0;
+  let match;
+
+  while ((match = runPattern.exec(title)) !== null) {
+    const runStart = match.index;
+    if (runStart > cursor) segments.push({ text: title.slice(cursor, runStart), isName: false });
+
+    let runWords = match[0].split(/\s+/);
+    const leadingStopwords = [];
+    while (runWords.length > 1 && LEADING_STOPWORDS.has(runWords[0].toLowerCase())) {
+      leadingStopwords.push(runWords[0]);
+      runWords = runWords.slice(1);
+    }
+    if (leadingStopwords.length > 0) {
+      segments.push({ text: leadingStopwords.join(" ") + " ", isName: false });
+    }
+
+    const chunks = splitOnPossessive(runWords);
+    chunks.forEach((chunk, chunkIndex) => {
+      if (chunkIndex > 0) segments.push({ text: " ", isName: false });
+
+      let words = chunk;
+      const plainPrefix = [];
+      while (words.length >= 2) {
+        const pair = words.slice(0, 2).join(" ").toLowerCase().replace(/['’]s$/i, "");
+        if (NON_PERSON_PHRASES.has(pair)) {
+          plainPrefix.push(...words.slice(0, 2));
+          words = words.slice(2);
+        } else {
+          break;
+        }
+      }
+
+      if (plainPrefix.length > 0) {
+        segments.push({ text: plainPrefix.join(" "), isName: false });
+        if (words.length > 0) segments.push({ text: " ", isName: false });
+      }
+
+      if (words.length >= 2) {
+        segments.push({ text: words.join(" "), isName: true });
+      } else if (words.length === 1) {
+        const isKnown = KNOWN_SINGLE_NAMES.has(words[0].toLowerCase().replace(/['’]s$/i, ""));
+        segments.push({ text: words[0], isName: isKnown });
+      }
+    });
+
+    cursor = runStart + match[0].length;
+  }
+
+  if (cursor < title.length) segments.push({ text: title.slice(cursor), isName: false });
+  return segments;
+}
+
+function HighlightedTitle({ text }) {
+  return (
+    <>
+      {highlightNames(text).map((seg, i) =>
+        seg.isName ? (
+          <span key={i} className="name-highlight">
+            {seg.text}
+          </span>
+        ) : (
+          <span key={i}>{seg.text}</span>
+        )
+      )}
+    </>
+  );
+}
+
 function useReportManifest() {
   const [manifest, setManifest] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -100,7 +231,9 @@ function StoryCard({ story, isRead, onToggleRead }) {
           </button>
         </div>
       </div>
-      <h3 className="story-title">{story.representative_title}</h3>
+      <h3 className="story-title">
+        <HighlightedTitle text={story.representative_title} />
+      </h3>
       <div className="story-sources">
         {story.items.map((item, i) => (
           <a

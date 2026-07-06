@@ -12,6 +12,8 @@
   --tier-2: #d9a441;
   --tier-3: #d9713f;
   --tier-4: #b5493f;
+
+  --name-highlight: #c9a7eb;
 }
 
 * {
@@ -358,6 +360,12 @@ body {
   font-size: 17px;
   font-weight: 600;
   line-height: 1.4;
+}
+
+.name-highlight {
+  color: var(--name-highlight);
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
 }
 
 .story-sources {
