@@ -3,9 +3,9 @@
 # Xem giải thích đầy đủ từng tier trong CLAUDE.md.
 #
 # QUAN TRỌNG: chỉ RSS feed đánh dấu "verified: true" đã được xác nhận hoạt động
-# (kiểm tra ngày 2026-07-06). Các feed đánh dấu "verified: false" là placeholder
-# dựa trên tên miền phổ biến — PHẢI kiểm tra lại thực tế trước khi đưa vào dùng thật,
-# vì URL RSS của các trang báo hay thay đổi.
+# (kiểm tra ngày 2026-07-06 bằng cách fetch trực tiếp URL và xem nội dung XML trả về).
+# Các feed đánh dấu "verified: false" nghĩa là không tìm được RSS thật cho nguồn đó
+# (paywall, chỉ publish qua X, hoặc site không có RSS) — xem comment từng dòng.
 
 tier_0:
   description: "Nguồn chính thức tuyệt đối — luôn đúng, không cần cross-reference"
@@ -13,7 +13,7 @@ tier_0:
     - name: "Manchester United official"
       type: "official"
       website: "https://www.manutd.com/en/news"
-      rss: null # club không public RSS ổn định cho /news, cần scrape hoặc theo dõi thủ công
+      rss: null # đã kiểm tra: club không public RSS cho /news (không có <link rss> trên trang, các path đoán như /rss, /rssfeed, /feeds/news đều 404) - cần scrape hoặc theo dõi thủ công
       verified: false
 
 tier_1:
@@ -32,7 +32,7 @@ tier_1:
     - name: "Fabrizio Romano"
       type: "journalist"
       website: "https://www.fabrizioromano.com"
-      rss: null # chủ yếu publish qua X/Substack, cần kiểm tra Substack RSS nếu có
+      rss: null # đã kiểm tra: fabrizioromano.com không trả RSS (406, không có link feed), publish chủ yếu qua X/Substack - cần theo dõi thủ công
       verified: false
 
 tier_2:
@@ -41,13 +41,13 @@ tier_2:
     - name: "Manchester Evening News - MUFC"
       type: "outlet"
       website: "https://www.manchestereveningnews.co.uk"
-      rss: null # PLACEHOLDER - cần tìm URL RSS chính xác cho mục MUFC
-      verified: false
+      rss: "https://www.manchestereveningnews.co.uk/all-about/manchester-united-fc/rss.xml" # feed theo tag MUFC riêng, đã fetch xác nhận có item mới (Jul 2026), không phải feed tổng
+      verified: true
     - name: "Mirror Football - Man United"
       type: "outlet"
       website: "https://www.mirror.co.uk/sport/football"
-      rss: null # PLACEHOLDER - cần verify
-      verified: false
+      rss: "https://www.mirror.co.uk/all-about/manchester-united-fc/rss.xml" # feed theo tag MUFC riêng (tương tự MEN, cùng nền Reach plc), đã fetch xác nhận có item mới (Jul 2026)
+      verified: true
 
 tier_3:
   description: "Không đáng tin nếu đứng một mình, thiên clickbait"
@@ -55,17 +55,17 @@ tier_3:
     - name: "Caught Offside"
       type: "aggregator"
       website: "https://www.caughtoffside.com"
-      rss: null # PLACEHOLDER - cần verify
-      verified: false
+      rss: "https://www.caughtoffside.com/feed/" # feed tổng (không lọc riêng MUFC) - đã thử tag /tag/manchester-united/feed/ nhưng feed đó không cập nhật từ 2026-02-18 nên dùng feed tổng, item MUFC vẫn xuất hiện lẫn trong đó
+      verified: true
     - name: "Football Insider"
       type: "aggregator"
       website: "https://www.footballinsider247.com"
-      rss: null # PLACEHOLDER - cần verify
-      verified: false
+      rss: "https://www.footballinsider247.com/feed/" # feed tổng (không lọc riêng MUFC), đã fetch xác nhận có item mới (Jul 2026); không tìm được feed riêng theo team
+      verified: true
     - name: "TEAMtalk"
       type: "aggregator"
       website: "https://www.teamtalk.com"
-      rss: null # PLACEHOLDER - cần verify
+      rss: null # đã thử nhiều path (/feed, /rss.xml, /manchester-united/feed, /rss/manchester-united...) đều 404 hoặc redirect về trang bài viết thường, site không có RSS công khai
       verified: false
 
 tier_4:
@@ -75,7 +75,7 @@ tier_4:
       type: "forum"
       website: "https://www.reddit.com/r/reddevils"
       rss: "https://www.reddit.com/r/reddevils/.rss"
-      verified: false # pattern RSS chuẩn của Reddit, nhưng chưa test trực tiếp cho subreddit này
+      verified: true # đã fetch xác nhận trả về Atom feed hợp lệ với entry mới (Jul 2026); lưu ý Reddit rate-limit khá gắt (429) theo IP, script thu thập nên có retry/backoff
 
 # Nguồn mới phát hiện trong quá trình thu thập mà không có trong bảng này
 # -> mặc định xếp vào tier_4 cho đến khi được review thủ công và thêm vào đây.
