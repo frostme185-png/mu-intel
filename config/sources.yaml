@@ -1,0 +1,82 @@
+# Bảng phân loại nguồn tin theo độ tin cậy (tier 0-4).
+# Khung tham khảo: The False 9 reliability guide + manutdupdates.com (điều chỉnh cho MUFC).
+# Xem giải thích đầy đủ từng tier trong CLAUDE.md.
+#
+# QUAN TRỌNG: chỉ RSS feed đánh dấu "verified: true" đã được xác nhận hoạt động
+# (kiểm tra ngày 2026-07-06). Các feed đánh dấu "verified: false" là placeholder
+# dựa trên tên miền phổ biến — PHẢI kiểm tra lại thực tế trước khi đưa vào dùng thật,
+# vì URL RSS của các trang báo hay thay đổi.
+
+tier_0:
+  description: "Nguồn chính thức tuyệt đối — luôn đúng, không cần cross-reference"
+  sources:
+    - name: "Manchester United official"
+      type: "official"
+      website: "https://www.manutd.com/en/news"
+      rss: null # club không public RSS ổn định cho /news, cần scrape hoặc theo dõi thủ công
+      verified: false
+
+tier_1:
+  description: "Gần như không thể tranh cãi — nếu họ nói thì gần như chắc chắn đúng"
+  sources:
+    - name: "BBC Sport - Manchester United"
+      type: "outlet"
+      website: "https://www.bbc.co.uk/sport/football/teams/manchester-united"
+      rss: "https://feeds.bbci.co.uk/sport/football/teams/manchester-united/rss.xml"
+      verified: true
+    - name: "David Ornstein / The Athletic"
+      type: "journalist"
+      website: "https://theathletic.com"
+      rss: null # The Athletic paywalled, không có public RSS - cần theo dõi qua X hoặc thủ công
+      verified: false
+    - name: "Fabrizio Romano"
+      type: "journalist"
+      website: "https://www.fabrizioromano.com"
+      rss: null # chủ yếu publish qua X/Substack, cần kiểm tra Substack RSS nếu có
+      verified: false
+
+tier_2:
+  description: "Có nguồn tin thật nhưng vẫn có thể sai - ≥2 nguồn tier này trùng nhau là tín hiệu mạnh"
+  sources:
+    - name: "Manchester Evening News - MUFC"
+      type: "outlet"
+      website: "https://www.manchestereveningnews.co.uk"
+      rss: null # PLACEHOLDER - cần tìm URL RSS chính xác cho mục MUFC
+      verified: false
+    - name: "Mirror Football - Man United"
+      type: "outlet"
+      website: "https://www.mirror.co.uk/sport/football"
+      rss: null # PLACEHOLDER - cần verify
+      verified: false
+
+tier_3:
+  description: "Không đáng tin nếu đứng một mình, thiên clickbait"
+  sources:
+    - name: "Caught Offside"
+      type: "aggregator"
+      website: "https://www.caughtoffside.com"
+      rss: null # PLACEHOLDER - cần verify
+      verified: false
+    - name: "Football Insider"
+      type: "aggregator"
+      website: "https://www.footballinsider247.com"
+      rss: null # PLACEHOLDER - cần verify
+      verified: false
+    - name: "TEAMtalk"
+      type: "aggregator"
+      website: "https://www.teamtalk.com"
+      rss: null # PLACEHOLDER - cần verify
+      verified: false
+
+tier_4:
+  description: "Không đáng tin, câu traffic - vẫn thu thập vì đôi khi rumor xuất hiện sớm nhất ở đây"
+  sources:
+    - name: "r/reddevils"
+      type: "forum"
+      website: "https://www.reddit.com/r/reddevils"
+      rss: "https://www.reddit.com/r/reddevils/.rss"
+      verified: false # pattern RSS chuẩn của Reddit, nhưng chưa test trực tiếp cho subreddit này
+
+# Nguồn mới phát hiện trong quá trình thu thập mà không có trong bảng này
+# -> mặc định xếp vào tier_4 cho đến khi được review thủ công và thêm vào đây.
+default_tier_for_unknown_source: 4

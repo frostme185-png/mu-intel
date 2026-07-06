@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dashboard (Node/Vite)
+dashboard/node_modules/
+dashboard/dist/
+dashboard/public/reports/
+
+# OS
+.DS_Store

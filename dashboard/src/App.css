@@ -1,0 +1,197 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Source+Serif+4:wght@400;600&display=swap");
+
+:root {
+  --bg: #121210;
+  --surface: #1b1a15;
+  --border: #332f26;
+  --text: #eae6da;
+  --text-muted: #948e7d;
+
+  --tier-0: #5aa876;
+  --tier-1: #5b93cf;
+  --tier-2: #d9a441;
+  --tier-3: #d9713f;
+  --tier-4: #b5493f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Source Serif 4", Georgia, serif;
+}
+
+.app {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 32px 20px 80px;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  border-bottom: 2px solid var(--text);
+  padding-bottom: 16px;
+  margin-bottom: 20px;
+}
+
+.eyebrow {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 0 0 4px;
+}
+
+.app-header h1 {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 28px;
+  letter-spacing: 0.02em;
+  margin: 0;
+  text-transform: lowercase;
+}
+
+.date-select {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px;
+  padding: 6px 10px;
+  border-radius: 2px;
+}
+
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.tier-filters {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.tier-toggle {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  padding: 5px 10px;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+  background: transparent;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.tier-toggle.inactive {
+  opacity: 0.35;
+}
+
+.tier-toggle.tier-0 { color: var(--tier-0); border-color: var(--tier-0); }
+.tier-toggle.tier-1 { color: var(--tier-1); border-color: var(--tier-1); }
+.tier-toggle.tier-2 { color: var(--tier-2); border-color: var(--tier-2); }
+.tier-toggle.tier-3 { color: var(--tier-3); border-color: var(--tier-3); }
+.tier-toggle.tier-4 { color: var(--tier-4); border-color: var(--tier-4); }
+
+.search-input {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  padding: 7px 12px;
+  border-radius: 3px;
+  font-family: "Source Serif 4", serif;
+  font-size: 14px;
+  min-width: 220px;
+  flex: 1;
+}
+
+.status-text {
+  color: var(--text-muted);
+  font-family: "JetBrains Mono", monospace;
+  font-size: 13px;
+}
+
+.story-count {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-bottom: 12px;
+}
+
+.story-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.story-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left-width: 4px;
+  border-radius: 3px;
+  padding: 14px 16px;
+}
+
+.story-card.tier-0-border { border-left-color: var(--tier-0); }
+.story-card.tier-1-border { border-left-color: var(--tier-1); }
+.story-card.tier-2-border { border-left-color: var(--tier-2); }
+.story-card.tier-3-border { border-left-color: var(--tier-3); }
+.story-card.tier-4-border { border-left-color: var(--tier-4); }
+
+.story-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.tier-badge {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.tier-badge-desc {
+  color: var(--text-muted);
+  text-transform: none;
+}
+
+.corroboration {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.story-title {
+  margin: 0 0 8px;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.story-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.source-tag {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 10px;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  padding: 2px 6px;
+}

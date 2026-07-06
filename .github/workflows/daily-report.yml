@@ -1,0 +1,38 @@
+name: Daily report
+
+on:
+  schedule:
+    # Chạy 8h sáng giờ Việt Nam (UTC+7) = 1h sáng UTC. Điều chỉnh nếu cần giờ khác.
+    - cron: "0 1 * * *"
+  workflow_dispatch: {} # cho phép trigger tay từ tab Actions trên GitHub (web/mobile)
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # cần quyền ghi để commit report mới vào repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cài dependencies
+        run: pip install -r requirements.txt
+
+      - name: Chạy pipeline sinh report
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+        run: python scripts/generate_report.py
+
+      - name: Commit report mới
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add reports/
+          git diff --staged --quiet && echo "Không có report mới để commit" || git commit -m "chore: daily report $(date -u +%Y-%m-%d)"
+          git push

@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T01:00:00+00:00",
+  "_note": "Đây là SAMPLE DATA để test dashboard, không phải tin thật. Xoá file này khi pipeline thật đã chạy.",
+  "match_data": {
+    "collected_at": "2026-07-06T01:00:00+00:00",
+    "fixtures": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United hoàn tất ký hợp đồng tiền đạo mới (ví dụ)",
+      "sources": ["BBC Sport - Manchester United", "Manchester Evening News"],
+      "min_tier": 1,
+      "corroboration_count": 2
+    },
+    {
+      "representative_title": "Đồn đoán United quan tâm hậu vệ cánh trẻ (ví dụ)",
+      "sources": ["Caught Offside"],
+      "min_tier": 3,
+      "corroboration_count": 1
+    },
+    {
+      "representative_title": "Fan forum đồn có thể có thương vụ bất ngờ (ví dụ)",
+      "sources": ["r/reddevils"],
+      "min_tier": 4,
+      "corroboration_count": 1
+    }
+  ],
+  "meta": {
+    "raw_item_count": 4,
+    "story_count": 3
+  }
+}

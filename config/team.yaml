@@ -1,0 +1,20 @@
+# Config cho API-Football
+# IDs đã verify qua API-Football docs (api-sports.io) — không cần tự đoán lại.
+
+team:
+  name: "Manchester United"
+  api_football_id: 33
+
+league:
+  name: "Premier League"
+  api_football_id: 39
+  country: "England"
+
+# Season dùng năm bắt đầu mùa giải, VD mùa 2025-26 -> 2025.
+# QUAN TRỌNG: cập nhật giá trị này khi mùa giải mới bắt đầu (thường đầu tháng 8).
+season: 2025
+
+api:
+  base_url: "https://v3.football.api-sports.io"
+  # Key đọc từ biến môi trường API_FOOTBALL_KEY, không hardcode ở đây.
+  daily_request_budget: 100 # free tier limit, để script tự giới hạn số call/ngày
