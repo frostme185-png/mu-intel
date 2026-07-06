@@ -8,7 +8,7 @@ import os
 import json
 from datetime import datetime, timezone
 
-from collect_match_data import collect_match_data
+from collect_match_data import collect_match_data, collect_known_entities
 from collect_news import collect_news
 from aggregate import group_into_stories
 
@@ -18,6 +18,9 @@ REPORTS_DIR = os.path.join(os.path.dirname(__file__), "..", "reports")
 def build_report():
     print("Thu thập match data...")
     match_data = collect_match_data()
+
+    print("Thu thập danh sách CLB + đội hình (để dashboard highlight tên)...")
+    known_entities = collect_known_entities()
 
     print("Thu thập tin tức đa tier...")
     news_data = collect_news()
@@ -29,6 +32,7 @@ def build_report():
         "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "match_data": match_data,
+        "known_entities": known_entities,
         "stories": stories,
         "meta": {
             "raw_item_count": len(news_data["items"]),

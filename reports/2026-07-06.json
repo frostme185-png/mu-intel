@@ -1,11 +1,66 @@
 {
   "date": "2026-07-06",
-  "generated_at": "2026-07-06T09:17:35.634724+00:00",
+  "generated_at": "2026-07-06T09:58:52.518314+00:00",
   "match_data": {
-    "collected_at": "2026-07-06T09:17:27.901272+00:00",
+    "collected_at": "2026-07-06T09:58:43.491037+00:00",
     "recent_fixture": null,
     "recent_fixture_player_stats": [],
     "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [
+      "Arsenal",
+      "Aston Villa",
+      "Bournemouth",
+      "Brentford",
+      "Brighton",
+      "Chelsea",
+      "Crystal Palace",
+      "Everton",
+      "Fulham",
+      "Ipswich",
+      "Leicester",
+      "Liverpool",
+      "Manchester City",
+      "Manchester United",
+      "Newcastle",
+      "Nottingham Forest",
+      "Southampton",
+      "Tottenham",
+      "West Ham",
+      "Wolves"
+    ],
+    "known_surnames": [
+      "bayındır",
+      "carrick",
+      "casemiro",
+      "cunha",
+      "dalot",
+      "diallo",
+      "dorgu",
+      "fernandes",
+      "fletcher",
+      "fredricson",
+      "heaven",
+      "kukonki",
+      "lacey",
+      "lammens",
+      "maguire",
+      "mainoo",
+      "malacia",
+      "mantato",
+      "martin",
+      "martínez",
+      "mazraoui",
+      "mbeumo",
+      "moorhouse",
+      "mount",
+      "shaw",
+      "ugarte",
+      "yoro",
+      "zirkzee",
+      "šeško"
+    ]
   },
   "stories": [
     {
@@ -29,8 +84,8 @@
         }
       ],
       "sources": [
-        "Mirror Football - Man United",
-        "Manchester Evening News - MUFC"
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
       ],
       "min_tier": 2,
       "corroboration_count": 2,
@@ -57,8 +112,8 @@
         }
       ],
       "sources": [
-        "Mirror Football - Man United",
-        "Manchester Evening News - MUFC"
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
       ],
       "min_tier": 2,
       "corroboration_count": 2,
@@ -85,8 +140,8 @@
         }
       ],
       "sources": [
-        "r/reddevils",
-        "Manchester Evening News - MUFC"
+        "Manchester Evening News - MUFC",
+        "r/reddevils"
       ],
       "min_tier": 2,
       "corroboration_count": 2,
@@ -113,8 +168,8 @@
         }
       ],
       "sources": [
-        "Mirror Football - Man United",
-        "Manchester Evening News - MUFC"
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
       ],
       "min_tier": 2,
       "corroboration_count": 2,
@@ -141,8 +196,8 @@
         }
       ],
       "sources": [
-        "Mirror Football - Man United",
-        "Manchester Evening News - MUFC"
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
       ],
       "min_tier": 2,
       "corroboration_count": 2,
@@ -157,7 +212,7 @@
           "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34236069",
           "source": "Manchester Evening News - MUFC",
           "tier": 2,
-          "published_at": "Mon, 6 Jul 2026 08:42:08 +0000"
+          "published_at": "Mon, 6 Jul 2026 09:48:31 +0000"
         }
       ],
       "sources": [
@@ -472,6 +527,25 @@
       "category": "transfer"
     },
     {
+      "representative_title": "Kai Rooney and Jacey Carrick take huge step at Man Utd to follow famous fathers",
+      "items": [
+        {
+          "title": "Kai Rooney and Jacey Carrick take huge step at Man Utd to follow famous fathers",
+          "summary": "Kai Rooney and Jacey Carrick were among a group of Manchester United youngsters who signed scholarship deals with the club",
+          "url": "https://www.mirror.co.uk/sport/football/news/kai-rooney-carrick-man-utd-37392336",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 6 Jul 2026 09:42:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
       "representative_title": "Transfer news LIVE: Man Utd line up £86m deal, Thuram to Liverpool, Rashford latest",
       "items": [
         {
@@ -480,7 +554,7 @@
           "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-35m-man-37386355",
           "source": "Mirror Football - Man United",
           "tier": 2,
-          "published_at": "Mon, 6 Jul 2026 08:32:54 +0000"
+          "published_at": "Mon, 6 Jul 2026 09:35:44 +0000"
         }
       ],
       "sources": [
@@ -652,25 +726,6 @@
           "source": "Caught Offside",
           "tier": 3,
           "published_at": "Mon, 06 Jul 2026 05:06:31 +0000"
-        }
-      ],
-      "sources": [
-        "Caught Offside"
-      ],
-      "min_tier": 3,
-      "corroboration_count": 1,
-      "category": "transfer"
-    },
-    {
-      "representative_title": "Man United still expected to complete deal for Brazilian star as medical plan becomes clear",
-      "items": [
-        {
-          "title": "Man United still expected to complete deal for Brazilian star as medical plan becomes clear",
-          "summary": "<p>Manchester United remain confident of completing the signing of Atalanta midfielder Éderson, despite reports in Brazil suggesting the move could be in doubt. The club’s plan has always been to carry out the Brazilian’s medical after the World Cup, rather than rushing the process while he is away on international duty. DOWNLOAD THE OFFICIAL CAUGHTOFFSIDE [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/06/man-united-expected-to-complete-deal-brazilian-star/\">Man United still expected to complete deal for Brazilian star as medical plan becomes clear</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
-          "url": "https://www.caughtoffside.com/2026/07/06/man-united-expected-to-complete-deal-brazilian-star/",
-          "source": "Caught Offside",
-          "tier": 3,
-          "published_at": "Mon, 06 Jul 2026 04:33:18 +0000"
         }
       ],
       "sources": [

@@ -217,6 +217,112 @@ def collect_match_data():
     }
 
 
+def get_league_clubs(config):
+    """
+    Lấy danh sách tên CLB Premier League — dùng ở dashboard để loại tên CLB khỏi
+    bộ nhận diện tên người (highlight), tự cập nhật thay vì gõ tay danh sách.
+
+    Free tier API-Football không cho truy vấn /teams của season hiện tại
+    ("Free plans do not have access to this season"), nên thử lùi dần vài mùa
+    trước đó — thành phần CLB Premier League ít thay đổi giữa các mùa liền kề
+    (chỉ 3 đội lên/xuống hạng) nên dữ liệu lùi 1-2 mùa vẫn đủ dùng cho mục đích
+    lọc tên, không cần chính xác tuyệt đối theo mùa hiện tại.
+    """
+    base_url = config["api"]["base_url"]
+    league_id = config["league"]["api_football_id"]
+    season = config["season"]
+
+    for season_attempt in (season, season - 1, season - 2):
+        cache_key = f"league_teams_{league_id}_{season_attempt}"
+        try:
+            data = api_get(base_url, "teams", {"league": league_id, "season": season_attempt}, cache_key)
+        except requests.HTTPError:
+            continue
+        clubs = [team["team"]["name"] for team in data.get("response", [])]
+        if clubs:
+            return sorted(clubs)
+    return []
+
+
+def get_squad_surnames(config):
+    """
+    Lấy họ (từ cuối cùng trong tên) của toàn bộ cầu thủ trong đội hình MUFC
+    hiện tại — dùng để highlight tên cầu thủ khi chỉ được nhắc một mình trên
+    tiêu đề (VD "Rashford's nutmeg..."). Tự cập nhật mỗi transfer window thay
+    vì phải gõ tay danh sách (dễ sót khi có cầu thủ mới).
+    """
+    base_url = config["api"]["base_url"]
+    team_id = config["team"]["api_football_id"]
+    cache_key = f"squad_{team_id}"
+
+    data = api_get(base_url, "players/squads", {"team": team_id}, cache_key)
+    response = data.get("response", [])
+    if not response:
+        return []
+
+    surnames = set()
+    for player in response[0].get("players", []):
+        name = player.get("name", "").strip()
+        if name:
+            surnames.add(name.split()[-1].lower())
+    return sorted(surnames)
+
+
+def get_current_manager_surname(config):
+    """
+    Lấy họ của HLV trưởng ĐANG tại nhiệm ở MUFC.
+
+    /coachs?team=ID trả về TOÀN BỘ HLV từng dẫn dắt CLB (kể cả người cũ), mỗi
+    người có "career" liệt kê tất cả CLB họ từng dẫn dắt. Để tìm đúng người
+    hiện tại: lọc ra HLV có 1 giai đoạn tại team_id với "end": null (đang tại
+    nhiệm), rồi lấy người có "start" gần nhất — vì dữ liệu API có thể có nhiều
+    giai đoạn "end: null" chưa được đóng đúng khi đổi HLV (đã kiểm chứng thực
+    tế: cả Ruben Amorim và Michael Carrick đều có end=null cho MUFC, chỉ có
+    start date mới hơn của Carrick mới đúng là người đang tại nhiệm).
+    """
+    base_url = config["api"]["base_url"]
+    team_id = config["team"]["api_football_id"]
+    cache_key = f"coachs_{team_id}"
+
+    try:
+        data = api_get(base_url, "coachs", {"team": team_id}, cache_key)
+    except requests.HTTPError:
+        return None
+
+    candidates = []
+    for coach in data.get("response", []):
+        for stint in coach.get("career", []):
+            if stint.get("team", {}).get("id") == team_id and stint.get("end") is None:
+                candidates.append((stint.get("start") or "", coach.get("name", "")))
+
+    if not candidates:
+        return None
+
+    candidates.sort(key=lambda pair: pair[0], reverse=True)
+    latest_name = candidates[0][1].strip()
+    return latest_name.split()[-1].lower() if latest_name else None
+
+
+def collect_known_entities():
+    """
+    Tổng hợp danh sách tên CLB Premier League + họ cầu thủ/HLV MUFC hiện tại,
+    để dashboard tự động loại tên CLB / nhận diện tên người khi highlight —
+    thay cho việc gõ tay 2 danh sách này (dễ sót khi đổi mùa/transfer window).
+    """
+    config = load_config()
+
+    known_surnames = set(get_squad_surnames(config))
+    manager_surname = get_current_manager_surname(config)
+    if manager_surname:
+        known_surnames.add(manager_surname)
+
+    return {
+        "league_clubs": get_league_clubs(config),
+        "known_surnames": sorted(known_surnames),
+    }
+
+
 if __name__ == "__main__":
     result = collect_match_data()
     print(json.dumps(result, indent=2, ensure_ascii=False))
+    print(json.dumps(collect_known_entities(), indent=2, ensure_ascii=False))

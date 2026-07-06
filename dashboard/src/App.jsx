@@ -20,43 +20,59 @@ function storyId(story) {
 }
 
 // Highlight tên riêng trong tiêu đề bằng heuristic viết hoa, KHÔNG dùng NLP —
-// đủ tốt để lọc mắt nhanh, không cần chính xác tuyệt đối:
+// đã thử spaCy NER thật (en_core_web_sm) trước khi chọn cách này: model gắn
+// nhầm "Man United"/"Manchester United" thành PERSON ở nhiều tiêu đề và miss
+// hẳn tên cầu thủ ít phổ biến, tệ hơn heuristic dưới đây trên chính domain
+// tiêu đề bóng đá (viết tắt, ngoặc vuông kiểu Reddit, tên CLB trông giống tên
+// người) — nên vẫn dùng regex + 2 danh sách, nhưng phần dễ lỗi thời (tên CLB
+// đang thi đấu, đội hình/HLV hiện tại) lấy TỰ ĐỘNG từ report.known_entities
+// (fetch qua API-Football trong collect_match_data.py), không gõ tay nữa.
+// Chỉ còn phần thực sự ổn định lâu dài (giải đấu, media, vài CLB châu Âu lớn
+// ngoài Premier League, HLV/cựu cầu thủ nổi tiếng không còn trong đội hình)
+// là giữ tĩnh — các mục này gần như không đổi nên chi phí maintain rất thấp.
 //   - Cụm ≥2 từ viết hoa liên tiếp (VD "Ayyoub Bouaddi") được coi là tên người,
-//     trừ khi khớp NON_PERSON_PHRASES (tên CLB/giải đấu/media hay lặp lại).
-//   - Từ viết hoa đơn lẻ chỉ highlight nếu nằm trong KNOWN_SINGLE_NAMES (HLV,
-//     cựu cầu thủ, cầu thủ trụ cột hay được nhắc một mình) — danh sách này ổn
-//     định hơn nhiều so với roster đầy đủ (đổi theo transfer window) nên chấp
-///    nhận maintain thủ công, mở rộng dần khi thấy tên hay xuất hiện mà miss.
-const NON_PERSON_PHRASES = new Set([
-  "man united", "man utd", "manchester united", "manchester city",
-  "aston villa", "newcastle united", "west ham", "crystal palace",
-  "nottingham forest", "leeds united", "wolverhampton wanderers",
-  "sheffield united", "brighton hove", "real madrid", "bayern munich",
-  "inter milan", "atletico madrid", "borussia dortmund", "paris saint",
+//     trừ khi khớp danh sách "non-person" (CLB/giải đấu/media).
+//   - Từ viết hoa đơn lẻ chỉ highlight nếu nằm trong danh sách "known single
+//     names" (đội hình + HLV hiện tại, tự cập nhật + vài tên tĩnh bổ sung).
+const STATIC_NON_PERSON_PHRASES = [
+  "man united", "man utd", "manchester evening",
   "premier league", "champions league", "europa league", "conference league",
   "world cup", "old trafford", "the athletic", "sky sports", "bbc sport",
-  "daily mail", "daily mirror", "manchester evening", "royal box",
+  "daily mail", "daily mirror", "royal box",
   "transfer round", "daily discussion", "world cup watch",
-]);
+  "real madrid", "bayern munich", "inter milan", "atletico madrid",
+  "borussia dortmund", "paris saint",
+];
+
+const STATIC_KNOWN_SINGLE_NAMES = [
+  "ancelotti", "guardiola", "klopp", "arteta", "amorim", "mourinho",
+  "ferguson", "postecoglou", "emery", "howe", "moyes",
+  "neville", "carragher", "keane", "scholes", "rooney", "ronaldo", "messi",
+];
 
 // Từ nối đầu câu/đầu cụm chỉ viết hoa vì VỊ TRÍ (đầu title hoặc đầu vế câu
 // trong tiêu đề kiểu Reddit), không phải vì là tên riêng — phải bóc ra khỏi
 // đầu run trước khi xét phần còn lại, nếu không "The Manchester United",
-// "Why Lisandro Martinez's" sẽ bị coi nhầm là tên.
+// "Why Lisandro Martinez's" sẽ bị coi nhầm là tên. Đây là từ ngữ pháp tiếng
+// Anh, không đổi theo mùa giải nên giữ tĩnh vĩnh viễn, không cần tự động hoá.
 const LEADING_STOPWORDS = new Set([
   "the", "a", "an", "this", "that", "these", "those", "why", "how", "what",
   "who", "new", "but", "full", "some", "no", "another", "from", "told",
 ]);
 
-const KNOWN_SINGLE_NAMES = new Set([
-  "ancelotti", "guardiola", "klopp", "arteta", "amorim", "mourinho",
-  "ferguson", "carrick", "postecoglou", "emery", "howe", "moyes",
-  "neville", "carragher", "keane", "scholes", "rooney", "ronaldo", "messi",
-  "casemiro", "cunha", "rashford", "onana", "mainoo", "garnacho", "diallo",
-  "ugarte", "mazraoui", "martinez", "fernandes", "shaw", "dalot", "yoro",
-  "mount", "amad", "hojlund", "sancho", "malacia", "evans", "lindelof",
-  "ederson", "bruno",
-]);
+function buildEntitySets(knownEntities) {
+  const nonPersonPhrases = new Set(STATIC_NON_PERSON_PHRASES);
+  const knownSingleNames = new Set(STATIC_KNOWN_SINGLE_NAMES);
+
+  for (const club of knownEntities?.league_clubs ?? []) {
+    if (club.includes(" ")) nonPersonPhrases.add(club.toLowerCase());
+  }
+  for (const surname of knownEntities?.known_surnames ?? []) {
+    knownSingleNames.add(surname.toLowerCase());
+  }
+
+  return { nonPersonPhrases, knownSingleNames };
+}
 
 // 1 "run" viết hoa liên tiếp có thể chứa NHIỀU tên khác nhau nối bởi sở hữu
 // cách (VD "Michael Carrick's Marcus Rashford stance..." — 2 người, không phải
@@ -76,7 +92,7 @@ function splitOnPossessive(words) {
   return chunks;
 }
 
-function highlightNames(title) {
+function highlightNames(title, nonPersonPhrases, knownSingleNames) {
   // Yêu cầu ≥1 chữ thường sau chữ cái đầu — loại các chữ cái viết hoa lẻ loi
   // (VD "U" trong "U-turn", "H" trong "HUGE") vô tình bị regex nuốt vào cụm.
   const runPattern = /[A-ZÀ-Ý][\p{Ll}À-ÿ]+(?:['’][\p{Ll}]+)?(?:\s+[A-ZÀ-Ý][\p{Ll}À-ÿ]+(?:['’][\p{Ll}]+)?)*/gu;
@@ -106,7 +122,7 @@ function highlightNames(title) {
       const plainPrefix = [];
       while (words.length >= 2) {
         const pair = words.slice(0, 2).join(" ").toLowerCase().replace(/['’]s$/i, "");
-        if (NON_PERSON_PHRASES.has(pair)) {
+        if (nonPersonPhrases.has(pair)) {
           plainPrefix.push(...words.slice(0, 2));
           words = words.slice(2);
         } else {
@@ -122,7 +138,7 @@ function highlightNames(title) {
       if (words.length >= 2) {
         segments.push({ text: words.join(" "), isName: true });
       } else if (words.length === 1) {
-        const isKnown = KNOWN_SINGLE_NAMES.has(words[0].toLowerCase().replace(/['’]s$/i, ""));
+        const isKnown = knownSingleNames.has(words[0].toLowerCase().replace(/['’]s$/i, ""));
         segments.push({ text: words[0], isName: isKnown });
       }
     });
@@ -134,10 +150,10 @@ function highlightNames(title) {
   return segments;
 }
 
-function HighlightedTitle({ text }) {
+function HighlightedTitle({ text, entitySets }) {
   return (
     <>
-      {highlightNames(text).map((seg, i) =>
+      {highlightNames(text, entitySets.nonPersonPhrases, entitySets.knownSingleNames).map((seg, i) =>
         seg.isName ? (
           <span key={i} className="name-highlight">
             {seg.text}
@@ -217,7 +233,7 @@ function TierBadge({ tier }) {
   );
 }
 
-function StoryCard({ story, isRead, onToggleRead }) {
+function StoryCard({ story, isRead, onToggleRead, entitySets }) {
   return (
     <article className={`story-card tier-${story.min_tier}-border ${isRead ? "is-read" : ""}`}>
       <div className="story-head">
@@ -232,7 +248,7 @@ function StoryCard({ story, isRead, onToggleRead }) {
         </div>
       </div>
       <h3 className="story-title">
-        <HighlightedTitle text={story.representative_title} />
+        <HighlightedTitle text={story.representative_title} entitySets={entitySets} />
       </h3>
       <div className="story-sources">
         {story.items.map((item, i) => (
@@ -390,6 +406,8 @@ export default function App() {
 
   const unreadCount = visibleStories.filter((s) => !readIds.has(storyId(s))).length;
 
+  const entitySets = useMemo(() => buildEntitySets(report?.known_entities), [report]);
+
   return (
     <div className="app">
       <header className="app-header">
@@ -480,6 +498,7 @@ export default function App() {
                             story={story}
                             isRead={readIds.has(storyId(story))}
                             onToggleRead={() => toggleRead(storyId(story))}
+                            entitySets={entitySets}
                           />
                         ))}
                       </div>
@@ -494,6 +513,7 @@ export default function App() {
                     story={story}
                     isRead={readIds.has(storyId(story))}
                     onToggleRead={() => toggleRead(storyId(story))}
+                    entitySets={entitySets}
                   />
                 ))}
               </div>
