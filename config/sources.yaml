@@ -56,6 +56,12 @@ tier_2:
       rss: "https://www.mirror.co.uk/all-about/manchester-united-fc/rss.xml" # feed theo tag MUFC riêng (tương tự MEN, cùng nền Reach plc), đã fetch xác nhận có item mới (Jul 2026)
       verified: true
       scope: "team"
+    - name: "The Guardian - Manchester United"
+      type: "outlet"
+      website: "https://www.theguardian.com/football/manchester-united"
+      rss: "https://www.theguardian.com/football/manchester-united/rss" # feed theo tag MUFC riêng, đã fetch xác nhận có item mới (Jul 2026) và item đầu tiên đã là tin MUFC thật
+      verified: true
+      scope: "team"
 
 tier_3:
   description: "Không đáng tin nếu đứng một mình, thiên clickbait"
