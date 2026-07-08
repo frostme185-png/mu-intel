@@ -62,6 +62,29 @@ tier_2:
       rss: "https://www.theguardian.com/football/manchester-united/rss" # feed theo tag MUFC riêng, đã fetch xác nhận có item mới (Jul 2026) và item đầu tiên đã là tin MUFC thật
       verified: true
       scope: "team"
+    - name: "Google News: Fabrizio Romano"
+      type: "aggregator"
+      website: "https://news.google.com/rss/search?q=%22Fabrizio+Romano%22+%22Manchester+United%22&hl=en-GB&gl=GB&ceid=GB:en"
+      rss: "https://news.google.com/rss/search?q=%22Fabrizio+Romano%22+%22Manchester+United%22&hl=en-GB&gl=GB&ceid=GB:en"
+      # Thay thế cho việc theo dõi Romano trực tiếp (không có RSS, chỉ đăng qua X/Substack —
+      # xem note ở tier_1). Đây là search query Google News tìm bài BÁO KHÁC đưa tin dựa trên
+      # phát biểu của Romano, không phải lời Romano trực tiếp — nguồn gốc mỗi item rất khác nhau
+      # (đã fetch thấy Football365, TEAMtalk, Talk Chelsea, GiveMeSport lẫn lộn), nên xếp Tier 2
+      # (không phải Tier 1) dù nội dung THAM CHIẾU tới 1 nguồn Tier 1 thật.
+      # Rủi ro đã biết: endpoint /rss/search của Google News không official, có thể đổi/gãy bất kỳ lúc nào.
+      # scope="general" (không phải "team"): Google match cả bài KHÔNG thực sự về MUFC (VD tin
+      # Haaland-Real Madrid, Liverpool ký hợp đồng) vì index cả nội dung ẩn trong bài, không chỉ
+      # tiêu đề — field "summary" của Google News RSS chỉ lặp lại tiêu đề, không phải nội dung
+      # thật nên không dùng để lọc được, phải để bộ lọc từ khoá tự loại theo tiêu đề.
+      verified: true
+      scope: "general"
+    - name: "Google News: David Ornstein"
+      type: "aggregator"
+      website: "https://news.google.com/rss/search?q=%22David+Ornstein%22+%22Manchester+United%22&hl=en-GB&gl=GB&ceid=GB:en"
+      rss: "https://news.google.com/rss/search?q=%22David+Ornstein%22+%22Manchester+United%22&hl=en-GB&gl=GB&ceid=GB:en"
+      # Tương tự Google News: Fabrizio Romano ở trên — thay thế cho The Athletic (paywall, không RSS).
+      verified: true
+      scope: "general"
 
 tier_3:
   description: "Không đáng tin nếu đứng một mình, thiên clickbait"
