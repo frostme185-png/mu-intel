@@ -1,0 +1,857 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T12:19:04.358972+00:00",
+  "match_data": {
+    "collected_at": "2026-07-13T12:18:44.856669+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United latest: £38m star 'contacted' after transfer collapse as midfield plan hatched",
+      "items": [
+        {
+          "title": "Man United latest: £38m star 'contacted' after transfer collapse as midfield plan hatched",
+          "summary": "Michael Carrick will lead Manchester United into the new season after significantly turning around their previous campaign",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-carrick-midfield-plan-34278465",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Midfield plan emerges as 'contact made' with £38m star after transfer collapse",
+          "summary": "Manchester United will be led into the new season by Michael Carrick after he drastically turned around their previous campaign",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-michael-carrick-plan-37420870",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United star left manager furious after leaving pre-season tour for birth of son",
+      "items": [
+        {
+          "title": "Man United star left manager furious after leaving pre-season tour for birth of son",
+          "summary": "Manchester United were once rocked by tensions between player and manager after the star forward abandoned pre-season to witness the birth of his son",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-martial-mourinho-preseason-34277533",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 03:00:00 +0000"
+        },
+        {
+          "title": "Day two of pre-season",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uugwga/day_two_of_preseason/\"> <img alt=\"Day two of pre-season\" src=\"https://external-preview.redd.it/l-_goEOAL-eeVjSafPwlox5ndRGgOEeVrmx6yRmmvUg.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ea74b7b0524abf97dc4391275fc682b9b1bc8e3a\" title=\"Day two of pre-season\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://youtu.be/4Oeu-tOvXcE?si=ZtGEePG90gFX0JEL\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uugwga/day_two_of_preseason/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uugwga/day_two_of_preseason/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-12T14:24:46+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "r/reddevils"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Alejandro Garnacho to hand Manchester United second payday as transfer 'agreed'",
+      "items": [
+        {
+          "title": "Alejandro Garnacho to hand Manchester United second payday as transfer 'agreed'",
+          "summary": "Alejandro Garnacho has struggled at Chelsea with the former Manchester United winger potentially set to be on the move again this summer amid interest from Italy",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-alejandro-garnacho-greenwood-34279204",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 17:33:47 +0000"
+        },
+        {
+          "title": "Man Utd set for double payday after Alejandro Garnacho as transfer 'agreed'",
+          "summary": "Manchester United are in line for fresh financial windfalls in the summer transfer window",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/garnacho-greenwood-man-utd-chelsea-37421886",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 17:59:48 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne and Coleen Rooney make feelings perfectly clear as Kai's Man United ban officially lifted",
+      "items": [
+        {
+          "title": "Wayne and Coleen Rooney make feelings perfectly clear as Kai's Man United ban officially lifted",
+          "summary": "Wayne Rooney and Coleen Rooney have both reacted to the latest news surrounding their son at Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/kai-rooney-man-united-ban-34277899",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 10:51:42 +0000"
+        },
+        {
+          "title": "Wayne and Coleen Rooney react as Man Utd ban on Kai finally expires",
+          "summary": "Wayne Rooney and Coleen Rooney made their feelings clear after a Manchester United announcement about their son",
+          "url": "https://www.mirror.co.uk/sport/football/news/kai-rooney-man-utd-ban-37420727",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 12:10:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United in advanced talks to sign Youri Tielemans from Aston Villa",
+      "items": [
+        {
+          "title": "Manchester United in advanced talks to sign Youri Tielemans from Aston Villa",
+          "summary": "<ul><li><p>Midfielder thought to have £35m release clause </p></li><li><p>Move comes as deal for Éderson from Atalanta stalls</p></li></ul><p>Manchester United are closing in on the signing of Youri Tielemans from Aston Villa after their move for the Atalanta midfielder Éderson stalled.</p><p>Jason Wilcox, United’s director of football, is in advanced talks with Villa regarding a financial package for Tielemans. The 29-year-old, who was part of Belgium’s World Cup squad, is thought to have a £35m release clause in his contract, which has two years remaining.</p> <a href=\"https://www.theguardian.com/football/2026/jul/13/manchester-united-in-advanced-talks-to-sign-youri-tielemans-from-aston-villa\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/jul/13/manchester-united-in-advanced-talks-to-sign-youri-tielemans-from-aston-villa",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 10:56:57 GMT"
+        },
+        {
+          "title": "[David Ornstein] Youri Tielemans move from Aston Villa to Manchester United through £35m release clause in midfielder’s contract. #AVFC had no wish to sell + offered new deal but left with little choice due to mechanism & #MUFC set to proceed on transfer",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uv7jjb/david_ornstein_youri_tielemans_move_from_aston/\"> <img alt=\"[David Ornstein] Youri Tielemans move from Aston Villa to Manchester United through £35m release clause in midfielder’s contract. #AVFC had no wish to sell + offered new deal but left with little choice due to mechanism &amp; #MUFC set to proceed on transfer\" src=\"https://external-preview.redd.it/1V95-ny6qFHdV9V3XsSzrRsjDflBErT61cO6zphceeM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=596dce3c27870923b998d5fdd48946e41a60ed9c\" title=\"[David Ornstein] Youri Tielemans move from Aston Villa to Manchester United through £35m release clause in midfielder’s contract. #AVFC had no wish to sell + offered new deal but left with little choice due to mechanism &amp; #MUFC set to proceed on transfer\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/oklolzzzzs\"> /u/oklolzzzzs </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7440313/2026/07/13/youri-tielemans-manchester-united-aston-villa-transfer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv7jjb/david_ornstein_youri_tielemans_move_from_aston/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv7jjb/david_ornstein_youri_tielemans_move_from_aston/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T10:18:59+00:00"
+        },
+        {
+          "title": "[David Ornstein] Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uv71fp/david_ornstein_manchester_united_are_in_advanced/\"> <img alt=\"[David Ornstein] Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa\" src=\"https://external-preview.redd.it/NQ14joA79erICLljv7oAUurYGf0FmHoXDZee6--fzeQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d66b03e5609b17ce10c185ab1de020bacd98970b\" title=\"[David Ornstein] Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Manchester United are in advanced talks to sign Youri Tielemans from Aston Villa.</p> <p>Tielemans is under contract until June 2028 but United have identified an opportunity to land the 29-year-old midfielder and despite interest from elsewhere, he favours a move to Old Trafford.</p> <p>Contact is ongoing between all parties to finalise the transfer, which comes as something of a surprise but would add much-needed quality and experience to an area of the field United have been prioritising this summer.</p> <p>Their pursuit follows the decision to abandon a move for Atalanta midfielder Ederson at present.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7440313/2026/07/13/youri-tielemans-manchester-united-aston-villa-transfer/?unlocked_article_code=1.xVA.AMfb.eoB76nx_VhSv&amp;source=athletic_user_shared_gift_article_reddit&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv71fp/david_ornstein_manchester_united_are_in_advanced/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv71fp/david_ornstein_manchester_united_are_in_advanced/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T09:51:36+00:00"
+        },
+        {
+          "title": "[John Percy] avfc news - Youri Tielemans has a release clause of £35m and a transfer to Manchester United is regarded as very likely. Villa are in the final stages of signing Freiburg midfielder Johan Manzambi in a club record deal",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uv766f/john_percy_avfc_news_youri_tielemans_has_a/\"> <img alt=\"[John Percy] avfc news - Youri Tielemans has a release clause of £35m and a transfer to Manchester United is regarded as very likely. Villa are in the final stages of signing Freiburg midfielder Johan Manzambi in a club record deal\" src=\"https://preview.redd.it/etdswleuzych1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d606db68ab3fb919dd3677e668aa3f61e39f6e9\" title=\"[John Percy] avfc news - Youri Tielemans has a release clause of £35m and a transfer to Manchester United is regarded as very likely. Villa are in the final stages of signing Freiburg midfielder Johan Manzambi in a club record deal\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://i.redd.it/etdswleuzych1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv766f/john_percy_avfc_news_youri_tielemans_has_a/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv766f/john_percy_avfc_news_youri_tielemans_has_a/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T09:59:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United transfer news LIVE: £35m Youri Tielemans move, Ederson latest and treble announcement",
+      "items": [
+        {
+          "title": "Man United transfer news LIVE: £35m Youri Tielemans move, Ederson latest and treble announcement",
+          "summary": "Manchester United are looking to be active in the transfer window and are closing in on three new arrivals.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34277648",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 11:46:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Tielemans shock, Ederson negotiations, Santos deal - Man United's midfield transfer plans explained",
+      "items": [
+        {
+          "title": "Tielemans shock, Ederson negotiations, Santos deal - Man United's midfield transfer plans explained",
+          "summary": "Manchester United's hunt to bolster their midfield stepped up a notch on Monday morning with a couple of major developments",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/tielemans-shock-ederson-negotiations-santos-34281960",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 11:40:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Youri Tielemans to Man United transfer bombshell throws Joao Gomes curveball",
+      "items": [
+        {
+          "title": "Youri Tielemans to Man United transfer bombshell throws Joao Gomes curveball",
+          "summary": "Wolves star Joao Gomes has previously been heavily linked with a move to Manchester United this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-transfer-gomes-tielemans-34281895",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 11:36:51 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Youri Tielemans set for shock Manchester United move as midfield rebuild continues",
+      "items": [
+        {
+          "title": "Youri Tielemans set for shock Manchester United move as midfield rebuild continues",
+          "summary": "Man Utd are closing in on a surprise move for Aston Villa midfielder Youri Tielemans, who is keen to join the club.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/youri-tielemans-set-shock-manchester-34281306",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 10:12:45 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ederson transfer truth as Manchester United consider fresh bid after latest twist",
+      "items": [
+        {
+          "title": "Ederson transfer truth as Manchester United consider fresh bid after latest twist",
+          "summary": "Man Utd had agreed a deal with Atalanta for midfielder Ederson but the signing is now uncertain amid reports it has been called off.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/ederson-transfer-truth-manchester-united-34280444",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 09:27:34 +0000"
+        },
+        {
+          "title": "Ederson transfer saga takes fresh twist with dramatic proposal after Man United clarification",
+          "summary": "The transfer saga of Ederson to Manchester United has dragged on this summer, and there is a new update on the Brazilian ace's future",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/ederson-manchester-united-transfer-atalanta-34280157",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 08:15:32 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Kai Rooney and Jacey Carrick speak out after signing Manchester United academy deals",
+      "items": [
+        {
+          "title": "Kai Rooney and Jacey Carrick speak out after signing Manchester United academy deals",
+          "summary": "Man Utd announced their latest group of first-year scholars last week, following a signing ceremony at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/kai-rooney-jacey-carrick-speak-34280104",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 08:22:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United's 100,000 seat stadium is the catalyst... but the plans go far beyond that",
+      "items": [
+        {
+          "title": "Manchester United's 100,000 seat stadium is the catalyst... but the plans go far beyond that",
+          "summary": "Trafford Council's leader has spoken out about the plans to transform the Wharfside",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-uniteds-100000-seat-stadium-34268753",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 05:02:28 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United's new transfer strategy is under scrutiny ahead of new arrival",
+      "items": [
+        {
+          "title": "Manchester United's new transfer strategy is under scrutiny ahead of new arrival",
+          "summary": "Man United have signed a handful of youngsters with high potential from abroad over the last two years.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-new-transfer-strategy-34278288",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United transfer U-turn could give them what they need",
+      "items": [
+        {
+          "title": "Manchester United transfer U-turn could give them what they need",
+          "summary": "Man United's search for their Casemiro replacement took another unexpected turn last week",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-transfer-u-turn-34278446",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United discover asking price to sign World Cup star who 'agreed terms with Arsenal'",
+      "items": [
+        {
+          "title": "Man United discover asking price to sign World Cup star who 'agreed terms with Arsenal'",
+          "summary": "Manu Kone has been linked with Manchester United and Arsenal this summer with both teams keen to strengthen their midfields ahead of the new season in August",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-kone-34279018",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 16:16:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "JJ Gabriel, Shea Lacey, Tyler Fletcher - the Man United youngsters ready to shine in pre-season",
+      "items": [
+        {
+          "title": "JJ Gabriel, Shea Lacey, Tyler Fletcher - the Man United youngsters ready to shine in pre-season",
+          "summary": "Manchester United head coach Michael Carrick will give opportunities to several youngsters in pre-season friendlies across the next few weeks.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/jj-gabriel-shea-lacey-tyler-34278384",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 15:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Ederson to Man United transfer latest: U-turn reports, medical truth, club stance and fee",
+      "items": [
+        {
+          "title": "Ederson to Man United transfer latest: U-turn reports, medical truth, club stance and fee",
+          "summary": "Manchester United's pursuit of Atalanta midfielder Ederson has been thrown into doubt in recent days amid claims the Reds have backed out",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/ederson-man-united-transfer-latest-34278140",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 12:31:53 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United should consider signing their former striker for next season",
+      "items": [
+        {
+          "title": "Manchester United should consider signing their former striker for next season",
+          "summary": "Man Utd are considering their options to strengthen their attack this summer and a former Reds player should be considered.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-should-consider-signing-34277856",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 12:02:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Incoming Manchester United signing faces familiar problem",
+      "items": [
+        {
+          "title": "Incoming Manchester United signing faces familiar problem",
+          "summary": "Man United are on the verge of officially announcing the arrival of Karl Darlow following his departure from Leeds at the end of last season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/incoming-manchester-united-signing-faces-34277677",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 10:35:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United midfielder Kobbie Mainoo snubbed again at World Cup",
+      "items": [
+        {
+          "title": "Manchester United midfielder Kobbie Mainoo snubbed again at World Cup",
+          "summary": "Man Utd midfielder Kobbie Mainoo fought hard to be included in England's squad for this summer's World Cup.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-midfielder-kobbie-mainoo-34277673",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 12 Jul 2026 09:37:21 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Transfer news LIVE: Youri Tielemans to Man Utd deal, Julian Alvaraz latest, Bruno Guimaraes update",
+      "items": [
+        {
+          "title": "Transfer news LIVE: Youri Tielemans to Man Utd deal, Julian Alvaraz latest, Bruno Guimaraes update",
+          "summary": "The latest transfer news, including updates on Julian Alvarez, Tottenham's next lucrative transfer quest and Manchester United's ongoing deals",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37422589",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 11:44:28 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd push to finalise £35m Youri Tielemans transfer with impact on Ederson deal clear",
+      "items": [
+        {
+          "title": "Man Utd push to finalise £35m Youri Tielemans transfer with impact on Ederson deal clear",
+          "summary": "Manchester United are closing in on the signing of Aston Villa playmaker Youri Tielemans, paying a £35million release clause in his contract to take him from Villa Park to Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-tielemans-transfer-ederson-37423643",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 09:59:05 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd's latest position on £38m Ederson transfer with fresh deal to be offered",
+      "items": [
+        {
+          "title": "Man Utd's latest position on £38m Ederson transfer with fresh deal to be offered",
+          "summary": "As the never-ending transfer saga around Ederson's move to Manchester United continues to rumble on, a fresh update has been made",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-ederson-37423066",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 09:24:51 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd star hit back at manager after £180,000 fine for abandoning pre-season",
+      "items": [
+        {
+          "title": "Man Utd star hit back at manager after £180,000 fine for abandoning pre-season",
+          "summary": "One Manchester United star was fined £180,000 and publicly criticised by his manager after bailing on the club's pre-season to attend his child's birth",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-mourinho-martial-fine-37420622",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 13 Jul 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ornstein: Man United “to proceed” on surprise £35m transfer of “outstanding” World Cup star",
+      "items": [
+        {
+          "title": "Ornstein: Man United “to proceed” on surprise £35m transfer of “outstanding” World Cup star",
+          "summary": "<p>Manchester United are proceeding with the transfer of Aston Villa midfielder Youri Tielemans, according to a surprise exclusive dropped today by David Ornstein. The Athletic journalist has posted on X about Man Utd being in advanced talks to sign Tielemans, who has been a star performer for Villa, and who also shone for the Belgian [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/13/man-united-youri-tielemans-transfer-ornstein/\">Ornstein: Man United &#8220;to proceed&#8221; on surprise £35m transfer of &#8220;outstanding&#8221; World Cup star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/13/man-united-youri-tielemans-transfer-ornstein/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 13 Jul 2026 10:48:56 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United plot transfer hijack on Man City as €80m midfield race intensifies",
+      "items": [
+        {
+          "title": "Man United plot transfer hijack on Man City as €80m midfield race intensifies",
+          "summary": "<p>Manchester United’s search for midfield reinforcements could lead them into direct competition with Manchester City for one of the breakout stars of the World Cup. United need more composure, mobility and long-term quality in central areas, but the growing demand for Europe’s best young players means any deal is likely to be expensive. DOWNLOAD THE [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/13/man-united-plot-transfer-hijack-on-man-city/\">Man United plot transfer hijack on Man City as €80m midfield race intensifies</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/13/man-united-plot-transfer-hijack-on-man-city/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 13 Jul 2026 09:01:45 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United ready to finance blockbuster move for England’s World Cup hero",
+      "items": [
+        {
+          "title": "Man United ready to finance blockbuster move for England’s World Cup hero",
+          "summary": "<p>Manchester United’s search for an elite centre-forward could eventually lead them back to one of the biggest names in English football. The club are understood to be watching developments in Germany closely, knowing that a rare opening may appear if Bayern Munich fail to secure their star striker on a new contract. DOWNLOAD THE OFFICIAL [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/13/man-united-ready-finance-blockbuster-move-attacker/\">Man United ready to finance blockbuster move for England&#8217;s World Cup hero</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/13/man-united-ready-finance-blockbuster-move-attacker/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 13 Jul 2026 08:56:40 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano confirms attacker in World Cup semifinal to hold talks with Man United soon",
+      "items": [
+        {
+          "title": "Romano confirms attacker in World Cup semifinal to hold talks with Man United soon",
+          "summary": "<p>Manchester United could be preparing to reopen a chapter that appeared finished only a few months ago. After spending more than a year away from Old Trafford on loan, one of the club’s most recognisable academy graduates is expected to return for pre-season and discuss whether he can rebuild his career under Michael Carrick. DOWNLOAD [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/13/romano-confirms-attacker-world-cup-talks-man-united/\">Romano confirms attacker in World Cup semifinal to hold talks with Man United soon</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/13/romano-confirms-attacker-world-cup-talks-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 13 Jul 2026 07:34:35 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sources: Man United to explore Joao Gomes deal after 'agreement' with another player",
+      "items": [
+        {
+          "title": "Sources: Man United to explore Joao Gomes deal after 'agreement' with another player",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/transfers/sources-man-united-to-explore-joao-gomes-deal-after-agreement-with-another-player",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Mon, 13 Jul 2026 11:45:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv9kxc/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv9kxc/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv9kxc/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T12:01:50+00:00"
+        },
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uueuyt/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uueuyt/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uueuyt/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-12T13:00:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Megathread] Youri Tielemans",
+      "items": [
+        {
+          "title": "[Megathread] Youri Tielemans",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>£35m release clause being activated</p> <p>Ornstein - <a href=\"https://www.nytimes.com/athletic/7440313/2026/07/13/youri-tielemans-manchester-united-aston-villa-transfer/\">https://www.nytimes.com/athletic/7440313/2026/07/13/youri-tielemans-manchester-united-aston-villa-transfer/</a> </p> <p>Percy - <a href=\"https://www.telegraph.co.uk/football/2026/07/13/man-utd-to-sign-youri-tielemans-trigger-35m-release-clause/\">https://www.telegraph.co.uk/football/2026/07/13/man-utd-to-sign-youri-tielemans-trigger-35m-release-clause/</a></p> <p>Stone - <a href=\"https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo\">https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv7jx9/megathread_youri_tielemans/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv7jx9/megathread_youri_tielemans/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv7jx9/megathread_youri_tielemans/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T10:19:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Nathan Salt] £85m - Mateus Fernandes £85m - Youri Tielemans + Andrey Santos",
+      "items": [
+        {
+          "title": "[Nathan Salt] £85m - Mateus Fernandes £85m - Youri Tielemans + Andrey Santos",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uv7p4t/nathan_salt_85m_mateus_fernandes_85m_youri/\"> <img alt=\"[Nathan Salt] £85m - Mateus Fernandes £85m - Youri Tielemans + Andrey Santos\" src=\"https://preview.redd.it/0i58gnzt4zch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=773b864dda53b58b951ebe5ab9e699bc1c0075dc\" title=\"[Nathan Salt] £85m - Mateus Fernandes £85m - Youri Tielemans + Andrey Santos\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/phant0msinthenight\"> /u/phant0msinthenight </a> <br /> <span><a href=\"https://i.redd.it/0i58gnzt4zch1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv7p4t/nathan_salt_85m_mateus_fernandes_85m_youri/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv7p4t/nathan_salt_85m_mateus_fernandes_85m_youri/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T10:27:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Stone, in article: sources say the Ederson transfer could be resurrected later in the summer depending how the window develops for United, although the club would not be prepared to sanction any move at the previously agreed terms.",
+      "items": [
+        {
+          "title": "Stone, in article: sources say the Ederson transfer could be resurrected later in the summer depending how the window develops for United, although the club would not be prepared to sanction any move at the previously agreed terms.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uv8vl9/stone_in_article_sources_say_the_ederson_transfer/\"> <img alt=\"Stone, in article: sources say the Ederson transfer could be resurrected later in the summer depending how the window develops for United, although the club would not be prepared to sanction any move at the previously agreed terms.\" src=\"https://external-preview.redd.it/2LelcEM5_AyExNd0yBXne1fuVEoeZPahlvLkU31wwgE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c34cf779c4e8a9f496b402b965fa1104f4249ff\" title=\"Stone, in article: sources say the Ederson transfer could be resurrected later in the summer depending how the window develops for United, although the club would not be prepared to sanction any move at the previously agreed terms.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.bbc.co.uk/sport/football/articles/cn07dpgkj4eo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv8vl9/stone_in_article_sources_say_the_ederson_transfer/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv8vl9/stone_in_article_sources_say_the_ederson_transfer/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T11:28:25+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Wheeler] Sources say part of Ederson's medical was done in the US following his late call-up to the WC with Brazil. This showed up an issue, and Utd decided to pull the plug after full medical last week",
+      "items": [
+        {
+          "title": "[Wheeler] Sources say part of Ederson's medical was done in the US following his late call-up to the WC with Brazil. This showed up an issue, and Utd decided to pull the plug after full medical last week",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uv9h2n/wheeler_sources_say_part_of_edersons_medical_was/\"> <img alt=\"[Wheeler] Sources say part of Ederson's medical was done in the US following his late call-up to the WC with Brazil. This showed up an issue, and Utd decided to pull the plug after full medical last week\" src=\"https://preview.redd.it/marr5pnykzch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cacc70d1e5b878a67d6621925137552f1f7f9a67\" title=\"[Wheeler] Sources say part of Ederson's medical was done in the US following his late call-up to the WC with Brazil. This showed up an issue, and Utd decided to pull the plug after full medical last week\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/marr5pnykzch1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv9h2n/wheeler_sources_say_part_of_edersons_medical_was/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv9h2n/wheeler_sources_say_part_of_edersons_medical_was/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T11:57:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Andy Mitten] Manchester United’s greatest players: No 17, Paddy Crerand",
+      "items": [
+        {
+          "title": "[Andy Mitten] Manchester United’s greatest players: No 17, Paddy Crerand",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uv4jcr/andy_mitten_manchester_uniteds_greatest_players/\"> <img alt=\"[Andy Mitten] Manchester United’s greatest players: No 17, Paddy Crerand\" src=\"https://external-preview.redd.it/7G0p5sNlTICPIUsvYzG7yY2sM8otV-ImzgeT6olVRUY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e527e3cb2252cc86390c7a2ae99b9284d136ec35\" title=\"[Andy Mitten] Manchester United’s greatest players: No 17, Paddy Crerand\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7436406/2026/07/13/manchester-united-greatest-players-paddy-crerand/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uv4jcr/andy_mitten_manchester_uniteds_greatest_players/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uv4jcr/andy_mitten_manchester_uniteds_greatest_players/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T07:24:44+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes on IG: “HB my boy 😘 @LukeShaw23”",
+      "items": [
+        {
+          "title": "Bruno Fernandes on IG: “HB my boy 😘 @LukeShaw23”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uugutu/bruno_fernandes_on_ig_hb_my_boy_lukeshaw23/\"> <img alt=\"Bruno Fernandes on IG: “HB my boy 😘 @LukeShaw23”\" src=\"https://preview.redd.it/arp0oj7r5tch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2220f5f1ed49979839c8f2f1aa9aa064ee4f6c7\" title=\"Bruno Fernandes on IG: “HB my boy 😘 @LukeShaw23”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/arp0oj7r5tch1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uugutu/bruno_fernandes_on_ig_hb_my_boy_lukeshaw23/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uugutu/bruno_fernandes_on_ig_hb_my_boy_lukeshaw23/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-12T14:22:53+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "(Former Reds): Diego Forlán Takes Charge of Uruguay After World Cup Disappointment",
+      "items": [
+        {
+          "title": "(Former Reds): Diego Forlán Takes Charge of Uruguay After World Cup Disappointment",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uurcq9/former_reds_diego_forlán_takes_charge_of_uruguay/\"> <img alt=\"(Former Reds): Diego Forlán Takes Charge of Uruguay After World Cup Disappointment\" src=\"https://external-preview.redd.it/1nysrOaSiINoJNTnSzJAj0ll6qPpZRAnyUBzELg85_8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=21f1376620d2dc3575e87c43186df8ea055b5a8e\" title=\"(Former Reds): Diego Forlán Takes Charge of Uruguay After World Cup Disappointment\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/InternationalTry5494\"> /u/InternationalTry5494 </a> <br /> <span><a href=\"https://www.beinsports.com/en-us/soccer/fifa-world-cup-2026/articles/diego-forl%C3%A1n-takes-charge-of-uruguay-after-world-cup-disappointment-2026-07-12\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uurcq9/former_reds_diego_forlán_takes_charge_of_uruguay/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uurcq9/former_reds_diego_forlán_takes_charge_of_uruguay/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-12T20:58:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Happy 31st Birthday, Luke Shaw! 🎉⚽ Here's to a stellar start to the new season!",
+      "items": [
+        {
+          "title": "Happy 31st Birthday, Luke Shaw! 🎉⚽ Here's to a stellar start to the new season!",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uubb9r/happy_31st_birthday_luke_shaw_heres_to_a_stellar/\"> <img alt=\"Happy 31st Birthday, Luke Shaw! 🎉⚽ Here's to a stellar start to the new season!\" src=\"https://preview.redd.it/vjivu8nivrch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9db8be62a711094923ceee5182b4f3ff2b43e5de\" title=\"Happy 31st Birthday, Luke Shaw! 🎉⚽ Here's to a stellar start to the new season!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/psilocybinwonderer\"> /u/psilocybinwonderer </a> <br /> <span><a href=\"https://i.redd.it/vjivu8nivrch1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uubb9r/happy_31st_birthday_luke_shaw_heres_to_a_stellar/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uubb9r/happy_31st_birthday_luke_shaw_heres_to_a_stellar/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-12T10:03:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
+      "items": [
+        {
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p>​ <strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> <td align=\"left\">-</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">-</td> <td align=\"left\">Contact Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uuyca4/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uuyca4/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uuyca4/transfer_round_up_discussion_summer_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-13T02:01:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Introducing United's 2026 Academy Scholars",
+      "items": [
+        {
+          "title": "Introducing United's 2026 Academy Scholars",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1uujemt/introducing_uniteds_2026_academy_scholars/\"> <img alt=\"Introducing United's 2026 Academy Scholars\" src=\"https://external-preview.redd.it/iGAs-i21XdthJLMv4a1-DVDqakT6O2jSXFfI1Q7nz8w.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6ad27536ed4f82ec52ba8869a071ed9ede0daae3\" title=\"Introducing United's 2026 Academy Scholars\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=h9vDLhWfEp0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1uujemt/introducing_uniteds_2026_academy_scholars/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1uujemt/introducing_uniteds_2026_academy_scholars/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-12T16:01:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 49,
+    "story_count": 40
+  }
+}
