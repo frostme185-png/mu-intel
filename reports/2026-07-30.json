@@ -1,0 +1,592 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T04:06:17.437225+00:00",
+  "match_data": {
+    "collected_at": "2026-07-30T04:06:10.445497+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Ex-Reds forward Fraizer Campbell and fans on 30 years since Solskjaer signed for United.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p1k302?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 29 Jul 2026 19:06:00 GMT"
+        },
+        {
+          "title": "Ruben Amorim's honest answer on Manchester United came too late - 'Mistakes'",
+          "summary": "AC Milan's head coach Ruben Amorim has spoken honestly about what went wrong during his Man Utd tenure.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/ruben-amorims-honest-answer-manchester-34368631",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 12:25:06 +0000"
+        },
+        {
+          "title": "Defence promises to be a central issue for Carrick and Manchester United",
+          "summary": "<p>Manager may have concerns over his group of five central defenders withstanding the demands of a long campaign</p><p>Manchester United’s central defender quintet of Leny Yoro, Ayden Heaven, Harry Maguire, Matthijs De Ligt and Lisandro Martínez: an ideal blend of youthful zest and experienced winners or a unit that may prove vulnerable and injury-prone across the long months of the campaign?</p><p>In Yoro, Heaven, Maguire, De Ligt, and Martínez, Michael Carrick can talk of high potential and seasoned operators who will patrol the manager’s backline safely. Except it would be understandable if the 44-year-old privately has any concerns about the five defenders, as a unit, especially as there is no plan to strengthen the position unless one (or more) departs.</p> <a href=\"https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/jul/29/manchester-united-michael-carrick-central-defence-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 14:05:09 GMT"
+        },
+        {
+          "title": "Eduardo Camavinga goes against Real Madrid as Man United could save millions on transfer - Manchester Evening News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeF8zUFNneEotck5hWF9tdHdZbXp3Mi15dkhTYnRPcjY4UVB2MVA0ejF4NDk3UE0yZzM2TWhQTlJ5ZkFBZWh5WEZ6MVZHWng1MHFOekRnck9rNDh4S19vb3h6M1MySU5WXzJMSmlMeFh6ai1tSjBxZW91OWNJbmtKRlMyQVhLOHJ6ai1OeDROYlBveDRBbjNMYldVdzBoZ1g4QTZqaUxzRXZCdU05WFRWV09B0gG3AUFVX3lxTE1ZUTRWLU5WNUNDRmhzZ2xHd0ttc0NKWERyRUFYbDdZbnE4NmstWVFhSi1YTDVfQms3ZWw3VXhpV3FKWFhaZ1R3elo0RGtQaHgyZWxmX1BuSGZxMkFjbFVYUmNQUWlzVGx5aS1PaDd0RlFiV2c1ZjNwWE8zWktQYlYzSXF4VDg1cVoyZVNkMEZaQlpndUxhTS1BUjFaSWNFa09VSmtVZjJRM3ZjMXBTN3p3WUs1d1pDSQ?oc=5\" target=\"_blank\">Eduardo Camavinga goes against Real Madrid as Man United could save millions on transfer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manchester Evening News</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeF8zUFNneEotck5hWF9tdHdZbXp3Mi15dkhTYnRPcjY4UVB2MVA0ejF4NDk3UE0yZzM2TWhQTlJ5ZkFBZWh5WEZ6MVZHWng1MHFOekRnck9rNDh4S19vb3h6M1MySU5WXzJMSmlMeFh6ai1tSjBxZW91OWNJbmtKRlMyQVhLOHJ6ai1OeDROYlBveDRBbjNMYldVdzBoZ1g4QTZqaUxzRXZCdU05WFRWV09B0gG3AUFVX3lxTE1ZUTRWLU5WNUNDRmhzZ2xHd0ttc0NKWERyRUFYbDdZbnE4NmstWVFhSi1YTDVfQms3ZWw3VXhpV3FKWFhaZ1R3elo0RGtQaHgyZWxmX1BuSGZxMkFjbFVYUmNQUWlzVGx5aS1PaDd0RlFiV2c1ZjNwWE8zWktQYlYzSXF4VDg1cVoyZVNkMEZaQlpndUxhTS1BUjFaSWNFa09VSmtVZjJRM3ZjMXBTN3p3WUs1d1pDSQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 08:41:00 GMT"
+        },
+        {
+          "title": "Manchester United contacted over 23-year-old PL ace as transfer stance revealed",
+          "summary": "<p>Liam Delap is set to leave Chelsea this summer, and his representatives have offered him to Manchester United. According to TEAMtalk, the striker&#8217;s representatives have also been in contact with Leeds United. It remains to be seen where the 23-year-old ends up. DOWNLOAD THE OFFICIAL CAUGHTOFFSIDE APP FOR ALL THE LATEST &#38; BREAKING UPDATES – [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/29/manchester-united-contacted-over-23-year-old-pl-ace-as-transfer-stance-revealed/\">Manchester United contacted over 23-year-old PL ace as transfer stance revealed</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/29/manchester-united-contacted-over-23-year-old-pl-ace-as-transfer-stance-revealed/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 29 Jul 2026 20:00:07 +0000"
+        },
+        {
+          "title": "Manchester United’s greatest players: No 10, Cristiano Ronaldo",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1v9m4y0/manchester_uniteds_greatest_players_no_10/\"> <img alt=\"Manchester United’s greatest players: No 10, Cristiano Ronaldo\" src=\"https://external-preview.redd.it/rAQYRdLU8GFShviw0-t1__AQxMYmLzSy-moZmxDcxU8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3aed6a67c535e1b679ba7e4afafb9df7c451544d\" title=\"Manchester United’s greatest players: No 10, Cristiano Ronaldo\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/agent619\"> /u/agent619 </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7474498/2026/07/29/manchester-uniteds-greatest-players-cristiano-ronaldo/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1v9m4y0/manchester_uniteds_greatest_players_no_10/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1v9m4y0/manchester_uniteds_greatest_players_no_10/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T04:54:47+00:00"
+        },
+        {
+          "title": "[Substack] Finding Manchester United’s Perfect Defensive Midfielder",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1v9o3jj/substack_finding_manchester_uniteds_perfect/\"> <img alt=\"[Substack] Finding Manchester United’s Perfect Defensive Midfielder\" src=\"https://external-preview.redd.it/i4neaByu2c1XeXGmPwA4iFMbs0WsYMpyEnR9leAOhLE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6ca4db0b858b74970129e817647c8d5d2186586\" title=\"[Substack] Finding Manchester United’s Perfect Defensive Midfielder\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Players mentioned in comparison to Ngolo Kante: Sangare, Locatelli, Tchouameni, Camavinga, Lamine Camara, Garner, Antonio Blanco (Alaves), Tom Krauß (Köln)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Tinganga\"> /u/Tinganga </a> <br /> <span><a href=\"https://winterburnonunited.substack.com/p/finding-manchester-uniteds-perfect?utm_campaign=posts-open-in-app&amp;triedRedirect=true\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1v9o3jj/substack_finding_manchester_uniteds_perfect/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1v9o3jj/substack_finding_manchester_uniteds_perfect/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T06:37:02+00:00"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC",
+        "Caught Offside",
+        "Google News: Fabrizio Romano",
+        "The Guardian - Manchester United",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 6,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United 'offered Marcus Rashford swap chance' to complete £51m transfer",
+      "items": [
+        {
+          "title": "Man United 'offered Marcus Rashford swap chance' to complete £51m transfer",
+          "summary": "Marcus Rashford is set to remain at Manchester United for the moment after Barcelona turned down the chance to sign the England star on a permanent deal",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-marcus-rashford-kone-34368351",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 08:25:04 +0000"
+        },
+        {
+          "title": "Marcus Rashford swap deal proposal could trigger £51m Man Utd transfer",
+          "summary": "Manchester United forward Marcus Rashford is set to return to the club, with his future uncertain, but Old Trafford chiefs may have the opportunity to offload the academy product",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-rashford-kone-37488785",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 09:30:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United could finally sell Marcus Rashford for £30m as Premier League rival ‘likeliest option’",
+      "items": [
+        {
+          "title": "Man United could finally sell Marcus Rashford for £30m as Premier League rival ‘likeliest option’",
+          "summary": "Marcus Rashford could ultimately stay in the Premier League beyond this summer but with one of Manchester United's domestic rivals, as Tottenham appear to be emerging as a real option",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-rashford-transfer-news-34374166",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 22:02:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United get final Mauricio Pochettino decision as new contract set to be agreed",
+      "items": [
+        {
+          "title": "Man United get final Mauricio Pochettino decision as new contract set to be agreed",
+          "summary": "Manchester United and Mauricio Pochettino have been linked with each other for a decade now, every time that there has been a change in the dugout at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-man-utd-mauricio-pochettino-34373140",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 15:24:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Four Man United stars can save the club millions in the summer transfer window",
+      "items": [
+        {
+          "title": "Four Man United stars can save the club millions in the summer transfer window",
+          "summary": "Manchester United are looking to make their money stretch in the summer transfer window and four exisiting players could help them do just that",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/four-man-united-stars-can-34370918",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 15:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United can save millions to sign 'one of best strikers in Europe' - on one condition",
+      "items": [
+        {
+          "title": "Man United can save millions to sign 'one of best strikers in Europe' - on one condition",
+          "summary": "Manchester United are reportedly putting contingency plans in place should they sell one star this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/dusan-vlahovic-man-utd-transfer-34370176",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 11:24:07 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Lewis Hall's stance on Man United transfer emerges as Michael Carrick eyes Newcastle star",
+      "items": [
+        {
+          "title": "Lewis Hall's stance on Man United transfer emerges as Michael Carrick eyes Newcastle star",
+          "summary": "Manchester United have been linked with a move for Newcastle United star Lewis Hall as they look to strengthen at left-back this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-lewis-hall-transfer-34369598",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 10:39:21 +0000"
+        },
+        {
+          "title": "Man United latest: Michael Carrick discovers transfer decision as 'talks' over £30m star emerge",
+          "summary": "Manchester United have begun strengthening their squad and have been linked with several other targets during the summer transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-barcelona-bernal-34365569",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Luke Shaw vs Lewis Hall: Man United left-back verdict as £60m transfer links persist",
+      "items": [
+        {
+          "title": "Luke Shaw vs Lewis Hall: Man United left-back verdict as £60m transfer links persist",
+          "summary": "Manchester United continue to be linked with Newcastle defender Lewis Hall this summer as the new season edges closer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/luke-shaw-vs-lewis-hall-34368481",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 09:59:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United 'open to transfers for four players' as training ground plan emerges",
+      "items": [
+        {
+          "title": "Man United 'open to transfers for four players' as training ground plan emerges",
+          "summary": "Manchester United are open to offers for four more players as Michael Carrick continues his Old Trafford rebuild",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/amass-collyer-vitek-man-utd-34368860",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 09:11:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: Marcus Rashford swap deal proposed as Michael Carrick set to axe four players",
+      "items": [
+        {
+          "title": "Man Utd news: Marcus Rashford swap deal proposed as Michael Carrick set to axe four players",
+          "summary": "Michael Carrick's first full Premier League season in charge of Manchester United will soon get underway",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-marcus-rashford-carrick-37491072",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 03:30:00 +0000"
+        },
+        {
+          "title": "Man Utd open to offers for four more players as Michael Carrick wields transfer axe",
+          "summary": "Michael Carrick is continuing his Manchester United rebuild ahead of a return to the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-transfer-michael-carrick-37488415",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 08:35:34 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Transfer news LIVE: Liverpool move 'agreed', Vinicius Jr to Arsenal, Marcus Rashford swap",
+      "items": [
+        {
+          "title": "Transfer news LIVE: Liverpool move 'agreed', Vinicius Jr to Arsenal, Marcus Rashford swap",
+          "summary": "The latest transfer news from Arsenal, Manchester United, Liverpool and more as they look to improve their teams ahead of the Premier League season",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37488176",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 21:55:35 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal target Bruno Guimaraes facing same transfer dilemma that Man Utd stars got wrong",
+      "items": [
+        {
+          "title": "Arsenal target Bruno Guimaraes facing same transfer dilemma that Man Utd stars got wrong",
+          "summary": "The likes of Marcus Rashford and Jadon Sancho face uncertain futures this summer whilst major transfer targets face huge decisions on where they land",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-target-bruno-guimaraes-facing-37492247",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 19:35:36 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ranking Man Utd's four transfer priorities as exit set to change Michael Carrick's plans",
+      "items": [
+        {
+          "title": "Ranking Man Utd's four transfer priorities as exit set to change Michael Carrick's plans",
+          "summary": "Manchester United still have business to do as we head towards the last month of the summer transfer window, and an impending departure is set to change their order of priorities",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-zirkzee-tchouameni-hall-37488451",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 09:57:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Not Man Utd or Liverpool – this is who fans are backing most to win the Premier League",
+      "items": [
+        {
+          "title": "Not Man Utd or Liverpool – this is who fans are backing most to win the Premier League",
+          "summary": "Manchester United and Liverpool enter the new Premier League campaign under the guidance of new permanent bosses but don't feature among the most heavily backed teams to win the title",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-man-utd-liverpool-37480658",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Matheus Cunha put on notice at Man Utd as exciting transfer sealed",
+      "items": [
+        {
+          "title": "Matheus Cunha put on notice at Man Utd as exciting transfer sealed",
+          "summary": "Manchester United have a couple of new faces in attack, which could spell bad news for Matheus Cunha",
+          "url": "https://www.mirror.co.uk/sport/football/news/cunha-man-utd-rashford-thompson-37484320",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 05:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd striker plan takes shape as double signing confirmed: FT Recap - footballtransfers.com",
+      "items": [
+        {
+          "title": "Man Utd striker plan takes shape as double signing confirmed: FT Recap - footballtransfers.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmJJRGhSR3YySnpnbkFSNUJRQktJVjJKOW5QMUhsUmdjLTB0YTVwdzVCbFJmc2ptekgteTNFU1FtNkQ4bVlFUXRmUWJWMHN4T3FMZmtpZ3BGVlpOem1GVFdPalJrSHBfTVE1a2RudDdZTTFtbTcxalMzVFN6UVduMHFsdWpHeTA3cXFmcERqWG1UUUhKXzZuM2NhLU92dTZSODdacFRnamZnRWMxaUNUbkhmN3lzWk9RdGxmUkZUdjVoOWdKYWJhdFNQMzZHcU4xbTBj?oc=5\" target=\"_blank\">Man Utd striker plan takes shape as double signing confirmed: FT Recap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">footballtransfers.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmJJRGhSR3YySnpnbkFSNUJRQktJVjJKOW5QMUhsUmdjLTB0YTVwdzVCbFJmc2ptekgteTNFU1FtNkQ4bVlFUXRmUWJWMHN4T3FMZmtpZ3BGVlpOem1GVFdPalJrSHBfTVE1a2RudDdZTTFtbTcxalMzVFN6UVduMHFsdWpHeTA3cXFmcERqWG1UUUhKXzZuM2NhLU92dTZSODdacFRnamZnRWMxaUNUbkhmN3lzWk9RdGxmUkZUdjVoOWdKYWJhdFNQMzZHcU4xbTBj?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 21:02:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“Here we go”: Danny Welbeck seals Chelsea move, Man United left watching - The Peoples Person",
+      "items": [
+        {
+          "title": "“Here we go”: Danny Welbeck seals Chelsea move, Man United left watching - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1NiSjg0RXJ3S3V5SDc0SnJvQk9VbTlkbk1aTmdib0QtcE1qd2JiUFVBanA2Q2lHSnVPNm16QWtMRThoMHdaUmRhb2VOZzRvOTRIX0hqZnlRZTF2SWthcEJmNzIyN0hYR19kTXMzWUZ3ZDhfZzJfVVJNVTlJT1NrX3U4elgzaGVLQ3oxc3BQNGdmdEY5aUNGNmlSVkhBWm9xYUZtSkU1WTN4aFV0dlQtLWR5Sk5mTVk?oc=5\" target=\"_blank\">“Here we go”: Danny Welbeck seals Chelsea move, Man United left watching</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ1NiSjg0RXJ3S3V5SDc0SnJvQk9VbTlkbk1aTmdib0QtcE1qd2JiUFVBanA2Q2lHSnVPNm16QWtMRThoMHdaUmRhb2VOZzRvOTRIX0hqZnlRZTF2SWthcEJmNzIyN0hYR19kTXMzWUZ3ZDhfZzJfVVJNVTlJT1NrX3U4elgzaGVLQ3oxc3BQNGdmdEY5aUNGNmlSVkhBWm9xYUZtSkU1WTN4aFV0dlQtLWR5Sk5mTVk?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 07:50:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd narrow third midfielder signing search down to TWO 'preferred options' - Football365",
+      "items": [
+        {
+          "title": "Man Utd narrow third midfielder signing search down to TWO 'preferred options' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNMm5zZVBIRjdFbms3Q1JQZHRTRkphNGstTV9LZW9ic2dSb3Y5dUR3amxGYWVBdjF6LTEyc29SaXkzMEVveTJUcDRPbmxPMEF4NDNhSzc2UHVHam9WazNfc1dmNHY0Um5yWHljMEZQSEVUaXN4ektCcm9PQ2F0eWxLeGRBamJaUHYxcVZfalRLcVBld0NNaVBCUWs4WEtpX1ZTU29hdjFUTHAxZElQTlE?oc=5\" target=\"_blank\">Man Utd narrow third midfielder signing search down to TWO 'preferred options'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMm5zZVBIRjdFbms3Q1JQZHRTRkphNGstTV9LZW9ic2dSb3Y5dUR3amxGYWVBdjF6LTEyc29SaXkzMEVveTJUcDRPbmxPMEF4NDNhSzc2UHVHam9WazNfc1dmNHY0Um5yWHljMEZQSEVUaXN4ektCcm9PQ2F0eWxLeGRBamJaUHYxcVZfalRLcVBld0NNaVBCUWs4WEtpX1ZTU29hdjFUTHAxZElQTlE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 09:25:07 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Transfer rumors, news: Everton's Ndiaye on Man United radar - ESPN",
+      "items": [
+        {
+          "title": "Transfer rumors, news: Everton's Ndiaye on Man United radar - ESPN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZktFZlZyanJ4ajhUN093ZE93Zm5Ia1FlUmdtTUJ1S2xsSEZPN0gxamJZd3BHOElkNnowd25uTlE4R3BVRlhrc0NhSW9Ud182N2ZadkUwQkxJU2d3Qm05UktXNFB3S1FaVGJuODBFRWdHVkZCUFJDeEpSdFVoUTJsYUdXUnJ4Qm9uSGNuV3NoYUtCd09Kd0xJYU9xcGVYdFhqNm1KMUJuRmVNT3gwa3BjUkM3WTIxcDVsZjFmUGE2MEVKMHYyVk1yNA?oc=5\" target=\"_blank\">Transfer rumors, news: Everton's Ndiaye on Man United radar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZktFZlZyanJ4ajhUN093ZE93Zm5Ia1FlUmdtTUJ1S2xsSEZPN0gxamJZd3BHOElkNnowd25uTlE4R3BVRlhrc0NhSW9Ud182N2ZadkUwQkxJU2d3Qm05UktXNFB3S1FaVGJuODBFRWdHVkZCUFJDeEpSdFVoUTJsYUdXUnJ4Qm9uSGNuV3NoYUtCd09Kd0xJYU9xcGVYdFhqNm1KMUJuRmVNT3gwa3BjUkM3WTIxcDVsZjFmUGE2MEVKMHYyVk1yNA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 29 Jul 2026 15:30:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1va5khc/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1va5khc/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1va5khc/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T19:01:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
+      "items": [
+        {
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p><strong>Men's Team</strong>​ </p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrey Santos</td> <td align=\"left\">CM</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£48m + £2m</td> </tr> <tr> <td align=\"left\">Karl Darlow</td> <td align=\"left\">GK</td> <td align=\"left\">Leeds Utd</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Youri Tielemans</td> <td align=\"left\">CM</td> <td align=\"left\">Aston Villa</td> <td align=\"left\">£35m</td> </tr> <tr> <td align=\"left\">Tynan Thompson</td> <td align=\"left\">LW</td> <td align=\"left\">Tottenham Hotspur</td> <td align=\"left\">£4m + £4m</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">Inter Miami</td> <td align=\"left\">Contact Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> </tbody></table> <p><strong>Women's Team</strong></p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrea Medina</td> <td align=\"left\">LB</td> <td align=\"left\">Atletico Madrid</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Janina Leitzig</td> <td align=\"left\">GK</td> <td align=\"left\">Leicester City</td> <td align=\"left\">Undisclosed Fee</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Millie Turner</td> <td align=\"left\">CB</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed Fee</td> </tr> <tr> <td align=\"left\">Hannah Blundell </td> <td align=\"left\">FB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Melvine Malard</td> <td align=\"left\">ST</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£850k</td> </tr> <tr> <td align=\"left\">Leah Galton</td> <td align=\"left\">FW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Lisa Naalsund</td> <td align=\"left\">MF</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed fee</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1v9qnck/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1v9qnck/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1v9qnck/transfer_round_up_discussion_summer_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T09:01:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Matthijs de Ligt on Instagram",
+      "items": [
+        {
+          "title": "Matthijs de Ligt on Instagram",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1va3u7g/matthijs_de_ligt_on_instagram/\"> <img alt=\"Matthijs de Ligt on Instagram\" src=\"https://external-preview.redd.it/bWRxMmd0cHlqN2doMfMfxIvnW26RTR9Cp6ex3LyWziI39pt7_VK-fW8F9fuL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d0d27cef8cf6a35ab5ab9a8d779d5055ad7904ef\" title=\"Matthijs de Ligt on Instagram\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/7dbxh6oyj7gh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1va3u7g/matthijs_de_ligt_on_instagram/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1va3u7g/matthijs_de_ligt_on_instagram/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T18:00:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Adam Marshall] Snapdragon Cup at stake on Saturday",
+      "items": [
+        {
+          "title": "[Adam Marshall] Snapdragon Cup at stake on Saturday",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.manutd.com/en/news/snapdragon-cup-at-stake-on-saturday-versus-atletico-madrid\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1va361k/adam_marshall_snapdragon_cup_at_stake_on_saturday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1va361k/adam_marshall_snapdragon_cup_at_stake_on_saturday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T17:36:52+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Chris Wheeler] The six United wonderkids on brink of first team after wowing Carrick, and 4 youngsters who’ve been told they can leave",
+      "items": [
+        {
+          "title": "[Chris Wheeler] The six United wonderkids on brink of first team after wowing Carrick, and 4 youngsters who’ve been told they can leave",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1v9qdc9/chris_wheeler_the_six_united_wonderkids_on_brink/\"> <img alt=\"[Chris Wheeler] The six United wonderkids on brink of first team after wowing Carrick, and 4 youngsters who’ve been told they can leave\" src=\"https://external-preview.redd.it/6VmTY3xUMDDSRfyZm0jRHLj6wSODNo9QTqcuHwEmovs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b084690f2eff74f8efd73d8d9e3cb0e86915d6c0\" title=\"[Chris Wheeler] The six United wonderkids on brink of first team after wowing Carrick, and 4 youngsters who’ve been told they can leave\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-16010273/Manchester-United-academy-wonderkids-Carrick.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1v9qdc9/chris_wheeler_the_six_united_wonderkids_on_brink/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1v9qdc9/chris_wheeler_the_six_united_wonderkids_on_brink/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T08:45:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "New faces back in training",
+      "items": [
+        {
+          "title": "New faces back in training",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1va0si1/new_faces_back_in_training/\"> <img alt=\"New faces back in training\" src=\"https://external-preview.redd.it/Q934sXd0b7amFOlmRSgOAxSCGc1JH1QNma2U6p5crQE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=0ab7fea0d8749a1137d2c6c991b95417ef3ba5fd\" title=\"New faces back in training\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://youtu.be/SUdIGGZ00Cc?si=8ggKTCpLrUziFnCR\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1va0si1/new_faces_back_in_training/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1va0si1/new_faces_back_in_training/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T16:14:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Thirty years ago today, Ole became a Red. Every Goal | Ole Gunnar Solskjaer",
+      "items": [
+        {
+          "title": "Thirty years ago today, Ole became a Red. Every Goal | Ole Gunnar Solskjaer",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=y3eVIJ9dAN8\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1v9pbtx/thirty_years_ago_today_ole_became_a_red_every/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1v9pbtx/thirty_years_ago_today_ole_became_a_red_every/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-07-29T07:45:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 35,
+    "story_count": 26
+  }
+}
