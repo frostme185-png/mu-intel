@@ -1,0 +1,515 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T04:23:51.761238+00:00",
+  "match_data": {
+    "collected_at": "2026-07-31T04:23:43.297813+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Fraizer Campbell and United fans have their say on Mason Mount and the midfield revamp.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p1t1zq?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 30 Jul 2026 18:48:00 GMT"
+        },
+        {
+          "title": "Debut delayed and contract situation clarified - Manchester United Academy Notebook",
+          "summary": "This week's Man Utd Academy Notebook features a contract clarification, an update on a new signing and more.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/debut-delayed-contract-situation-clarified-34362802",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Manchester United have a £170million problem in Lewis Hall transfer chase",
+          "summary": "Newcastle defender Lewis Hall has been tracked by Man Utd but it's unlikely he will leave St. James' Park this summer.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-170million-problem-lewis-34371207",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Man United transfer news LIVE: Marcus Rashford 'option', Dusan Vlahovic latest, striker 'offer' - Manchester Evening News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaFhMNXNwYnRieVFPWEZEY05RYmtPNmRNcnBHbm1OMHR1bGs4OC1NaFY0UmN2Nk5CdzVLTEQwM0FLMWpzS241NHlSWV96bmlvME12TXcyc1lHQVlzaXBYUFBDN0JSanVNOXpzOXdYLVZpYm9qandvcGxTTGUwYXJCdG9keGdTZkZSdmVaeV9DTmRnXzRWSndzSndXTksyZDlqcmRoQjg0WXV0WjQ?oc=5\" target=\"_blank\">Man United transfer news LIVE: Marcus Rashford 'option', Dusan Vlahovic latest, striker 'offer'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manchester Evening News</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaFhMNXNwYnRieVFPWEZEY05RYmtPNmRNcnBHbm1OMHR1bGs4OC1NaFY0UmN2Nk5CdzVLTEQwM0FLMWpzS241NHlSWV96bmlvME12TXcyc1lHQVlzaXBYUFBDN0JSanVNOXpzOXdYLVZpYm9qandvcGxTTGUwYXJCdG9keGdTZkZSdmVaeV9DTmRnXzRWSndzSndXTksyZDlqcmRoQjg0WXV0WjQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 21:54:25 GMT"
+        },
+        {
+          "title": "Manchester United to sell Marcus Rashford to Cristiano Ronaldo's Al-Nassr? Fabrizio Romano says... - theweek.in",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczVpWTAyYkg2dUM3R21QaXI5TEdvSGpabWw3RlduYUNYWkotbXhTRy1KQVA1MHNETWxHUnltbnJycHU1UXBhQ3UwaWgweXFEbFo1YjB2YzI1UFhwNlY1MjlXWmFBU1FnMjlGTU9NZWh5OVYyWWlYdUVzZW1BeDJUUlZ3RVJEaXRhRzBueUZZYUxNbVo2dFlwcS1za2JpeXQ0QWlyempFcEZ0Y3BYdXVfdHRXOWhVVXA0Q3lsQWlyR1p4bWFHY3hrdG9yZUhDZzFhWnI5RUw1bUFKaFByMThj0gHkAUFVX3lxTFBaSnAxUkh5UkNaNDBOMkxZQVJIaUx4d28zNHFhTVJxMDZxYzVkclVMUTZkTG9wVDJxZUswNzBWNWplZ1AtTU5VRlRvSHUwZGdSaFNpZnFJaVNENkNfMlloZFVjckxBVDAxUDBzTGNMLWZ2cmczUzJ4Unk5UkNlMXNhQV9pZTVYQU9HXzFxTG10ZDFQaFowd0Y0WWdjbWpzZTZpUzNBNzNhNTBPbjh0VlR1aElmSk9tZy04X0haRUV4ekl0NVRiRTViUXBNVUswZDBfdjdBdzM3Rm1aM3V1YmR0WWdieg?oc=5\" target=\"_blank\">Manchester United to sell Marcus Rashford to Cristiano Ronaldo's Al-Nassr? Fabrizio Romano says...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theweek.in</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczVpWTAyYkg2dUM3R21QaXI5TEdvSGpabWw3RlduYUNYWkotbXhTRy1KQVA1MHNETWxHUnltbnJycHU1UXBhQ3UwaWgweXFEbFo1YjB2YzI1UFhwNlY1MjlXWmFBU1FnMjlGTU9NZWh5OVYyWWlYdUVzZW1BeDJUUlZ3RVJEaXRhRzBueUZZYUxNbVo2dFlwcS1za2JpeXQ0QWlyempFcEZ0Y3BYdXVfdHRXOWhVVXA0Q3lsQWlyR1p4bWFHY3hrdG9yZUhDZzFhWnI5RUw1bUFKaFByMThj0gHkAUFVX3lxTFBaSnAxUkh5UkNaNDBOMkxZQVJIaUx4d28zNHFhTVJxMDZxYzVkclVMUTZkTG9wVDJxZUswNzBWNWplZ1AtTU5VRlRvSHUwZGdSaFNpZnFJaVNENkNfMlloZFVjckxBVDAxUDBzTGNMLWZ2cmczUzJ4Unk5UkNlMXNhQV9pZTVYQU9HXzFxTG10ZDFQaFowd0Y0WWdjbWpzZTZpUzNBNzNhNTBPbjh0VlR1aElmSk9tZy04X0haRUV4ekl0NVRiRTViUXBNVUswZDBfdjdBdzM3Rm1aM3V1YmR0WWdieg?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 07:55:07 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC",
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 3,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United transfer news LIVE: Marcus Rashford 'option', Dusan Vlahovic latest, striker 'offer'",
+      "items": [
+        {
+          "title": "Man United transfer news LIVE: Marcus Rashford 'option', Dusan Vlahovic latest, striker 'offer'",
+          "summary": "All the latest Manchester United transfer news including the latest on Dusan Vlahovic, Marcus Rashford, Liam Delap, Lewis Hall, Manu Kone and many more",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34374327",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 21:54:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Agent confirms Man United transfer talks as move 'close' for World Cup star",
+      "items": [
+        {
+          "title": "Agent confirms Man United transfer talks as move 'close' for World Cup star",
+          "summary": "Manchester United were in the market for a goalkeeper and have already added Karl Darlow to Michael Carrick's squad this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-gill-34380615",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 20:24:52 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United flop Jadon Sancho training with surprise team ahead of free transfer",
+      "items": [
+        {
+          "title": "Man United flop Jadon Sancho training with surprise team ahead of free transfer",
+          "summary": "Former Chelsea and Borussia Dortmund winger Jadon Sancho is still looking for his next club after being released at the end of his Manchester United contract",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-jadon-sancho-transfer-34380436",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 18:35:36 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford drops new Barcelona message as team-mates' feelings clear on transfer outcome",
+      "items": [
+        {
+          "title": "Marcus Rashford drops new Barcelona message as team-mates' feelings clear on transfer outcome",
+          "summary": "Marcus Rashford faces an uncertain future at Manchester United after his loan spell at Barcelona came to an end",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/rashford-barcelona-transfer-man-utd-34378398",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 13:55:45 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Former Man United boss Ruben Amorim opens up on new look following AC Milan appointment",
+      "items": [
+        {
+          "title": "Former Man United boss Ruben Amorim opens up on new look following AC Milan appointment",
+          "summary": "Ex-Manchester United manager Ruben Amorim has landed on his feet at AC Milan and he has spoken out after causing a stir",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ruben-amorim-milan-34375324",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 09:13:44 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United's Danny Welbeck failure leaves Gary Neville angered as Chelsea swoop",
+      "items": [
+        {
+          "title": "Man United's Danny Welbeck failure leaves Gary Neville angered as Chelsea swoop",
+          "summary": "Former Manchester United forward Danny Welbeck is closing in on a move from Brighton &amp; Hove Albion to Chelsea",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/gary-neville-man-united-welbeck-34374620",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 08:34:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford told he should be ‘embarrassed’ by former Man United star",
+      "items": [
+        {
+          "title": "Marcus Rashford told he should be ‘embarrassed’ by former Man United star",
+          "summary": "Marcus Rashford has returned to Manchester United following his Barcelona loan spell after they opted not to sign him permanently, with one ex-Old Trafford star saying he &quot;should be embarrassed&quot;",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/rashford-manchester-united-transfer-news-34369998",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Michael Carrick sanctions four transfers as Marcus Rashford swap mooted",
+      "items": [
+        {
+          "title": "Man United latest: Michael Carrick sanctions four transfers as Marcus Rashford swap mooted",
+          "summary": "Manchester United have been busy in the transfer market this summer and there could be more to come with Michael Carrick at the wheel",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-transfers-34372648",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United must do something they haven’t done yet vs Atletico Madrid",
+      "items": [
+        {
+          "title": "Man United must do something they haven’t done yet vs Atletico Madrid",
+          "summary": "Manchester United face their toughest challenge of the summer so far, on paper, this weekend in Stockholm, Sweden",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-must-something-havent-34371882",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd news: Lewis Hall transfer update emerges as defender completes move",
+      "items": [
+        {
+          "title": "Man Utd news: Lewis Hall transfer update emerges as defender completes move",
+          "summary": "Manchester United have been linked with a move for Newcastle's Lewis Hall as the club's busy summer transfer window continues",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-lewis-hall-37495755",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 31 Jul 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd transfer talks confirmed as agent says deal is close",
+      "items": [
+        {
+          "title": "Man Utd transfer talks confirmed as agent says deal is close",
+          "summary": "Manchester United made an enquiry for Paraguay goalkeeper Orlando Gill, who starred at the World Cup, according to the player's agent - though a move to San Lorenzo now appears more likely for the Red Devils target",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-gill-37497621",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 21:41:31 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford posts Barcelona farewell message as dream return goes up in smoke",
+      "items": [
+        {
+          "title": "Marcus Rashford posts Barcelona farewell message as dream return goes up in smoke",
+          "summary": "Marcus Rashford has returned to Manchester United after Barcelona opted against making his loan move permanent with the forward issuing a statement on the matter",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/rashford-barcelona-man-utd-return-37495614",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 13:34:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd ready to offload quartet including player they refused to swap for Carlos Baleba",
+      "items": [
+        {
+          "title": "Man Utd ready to offload quartet including player they refused to swap for Carlos Baleba",
+          "summary": "Manchester United are willing to sanction exits for four of their young stars, including Toby Collyer, who they refused to sell 12 months ago",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-summer-departures-collyer-37495307",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 12:53:59 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd prepare to take advantage of Newcastle carnage with own signing who wants out",
+      "items": [
+        {
+          "title": "Man Utd prepare to take advantage of Newcastle carnage with own signing who wants out",
+          "summary": "Manchester United will be keeping a close eye on developments at Newcastle United amid interest in Lewis Hall.",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-lewis-hall-transfer-37494638",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 11:16:30 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United slammed by Gary Neville over failure to land no-brainer Chelsea signing",
+      "items": [
+        {
+          "title": "Man United slammed by Gary Neville over failure to land no-brainer Chelsea signing",
+          "summary": "Danny Welbeck looks set to join Chelsea from Brighton and Hove Albion, 12 years after leaving Man Utd",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-gary-neville-welbeck-37493665",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 09:16:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'Marcus Rashford should be embarrassed – how can his Man Utd team-mates trust him'",
+      "items": [
+        {
+          "title": "'Marcus Rashford should be embarrassed – how can his Man Utd team-mates trust him'",
+          "summary": "Manchester United forward Marcus Rashford has been told &quot;he should be embarrassed&quot; as transfer talk continues to whirl following his return from a successful loan spell at Barcelona",
+          "url": "https://www.mirror.co.uk/sport/football/news/rashford-manchester-united-transfer-news-37488720",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals Marcus Rashford decision on leaving Man Utd for Cristiano Ronaldo reunion at Al-Nassr - TEAMtalk",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals Marcus Rashford decision on leaving Man Utd for Cristiano Ronaldo reunion at Al-Nassr - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc3FaRHktRldtemlHczloY1FnbGVFNWdUWWRRbkZhSldyVlZxMlFtdDAzaDZ3a3NZbDN6alRDZFd5Z0c0YWJMd19ReWdZZ2RFaHI5UVdyaXZ1MW1BdHNLSVYxV3htLW1YLUZ0anE1WjB3S0kxdlA3aHMwTDBjMlN1Qjl1bWFhQTdNSWM2ektCWC1uMEdud0R2blBOV2tHMHhjMHcyNUM3ZlVqRHNZRTIwZjd2d0EyekNzVHNOQ1QxSUVfN0lMS0JRejhtZURlWjlJbTRKTFdxY3ZlV2NiNVZsSG50b0wtOGs?oc=5\" target=\"_blank\">Fabrizio Romano reveals Marcus Rashford decision on leaving Man Utd for Cristiano Ronaldo reunion at Al-Nassr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc3FaRHktRldtemlHczloY1FnbGVFNWdUWWRRbkZhSldyVlZxMlFtdDAzaDZ3a3NZbDN6alRDZFd5Z0c0YWJMd19ReWdZZ2RFaHI5UVdyaXZ1MW1BdHNLSVYxV3htLW1YLUZ0anE1WjB3S0kxdlA3aHMwTDBjMlN1Qjl1bWFhQTdNSWM2ektCWC1uMEdud0R2blBOV2tHMHhjMHcyNUM3ZlVqRHNZRTIwZjd2d0EyekNzVHNOQ1QxSUVfN0lMS0JRejhtZURlWjlJbTRKTFdxY3ZlV2NiNVZsSG50b0wtOGs?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 06:11:50 GMT"
+        },
+        {
+          "title": "Romano reveals Marcus Rashford ‘message’ about leaving Man Utd for Cristiano Ronaldo reunion - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0h4cXBaZ3JJVDB2Rk1WeXFNeW90dGhoRHVmVlNEYk1Qblp1VDNxcTktUjBnQmJZaHNFZFBrdGdHdUR5UGdRdWoxNERlZG5IYndiWnI1MUZyUjAzbGZ4N0Uwbm5tNk9wTWRZWkxENTFSS0o3TmpXSjJ0Q2JucXZTbkhoTG1iOGlyS3hReDQwejlMUDFR?oc=5\" target=\"_blank\">Romano reveals Marcus Rashford ‘message’ about leaving Man Utd for Cristiano Ronaldo reunion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ0h4cXBaZ3JJVDB2Rk1WeXFNeW90dGhoRHVmVlNEYk1Qblp1VDNxcTktUjBnQmJZaHNFZFBrdGdHdUR5UGdRdWoxNERlZG5IYndiWnI1MUZyUjAzbGZ4N0Uwbm5tNk9wTWRZWkxENTFSS0o3TmpXSjJ0Q2JucXZTbkhoTG1iOGlyS3hReDQwejlMUDFR?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 09:11:50 GMT"
+        },
+        {
+          "title": "Rashford not leaving Man United – Fabrizio Romano - Punch Newspapers",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNmNuNkNKenVuWXV4TE5kT1M1Uk0tbHBubXBRVDhCQnRCVXZGVkd2VjFFdmdVSFhOTjlkZUE1am53QWo4ZGtncnp5X2RSVGdlTi1qQ1dXX0lubFBlVnVGUkpiTjItM3BVY010cEZ6Q3FzRkdJbThV?oc=5\" target=\"_blank\">Rashford not leaving Man United – Fabrizio Romano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Punch Newspapers</font>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxNmNuNkNKenVuWXV4TE5kT1M1Uk0tbHBubXBRVDhCQnRCVXZGVkd2VjFFdmdVSFhOTjlkZUE1am53QWo4ZGtncnp5X2RSVGdlTi1qQ1dXX0lubFBlVnVGUkpiTjItM3BVY010cEZ6Q3FzRkdJbThV?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 17:56:57 GMT"
+        },
+        {
+          "title": "Transfer: Romano clears air on Rashford leaving Man Utd to join Ronaldo at Al-Nassr - Daily Post Nigeria",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDlHb21zczFYWEQ3QVFocVBNcFVQN1VXWnBNLWdqNjJEY3lCYWU1bUYwUWtMcS1HZ1k5Q3J6ZFB4R21KZkZ5dWxGUnNFYTN4NWQtdm94RnZQekJHS3l2Y21iU2FQemVTUEswXzBNTXo1U3lvOV9CendqbFI1Sk1XR19qQXlfUXdQS21jZ0ZpQk9qbkp4RFlOUzBqZWxmcjNsMVhpa09WY1BEOWxOaXBhdDB5VnJvdw?oc=5\" target=\"_blank\">Transfer: Romano clears air on Rashford leaving Man Utd to join Ronaldo at Al-Nassr</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Post Nigeria</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDlHb21zczFYWEQ3QVFocVBNcFVQN1VXWnBNLWdqNjJEY3lCYWU1bUYwUWtMcS1HZ1k5Q3J6ZFB4R21KZkZ5dWxGUnNFYTN4NWQtdm94RnZQekJHS3l2Y21iU2FQemVTUEswXzBNTXo1U3lvOV9CendqbFI1Sk1XR19qQXlfUXdQS21jZ0ZpQk9qbkp4RFlOUzBqZWxmcjNsMVhpa09WY1BEOWxOaXBhdDB5VnJvdw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 17:06:06 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal close in on transfer agreement after final 'goodbye' given by Man Utd star: FT Recap - footballtransfers.com",
+      "items": [
+        {
+          "title": "Arsenal close in on transfer agreement after final 'goodbye' given by Man Utd star: FT Recap - footballtransfers.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVUR0azJQV2VVblJDZkx2WmtWcW50ZnpOOXpVbTZmOFd4bGlZY20tcDc0c1BLOWhPS0tPVjItQk9KRTNRcmVjd1kyZTNXYnZQaTVYX1p3SEhfQzRDTVphOE9TQVRoU3NGa0xEaUxjTUFlYVBmWlg2M2c5ay1DWldEX19pSG1oa2FUQldlZ01EMWdiVTZKd3ZpUGkwVlNlcC0xWnJZR29GZWEtV0g0WVBGdHdwYngtRzNUTWFrRnNEeUJwR0p3RzdnRjJEQjNDSzdIbzBTNVdR?oc=5\" target=\"_blank\">Arsenal close in on transfer agreement after final 'goodbye' given by Man Utd star: FT Recap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">footballtransfers.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVUR0azJQV2VVblJDZkx2WmtWcW50ZnpOOXpVbTZmOFd4bGlZY20tcDc0c1BLOWhPS0tPVjItQk9KRTNRcmVjd1kyZTNXYnZQaTVYX1p3SEhfQzRDTVphOE9TQVRoU3NGa0xEaUxjTUFlYVBmWlg2M2c5ay1DWldEX19pSG1oa2FUQldlZ01EMWdiVTZKd3ZpUGkwVlNlcC0xWnJZR29GZWEtV0g0WVBGdHdwYngtRzNUTWFrRnNEeUJwR0p3RzdnRjJEQjNDSzdIbzBTNVdR?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 21:15:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano hands Man United Iliman Ndiaye transfer lifeline - The Peoples Person",
+      "items": [
+        {
+          "title": "Fabrizio Romano hands Man United Iliman Ndiaye transfer lifeline - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHl3MEVEWXlzUjZiNzIyM0ZIR2Z3VmdHLUMwamZKYXkxUy1wSzd0SU05M2VIS1NmOVR2aEpfWmlwQ3pmbzZfeU1oeEhyTml4UVJPcjkyR0tzLWlEQ0dfTlNmSG9GVm43dzJCbkFna193d1RuNTZvTGhEODJIeWtWZ0cwX3UwMGJMaUY1VHdDRlZqUjlfWHNXQUs5ek44V2txWTlnTUxDLTBrejVIX3FOQnJR?oc=5\" target=\"_blank\">Fabrizio Romano hands Man United Iliman Ndiaye transfer lifeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdHl3MEVEWXlzUjZiNzIyM0ZIR2Z3VmdHLUMwamZKYXkxUy1wSzd0SU05M2VIS1NmOVR2aEpfWmlwQ3pmbzZfeU1oeEhyTml4UVJPcjkyR0tzLWlEQ0dfTlNmSG9GVm43dzJCbkFna193d1RuNTZvTGhEODJIeWtWZ0cwX3UwMGJMaUY1VHdDRlZqUjlfWHNXQUs5ek44V2txWTlnTUxDLTBrejVIX3FOQnJR?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 09:02:51 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd 'ready to capitalise' on Howe to sign 'unhappy' Newcastle star who 'wants out' - Football365",
+      "items": [
+        {
+          "title": "Man Utd 'ready to capitalise' on Howe to sign 'unhappy' Newcastle star who 'wants out' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG9KRlhZckFRRG1SZDhsSF9PeUJTOEpwMUZEWllObzVNXzU3cG9acy0xOW4xQk1feS1oTlB6OUd2ZThMdHo4SEFRdEpURndnejg3dHVPcGxWd3JoZHgxVExJWDV0bFIyRERSQzNHM2hPblBBdzNYMEw5TTRsS0lGS3FLZkJ6U3RUMDhfWjg2SmZBR1lhRnpTVFRB?oc=5\" target=\"_blank\">Man Utd 'ready to capitalise' on Howe to sign 'unhappy' Newcastle star who 'wants out'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG9KRlhZckFRRG1SZDhsSF9PeUJTOEpwMUZEWllObzVNXzU3cG9acy0xOW4xQk1feS1oTlB6OUd2ZThMdHo4SEFRdEpURndnejg3dHVPcGxWd3JoZHgxVExJWDV0bFIyRERSQzNHM2hPblBBdzNYMEw5TTRsS0lGS3FLZkJ6U3RUMDhfWjg2SmZBR1lhRnpTVFRB?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 30 Jul 2026 09:36:05 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“Very grateful” – Man United star’s future surely settled now after Instagram post",
+      "items": [
+        {
+          "title": "“Very grateful” – Man United star’s future surely settled now after Instagram post",
+          "summary": "<p>Marcus Rashford&#8217;s time with Barcelona now looks to be over after the Manchester United forward&#8217;s latest post on Instagram. The England international had a successful loan spell at Barca last season, but it seems the club have decided against keeping him. DOWNLOAD THE OFFICIAL CAUGHTOFFSIDE APP FOR ALL THE LATEST &#38; BREAKING UPDATES – STRAIGHT [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/30/marcus-rashford-barcelona-instagram/\">&#8220;Very grateful&#8221; &#8211; Man United star&#8217;s future surely settled now after Instagram post</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/30/marcus-rashford-barcelona-instagram/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 30 Jul 2026 13:37:16 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Agent visits Carrington training complex to conduct talks over Man United star’s exit",
+      "items": [
+        {
+          "title": "Agent visits Carrington training complex to conduct talks over Man United star’s exit",
+          "summary": "<p>Manchester United are moving closer to resolving Altay Bayındır’s uncertain future after fresh discussions were held over the goalkeeper’s planned departure. The Turkey international has returned to pre-season training, but the club’s recent decisions suggest there is no longer a realistic pathway for him to reclaim a regular role at Old Trafford. Senne Lammens is [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/07/30/agent-visits-carrington-training-complex-man-united/\">Agent visits Carrington training complex to conduct talks over Man United star&#8217;s exit</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/07/30/agent-visits-carrington-training-complex-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 30 Jul 2026 13:08:10 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 30,
+    "story_count": 23
+  }
+}
