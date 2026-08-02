@@ -1,0 +1,1143 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T04:24:31.210922+00:00",
+  "match_data": {
+    "collected_at": "2026-08-02T04:24:23.660607+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United's dream end to transfer window as £85million move sealed and new striker joins",
+      "items": [
+        {
+          "title": "Man United's dream end to transfer window as £85million move sealed and new striker joins",
+          "summary": "Manchester United remain active in the transfer window and could make several dream signings before deadline day on September 1",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-aurelien-tchouameni-34375291",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 2 Aug 2026 03:30:00 +0000"
+        },
+        {
+          "title": "Man Utd’s dream final month of transfer window: £85m midfielder joins and three deals done",
+          "summary": "Manchester United could make multiple dream signings before transfer deadline day on September 1",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-aurelien-tchouameni-37494106",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 2 Aug 2026 04:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Leny Yoro offers advice to JJ Gabriel after Manchester United sensation makes debut",
+      "items": [
+        {
+          "title": "Leny Yoro offers advice to JJ Gabriel after Manchester United sensation makes debut",
+          "summary": "JJ Gabriel made his Man Utd debut at the age of 15 on Saturday and Leny Yoro believes the teenager has a big future in the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/leny-yoro-offers-advice-jj-34390113",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 16:28:03 +0000"
+        },
+        {
+          "title": "Amad and Leny Yoro in total agreement after JJ Gabriel makes Man Utd debut",
+          "summary": "JJ Gabriel made his Manchester United debut at the age of 15 in the latter stages of their 2-1 pre-season win over Atletico Madrid in Stockholm on Saturday",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-debut-37504146",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 20:51:08 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United vs Atletico Madrid highlights and reaction as Bryan Mbeumo brace wins it",
+      "items": [
+        {
+          "title": "Manchester United vs Atletico Madrid highlights and reaction as Bryan Mbeumo brace wins it",
+          "summary": "Manchester United have beaten Atletico Madrid 2-1 in Stockholm as they continue their pre-season preparations",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-vs-atletico-live-34388149",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 15:53:24 +0000"
+        },
+        {
+          "title": "How Manchester United should line up vs Atletico Madrid",
+          "summary": "Manchester United are in Stockholm today to face Atletico Madrid in their third pre-season fixture of the summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/how-manchester-united-should-line-34385301",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Shea Lacey vs Atletico Madrid",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcq0rm/shea_lacey_vs_atletico_madrid/\"> <img alt=\"Shea Lacey vs Atletico Madrid\" src=\"https://external-preview.redd.it/azBtYmw2bjE1c2doMS-9LYcQlh1rcc0pRqqhk7NGsREKKZgsBXQoLOqv7uQI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=19d3a53216a35e2f8d5959a43cdc4a5414dd2db7\" title=\"Shea Lacey vs Atletico Madrid\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/7himeul15sgh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcq0rm/shea_lacey_vs_atletico_madrid/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcq0rm/shea_lacey_vs_atletico_madrid/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T15:16:34+00:00"
+        },
+        {
+          "title": "Mason Mount vs Atletico Madrid",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcrx6m/mason_mount_vs_atletico_madrid/\"> <img alt=\"Mason Mount vs Atletico Madrid\" src=\"https://external-preview.redd.it/bXA1ZDJ4djc1c2doMS7n3aU9IwTJpLsJndBWrIcFqaIXJ_8I1c-PiPn9XxkW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=83546062504fe762f5f5c34317ad4caee033fefd\" title=\"Mason Mount vs Atletico Madrid\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/k48ob1v75sgh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcrx6m/mason_mount_vs_atletico_madrid/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcrx6m/mason_mount_vs_atletico_madrid/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T16:33:08+00:00"
+        },
+        {
+          "title": "Manchester United 2 - 1 Atletico Madrid - Bryan Mbeumo 74",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcoysg/manchester_united_2_1_atletico_madrid_bryan/\"> <img alt=\"Manchester United 2 - 1 Atletico Madrid - Bryan Mbeumo 74\" src=\"https://external-preview.redd.it/YjJ3cmhkMXl4cmdoMT3SDRC60U4y24sl6xr2ke6hREOEAGlMsUSZpQwTv96m.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=35aa0455923ae56b9a4f2ce11ca62eba0535477f\" title=\"Manchester United 2 - 1 Atletico Madrid - Bryan Mbeumo 74\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/iplfdb0yxrgh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcoysg/manchester_united_2_1_atletico_madrid_bryan/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcoysg/manchester_united_2_1_atletico_madrid_bryan/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T14:32:37+00:00"
+        },
+        {
+          "title": "Manchester United [1]-1 Atletico Madrid -Mbeumo 53",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcofci/manchester_united_11_atletico_madrid_mbeumo_53/\"> <img alt=\"Manchester United [1]-1 Atletico Madrid -Mbeumo 53\" src=\"https://external-preview.redd.it/Ta34jMFU6tebJ6yxnIkw_89zIFHb6ejvmRikneFpibU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd26fbce0c8a5518a1c7011b3ade4202a27c918e\" title=\"Manchester United [1]-1 Atletico Madrid -Mbeumo 53\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gentle_lips\"> /u/Gentle_lips </a> <br /> <span><a href=\"https://streamain.com/en/QWUMTyl4Zzkt9lW/watch\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcofci/manchester_united_11_atletico_madrid_mbeumo_53/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcofci/manchester_united_11_atletico_madrid_mbeumo_53/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T14:09:55+00:00"
+        },
+        {
+          "title": "Manchester United 2-1 Atletico Madrid: Bryan Mbeumo scores twice in pre-season win",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcq0ep/manchester_united_21_atletico_madrid_bryan_mbeumo/\"> <img alt=\"Manchester United 2-1 Atletico Madrid: Bryan Mbeumo scores twice in pre-season win\" src=\"https://external-preview.redd.it/OijiAyzfAudbr3zqzYfjiubqlcH2KqFIGDjnuQ5DXTo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea0bc75a1fd0c7c1f196c8d7a39aabfd48832625\" title=\"Manchester United 2-1 Atletico Madrid: Bryan Mbeumo scores twice in pre-season win\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No-External1342\"> /u/No-External1342 </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/live/c62xn53ndy1t\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcq0ep/manchester_united_21_atletico_madrid_bryan_mbeumo/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcq0ep/manchester_united_21_atletico_madrid_bryan_mbeumo/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T15:16:09+00:00"
+        },
+        {
+          "title": "Bryan Mbeumo chance against Atletico Madrid 29'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcnhpi/bryan_mbeumo_chance_against_atletico_madrid_29/\"> <img alt=\"Bryan Mbeumo chance against Atletico Madrid 29'\" src=\"https://external-preview.redd.it/8IUdqFZaVWuZKO_zW8PJoiETTbWsgv7Nb2Y96KfIs_c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2259af147d98b0e9c7c4b0bd82fbdc35f60b4b1\" title=\"Bryan Mbeumo chance against Atletico Madrid 29'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gentle_lips\"> /u/Gentle_lips </a> <br /> <span><a href=\"https://streama.in/gVlYapUWWL2xxcN/watch\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcnhpi/bryan_mbeumo_chance_against_atletico_madrid_29/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcnhpi/bryan_mbeumo_chance_against_atletico_madrid_29/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T13:30:02+00:00"
+        },
+        {
+          "title": "Manchester United 0-1 Atletico Madrid - 5'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcmyl3/manchester_united_01_atletico_madrid_5/\"> <img alt=\"Manchester United 0-1 Atletico Madrid - 5'\" src=\"https://external-preview.redd.it/Va75dc8WJpOkh_2kQrESUvDfOO_H5_T7dylHu5q3Vmg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ffe013d803de26c410b49476d8fbaf4a2352d06a\" title=\"Manchester United 0-1 Atletico Madrid - 5'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gentle_lips\"> /u/Gentle_lips </a> <br /> <span><a href=\"https://streamain.com/en/87La4Fo8n9WcDDJ/watch\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcmyl3/manchester_united_01_atletico_madrid_5/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcmyl3/manchester_united_01_atletico_madrid_5/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T13:06:40+00:00"
+        },
+        {
+          "title": "Manchester United v Atletico Madrid Match Thread",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Saturday July 1 (Mutv) </p> <p>Current score: Manchester United 2 - 1 Atletico Madrid</p> <p>5' - Atletico goal (Arnau Ortiz) from a cross that goes past everyone</p> <p>10' - Powerful shot from Luke Shaw but straight at Oblak</p> <p>16' - Deflection from Amad's free kick saved by Oblak on the line</p> <p>29' - Amad wins possession from a great press, lacey sends a cross in, and Mbuemo just misses the header wide</p> <p>33' - Heaven sends a header just wide from a corner</p> <p>39' - Shawn's cross just over the bar from Yoro's header</p> <p>44' - Heaton with a good save from an effort inside the box</p> <p>HALFTIME</p> <p>45' - Jack Fletcher on for Amad, 4 changes for Atletico</p> <p>50' - Yellow card shown to Heaven for a questionable trip from behind</p> <p>52' - Lacey with a great skill and wins a penalty after being tripped!</p> <p>53' - Goal Manchester United! Bryan Mbuemo with a Bruno esque hop and slots in the penalty to make it even</p> <p>61' - Atletico with 7 more changes</p> <p>72' - Great ball by Atletico to catch Yoro off guard but another save by heaton</p> <p>73' - Off for United: Shaw, Dorgu, Lacey, Maguire On: Zirkzee, Williams, Amad, and Armer</p> <p>74' - Goal Manchester United! Jack Fletcher makes an interception and plays it across the box, finished by Mbuemo!</p> <p>80' - Zirkzee shows great strength in the box and sends a ball across but cleared away from Atletico</p> <p>82' - Mbuemo off, and on comes JJ Gabriel! Thwaites on for Santos as well</p> <p>84' - Atletico with 2 big chances, one hits the post</p> <p>90+3' - Close effort from distance from Atletico</p> <p>FULL TIME</p> <p>United are Snapdragon Cup Champions</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/devil-lion-steeler\"> /u/devil-lion-steeler </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcmv92/manchester_united_v_atletico_madrid_match_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcmv92/manchester_united_v_atletico_madrid_match_thread/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcmv92/manchester_united_v_atletico_madrid_match_thread/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T13:02:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "What time does Man United vs Atletico Madrid kick-off and what channel is it on? How to watch",
+      "items": [
+        {
+          "title": "What time does Man United vs Atletico Madrid kick-off and what channel is it on? How to watch",
+          "summary": "Manchester United face Atletico Madrid in a high-profile friendly ahead of the new Premier League season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-atletico-madrid-channel-34374369",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 08:45:00 +0000"
+        },
+        {
+          "title": "How to watch Man Utd vs Atletico Madrid – TV channel, live stream and kick-off time",
+          "summary": "Manchester United take on Atletico Madrid in a blockbuster pre-season clash as the start 2026/27 domestic season inches closer",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-atletico-madrid-stream-37490643",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 08:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United's dream August - Three transfers, Rashford question answered, ticketing solution",
+      "items": [
+        {
+          "title": "Man United's dream August - Three transfers, Rashford question answered, ticketing solution",
+          "summary": "Manchester United are heading into a crucial part of the summer with the new Premier League campaign just weeks away",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-uniteds-dream-august-three-34382000",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 2 Aug 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United icon wanted club to sign me - now I've joined a different English team",
+      "items": [
+        {
+          "title": "Man United icon wanted club to sign me - now I've joined a different English team",
+          "summary": "A former Premier League star is hoping to reignite his career years after being touted for a move to Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-rooney-chelsea-brighton-34376929",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 2 Aug 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick speaks out after JJ Gabriel makes first Manchester United appearance",
+      "items": [
+        {
+          "title": "Michael Carrick speaks out after JJ Gabriel makes first Manchester United appearance",
+          "summary": "Manchester United academy sensation JJ Gabriel came on for the final ten minutes as the Reds beat Atletico Madrid 2-1 in Stockholm",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-speaks-out-after-34389930",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 2 Aug 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Striker completes transfer despite Rio Ferdinand and Gary Neville pleas to Man United",
+      "items": [
+        {
+          "title": "Striker completes transfer despite Rio Ferdinand and Gary Neville pleas to Man United",
+          "summary": "Manchester United legends Gary Neville and Rio Ferdinand have never been shy of voicing their opinions on all matters connected to Old Trafford including transfers",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-welbeck-34390142",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 17:50:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United striker the subject of shock Premier League interest with bid considered",
+      "items": [
+        {
+          "title": "Manchester United striker the subject of shock Premier League interest with bid considered",
+          "summary": "Everton are considering a move for young Man Utd striker Ethan Wheatley during the summer transfer window.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-striker-subject-shock-34390146",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 16:45:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Shea Lacey is giving a senior Manchester United player a problem with his pre-season displays",
+      "items": [
+        {
+          "title": "Shea Lacey is giving a senior Manchester United player a problem with his pre-season displays",
+          "summary": "Man Utd won the Snapdragon Cup after beating Atletico Madrid in Stockholm on a day when three left-wingers took their chance to shine.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/shea-lacey-giving-senior-manchester-34389241",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 15:07:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United player ratings vs Atletico Madrid as Shea Lacey one of three 8/10s",
+      "items": [
+        {
+          "title": "Manchester United player ratings vs Atletico Madrid as Shea Lacey one of three 8/10s",
+          "summary": "Man Utd beat Atletico Madrid 2-1 in Stockholm and it was another slick performance from Michael Carrick's side in pre-season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34389183",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 14:50:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United player included in Atletico Madrid squad set for transfer decision",
+      "items": [
+        {
+          "title": "Manchester United player included in Atletico Madrid squad set for transfer decision",
+          "summary": "Altay Bayindir has travelled with the Man Utd squad to Stockholm but the goalkeeper is edging closer to an exit from Old Trafford this summer.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-included-atletico-34389613",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 14:03:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Barcelona boss makes Marcus Rashford admission after transfer decision",
+      "items": [
+        {
+          "title": "Barcelona boss makes Marcus Rashford admission after transfer decision",
+          "summary": "Marcus Rashford will return to Manchester United this summer after Barcelona decided against exercising a £26million option to sign the England international permanently",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/barcelona-marcus-rashford-hansi-flick-34389150",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 12:41:17 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Lewis Hall to Man United transfer being 'explored' as £60m verdict given",
+      "items": [
+        {
+          "title": "Lewis Hall to Man United transfer being 'explored' as £60m verdict given",
+          "summary": "Manchester United have already been busy in the transfer window but they may now be set to target a new area to strengthen this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-lewis-hall-34388650",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 10:48:36 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United set for 'complicated' transfer talks after £170m deals hand Michael Carrick headache",
+      "items": [
+        {
+          "title": "Man United set for 'complicated' transfer talks after £170m deals hand Michael Carrick headache",
+          "summary": "Manchester United are not done in this summer's transfer window after making five signings, but it appears that doing one particular deal next will be difficult",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-set-complicated-transfer-34388632",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 10:06:44 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why is Marcus Rashford not in Man United squad for Atletico Madrid friendly",
+      "items": [
+        {
+          "title": "Why is Marcus Rashford not in Man United squad for Atletico Madrid friendly",
+          "summary": "The saga over Marcus Rashford's Manchester United future is continuing",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-marcus-rashford-atletico-34388305",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 10:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United team vs Atletico Madrid predicted as Shea Lacey starts and JJ Gabriel call made",
+      "items": [
+        {
+          "title": "Man United team vs Atletico Madrid predicted as Shea Lacey starts and JJ Gabriel call made",
+          "summary": "Manchester United return to the Strawberry Arena in Stockholm this afternoon to take on Atletico Madrid.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-team-vs-atletico-34385383",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United make decision on exciting French striker",
+      "items": [
+        {
+          "title": "Manchester United make decision on exciting French striker",
+          "summary": "Man Utd signed French striker Enzo Kana-Biyik last summer, but he was immediately sent on loan for 2025/2026.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-make-decision-exciting-34387917",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Francisco Conceicao stance as agent confirms transfer enquiry for star",
+      "items": [
+        {
+          "title": "Man United latest: Francisco Conceicao stance as agent confirms transfer enquiry for star",
+          "summary": "Manchester United have been busy in the transfer market this summer and several players have been linked with moves to Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-approach-juventus-34384405",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Three members of Erik ten Hag's leadership group have left Man United with one more uncertain",
+      "items": [
+        {
+          "title": "Three members of Erik ten Hag's leadership group have left Man United with one more uncertain",
+          "summary": "Manchester United's leadership group under Erik ten Hag has suffered some casualties",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ten-hag-rashford-34370151",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: Transfer 'approved' as £70m target 'open' to Old Trafford switch",
+      "items": [
+        {
+          "title": "Man Utd news: Transfer 'approved' as £70m target 'open' to Old Trafford switch",
+          "summary": "It's been a busy summer for Manchester United - and their transfer business looks far from over, with a number of targets still on their radar",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-approved-70m-37502929",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 2 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick drops clear hint over three Man Utd transfers after Atletico Madrid win",
+      "items": [
+        {
+          "title": "Michael Carrick drops clear hint over three Man Utd transfers after Atletico Madrid win",
+          "summary": "Manchester United beat Atletico Madrid 2-1 in a pre-season friendly in Sweden on Saturday in a match which offered plenty of clues to the club's transfer plans",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-vitek-zirkzee-37503666",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 16:31:43 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd forward set for shock Premier League transfer 'approach' with stance clear",
+      "items": [
+        {
+          "title": "Man Utd forward set for shock Premier League transfer 'approach' with stance clear",
+          "summary": "Manchester United striker Ethan Wheatley had two loan spells in League One last season and now the young star is reportedly attracting Premier League interest",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-wheatley-37503619",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 16:05:39 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bryan Mbeumo inspires Man Utd win vs Atletico Madrid as transfer hint drops - 6 talking points",
+      "items": [
+        {
+          "title": "Bryan Mbeumo inspires Man Utd win vs Atletico Madrid as transfer hint drops - 6 talking points",
+          "summary": "MANCHESTER UNITED 2-1 ATLETICO MADRID: Bryan Mbeumo scored from the penalty spot before netting the winning goal as United came from behind to beat their Spanish opponents",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-atletico-madrid-highlights-37503284",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 14:51:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'I suffered injury hell after leaving Man Utd – I'm fighting for my career and next move'",
+      "items": [
+        {
+          "title": "'I suffered injury hell after leaving Man Utd – I'm fighting for my career and next move'",
+          "summary": "EXCLUSIVE: Former Manchester United forward Will Keane is a free agent and has been training with the PFA pre-season after leaving Preston North End at the end of last season",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/will-keane-man-utd-preston-37503259",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 14:47:47 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Barcelona boss speaks out on Marcus Rashford as deal turned down - ‘I miss him’",
+      "items": [
+        {
+          "title": "Barcelona boss speaks out on Marcus Rashford as deal turned down - ‘I miss him’",
+          "summary": "Marcus Rashford has returned to Manchester United after Barcelona turned down the chance to sign him permanently following a season-long loan switch at the Nou Camp",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-rashford-barcelona-37503306",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 13:49:39 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ryan Reynolds showed true colours in private message to Man Utd star after pre-season blow",
+      "items": [
+        {
+          "title": "Ryan Reynolds showed true colours in private message to Man Utd star after pre-season blow",
+          "summary": "Things got a little testy when Manchester United faced Wrexham in pre-season back in 2023, at which point Ryan Reynolds showed his true colours",
+          "url": "https://www.mirror.co.uk/sport/football/news/ryan-reynolds-wrexham-man-utd-37486198",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 1 Aug 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals what Man Utd internally think of JJ Gabriel as Leny Yoro gives verdict - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals what Man Utd internally think of JJ Gabriel as Leny Yoro gives verdict - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXB5M1hKaGNUUW1jVk1EZUhQMWRkZjdmLXl3Z3hDenN0WTJiWlhUT3FhZVFuYklUbnZFZVU0YmZPd3hHdmNncm9oWkFWTkxnblZnN2ZXR2FCbTRXUGRMN2NHQ0Y0N0RUdTdXYVMwaU4xWm1NRDZnOEZNX081dDM5M0VwNTFkMTBsc0N6dVpVOHZaOVc1WkRuSkVLN3JhYy0yQ0Nybm5kT2stSnZxQW9MNkZ0djZLZFdZalE?oc=5\" target=\"_blank\">Fabrizio Romano reveals what Man Utd internally think of JJ Gabriel as Leny Yoro gives verdict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXB5M1hKaGNUUW1jVk1EZUhQMWRkZjdmLXl3Z3hDenN0WTJiWlhUT3FhZVFuYklUbnZFZVU0YmZPd3hHdmNncm9oWkFWTkxnblZnN2ZXR2FCbTRXUGRMN2NHQ0Y0N0RUdTdXYVMwaU4xWm1NRDZnOEZNX081dDM5M0VwNTFkMTBsc0N6dVpVOHZaOVc1WkRuSkVLN3JhYy0yQ0Nybm5kT2stSnZxQW9MNkZ0djZLZFdZalE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 20:42:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano confirms bizarre move between Man Utd and Everton is ON - 'formal approach' - TEAMtalk",
+      "items": [
+        {
+          "title": "Fabrizio Romano confirms bizarre move between Man Utd and Everton is ON - 'formal approach' - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNamxsa3N3d0ZCaXNoQ3Y3R1ZJTEFfQVFyS09CU1RfRGpiY09iSVJNekxERWx6MHhTSnlSM2h2WDFjRmhySnRYcWFKbWU1a1UwRkliQXpWR3V3b3dfUTh6YUZzOHFjTXZtZFE1Y0ozOWxTN1VhaGRWS2U2WUU1Z2xid3hYYkNJaDZ4amhqNlNCWFVwamxSS2NVYlBQOWI0YnFhMFU0M3NRV1VZTldkNUJZ?oc=5\" target=\"_blank\">Fabrizio Romano confirms bizarre move between Man Utd and Everton is ON - 'formal approach'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNamxsa3N3d0ZCaXNoQ3Y3R1ZJTEFfQVFyS09CU1RfRGpiY09iSVJNekxERWx6MHhTSnlSM2h2WDFjRmhySnRYcWFKbWU1a1UwRkliQXpWR3V3b3dfUTh6YUZzOHFjTXZtZFE1Y0ozOWxTN1VhaGRWS2U2WUU1Z2xid3hYYkNJaDZ4amhqNlNCWFVwamxSS2NVYlBQOWI0YnFhMFU0M3NRV1VZTldkNUJZ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 13:26:17 GMT"
+        },
+        {
+          "title": "Fabrizio Romano confirms Everton move for Man United striker - Read Man Utd",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1k2VHc5bkp4cEFiR3FBWFdpcUZNN3B2SFpfSkluWDhKa0JReEpXdHFPQWI4Um5YN1RYRlMxSDhtS3FnMjBGN1dSaC1weVhGWDFDSHFsZlc5SkJjMFN2SEJrSU4tNVdSdnhZbF9qYWRnbkpqdmZxcnFhNFIxWjl4UHFxNTQzaVZ2b3hZaXRYRUxHdTBoTnd6dnhvSQ?oc=5\" target=\"_blank\">Fabrizio Romano confirms Everton move for Man United striker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Read Man Utd</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1k2VHc5bkp4cEFiR3FBWFdpcUZNN3B2SFpfSkluWDhKa0JReEpXdHFPQWI4Um5YN1RYRlMxSDhtS3FnMjBGN1dSaC1weVhGWDFDSHFsZlc5SkJjMFN2SEJrSU4tNVdSdnhZbF9qYWRnbkpqdmZxcnFhNFIxWjl4UHFxNTQzaVZ2b3hZaXRYRUxHdTBoTnd6dnhvSQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 13:35:42 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Transfer news and rumours today: Everton eyeing Man United forward, PSG to sign Red Devils transfer target - sportsmole.co.uk",
+      "items": [
+        {
+          "title": "Transfer news and rumours today: Everton eyeing Man United forward, PSG to sign Red Devils transfer target - sportsmole.co.uk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmhVb3FFWWNXSHQyeXFfSnNsV3dERHE4WGc5dzlVeEFOV1lHVDFEVS1IWlFNRG90QzgwMmNNemJpeXdzNTB2Q3B1b0E3OGhQVEVWR2NfZTZiTm40SlBYSldjNktiRDhRZEhpOUpqd3IxRTB4OEFNX2pZc2lXMVNtdzJ1NW9zbXdYMWVieHBacEt2S180bHNYS19iNVFIZUpUb2YxVnZFWFNoUVVrSGE1MlNXTk01a1d3c1lCRVRoNzRkSkxIVXNEMlpCYzc0XzNja3E4ay1R?oc=5\" target=\"_blank\">Transfer news and rumours today: Everton eyeing Man United forward, PSG to sign Red Devils transfer target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sportsmole.co.uk</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYmhVb3FFWWNXSHQyeXFfSnNsV3dERHE4WGc5dzlVeEFOV1lHVDFEVS1IWlFNRG90QzgwMmNNemJpeXdzNTB2Q3B1b0E3OGhQVEVWR2NfZTZiTm40SlBYSldjNktiRDhRZEhpOUpqd3IxRTB4OEFNX2pZc2lXMVNtdzJ1NW9zbXdYMWVieHBacEt2S180bHNYS19iNVFIZUpUb2YxVnZFWFNoUVVrSGE1MlNXTk01a1d3c1lCRVRoNzRkSkxIVXNEMlpCYzc0XzNja3E4ay1R?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 12:48:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Transfer news LIVE: Arsenal medical, Vinicius agreement; Man Utd shock bid - London Evening Standard",
+      "items": [
+        {
+          "title": "Transfer news LIVE: Arsenal medical, Vinicius agreement; Man Utd shock bid - London Evening Standard",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXM0aUdWb1pRMHdhZHVBWjhGTlRLRnlaYzM5TWl3Um1IM0kxbnowSkdldHRUY1ZiSEZkZHJ3QUxYVGpxWUU0d3NGRmFuaWo2ZE5iNUY2VEFlRGxvd2M2OGMyN2tVTnFkZ2xHX2V1U2NKNEoydlF1OGQ5Q3BsV0lncHhjUHJRSjZVMlBWazVkODFwQXc3dlRtRXNmZFNRV0JaSUtSWC0wZDhRTTBzb1RSdGVXeVNVUndxMHZWMVpTXzJsYjNBRkJXaExxaTVkVDFKVUE?oc=5\" target=\"_blank\">Transfer news LIVE: Arsenal medical, Vinicius agreement; Man Utd shock bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMXM0aUdWb1pRMHdhZHVBWjhGTlRLRnlaYzM5TWl3Um1IM0kxbnowSkdldHRUY1ZiSEZkZHJ3QUxYVGpxWUU0d3NGRmFuaWo2ZE5iNUY2VEFlRGxvd2M2OGMyN2tVTnFkZ2xHX2V1U2NKNEoydlF1OGQ5Q3BsV0lncHhjUHJRSjZVMlBWazVkODFwQXc3dlRtRXNmZFNRV0JaSUtSWC0wZDhRTTBzb1RSdGVXeVNVUndxMHZWMVpTXzJsYjNBRkJXaExxaTVkVDFKVUE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 23:04:12 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals next Man Utd transfer has been ‘approved’ as Newcastle chaos continues - Football365",
+      "items": [
+        {
+          "title": "Romano reveals next Man Utd transfer has been ‘approved’ as Newcastle chaos continues - Football365",
+          "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0ViTzFuZFRIR0pBVC1uTHVPZlpUem1JUHhhRW1LZTJ3b29mRjYwdlFYWWlMaHVDM3FwWFdVcHN0QzFBdUI3bGhtRDFRYkc0Yjc2alFkT1FDUVk4Ny1yYTVLTDN3YllrNGYzdkRjQTRqVWFWaVFXNVpFb09PMmk4YTZKVGxLcHFfTjJCU2xMOA?oc=5\" target=\"_blank\">Romano reveals next Man Utd transfer has been ‘approved’ as Newcastle chaos continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font></li><li><a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQblpYaGM4c1F6a2RJQ3JvdFN4eDZGTnNQd1FCMnlLLWs2QW93TFBRa1diT1M5QlR3ZzBJaURtZzAxeXNtcG92Y3paWEtmZFVZS0NjV2hZYlpkX1NuaW9ST1p5al8tQWtjR2FKRGNmR1FGNE9QWFhFU01mTFh2OFJ5blpzRVQxdUhOSE5RU2UzbFBvZFA5dC0xZUxGTQ?oc=5\" target=\"_blank\">Fabrizio Romano drops major Lewis Hall to Manchester United transfer news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Read Newcastle</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQT19YUTI2UkhnQkk4b1I2cHBncHBxTTVRQjJLZEJqRnlSTm1HRzBNbHRlM0Z6Q2dsUEFQRXVtWWpYLW1ZWHc0MkxZUjVaRFpkTG5JOTNyRW1sVUwxTmVreFl6dnFNZnFKNlVFakxnek9WSUxTdThzVlhmZGxLMURnNXJyTG1aT3U5MDBzZ2ZXOEczUXl0LU5mbmtDSk9DWHh4Z0txaUxPaUFYSE5wdUloLW9n?oc=5\" target=\"_blank\">Man Utd prepare £60m bid for top target Lewis Hall as Fabrizio Romano confirms move 'approved'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goal.com</font></li></ol>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM0ViTzFuZFRIR0pBVC1uTHVPZlpUem1JUHhhRW1LZTJ3b29mRjYwdlFYWWlMaHVDM3FwWFdVcHN0QzFBdUI3bGhtRDFRYkc0Yjc2alFkT1FDUVk4Ny1yYTVLTDN3YllrNGYzdkRjQTRqVWFWaVFXNVpFb09PMmk4YTZKVGxLcHFfTjJCU2xMOA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 06:57:02 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd prepare £60m bid for top target Lewis Hall as Fabrizio Romano confirms move 'approved' - Goal.com",
+      "items": [
+        {
+          "title": "Man Utd prepare £60m bid for top target Lewis Hall as Fabrizio Romano confirms move 'approved' - Goal.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPemdTRjRBVkxRdVNRVlExUWdNTUtkTmJxbDkxcU5MWTlodDVtTllCRHRDRUFpM1B2WGUwb29va1BnQ3V1VlV6STUyNW9uQXU2SzNuek4tWDA5NGw4eENvWnRIX28zOHpxS3lCdnZsYVJMVU9icWJWUlRidGVoTWFQYlNOWmQ1QVVfbjA2TVdueTUtekNiVFhXdHVjTWk0cUZWT0dwbHdibjJlZnVrT3c?oc=5\" target=\"_blank\">Man Utd prepare £60m bid for top target Lewis Hall as Fabrizio Romano confirms move 'approved'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goal.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemdTRjRBVkxRdVNRVlExUWdNTUtkTmJxbDkxcU5MWTlodDVtTllCRHRDRUFpM1B2WGUwb29va1BnQ3V1VlV6STUyNW9uQXU2SzNuek4tWDA5NGw4eENvWnRIX28zOHpxS3lCdnZsYVJMVU9icWJWUlRidGVoTWFQYlNOWmQ1QVVfbjA2TVdueTUtekNiVFhXdHVjTWk0cUZWT0dwbHdibjJlZnVrT3c?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 02 Aug 2026 00:45:25 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Confirms Manchester United Transfer Window Target - Read Man Utd",
+      "items": [
+        {
+          "title": "Fabrizio Romano Confirms Manchester United Transfer Window Target - Read Man Utd",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3VNcGpOeWExZ1JpMkR4XzRBUGxoY19COGxUSzI5N3pUYTJOS3p1ZGlyWWpkMUJVRFBpUjYwN3RqWUZWZV95Yms4UXlCNHdENzZGOEhXdzlfR3Y3eGVjWjVPSlZZb1Q4Ym4wQXZsOThxNGY3X1c0cGlwcXNWbzZuMzVzbDRBQQ?oc=5\" target=\"_blank\">Fabrizio Romano Confirms Manchester United Transfer Window Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Read Man Utd</font>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3VNcGpOeWExZ1JpMkR4XzRBUGxoY19COGxUSzI5N3pUYTJOS3p1ZGlyWWpkMUJVRFBpUjYwN3RqWUZWZV95Yms4UXlCNHdENzZGOEhXdzlfR3Y3eGVjWjVPSlZZb1Q4Ym4wQXZsOThxNGY3X1c0cGlwcXNWbzZuMzVzbDRBQQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 08:03:19 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Lewis Hall: Man United Prepare £60m Newcastle Bid - Read Man Utd",
+      "items": [
+        {
+          "title": "Lewis Hall: Man United Prepare £60m Newcastle Bid - Read Man Utd",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjlvNTN6aFNHWVZjbkJSWFpfLXZmQ2ktM1VEclpDN24yM3BGb2d2aC1FYlRCYlRrTEdiSXdDb25kSjkxMTBsaUtSbk1XVmR0ZkFER0JKcHJLUHNpQms2UEJ4U0FjZ01BVmh3RkRsQkdBUjNZY1hMMEJyYlJkZnYyQVlsUDlvNEk?oc=5\" target=\"_blank\">Lewis Hall: Man United Prepare £60m Newcastle Bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Read Man Utd</font>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjlvNTN6aFNHWVZjbkJSWFpfLXZmQ2ktM1VEclpDN24yM3BGb2d2aC1FYlRCYlRrTEdiSXdDb25kSjkxMTBsaUtSbk1XVmR0ZkFER0JKcHJLUHNpQms2UEJ4U0FjZ01BVmh3RkRsQkdBUjNZY1hMMEJyYlJkZnYyQVlsUDlvNEk?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 01 Aug 2026 13:19:44 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Everton prepare offer for Manchester United wonderkid in ambitious summer move",
+      "items": [
+        {
+          "title": "Everton prepare offer for Manchester United wonderkid in ambitious summer move",
+          "summary": "<p>Everton are interested in signing the Manchester United striker Ethan Wheatley. According to Fabrizio Romano, they are preparing a formal offer to sign the 20-year-old striker. Wheatley is highly rated at Manchester United, and he has a bright future in the game. DOWNLOAD THE OFFICIAL CAUGHTOFFSIDE APP FOR ALL THE LATEST &#38; BREAKING UPDATES – [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/01/everton-prepare-offer-for-manchester-united-wonderkid-in-ambitious-summer-move/\">Everton prepare offer for Manchester United wonderkid in ambitious summer move</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/01/everton-prepare-offer-for-manchester-united-wonderkid-in-ambitious-summer-move/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 01 Aug 2026 21:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal, Liverpool, Manchester United enter race for 32-goal contribution star",
+      "items": [
+        {
+          "title": "Arsenal, Liverpool, Manchester United enter race for 32-goal contribution star",
+          "summary": "<p>Arsenal, Liverpool, Manchester United and Tottenham Hotspur are all interested in signing the Ajax attacker Mika Godts. PSG are currently pushing to sign the player this summer, according to TEAMtalk, and the 21-year-old could prove to be an excellent acquisition. The Belgian had 32 goal contributions last season, and there is no doubt that he [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/01/arsenal-liverpool-manchester-united-enter-race-for-32-goal-contribution-star/\">Arsenal, Liverpool, Manchester United enter race for 32-goal contribution star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/01/arsenal-liverpool-manchester-united-enter-race-for-32-goal-contribution-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 01 Aug 2026 18:10:25 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcr4mo/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcr4mo/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcr4mo/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T16:01:25+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
+      "items": [
+        {
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p><strong>Men's Team</strong>​ </p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrey Santos</td> <td align=\"left\">CM</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£48m + £2m</td> </tr> <tr> <td align=\"left\">Karl Darlow</td> <td align=\"left\">GK</td> <td align=\"left\">Leeds Utd</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Youri Tielemans</td> <td align=\"left\">CM</td> <td align=\"left\">Aston Villa</td> <td align=\"left\">£35m</td> </tr> <tr> <td align=\"left\">Tynan Thompson</td> <td align=\"left\">LW</td> <td align=\"left\">Tottenham Hotspur</td> <td align=\"left\">£4m + £4m</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">Inter Miami</td> <td align=\"left\">Contact Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> </tbody></table> <p><strong>Women's Team</strong></p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrea Medina</td> <td align=\"left\">LB</td> <td align=\"left\">Atletico Madrid</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Janina Leitzig</td> <td align=\"left\">GK</td> <td align=\"left\">Leicester City</td> <td align=\"left\">Undisclosed Fee</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Millie Turner</td> <td align=\"left\">CB</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed Fee</td> </tr> <tr> <td align=\"left\">Hannah Blundell </td> <td align=\"left\">FB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Melvine Malard</td> <td align=\"left\">ST</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£850k</td> </tr> <tr> <td align=\"left\">Leah Galton</td> <td align=\"left\">FW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Lisa Naalsund</td> <td align=\"left\">MF</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed fee</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcf3dk/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcf3dk/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcf3dk/transfer_round_up_discussion_summer_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T06:01:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Andrey Santos’ game by numbers vs. Atletico Madrid: 100% duels won 93% pass accuracy 90 touches 33 carries 7 passes into the final third 3 interceptions 3 recoveries 2 tackles Top performance in the middle of the park.",
+      "items": [
+        {
+          "title": "Andrey Santos’ game by numbers vs. Atletico Madrid: 100% duels won 93% pass accuracy 90 touches 33 carries 7 passes into the final third 3 interceptions 3 recoveries 2 tackles Top performance in the middle of the park.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcprpi/andrey_santos_game_by_numbers_vs_atletico_madrid/\"> <img alt=\"Andrey Santos’ game by numbers vs. Atletico Madrid: 100% duels won 93% pass accuracy 90 touches 33 carries 7 passes into the final third 3 interceptions 3 recoveries 2 tackles Top performance in the middle of the park.\" src=\"https://preview.redd.it/bm1tsq432sgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a30b81c547c974faa894ea81bf8aa041e0a063cc\" title=\"Andrey Santos’ game by numbers vs. Atletico Madrid: 100% duels won 93% pass accuracy 90 touches 33 carries 7 passes into the final third 3 interceptions 3 recoveries 2 tackles Top performance in the middle of the park.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/bm1tsq432sgh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcprpi/andrey_santos_game_by_numbers_vs_atletico_madrid/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcprpi/andrey_santos_game_by_numbers_vs_atletico_madrid/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T15:06:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Andy Mitten] MUFC have played Atletico six times. The first was in ‘91 and my first proper Euro away. Lost. Same in ‘22. Didn’t win any of them in fact. Until today. Trophy parade to start from Manchester Airport in the morning.",
+      "items": [
+        {
+          "title": "[Andy Mitten] MUFC have played Atletico six times. The first was in ‘91 and my first proper Euro away. Lost. Same in ‘22. Didn’t win any of them in fact. Until today. Trophy parade to start from Manchester Airport in the morning.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcsz1y/andy_mitten_mufc_have_played_atletico_six_times/\"> <img alt=\"[Andy Mitten] MUFC have played Atletico six times. The first was in ‘91 and my first proper Euro away. Lost. Same in ‘22. Didn’t win any of them in fact. Until today. Trophy parade to start from Manchester Airport in the morning.\" src=\"https://preview.redd.it/ipqh0qstqsgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=807fda5fcd71201bee45b3c39701324f47252d01\" title=\"[Andy Mitten] MUFC have played Atletico six times. The first was in ‘91 and my first proper Euro away. Lost. Same in ‘22. Didn’t win any of them in fact. Until today. Trophy parade to start from Manchester Airport in the morning.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/ipqh0qstqsgh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcsz1y/andy_mitten_mufc_have_played_atletico_six_times/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcsz1y/andy_mitten_mufc_have_played_atletico_six_times/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T17:15:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "We've won the Snapdragon Cup Champions 2026",
+      "items": [
+        {
+          "title": "We've won the Snapdragon Cup Champions 2026",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcpiml/weve_won_the_snapdragon_cup_champions_2026/\"> <img alt=\"We've won the Snapdragon Cup Champions 2026\" src=\"https://preview.redd.it/mk9s7wh32sgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=70603b2083f07eaccabf7781c8492184e7c9924a\" title=\"We've won the Snapdragon Cup Champions 2026\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hieuddo\"> /u/hieuddo </a> <br /> <span><a href=\"https://i.redd.it/mk9s7wh32sgh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcpiml/weve_won_the_snapdragon_cup_champions_2026/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcpiml/weve_won_the_snapdragon_cup_champions_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T14:55:56+00:00"
+        },
+        {
+          "title": "We're the Snapdragon Cup Champions 2026",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcplw1/were_the_snapdragon_cup_champions_2026/\"> <img alt=\"We're the Snapdragon Cup Champions 2026\" src=\"https://external-preview.redd.it/cjR6OTI4cnIyc2doMRJFe_KmxEG-539fj9K-a2ZFNpwcPHhSOjRxm8SyBTgU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e00b14a4156474f875c7a41fcb4e2d91f9d9988\" title=\"We're the Snapdragon Cup Champions 2026\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/mu4nxjqr2sgh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcplw1/were_the_snapdragon_cup_champions_2026/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcplw1/were_the_snapdragon_cup_champions_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T14:59:47+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Nick Mashiter] Barcelona boss Hansi Flick 'will miss' Marcus Rashford",
+      "items": [
+        {
+          "title": "[Nick Mashiter] Barcelona boss Hansi Flick 'will miss' Marcus Rashford",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vd20xt/nick_mashiter_barcelona_boss_hansi_flick_will/\"> <img alt=\"[Nick Mashiter] Barcelona boss Hansi Flick 'will miss' Marcus Rashford\" src=\"https://external-preview.redd.it/hoUXGtf7h6L2udBo4c_vyRItvuFB1mX57-j3va24dm0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4db11598882c16187aee7b3f88b69ea2aeafb5a0\" title=\"[Nick Mashiter] Barcelona boss Hansi Flick 'will miss' Marcus Rashford\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/c8jnp2gxdw9o\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vd20xt/nick_mashiter_barcelona_boss_hansi_flick_will/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vd20xt/nick_mashiter_barcelona_boss_hansi_flick_will/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T23:26:45+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Norman Foster at 91: Retire? Why would I?. Britain’s most celebrated architect is giving back to the city that made him by designing Manchester United’s new stadium. Next, he has sights on Mars",
+      "items": [
+        {
+          "title": "Norman Foster at 91: Retire? Why would I?. Britain’s most celebrated architect is giving back to the city that made him by designing Manchester United’s new stadium. Next, he has sights on Mars",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.thetimes.com/business/companies-markets/article/norman-foster-manchester-united-stadium-5h9t6mgl9\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vd23ub/norman_foster_at_91_retire_why_would_i_britains/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vd23ub/norman_foster_at_91_retire_why_would_i_britains/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T23:30:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Sky Sports] Everton interested in Man Utd youngster Wheatley",
+      "items": [
+        {
+          "title": "[Sky Sports] Everton interested in Man Utd youngster Wheatley",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vczoqk/sky_sports_everton_interested_in_man_utd/\"> <img alt=\"[Sky Sports] Everton interested in Man Utd youngster Wheatley\" src=\"https://external-preview.redd.it/vawP-1RKrjaGUxlSz98mjhMQfiaVy74IS9sLJJuTsYo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f88d8b2779707c9ead37ac75547ba6ab32942b0a\" title=\"[Sky Sports] Everton interested in Man Utd youngster Wheatley\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FragMasterMat117\"> /u/FragMasterMat117 </a> <br /> <span><a href=\"https://www.skysports.com/football/live-blog/31771/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours?postid=12163459#liveblog-body\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vczoqk/sky_sports_everton_interested_in_man_utd/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vczoqk/sky_sports_everton_interested_in_man_utd/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T21:44:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd v Atleti | Highlights",
+      "items": [
+        {
+          "title": "Man Utd v Atleti | Highlights",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vct6ce/man_utd_v_atleti_highlights/\"> <img alt=\"Man Utd v Atleti | Highlights\" src=\"https://external-preview.redd.it/Bl_4AgYpovInkdcpfvVeAV_sWf7trhmeSNNXvE6PoHM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=763a7339bd93038f720dbac190253a241f8276c3\" title=\"Man Utd v Atleti | Highlights\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/incognito_red\"> /u/incognito_red </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=ZB3tkkT0XUs\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vct6ce/man_utd_v_atleti_highlights/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vct6ce/man_utd_v_atleti_highlights/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T17:23:32+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Stone] Celta Vigo keen on ManUtd keeper Altay Bayindir - in today's squad but did a long training session pre-match. No deal yet. Others also in for him.",
+      "items": [
+        {
+          "title": "[Stone] Celta Vigo keen on ManUtd keeper Altay Bayindir - in today's squad but did a long training session pre-match. No deal yet. Others also in for him.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcnyz7/stone_celta_vigo_keen_on_manutd_keeper_altay/\"> <img alt=\"[Stone] Celta Vigo keen on ManUtd keeper Altay Bayindir - in today's squad but did a long training session pre-match. No deal yet. Others also in for him.\" src=\"https://preview.redd.it/kdi0mqxjqrgh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4efc8464623d7e17facb091fde09d0dcfe25b102\" title=\"[Stone] Celta Vigo keen on ManUtd keeper Altay Bayindir - in today's squad but did a long training session pre-match. No deal yet. Others also in for him.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SOERERY\"> /u/SOERERY </a> <br /> <span><a href=\"https://i.redd.it/kdi0mqxjqrgh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcnyz7/stone_celta_vigo_keen_on_manutd_keeper_altay/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcnyz7/stone_celta_vigo_keen_on_manutd_keeper_altay/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T13:51:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Simon Stone] Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough",
+      "items": [
+        {
+          "title": "[Simon Stone] Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcimqt/simon_stone_man_utd_shea_lacey_and_tyler_fletcher/\"> <img alt=\"[Simon Stone] Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough\" src=\"https://external-preview.redd.it/vFe8Dumc9v1smkL_C8EgyI8WIzsr-7UW1LYuq8YDRHk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40780d5671a83ac1ce2910db6c68ccbb3ea801fa\" title=\"[Simon Stone] Man Utd: Shea Lacey and Tyler Fletcher set for first-team breakthrough\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cq897zlv9nko\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcimqt/simon_stone_man_utd_shea_lacey_and_tyler_fletcher/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcimqt/simon_stone_man_utd_shea_lacey_and_tyler_fletcher/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T09:22:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Post Match Thread: Manchester United 2-1 Atletico Madrid | Friendly",
+      "items": [
+        {
+          "title": "Post Match Thread: Manchester United 2-1 Atletico Madrid | Friendly",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 2-1 Atletico Madrid</h1> <p>Goal Scorer United: Bryan Mbeumo 53', 74'</p> <p>Goal Scorer Atletico: Arnau Ortiz 5'</p> <p><sup>\\</sup>___________________________)</p> <p>Venue: Strawberry Arena, Stockholm</p> <p>____________________________</p> <p><strong>United Starting XI:</strong></p> <p>Heaton; Yoro, Maguire (c), Heaven, Shaw; Santos, Mount; Amad, Lacey, Dorgu; Mbeumo.</p> <p><strong>Atletico Starting XI:</strong></p> <p>Oblak; Domínguez, Le Normand, Hancko, Ruggeri; Koke, Vargas, Castillo, Ortiz; Martín, Lookman.</p> <p>____________________________</p> <p><strong>NEXT MATCH</strong></p> <p>Paris Saint Germain vs Man Utd - Friendly</p> <p>August 8, 2026 • 16:00</p> <p>Nya Ullevi, Göteborg </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcpdqc/post_match_thread_manchester_united_21_atletico/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcpdqc/post_match_thread_manchester_united_21_atletico/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcpdqc/post_match_thread_manchester_united_21_atletico/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T14:50:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Simon Casson] Football finance: Is building a new stadium a way around spending rules?",
+      "items": [
+        {
+          "title": "[Simon Casson] Football finance: Is building a new stadium a way around spending rules?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vd22m3/simon_casson_football_finance_is_building_a_new/\"> <img alt=\"[Simon Casson] Football finance: Is building a new stadium a way around spending rules?\" src=\"https://external-preview.redd.it/e00DnHqqFSNpyf3MPlLrYPRsz6yh6mnvFk5BTcD9Pzw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01bfdd89472f26bfb3ba788780f5defa97dc7458\" title=\"[Simon Casson] Football finance: Is building a new stadium a way around spending rules?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/crl70reg06no\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vd22m3/simon_casson_football_finance_is_building_a_new/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vd22m3/simon_casson_football_finance_is_building_a_new/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T23:28:53+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick, Leny Yoro & Bryan Mbeumo Post-Atleti",
+      "items": [
+        {
+          "title": "Michael Carrick, Leny Yoro & Bryan Mbeumo Post-Atleti",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcrcdb/michael_carrick_leny_yoro_bryan_mbeumo_postatleti/\"> <img alt=\"Michael Carrick, Leny Yoro &amp; Bryan Mbeumo Post-Atleti\" src=\"https://external-preview.redd.it/EXPov3qYpGKsk4r_molPbpU2biwgZbSDzQooYzyKdKE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=74081f1be34de3e861b6d008b205784ca8ab01df\" title=\"Michael Carrick, Leny Yoro &amp; Bryan Mbeumo Post-Atleti\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=8jzI72caRos\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcrcdb/michael_carrick_leny_yoro_bryan_mbeumo_postatleti/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcrcdb/michael_carrick_leny_yoro_bryan_mbeumo_postatleti/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T16:09:52+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United Team vs Atletico Madrid, Friendly, 01 August 2026 | Starting XI: Heaton; Yoro, Maguire (c), Heaven, Shaw; Santos, Mount; Amad, Lacey, Dorgu; Mbeumo.",
+      "items": [
+        {
+          "title": "Manchester United Team vs Atletico Madrid, Friendly, 01 August 2026 | Starting XI: Heaton; Yoro, Maguire (c), Heaven, Shaw; Santos, Mount; Amad, Lacey, Dorgu; Mbeumo.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcl9py/manchester_united_team_vs_atletico_madrid/\"> <img alt=\"Manchester United Team vs Atletico Madrid, Friendly, 01 August 2026 | Starting XI: Heaton; Yoro, Maguire (c), Heaven, Shaw; Santos, Mount; Amad, Lacey, Dorgu; Mbeumo.\" src=\"https://preview.redd.it/tks27m1d4rgh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dbf785a7654addaf2bf0c8293afd03f387d8f6e\" title=\"Manchester United Team vs Atletico Madrid, Friendly, 01 August 2026 | Starting XI: Heaton; Yoro, Maguire (c), Heaven, Shaw; Santos, Mount; Amad, Lacey, Dorgu; Mbeumo.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://i.redd.it/tks27m1d4rgh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcl9py/manchester_united_team_vs_atletico_madrid/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcl9py/manchester_united_team_vs_atletico_madrid/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T11:48:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "The post saves Manchester United 84'",
+      "items": [
+        {
+          "title": "The post saves Manchester United 84'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vcp6sc/the_post_saves_manchester_united_84/\"> <img alt=\"The post saves Manchester United 84'\" src=\"https://external-preview.redd.it/S0CPml73hUkIi6kz1UgX5IMQcIkm7QQDOrsG4NZl_JM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=71ee357150cbb60f467ff90a343d06163aa95094\" title=\"The post saves Manchester United 84'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gentle_lips\"> /u/Gentle_lips </a> <br /> <span><a href=\"https://streama.in/vLE0OM7PnTNzVCb/watch\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vcp6sc/the_post_saves_manchester_united_84/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vcp6sc/the_post_saves_manchester_united_84/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-01T14:41:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 67,
+    "story_count": 53
+  }
+}
