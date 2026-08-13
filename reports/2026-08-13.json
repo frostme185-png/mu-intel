@@ -1,0 +1,1394 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T03:26:56.807818+00:00",
+  "match_data": {
+    "collected_at": "2026-08-13T03:26:50.794589+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United vs Leeds highlights and reaction after Noussair Mazraoui scores winning penalty",
+      "items": [
+        {
+          "title": "Manchester United vs Leeds highlights and reaction after Noussair Mazraoui scores winning penalty",
+          "summary": "Man Utd drew 1-1 with Leeds in a pre-season friendly in Dublin on Wednesday night - but the Reds won on penalties.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-vs-leeds-live-34446397",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 21:48:09 +0000"
+        },
+        {
+          "title": "Official highlights - Manchester United vs Leeds",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://youtu.be/-zVFMp4i4ec?si=V91hGMDZ9JXN2pDQ\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmr89g/official_highlights_manchester_united_vs_leeds/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmr89g/official_highlights_manchester_united_vs_leeds/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T21:28:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United player ratings vs Leeds as Mbeumo and Armer get 8/10 but one 5/10",
+      "items": [
+        {
+          "title": "Manchester United player ratings vs Leeds as Mbeumo and Armer get 8/10 but one 5/10",
+          "summary": "Man Utd drew 1-1 with Leeds United at Croke Park in Dublin but won the Boyle Sports Cup after winning a penalty shootout.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34448442",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 20:40:56 +0000"
+        },
+        {
+          "title": "Manchester United 1-1 Leeds [ Mbeumo 37’ Shot ]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmnvlm/manchester_united_11_leeds_mbeumo_37_shot/\"> <img alt=\"Manchester United 1-1 Leeds [ Mbeumo 37’ Shot ]\" src=\"https://external-preview.redd.it/bXEzZXpmaWp2emloMUsV-usysqNBdZ7zqO2v-1nl7dE1o1N3L8U32uP1jCuL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=83d812268cdbdc68638b6cc1a06bdb1b0f382b98\" title=\"Manchester United 1-1 Leeds [ Mbeumo 37’ Shot ]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/v42rbihjvzih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmnvlm/manchester_united_11_leeds_mbeumo_37_shot/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmnvlm/manchester_united_11_leeds_mbeumo_37_shot/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T19:21:37+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Jadon Sancho dealt major blow as free transfer for Man United flop 'rejected'",
+      "items": [
+        {
+          "title": "Jadon Sancho dealt major blow as free transfer for Man United flop 'rejected'",
+          "summary": "Jadon Sancho has not yet found a new club after leaving Manchester United earlier this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jadon-sancho-manchester-united-transfer-34447550",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 16:10:43 +0000"
+        },
+        {
+          "title": "Jadon Sancho hits new low as club reject free transfer for Man Utd flop",
+          "summary": "Jadon Sancho is still without a club following his Manchester United exit earlier this summer",
+          "url": "https://www.mirror.co.uk/sport/football/news/jadon-sancho-man-utd-transfer-37544878",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 16:43:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United transfer latest: Three stars put up for sale as Myles Lewis-Skelly offer made",
+      "items": [
+        {
+          "title": "Man United transfer latest: Three stars put up for sale as Myles Lewis-Skelly offer made",
+          "summary": "Manchester United are reportedly in the market for a new left-back and could find the solution has already landed on their lap",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-myles-lewis-skelly-34439854",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Myles Lewis-Skelly transfer bombshell as club puts three players up for sale",
+          "summary": "Manchester United could be faced with a rare transfer opportunity following a surprise development regarding Arsenal youngster Myles Lewis-Skelly",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-united-myles-lewis-skelly-37538208",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'He's our player' - Michael Carrick opens up on Marcus Rashford's return to Manchester United",
+      "items": [
+        {
+          "title": "'He's our player' - Michael Carrick opens up on Marcus Rashford's return to Manchester United",
+          "summary": "Marcus Rashford has joined up with Man Utd's squad in the Republic of Ireland after his post-World Cup break.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/hes-player-michael-carrick-opens-34446829",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 13 Aug 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick backed to unleash Man United star who 'has everything' by Sir Alex favourite",
+      "items": [
+        {
+          "title": "Michael Carrick backed to unleash Man United star who 'has everything' by Sir Alex favourite",
+          "summary": "Marcus Rashford has returned to Manchester United this week for pre-season training",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-backed-unleash-man-34448579",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 21:30:23 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Noussair Mazraoui gives Marcus Rashford verdict after Manchester United return",
+      "items": [
+        {
+          "title": "Noussair Mazraoui gives Marcus Rashford verdict after Manchester United return",
+          "summary": "Man Utd won on penalties against Leeds in pre-season after drawing 1-1 in normal time at Croke Park and Noussair Mazraoui spoke after the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/noussair-mazraoui-gives-marcus-rashford-34446806",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 21:08:23 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United got a reminder vs Leeds of what they still need to do in the transfer window",
+      "items": [
+        {
+          "title": "Manchester United got a reminder vs Leeds of what they still need to do in the transfer window",
+          "summary": "Man Utd won the Boyle Sports Cup after beating Leeds United on penalties at Croke Park, but it was a night that exposed some weaknesses in the squad.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-reminder-vs-leeds-34448446",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 20:54:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why Harry Maguire is missing for Manchester United vs Leeds and Mason Mount absence explained",
+      "items": [
+        {
+          "title": "Why Harry Maguire is missing for Manchester United vs Leeds and Mason Mount absence explained",
+          "summary": "Man Utd face Leeds in a pre-season friendly at Croke Park in Dublin on Wednesday and there are some big names missing from Michael Carrick's side.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/harry-maguire-missing-manchester-united-34448339",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 17:45:51 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Is Man United vs Leeds on TV? Channel, live stream and kick-off time for Dublin friendly",
+      "items": [
+        {
+          "title": "Is Man United vs Leeds on TV? Channel, live stream and kick-off time for Dublin friendly",
+          "summary": "Manchester United travel to Dublin to face Leeds in a pre-season friendly",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-leeds-live-stream-34432559",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Rio Ferdinand urges Man United to ‘push the button’ for £70m transfer ‘right now’",
+      "items": [
+        {
+          "title": "Rio Ferdinand urges Man United to ‘push the button’ for £70m transfer ‘right now’",
+          "summary": "Manchester United have less than three weeks to complete their transfer business in the summer window.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-myles-lewis-skelly-34446800",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 15:41:53 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford could complete incredible Manchester United turnaround - 'desire on both sides'",
+      "items": [
+        {
+          "title": "Marcus Rashford could complete incredible Manchester United turnaround - 'desire on both sides'",
+          "summary": "Manchester United forward Marcus Rashford linked up with the Reds for the first time in 18 months this week as preparations continue for the new season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/marcus-rashford-could-complete-incredible-34446179",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 15:23:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United warned they just missed out on 'ideal signing' in first problem of the season",
+      "items": [
+        {
+          "title": "Man United warned they just missed out on 'ideal signing' in first problem of the season",
+          "summary": "Manchester United have been told that the club missed out on a player who could have fixed a key issue for manager Michael Carrick",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-missed-signing-34446398",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 14:42:45 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Inside Man United's midfield transfer thinking as Michael Carrick question revealed",
+      "items": [
+        {
+          "title": "Inside Man United's midfield transfer thinking as Michael Carrick question revealed",
+          "summary": "Manchester United have signed Aston Villa's Youri Tielemans and Chelsea star Andrey Santos to bolster their midfield this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/inside-man-uniteds-midfield-transfer-34444405",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 13:33:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United handed Mason Mount injury update ahead of Leeds United clash",
+      "items": [
+        {
+          "title": "Man United handed Mason Mount injury update ahead of Leeds United clash",
+          "summary": "Manchester United have been handed an update on Mason Mount's fitness as the Reds prepare to face Leeds United in their latest pre-season fixture",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mason-mount-injury-34444988",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 12:44:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "'Humble and hard working' - Youri Tielemans delivers Marcus Rashford verdict after Man United reunion",
+      "items": [
+        {
+          "title": "'Humble and hard working' - Youri Tielemans delivers Marcus Rashford verdict after Man United reunion",
+          "summary": "Youri Tielemans and Marcus Rashford played together at Aston Villa and have now been reunited at Man Utd.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/humble-hard-working-youri-tielemans-34443776",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Youri Tielemans on his two Manchester United transfer near misses, injury concerns and Carrick chats",
+      "items": [
+        {
+          "title": "Youri Tielemans on his two Manchester United transfer near misses, injury concerns and Carrick chats",
+          "summary": "Man Utd signed Youri Tielemans for £35million this summer, and for the Belgian international, the move to Old Trafford had been a long time coming.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/youri-tielemans-two-manchester-united-34442100",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Will Marcus Rashford play for Man United vs Leeds? Everything you need to know ahead of friendly",
+      "items": [
+        {
+          "title": "Will Marcus Rashford play for Man United vs Leeds? Everything you need to know ahead of friendly",
+          "summary": "Manchester United forward Marcus Rashford has returned to the club following his break post-World Cup",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-play-man-united-34442850",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 09:22:30 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United icons 'raving' about one transfer target in WhatsApp chat",
+      "items": [
+        {
+          "title": "Manchester United icons 'raving' about one transfer target in WhatsApp chat",
+          "summary": "Manchester United remain active in the transfer market and have already added midfielders Youri Tielemans and Andrey Santos this summer but continue to be linked to another",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/carlos-baleba-man-utd-transfer-34443067",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 08:41:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I managed Man United against Arsenal, Liverpool and Man City but one fixture was more fierce",
+      "items": [
+        {
+          "title": "I managed Man United against Arsenal, Liverpool and Man City but one fixture was more fierce",
+          "summary": "One Manchester United rivalry stands tall above all when it comes to ferocity, according to Sir Alex Ferguson",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-liverpool-leeds-arsenal-34433847",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United line-up vs Leeds predicted as Marcus Rashford decision made",
+      "items": [
+        {
+          "title": "Man United line-up vs Leeds predicted as Marcus Rashford decision made",
+          "summary": "Manchester United are in Dublin to face Leeds in their penultimate pre-season fixture of the summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-line-up-vs-34439917",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United have no excuses this month - and their brains trust know it",
+      "items": [
+        {
+          "title": "Manchester United have no excuses this month - and their brains trust know it",
+          "summary": "Man Utd have been handed a kind start to the Premier League season and they have other factors in their favour as well.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-no-excuses-month-34438179",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "JJ Gabriel is heeding Cristiano Ronaldo's words at Man United – and it speaks volumes",
+      "items": [
+        {
+          "title": "JJ Gabriel is heeding Cristiano Ronaldo's words at Man United – and it speaks volumes",
+          "summary": "Manchester United star JJ Gabriel has opted to follow Cristiano Ronaldo's words of advice and the results are telling",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-ronaldo-34437468",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How Manchester United should line up vs Leeds for penultimate pre-season fixture",
+      "items": [
+        {
+          "title": "How Manchester United should line up vs Leeds for penultimate pre-season fixture",
+          "summary": "Manchester United take on Leeds at Dublin's iconic Croke Park this evening as Michael Carrick's side inch towards the new season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/how-manchester-united-should-line-34439396",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Transfer news LIVE: Chelsea set Enzo Fernandez 'deadline', Man Utd's £14m deal, Bradley Barcola hint",
+      "items": [
+        {
+          "title": "Transfer news LIVE: Chelsea set Enzo Fernandez 'deadline', Man Utd's £14m deal, Bradley Barcola hint",
+          "summary": "The latest Arsenal, Liverpool, Man Utd transfer news and updates from around the Premier League as the window enters its final stretch ahead of the new season",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfer-news-live-man-utd-37541231",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 21:47:56 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Elliot Anderson backs himself to replace Rodri as he doubles down on Man Utd snub",
+      "items": [
+        {
+          "title": "Elliot Anderson backs himself to replace Rodri as he doubles down on Man Utd snub",
+          "summary": "Elliot Anderson talks about replacing Rodri, England's World Cup heartbreak and how his 10-year obsession with Manchester City made a move to United unthinkable",
+          "url": "https://www.mirror.co.uk/sport/football/news/elliot-anderson-backs-himself-replace-37544954",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 21:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd vs Leeds United friendly finishes early as multiple pitch invaders stop match",
+      "items": [
+        {
+          "title": "Man Utd vs Leeds United friendly finishes early as multiple pitch invaders stop match",
+          "summary": "Manchester United's pre-season clash with Leeds United was brought to a premature close",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-leeds-united-invader-37545511",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 20:37:36 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd frustrated by Leeds as Bruno Fernandes reminder sent - 5 talking points",
+      "items": [
+        {
+          "title": "Man Utd frustrated by Leeds as Bruno Fernandes reminder sent - 5 talking points",
+          "summary": "MANCHESTER UNITED 1-1 LEEDS: The two Premier League sides couldn't be separated at Croke Park as Brenden Aaronson cancelled out Joshua Zirkzee's opener",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-leeds-preseason-friendly-37545231",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 20:33:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Why is Man Utd vs Leeds being played in Ireland? Reason behind friendly explained",
+      "items": [
+        {
+          "title": "Why is Man Utd vs Leeds being played in Ireland? Reason behind friendly explained",
+          "summary": "Manchester United and Leeds United face off in a pre-season friendly on Wednesday night but the fixture won't be played in England",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-leeds-dublin-ireland-37538069",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 17:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd chief gets blunt response to transfer approach - 'I'd tell him to go away'",
+      "items": [
+        {
+          "title": "Man Utd chief gets blunt response to transfer approach - 'I'd tell him to go away'",
+          "summary": "Manchester United have been linked with Leicester City's Louis Page but Russell Martin has made it clear the teenager is not for sale",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-wilcox-russell-leicester-37544895",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 16:50:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick told he must sign seven more players in urgent Man Utd transfer message",
+      "items": [
+        {
+          "title": "Michael Carrick told he must sign seven more players in urgent Man Utd transfer message",
+          "summary": "Manchester United have been sent a stark message following a slowdown in transfer activity",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-michael-carrick-37544005",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 14:29:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "8 transfers that could happen in the next week with Man Utd and Arsenal busy",
+      "items": [
+        {
+          "title": "8 transfers that could happen in the next week with Man Utd and Arsenal busy",
+          "summary": "The summer transfer window has already seen some gigantic deals concluded and, with 20 days remaining, there are still some significant transfers in the pipeline",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/transfers-man-utd-arsenal-liverpool-37541981",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 11:45:03 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Youri Tielemans sends clear Marcus Rashford message to Michael Carrick after Man Utd reunion",
+      "items": [
+        {
+          "title": "Youri Tielemans sends clear Marcus Rashford message to Michael Carrick after Man Utd reunion",
+          "summary": "Manchester United new boy Youri Tielemans is settling into life at Old Trafford alongside a gang of new team-mates, as well as a couple of more familiar faces, including Marcus Rashford",
+          "url": "https://www.mirror.co.uk/sport/football/news/youri-tielemans-sends-clear-marcus-37542781",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester City sign £2m goalkeeper who destroyed Man Utd's hopes of European trophy",
+      "items": [
+        {
+          "title": "Manchester City sign £2m goalkeeper who destroyed Man Utd's hopes of European trophy",
+          "summary": "Leeds United spent big to take James Trafford to Elland Road as their new No.1 but with Gianluigi Donnarumma in situ at the Etihad, they've turned to an experienced Argentine international for cover",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/manchester-city-transfer-geronimo-rulli-37542478",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 10:09:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jeff Stelling predicts Premier League winner, top four and relegated trio in 2026/27 table",
+      "items": [
+        {
+          "title": "Jeff Stelling predicts Premier League winner, top four and relegated trio in 2026/27 table",
+          "summary": "The talkSPORT presenter has made some eye-catching predictions ahead of the new season, including a surprise relegation candidate",
+          "url": "https://www.mirror.co.uk/sport/football/news/jeff-stelling-premier-league-predictions-37542240",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 10:03:56 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "ITV in major shake-up as Emmerdale and Coronation Street taken off air",
+      "items": [
+        {
+          "title": "ITV in major shake-up as Emmerdale and Coronation Street taken off air",
+          "summary": "ITV's schedule has undergone a massive overhaul for later tonight, with soaps Emmerdale and Coronation Street being taken off air in favour of the Manchester United vs Leeds United friendly",
+          "url": "https://www.mirror.co.uk/tv/tv-news/itv-major-shake-up-emmerdale-37541606",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 08:34:31 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Paul Pogba set to have contract torn up as injured ex-Man Utd star searches for new club",
+      "items": [
+        {
+          "title": "Paul Pogba set to have contract torn up as injured ex-Man Utd star searches for new club",
+          "summary": "Paul Pogba is now understood to be on the lookout for a new team, despite reports claiming the ex-Manchester United midfielder was offered a deal",
+          "url": "https://www.mirror.co.uk/sport/football/news/paul-pogba-contract-man-utd-37541392",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 07:25:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "How to watch Man Utd vs Leeds for free tonight – TV channel, live stream and kick-off time",
+      "items": [
+        {
+          "title": "How to watch Man Utd vs Leeds for free tonight – TV channel, live stream and kick-off time",
+          "summary": "Manchester United take on old rivals Leeds as part of the pre-season preparations for the 2026/27 campaign",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-leeds-tv-channel-37532539",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd urged to complete 'no brainer' seventh summer signing 'they can't say no to'",
+      "items": [
+        {
+          "title": "Man Utd urged to complete 'no brainer' seventh summer signing 'they can't say no to'",
+          "summary": "Michael Carrick has been told that landing one particular midfielder this summer is paramount to Manchester United's success",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-summer-transfer-latest-37536435",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd have made six signings, let 14 players leave and could still secure seven transfers",
+      "items": [
+        {
+          "title": "Man Utd have made six signings, let 14 players leave and could still secure seven transfers",
+          "summary": "Manchester United have continued their high level of activity in the summer transfer window",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-rashford-carrick-37537527",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘It is just smelling football’: Tielemans says adjusting to life at United has come naturally",
+      "items": [
+        {
+          "title": "‘It is just smelling football’: Tielemans says adjusting to life at United has come naturally",
+          "summary": "<ul><li><p>Midfielder says experience has helped him settle in</p></li><li><p>‘It’s what I’ve been doing from when I was young’</p></li></ul><p>Youri Tielemans has stated that adjusting to Michael Carrick’s vision for Manchester United has been as easy as “smelling football” for the vastly experienced £35m midfield signing.</p><p>The 29-year-old, who joined from Aston Villa last month, made his debut for Anderlecht at the age of 16. He has been integrating with the United squad during the past 10 days of the club’s pre-season tour, making his first appearance in the 1-1 draw with Paris Saint-Germain in Gothenburg on Saturday.</p> <a href=\"https://www.theguardian.com/football/2026/aug/12/youri-tielemans-manchester-united-smelling-football\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/12/youri-tielemans-manchester-united-smelling-football",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 11:00:26 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United enjoy trip to Dublin with penalty shootout win over Leeds",
+      "items": [
+        {
+          "title": "Manchester United enjoy trip to Dublin with penalty shootout win over Leeds",
+          "summary": "<ul><li><p>Manchester United 1-1 Leeds (5-4 on pens)</p></li><li><p>First game between two ­English clubs at Croke Park</p></li></ul><p>With blazing sunshine fading over a hot Dublin day, this penultimate friendly for Manchester United and Leeds United felt like a pre-season game on a far continent, not one&nbsp;staged a few hundred miles from&nbsp;the teams’ home across the Irish&nbsp;Sea.</p><p>The phoney-war element is always present whatever the locale, as ­players sharpen technique and fitness, so when Joshua Zirkzee’s instant left-foot shot met Diogo Dalot’s zipped-in cross and James Trafford saved low, all involved could be satisfied.</p> <a href=\"https://www.theguardian.com/football/2026/aug/12/manchester-united-leeds-friendly-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/12/manchester-united-leeds-friendly-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 21:01:10 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd Transfer News Today: Lewis-Skelly latest as Hall ‘demands’ move - footballtransfers.com",
+      "items": [
+        {
+          "title": "Man Utd Transfer News Today: Lewis-Skelly latest as Hall ‘demands’ move - footballtransfers.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRmJuUzVQbXBJdEZNN084WkdGTzl4bVJreWltWEVVM21FSWV1bGhSbVp6Ykh1aFJWS0QxY0ZVNVYxU1h2b3VRTDlNcUs1cDkybnlfTzlydFhDQVBrYnRBcDhXVVNvcFU1VWhudlNDdlRlYVl2OE1OLWMxSTFDaUFob1R3empHS0F2YTZGYWxEby1zU3p0bFFwQ2JpdV9GUHluakJ1U2JSbmFDeWI1NG1saDMtSkhGdU04TmRUQy1LaXVuaFduckhxRm5fR2Jya1JmM29palVocWwzZEx3THBhWFZn?oc=5\" target=\"_blank\">Man Utd Transfer News Today: Lewis-Skelly latest as Hall ‘demands’ move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">footballtransfers.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRmJuUzVQbXBJdEZNN084WkdGTzl4bVJreWltWEVVM21FSWV1bGhSbVp6Ykh1aFJWS0QxY0ZVNVYxU1h2b3VRTDlNcUs1cDkybnlfTzlydFhDQVBrYnRBcDhXVVNvcFU1VWhudlNDdlRlYVl2OE1OLWMxSTFDaUFob1R3empHS0F2YTZGYWxEby1zU3p0bFFwQ2JpdV9GUHluakJ1U2JSbmFDeWI1NG1saDMtSkhGdU04TmRUQy1LaXVuaFduckhxRm5fR2Jya1JmM29palVocWwzZEx3THBhWFZn?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 19:01:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Change of plan sees Camavinga reach final decision on joining Man Utd from Real Madrid - TEAMtalk",
+      "items": [
+        {
+          "title": "Change of plan sees Camavinga reach final decision on joining Man Utd from Real Madrid - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3ozZEdFamV1WXV4VHRqaUhNbEpVSjJkeWxqaEZwRmpzcm51d1ZkX01wd3hKXzVsbmZKQXh0VzdSWUpteTJnUzBiQ0x6cVVJUEZVTHRoYWlTRWlOTE5vRi1yZHdzT1pPUGItczhsQzIyWUhEaXdxS054NUJ5QzFyQ3lPTHRzQW1YbGQwYUh5ekNNcGFXT2tPcmprc2tDSXlxbkh5NG90bGQyZ19mbld6U182bzM2WEVmT29Fbm53S1N5ajRX?oc=5\" target=\"_blank\">Change of plan sees Camavinga reach final decision on joining Man Utd from Real Madrid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3ozZEdFamV1WXV4VHRqaUhNbEpVSjJkeWxqaEZwRmpzcm51d1ZkX01wd3hKXzVsbmZKQXh0VzdSWUpteTJnUzBiQ0x6cVVJUEZVTHRoYWlTRWlOTE5vRi1yZHdzT1pPUGItczhsQzIyWUhEaXdxS054NUJ5QzFyQ3lPTHRzQW1YbGQwYUh5ekNNcGFXT2tPcmprc2tDSXlxbkh5NG90bGQyZ19mbld6U182bzM2WEVmT29Fbm53S1N5ajRX?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 11 Aug 2026 13:09:51 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Iliman Ndiaye: Fabrizio Romano delivers key update on United target’s future - Man United News And Transfer News - The Peoples Person",
+      "items": [
+        {
+          "title": "Iliman Ndiaye: Fabrizio Romano delivers key update on United target’s future - Man United News And Transfer News - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTEw4LURDS2tOSUl0aVZRX2ZDd2t2ZGpKZjNrMEVLMHQyY25ROERGOEthdHB5dGlJMzJjenhwVHltRV9QU1YtdXBuaVBYUW5wQnpBNi10ZE9uOF9qaURqWm9MUFFmVi14ZnZiOTgwNFhQa2ZfSEN2MGVBWXpmV3VpNG8wOWd1bUlIT1Y5b2J2V0Y4bmJQMTAxUERxc1FMTkVaa1FjSGhFR1BMd2hidHByUWJDWTFsZ1BBM3NHUW05aw?oc=5\" target=\"_blank\">Iliman Ndiaye: Fabrizio Romano delivers key update on United target’s future - Man United News And Transfer News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTEw4LURDS2tOSUl0aVZRX2ZDd2t2ZGpKZjNrMEVLMHQyY25ROERGOEthdHB5dGlJMzJjenhwVHltRV9QU1YtdXBuaVBYUW5wQnpBNi10ZE9uOF9qaURqWm9MUFFmVi14ZnZiOTgwNFhQa2ZfSEN2MGVBWXpmV3VpNG8wOWd1bUlIT1Y5b2J2V0Y4bmJQMTAxUERxc1FMTkVaa1FjSGhFR1BMd2hidHByUWJDWTFsZ1BBM3NHUW05aw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 06:00:48 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What a twist! Manchester United swoop for Chelsea star - Dailysports",
+      "items": [
+        {
+          "title": "What a twist! Manchester United swoop for Chelsea star - Dailysports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEc0bFl2cHRvLTY3OVVmNUFuLUl6QVloa08xbFVYcXZld0lmUWh4bDNiemhuRFJwNkx4LUlEWnZjRmVnWHo5RUZJa0VEaDJCeDhqU01iWUZvVzZMX3piUHdYMVdVRTRuMHVnRVBXNjNidmJzQ3oySHlWOXRRWk96ekZrWWt5aDRzdUxJ?oc=5\" target=\"_blank\">What a twist! Manchester United swoop for Chelsea star</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailysports</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEc0bFl2cHRvLTY3OVVmNUFuLUl6QVloa08xbFVYcXZld0lmUWh4bDNiemhuRFJwNkx4LUlEWnZjRmVnWHo5RUZJa0VEaDJCeDhqU01iWUZvVzZMX3piUHdYMVdVRTRuMHVnRVBXNjNidmJzQ3oySHlWOXRRWk96ekZrWWt5aDRzdUxJ?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Wed, 12 Aug 2026 13:16:33 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "£100m bid required as Manchester United & Liverpool receive transfer update",
+      "items": [
+        {
+          "title": "£100m bid required as Manchester United & Liverpool receive transfer update",
+          "summary": "<p>Manchester United and Liverpool may reportedly have an interest in Iliman Ndiaye, but Everton are insisting on at least £100m as they&#8217;d prefer not to sell. As reported earlier today, our information is that Liverpool are among the clubs, alongside Man United and Arsenal, to have had some contacts with Ndiaye&#8217;s entourage. We were told [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/12/man-united-liverpool-iliman-ndiaye-transfer-update/\">£100m bid required as Manchester United &#038; Liverpool receive transfer update</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/12/man-united-liverpool-iliman-ndiaye-transfer-update/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 12 Aug 2026 13:29:16 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report: Liverpool have today made direct call over Man United transfer target",
+      "items": [
+        {
+          "title": "Report: Liverpool have today made direct call over Man United transfer target",
+          "summary": "<p>Liverpool have reportedly joined Manchester United in making a direct call over a potential transfer move for Crystal Palace midfielder Adam Wharton. The talented 22-year-old has shone during his time at Selhurst Park, and it seems inevitable that he&#8217;ll get himself a big move sooner or later. Palace have struggled to hold on to their [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/12/liverpool-man-united-adam-wharton-transfer-2/\">Report: Liverpool have today made direct call over Man United transfer target</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/12/liverpool-man-united-adam-wharton-transfer-2/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 12 Aug 2026 13:12:36 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vm4lxk/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vm4lxk/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vm4lxk/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T05:00:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Post Match Thread: Manchester United 6-5 Leeds (Pens, 1-1 FT)",
+      "items": [
+        {
+          "title": "Post Match Thread: Manchester United 6-5 Leeds (Pens, 1-1 FT)",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 6-5 Leeds (Pens, 1-1 FT)</h1> <p>Goal Scorer United: Joshua Zirkzee 15'</p> <p>Goal Scorer Leeds: Brenden Aaronson 28'</p> <p>____________________________</p> <p>Venue: Croke Park, Dublin</p> <p>____________________________</p> <p><strong>United Starting XI:</strong></p> <p>Lammens; Dalot (c), Yoro, Heaven, Amass; Santos, T. Fletcher; Amad, Zirkzee, Dorgu; Mbeumo.</p> <p><strong>HT Changes:</strong></p> <p>On: Thompson, Armer, Collyer<br /> Off: Santos, Heaven, Dorgu</p> <p><strong>60' Changes:</strong></p> <p>On: Fernandes, Tielemans, Cunha, Mazraoui, Shaw, J.Fletcher, Mee.</p> <p>Off: Mbeumo, Amad, Dalot, Zirkzee, T. Fletcher, Amass, Lammens.</p> <p><strong>Leeds Starting XI:</strong></p> <p>Trafford; Bornauw, Bijol, Muharemovic; Bogle, Tanaka, Longstaff, Chadwick; James, Aaronson, Nmecha.</p> <p>____________________________</p> <p><strong>NEXT MATCH</strong></p> <p>Man Utd vs Milan - Friendly</p> <p>August 15, 2026 • 15:45</p> <p>Tarczyński Arena, Wrocław </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmptx8/post_match_thread_manchester_united_65_leeds_pens/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmptx8/post_match_thread_manchester_united_65_leeds_pens/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmptx8/post_match_thread_manchester_united_65_leeds_pens/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T20:35:03+00:00"
+        },
+        {
+          "title": "Half Time Thread: Manchester United 1-1 Leeds United",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>HT: Manchester United 1-1 Leeds United</h1> <p>Goal Scorer United: Joshua Zirkzee 15'</p> <p>Goal Scorer Leeds: Brenden Aaronson 28'</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmnq54/half_time_thread_manchester_united_11_leeds_united/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmnq54/half_time_thread_manchester_united_11_leeds_united/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmnq54/half_time_thread_manchester_united_11_leeds_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T19:16:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United [1]-0 Leeds - Joshua Zirkzee 16'",
+      "items": [
+        {
+          "title": "Manchester United [1]-0 Leeds - Joshua Zirkzee 16'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmmxn9/manchester_united_10_leeds_joshua_zirkzee_16/\"> <img alt=\"Manchester United [1]-0 Leeds - Joshua Zirkzee 16'\" src=\"https://external-preview.redd.it/Z29xaHl4bmZwemloMZRTUE0oNtM_RtmhteHoez0XGbpUNKJFOS8q5Dw4e5qo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7b00c642a13c4ba141e044c88c2033e6472e5fd4\" title=\"Manchester United [1]-0 Leeds - Joshua Zirkzee 16'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xggq\"> /u/xggq </a> <br /> <span><a href=\"https://v.redd.it/7dy1f8vdpzih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmmxn9/manchester_united_10_leeds_joshua_zirkzee_16/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmmxn9/manchester_united_10_leeds_joshua_zirkzee_16/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T18:47:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Steven Railston] Michael Carrick on Marcus Rashford to ITV: \"He's our player. He's come back great. He's just like any other player. I've known him a long time and he gives us something a little bit different. We're looking forward to the start of the season.\"",
+      "items": [
+        {
+          "title": "[Steven Railston] Michael Carrick on Marcus Rashford to ITV: \"He's our player. He's come back great. He's just like any other player. I've known him a long time and he gives us something a little bit different. We're looking forward to the start of the season.\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmqtlq/steven_railston_michael_carrick_on_marcus/\"> <img alt=\"[Steven Railston] Michael Carrick on Marcus Rashford to ITV: &quot;He's our player. He's come back great. He's just like any other player. I've known him a long time and he gives us something a little bit different. We're looking forward to the start of the season.&quot;\" src=\"https://preview.redd.it/hdtn1oegf0jh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=871b93d59cebc9d603e164119075c36b7bbcf9b3\" title=\"[Steven Railston] Michael Carrick on Marcus Rashford to ITV: &quot;He's our player. He's come back great. He's just like any other player. I've known him a long time and he gives us something a little bit different. We're looking forward to the start of the season.&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/KobbieLikeRobbie_\"> /u/KobbieLikeRobbie_ </a> <br /> <span><a href=\"https://i.redd.it/hdtn1oegf0jh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmqtlq/steven_railston_michael_carrick_on_marcus/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmqtlq/steven_railston_michael_carrick_on_marcus/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T21:13:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United win the 2026 BOYLE Sports Cup",
+      "items": [
+        {
+          "title": "Manchester United win the 2026 BOYLE Sports Cup",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmpzjz/manchester_united_win_the_2026_boyle_sports_cup/\"> <img alt=\"Manchester United win the 2026 BOYLE Sports Cup\" src=\"https://preview.redd.it/paifh8yg90jh1.png?width=140&amp;height=63&amp;auto=webp&amp;s=b783408c6737e2b2f9c20698ba32570d82c0edf8\" title=\"Manchester United win the 2026 BOYLE Sports Cup\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vmpzjz\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmpzjz/manchester_united_win_the_2026_boyle_sports_cup/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmpzjz/manchester_united_win_the_2026_boyle_sports_cup/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T20:41:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens will wear the no.1 shirt for Manchester United during the 2026/27 season.",
+      "items": [
+        {
+          "title": "Senne Lammens will wear the no.1 shirt for Manchester United during the 2026/27 season.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/squad-number-change-for-senne\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmglq2/senne_lammens_will_wear_the_no1_shirt_for/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmglq2/senne_lammens_will_wear_the_no1_shirt_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T15:01:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United 1-1 Leeds - Penalty Shootout (5-4)",
+      "items": [
+        {
+          "title": "Manchester United 1-1 Leeds - Penalty Shootout (5-4)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmq9ep/manchester_united_11_leeds_penalty_shootout_54/\"> <img alt=\"Manchester United 1-1 Leeds - Penalty Shootout (5-4)\" src=\"https://external-preview.redd.it/dDFmanNiZGxiMGpoMVp6dQwMYKTCCgzigZKIHvG2zeUQJEK_UP47Tsy5-YkG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc3e53db17c3fa292a975f6811919f1cd43a6ded\" title=\"Manchester United 1-1 Leeds - Penalty Shootout (5-4)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xggq\"> /u/xggq </a> <br /> <span><a href=\"https://v.redd.it/2jwb6f5hb0jh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmq9ep/manchester_united_11_leeds_penalty_shootout_54/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmq9ep/manchester_united_11_leeds_penalty_shootout_54/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T20:51:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Four kids ran onto the pitch to get selfies with Bruno and Tielemans",
+      "items": [
+        {
+          "title": "Four kids ran onto the pitch to get selfies with Bruno and Tielemans",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmqol7/four_kids_ran_onto_the_pitch_to_get_selfies_with/\"> <img alt=\"Four kids ran onto the pitch to get selfies with Bruno and Tielemans\" src=\"https://external-preview.redd.it/ZG53YnRuc3phMGpoMY3z50yw_ZT7HERD87ZFd7xezIec-UuIn5GIijupfOnu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f96058707ca05e22dba78a2c9b78a105015a020a\" title=\"Four kids ran onto the pitch to get selfies with Bruno and Tielemans\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/12996drza0jh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmqol7/four_kids_ran_onto_the_pitch_to_get_selfies_with/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmqol7/four_kids_ran_onto_the_pitch_to_get_selfies_with/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T21:07:43+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[BBC] I owe Villa the world but Man Utd are above them - Tielemans (Simon Stone article)",
+      "items": [
+        {
+          "title": "[BBC] I owe Villa the world but Man Utd are above them - Tielemans (Simon Stone article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmbllx/bbc_i_owe_villa_the_world_but_man_utd_are_above/\"> <img alt=\"[BBC] I owe Villa the world but Man Utd are above them - Tielemans (Simon Stone article)\" src=\"https://external-preview.redd.it/20Py3ZKLi7fFw9-0HVSNzv-vaVE1E7tPVscJ86IDSTo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=55d54a36b8a97676469607f2cc822ae38f669b82\" title=\"[BBC] I owe Villa the world but Man Utd are above them - Tielemans (Simon Stone article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/digitag\"> /u/digitag </a> <br /> <span><a href=\"https://www.bbc.co.uk/sport/football/articles/cvg0z79l89go\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmbllx/bbc_i_owe_villa_the_world_but_man_utd_are_above/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmbllx/bbc_i_owe_villa_the_world_but_man_utd_are_above/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T11:35:03+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Dawson] Mason Mount left out of the Man United squad to play Leeds in Dublin tonight as a precaution after coming off early against PSG. Maguire also not involved but only because staff are managing his minutes.",
+      "items": [
+        {
+          "title": "[Dawson] Mason Mount left out of the Man United squad to play Leeds in Dublin tonight as a precaution after coming off early against PSG. Maguire also not involved but only because staff are managing his minutes.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmkz60/dawson_mason_mount_left_out_of_the_man_united/\"> <img alt=\"[Dawson] Mason Mount left out of the Man United squad to play Leeds in Dublin tonight as a precaution after coming off early against PSG. Maguire also not involved but only because staff are managing his minutes.\" src=\"https://preview.redd.it/fs6e67oqczih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=832eb415bffec858ea48cc69fdee243620f7ef4f\" title=\"[Dawson] Mason Mount left out of the Man United squad to play Leeds in Dublin tonight as a precaution after coming off early against PSG. Maguire also not involved but only because staff are managing his minutes.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/fs6e67oqczih1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmkz60/dawson_mason_mount_left_out_of_the_man_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmkz60/dawson_mason_mount_left_out_of_the_man_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T17:37:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Happy 27th Birthday to Matthijs de Ligt!",
+      "items": [
+        {
+          "title": "Happy 27th Birthday to Matthijs de Ligt!",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vme5ho/happy_27th_birthday_to_matthijs_de_ligt/\"> <img alt=\"Happy 27th Birthday to Matthijs de Ligt!\" src=\"https://preview.redd.it/whulxx6f4yih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83d37fafd323cccf999219389e5353bafb56f1d1\" title=\"Happy 27th Birthday to Matthijs de Ligt!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Soft-Comfort-7474\"> /u/Soft-Comfort-7474 </a> <br /> <span><a href=\"https://i.redd.it/whulxx6f4yih1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vme5ho/happy_27th_birthday_to_matthijs_de_ligt/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vme5ho/happy_27th_birthday_to_matthijs_de_ligt/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T13:27:47+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United 1- [1] Leeds [ Aaronson 29' Goal + Assist by Dan James ]",
+      "items": [
+        {
+          "title": "Manchester United 1- [1] Leeds [ Aaronson 29' Goal + Assist by Dan James ]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmnhti/manchester_united_1_1_leeds_aaronson_29_goal/\"> <img alt=\"Manchester United 1- [1] Leeds [ Aaronson 29' Goal + Assist by Dan James ]\" src=\"https://external-preview.redd.it/OHQ2ejMxaTF0emloMbBNwwLLyQZflViJxSv3uLtKvEr0ayDtt8tThsG4U-9t.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7d9adc581bc6034b1d0815472ad6324dbaf16a2\" title=\"Manchester United 1- [1] Leeds [ Aaronson 29' Goal + Assist by Dan James ]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/0ypul7g1tzih1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmnhti/manchester_united_1_1_leeds_aaronson_29_goal/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmnhti/manchester_united_1_1_leeds_aaronson_29_goal/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T19:07:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United Team vs Leeds, Pre-Season, 12 August 2026 | Starting XI: Lammens; Dalot (c), Yoro, Heaven, Amass; Santos, T. Fletcher; Amad, Zirkzee, Dorgu; Mbeumo.",
+      "items": [
+        {
+          "title": "Manchester United Team vs Leeds, Pre-Season, 12 August 2026 | Starting XI: Lammens; Dalot (c), Yoro, Heaven, Amass; Santos, T. Fletcher; Amad, Zirkzee, Dorgu; Mbeumo.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmkes9/manchester_united_team_vs_leeds_preseason_12/\"> <img alt=\"Manchester United Team vs Leeds, Pre-Season, 12 August 2026 | Starting XI: Lammens; Dalot (c), Yoro, Heaven, Amass; Santos, T. Fletcher; Amad, Zirkzee, Dorgu; Mbeumo.\" src=\"https://preview.redd.it/4hftycu59zih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ff2829745dabb70cd53b3bcde1704dd06a46473\" title=\"Manchester United Team vs Leeds, Pre-Season, 12 August 2026 | Starting XI: Lammens; Dalot (c), Yoro, Heaven, Amass; Santos, T. Fletcher; Amad, Zirkzee, Dorgu; Mbeumo.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://i.redd.it/4hftycu59zih1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmkes9/manchester_united_team_vs_leeds_preseason_12/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmkes9/manchester_united_team_vs_leeds_preseason_12/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T17:17:14+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Dominic King] Youri Tielemans interview: I owe Villa the world but Manchester United are bigger club",
+      "items": [
+        {
+          "title": "[Dominic King] Youri Tielemans interview: I owe Villa the world but Manchester United are bigger club",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmiih6/dominic_king_youri_tielemans_interview_i_owe/\"> <img alt=\"[Dominic King] Youri Tielemans interview: I owe Villa the world but Manchester United are bigger club\" src=\"https://external-preview.redd.it/O9JoF6NA29CI8tb2AI4jVq-lUS3chRXfhRvdDC0QYHM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aebbb1955f571affc74492c8de89724e0a9ea991\" title=\"[Dominic King] Youri Tielemans interview: I owe Villa the world but Manchester United are bigger club\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/08/12/youri-tielemans-made-to-man-utd-but-means-nothing-yet/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmiih6/dominic_king_youri_tielemans_interview_i_owe/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmiih6/dominic_king_youri_tielemans_interview_i_owe/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T16:10:46+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie Whitwell, In article] United have been offered Lewis-Skelly, though Arsenal say they have not directly offered him to anyone, while the player is keen to stay with them. | United rate Lewis Hall of Newcastle United and have looked at Real Madrid’s Eduardo Camavinga. (Gift Link)",
+      "items": [
+        {
+          "title": "[Laurie Whitwell, In article] United have been offered Lewis-Skelly, though Arsenal say they have not directly offered him to anyone, while the player is keen to stay with them. | United rate Lewis Hall of Newcastle United and have looked at Real Madrid’s Eduardo Camavinga. (Gift Link)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmaqxu/laurie_whitwell_in_article_united_have_been/\"> <img alt=\"[Laurie Whitwell, In article] United have been offered Lewis-Skelly, though Arsenal say they have not directly offered him to anyone, while the player is keen to stay with them. | United rate Lewis Hall of Newcastle United and have looked at Real Madrid’s Eduardo Camavinga. (Gift Link)\" src=\"https://external-preview.redd.it/nkC0ImIXJwF8UZfY1x0W52-BYRH5eRsdAW467_o6NyE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c10dd372efa121d081bc3aed1668d2e70287a5f\" title=\"[Laurie Whitwell, In article] United have been offered Lewis-Skelly, though Arsenal say they have not directly offered him to anyone, while the player is keen to stay with them. | United rate Lewis Hall of Newcastle United and have looked at Real Madrid’s Eduardo Camavinga. (Gift Link)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7506310/2026/08/12/myles-lewis-skelly-arsenal-transfer/?unlocked_article_code=1.41A.LBsv.Zgbik8TF4_GS&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta&amp;source=twitteruk\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmaqxu/laurie_whitwell_in_article_united_have_been/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmaqxu/laurie_whitwell_in_article_united_have_been/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T10:51:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why 'overloaded' Youri Tielemans believes he can be Man United's marathon man: £35m star speaks for first time on Michael Carrick, beating Lionel Messi's record and Bruno Fernandes link-up",
+      "items": [
+        {
+          "title": "Why 'overloaded' Youri Tielemans believes he can be Man United's marathon man: £35m star speaks for first time on Michael Carrick, beating Lionel Messi's record and Bruno Fernandes link-up",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmaz49/why_overloaded_youri_tielemans_believes_he_can_be/\"> <img alt=\"Why 'overloaded' Youri Tielemans believes he can be Man United's marathon man: £35m star speaks for first time on Michael Carrick, beating Lionel Messi's record and Bruno Fernandes link-up\" src=\"https://external-preview.redd.it/LvckYDrDO-qZi_EUY8k93dSRzWJ_ZOCN5JKZZ8S9Vgk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4fe82564907619291aba226b91af0895747328ae\" title=\"Why 'overloaded' Youri Tielemans believes he can be Man United's marathon man: £35m star speaks for first time on Michael Carrick, beating Lionel Messi's record and Bruno Fernandes link-up\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thedhoklamonger\"> /u/thedhoklamonger </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-16046543/Man-United-YOURI-TIELEMANS-Casemiro-shoes-Michael-Carricks-smelling-football-philosophy.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmaz49/why_overloaded_youri_tielemans_believes_he_can_be/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmaz49/why_overloaded_youri_tielemans_believes_he_can_be/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T11:03:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Match Thread?",
+      "items": [
+        {
+          "title": "Match Thread?",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Match Thread?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/half_batman\"> /u/half_batman </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmmkrz/match_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmmkrz/match_thread/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmmkrz/match_thread/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T18:34:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick & Nous Mazraoui Reflect On Win Over Leeds",
+      "items": [
+        {
+          "title": "Michael Carrick & Nous Mazraoui Reflect On Win Over Leeds",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmrsr7/michael_carrick_nous_mazraoui_reflect_on_win_over/\"> <img alt=\"Michael Carrick &amp; Nous Mazraoui Reflect On Win Over Leeds\" src=\"https://external-preview.redd.it/WvzrzJ_qIvNomJ2bWCCvgZaB-L6egJ6ytIYuuPdp94s.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c9614764bc8a204fd93ac9cd35c8f8e2cc182b79\" title=\"Michael Carrick &amp; Nous Mazraoui Reflect On Win Over Leeds\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=77osLsOm1k0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmrsr7/michael_carrick_nous_mazraoui_reflect_on_win_over/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmrsr7/michael_carrick_nous_mazraoui_reflect_on_win_over/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T21:51:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Told there’s optimism on all sides regarding a pro deal for Noah Ajayi. Really talented player who MUFC have no intention of losing this summer",
+      "items": [
+        {
+          "title": "Told there’s optimism on all sides regarding a pro deal for Noah Ajayi. Really talented player who MUFC have no intention of losing this summer",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmb0bv/told_theres_optimism_on_all_sides_regarding_a_pro/\"> <img alt=\"Told there’s optimism on all sides regarding a pro deal for Noah Ajayi. Really talented player who MUFC have no intention of losing this summer\" src=\"https://preview.redd.it/k3op0ufxexih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c4ff19e1b010f383cc6f267cf90a1b0da8fc7851\" title=\"Told there’s optimism on all sides regarding a pro deal for Noah Ajayi. Really talented player who MUFC have no intention of losing this summer\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thedhoklamonger\"> /u/thedhoklamonger </a> <br /> <span><a href=\"https://i.redd.it/k3op0ufxexih1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmb0bv/told_theres_optimism_on_all_sides_regarding_a_pro/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmb0bv/told_theres_optimism_on_all_sides_regarding_a_pro/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T11:04:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United are pleased to announce that nine of our Academy players have earned first-year professional contracts with the club this summer.",
+      "items": [
+        {
+          "title": "Manchester United are pleased to announce that nine of our Academy players have earned first-year professional contracts with the club this summer.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/nine-youngsters-earn-first-year-contracts-aug-2026\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vm8xoe/manchester_united_are_pleased_to_announce_that/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vm8xoe/manchester_united_are_pleased_to_announce_that/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T09:11:03+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Youri Tielemans on key role in post-Casemiro era: ‘Be Free’",
+      "items": [
+        {
+          "title": "Youri Tielemans on key role in post-Casemiro era: ‘Be Free’",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.thetimes.com/sport/football/article/youri-tielemans-interview-manchester-united-casemiro-michael-carrick-kgwmxvfrw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmikhq/youri_tielemans_on_key_role_in_postcasemiro_era/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmikhq/youri_tielemans_on_key_role_in_postcasemiro_era/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T16:12:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd and Arsenal are interested in Louis Page – what does the Leicester teenager offer? (Gift Article)",
+      "items": [
+        {
+          "title": "Man Utd and Arsenal are interested in Louis Page – what does the Leicester teenager offer? (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vmij9o/man_utd_and_arsenal_are_interested_in_louis_page/\"> <img alt=\"Man Utd and Arsenal are interested in Louis Page – what does the Leicester teenager offer? (Gift Article)\" src=\"https://external-preview.redd.it/UczZSZxWsqfMiq3U88krk4385TXqwFJDm8tfy6e_ThA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc1596a2071ab7ee741c260f9b0ce5650dad0ad4\" title=\"Man Utd and Arsenal are interested in Louis Page – what does the Leicester teenager offer? (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thedhoklamonger\"> /u/thedhoklamonger </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7505408/2026/08/12/louis-page-man-utd-arsenal-transfer/?unlocked_article_code=1.41A.WNSX.Qgn83V2dLHT5&amp;source=user_shared_article&amp;smid=ta-ios-share\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vmij9o/man_utd_and_arsenal_are_interested_in_louis_page/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vmij9o/man_utd_and_arsenal_are_interested_in_louis_page/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-12T16:11:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 75,
+    "story_count": 70
+  }
+}
