@@ -1,0 +1,977 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T02:21:16.834683+00:00",
+  "match_data": {
+    "collected_at": "2026-08-16T02:21:09.909493+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "The seven Manchester United players who reunited with Ruben Amorim after AC Milan friendly",
+      "items": [
+        {
+          "title": "The seven Manchester United players who reunited with Ruben Amorim after AC Milan friendly",
+          "summary": "Ruben Amorim was reunited with his former players when Man Utd played AC Milan in a pre-season friendly on Saturday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/seven-manchester-united-players-who-34464524",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 17:35:25 +0000"
+        },
+        {
+          "title": "How Manchester United should line up vs AC Milan for Ruben Amorim reunion",
+          "summary": "Man Utd play AC Milan in their final pre-season game of the summer and here is how our writers think they should start.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34457010",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Ruben Amorim and several of our players after the match with AC Milan",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vpka8o/ruben_amorim_and_several_of_our_players_after_the/\"> <img alt=\"Ruben Amorim and several of our players after the match with AC Milan\" src=\"https://external-preview.redd.it/3f4ENMcw7Ye5EM3pCIr6atp_ROcYik0yHRMA-L__j-8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80296c5117a0a84a2cdaee3aaeab9cfb316b87e4\" title=\"Ruben Amorim and several of our players after the match with AC Milan\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/anthn885\"> /u/anthn885 </a> <br /> <span><a href=\"https://streama.in/K3iXIMDWkw1zu1W/watch\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vpka8o/ruben_amorim_and_several_of_our_players_after_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vpka8o/ruben_amorim_and_several_of_our_players_after_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-16T01:50:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United get clearest hint yet over next transfer as target left out of squad",
+      "items": [
+        {
+          "title": "Man United get clearest hint yet over next transfer as target left out of squad",
+          "summary": "Manchester United have gone over a month without making a senior signing during this summer transfer window - but are working on a deal to sign another teenager",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/united-man-utd-transfer-news-34464501",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 15:56:09 +0000"
+        },
+        {
+          "title": "Man Utd handed major transfer hint as target left out of squad",
+          "summary": "Manchester United are reportedly working on a deal to sign Leicester City midfielder Louis Page",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-page-leicester-37556187",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 17:59:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United vs AC Milan TV channel, live stream and kick-off time",
+      "items": [
+        {
+          "title": "Man United vs AC Milan TV channel, live stream and kick-off time",
+          "summary": "All you need to know about how to watch Manchester United take on AC Milan",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-milan-watch-channel-34460667",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 12:30:00 +0000"
+        },
+        {
+          "title": "How to watch Man Utd vs AC Milan - TV channel, live stream and kick-off time",
+          "summary": "Manchester United face a reunion with Ruben Amorim as the Red Devils take on AC Milan in their final pre-season friendly",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-milan-tv-channel-37551224",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 12:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United vs AC Milan highlights and reaction after Ruben Amorim's team claim victory",
+      "items": [
+        {
+          "title": "Manchester United vs AC Milan highlights and reaction after Ruben Amorim's team claim victory",
+          "summary": "Man Utd lost 4-2 against AC Milan in their final pre-season clash of the summer.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-vs-ac-milan-34464412",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 17:59:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United made a statement with Marcus Rashford decision - he looks ready to repay them",
+      "items": [
+        {
+          "title": "Manchester United made a statement with Marcus Rashford decision - he looks ready to repay them",
+          "summary": "Man Utd ended pre-season in disappointment as former boss Ruben Amorim's AC Milan side ran out 4-2 winners in Wroclaw.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-made-statement-marcus-34464954",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 16:58:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United player ratings vs AC Milan as Marcus Rashford sharp but one 4/10",
+      "items": [
+        {
+          "title": "Manchester United player ratings vs AC Milan as Marcus Rashford sharp but one 4/10",
+          "summary": "Man Utd were soundly beaten by AC Milan in Poland as their pre-season campaign ended in a disappointing defeat against Ruben Amorim's side.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34464941",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 16:42:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Marcus Rashford feelings made clear by Manchester United fans during AC Milan fixture",
+      "items": [
+        {
+          "title": "Marcus Rashford feelings made clear by Manchester United fans during AC Milan fixture",
+          "summary": "Marcus Rashford made his first appearance for Man United since December 2024 in Saturday's pre-season friendly with Ruben Amorim's AC Milan",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/marcus-rashford-feelings-made-clear-34464927",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 16:13:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United can complete four-year transfer mission after brutal Ruben Amorim decision",
+      "items": [
+        {
+          "title": "Man United can complete four-year transfer mission after brutal Ruben Amorim decision",
+          "summary": "Manchester United have been linked with former Chelsea forward Christopher Nkunku for some time and they may now have been presented with the perfect oppurtunity to sign him",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-nkunku-34464311",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 11:53:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford latest, 26-man squad, injury update, Amorim reunion and how to watch Man United vs AC Milan",
+      "items": [
+        {
+          "title": "Marcus Rashford latest, 26-man squad, injury update, Amorim reunion and how to watch Man United vs AC Milan",
+          "summary": "Manchester United will be reunited with Ruben Amorim this afternoon when they face AC Milan in their final pre-season friendly",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/marcus-rashford-latest-26-man-34464343",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 11:00:28 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Sesko, Mount, De Ligt - Man United injury news and return dates one week before season kick off",
+      "items": [
+        {
+          "title": "Sesko, Mount, De Ligt - Man United injury news and return dates one week before season kick off",
+          "summary": "Manchester United are a week away from their opening game of the Premier League season at Hull and Michael Carrick could be without some of his star men",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/sesko-mount-de-ligt-man-34463845",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 08:22:07 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick has fixed four Ruben Amorim mistakes ahead of Manchester United reunion",
+      "items": [
+        {
+          "title": "Michael Carrick has fixed four Ruben Amorim mistakes ahead of Manchester United reunion",
+          "summary": "Man United will reunite with their former head coach Ruben Amorim today when they take on AC Milan in Wroclaw.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-corrected-four-ruben-34445597",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 08:00:00 +0000"
+        },
+        {
+          "title": "Michael Carrick sent Marcus Rashford Man United instruction ahead of Ruben Amorim reunion",
+          "summary": "Manchester United winger Marcus Rashford has been included in Michael Carrick's travelling squad to face AC Milan this afternoon",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-sent-marcus-rashford-34462581",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd have axed three of the four players Roy Keane deemed 'not good enough'",
+      "items": [
+        {
+          "title": "Man Utd have axed three of the four players Roy Keane deemed 'not good enough'",
+          "summary": "Manchester United took aim at the foursome with only one of those players left at the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/roy-keane-man-united-transfers-34438298",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United line-up vs AC Milan predicted as Marcus Rashford and Kobbie Mainoo decisions made",
+      "items": [
+        {
+          "title": "Man United line-up vs AC Milan predicted as Marcus Rashford and Kobbie Mainoo decisions made",
+          "summary": "Manchester United are in Wroclaw for their final pre-season fixture against Ruben Amorim's AC Milan",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-line-up-vs-34460997",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: Michael Carrick receives transfer boost as boss sends clear message",
+      "items": [
+        {
+          "title": "Man United latest: Michael Carrick receives transfer boost as boss sends clear message",
+          "summary": "Manchester United boos Michael Carrick has outlined his plans for the  transfer window as the club are linked with PSG's Ibrahim Mbaye",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-carrick-mbaye-34460861",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "New transfer plan, injury update and midfield latest - Manchester United Notebook",
+      "items": [
+        {
+          "title": "New transfer plan, injury update and midfield latest - Manchester United Notebook",
+          "summary": "Man Utd are bringing down their curtain on pre-season and this week Notebook looks at the plans for the final weeks of the transfer window.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/new-transfer-plan-injury-update-34441033",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ruben Amorim's eight Man United rules that have been torn up by Michael Carrick",
+      "items": [
+        {
+          "title": "Ruben Amorim's eight Man United rules that have been torn up by Michael Carrick",
+          "summary": "AC Milan manager Ruben Amorim will do battle with Michael Carrick as the ex-Manchester United boss faces his successor on Saturday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ruben-amorim-carrick-34444665",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ruben Amorim is about to be reminded of the worst thing he did at Manchester United",
+      "items": [
+        {
+          "title": "Ruben Amorim is about to be reminded of the worst thing he did at Manchester United",
+          "summary": "Man Utd will take on AC Milan in their final pre-season game, meaning Ruben Amorim will be reunited with his former club.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/ruben-amorim-reminded-worst-thing-34460540",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "'I think I know why Barcelona didn't sign Marcus Rashford - but Manchester United shouldn't worry'",
+      "items": [
+        {
+          "title": "'I think I know why Barcelona didn't sign Marcus Rashford - but Manchester United shouldn't worry'",
+          "summary": "Man United welcomed Marcus Rashford back into the fold this week in a turn of events nobody saw coming when he was loaned out to Barcelona last summer.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/i-think-know-barcelona-didnt-34452956",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick sends Man Utd stars demand after AC Milan loss - 'No excuses'",
+      "items": [
+        {
+          "title": "Michael Carrick sends Man Utd stars demand after AC Milan loss - 'No excuses'",
+          "summary": "Manchester United suffered a 4-2 defeat to AC Milan in their final pre-season friendly on Saturday and Michael Carrick made no bones about their underwhelming performance",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-manchester-united-milan-37556313",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 19:02:29 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Marcus Rashford makes Man Utd return as Ruben Amorim gets last laugh - 5 talking points",
+      "items": [
+        {
+          "title": "Marcus Rashford makes Man Utd return as Ruben Amorim gets last laugh - 5 talking points",
+          "summary": "MAN UTD 2-4 AC MILAN: Michael Carrick's side surrendered the lead twice and were condemned to defeat in their final pre-season friendly ahead of the 2026-27 Premier League campaign",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/manchester-united-ac-milan-highlights-37556013",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 16:42:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd left red-faced as MUTV coverage of AC Milan clash cuts out",
+      "items": [
+        {
+          "title": "Man Utd left red-faced as MUTV coverage of AC Milan clash cuts out",
+          "summary": "Manchester United are in pre-season action as they take on Ruben Amorim's AC Milan in their final match before the return of the Premier League.",
+          "url": "https://www.mirror.co.uk/sport/football/news/mutv-manchester-united-ac-milan-37556067",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 16:06:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd new signing sends message to Michael Carrick during private friendly",
+      "items": [
+        {
+          "title": "Man Utd new signing sends message to Michael Carrick during private friendly",
+          "summary": "Manchester United manager Michael Carrick will be keeping a close eye on Cristian Orozco following the 18-year-old midfielder's recent arrival from Colombian side Fortaleza",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-cristian-orozco-transfer-37555365",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 12:12:50 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal 'prepare bid' for £51m Brighton star amid Man Utd and Man City competition",
+      "items": [
+        {
+          "title": "Arsenal 'prepare bid' for £51m Brighton star amid Man Utd and Man City competition",
+          "summary": "Arsenal, Manchester United and Manchester City are all weighing up whether to move for Brighton midfielder Jack Hinshelwood, who is valued at £51million by his club",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/arsenal-transfers-man-utd-hinshelwood-37554833",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 07:52:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ruben Amorim's 7 Man Utd signings assessed now – seven months after sacking",
+      "items": [
+        {
+          "title": "Ruben Amorim's 7 Man Utd signings assessed now – seven months after sacking",
+          "summary": "Ruben Amorim is all set for his Manchester United reunion as manager of AC Milan, seven months after his Old Trafford departure",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/ruben-amorim-man-utd-signings-37544382",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 05:45:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "11 transfers that managers didn't want – but the club signed them anyway",
+      "items": [
+        {
+          "title": "11 transfers that managers didn't want – but the club signed them anyway",
+          "summary": "Sometimes a manager is against a signing but the club still goes ahead and completes the deal - and it happens more often than one might think",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-transfer-window-managers-37531748",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'Man Utd had agreed record deal to sign me – but I'm glad I waited for Liverpool instead'",
+      "items": [
+        {
+          "title": "'Man Utd had agreed record deal to sign me – but I'm glad I waited for Liverpool instead'",
+          "summary": "Manchester United missed out on what would have been a new record signing after he opted to join bitter rivals Liverpool instead",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-liverpool-transfer-babbel-37543046",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: Michael Carrick issues transfer statement as Ibrahim Mbaye decision made",
+      "items": [
+        {
+          "title": "Man Utd news: Michael Carrick issues transfer statement as Ibrahim Mbaye decision made",
+          "summary": "Manchester United manager Michael Carrick has discussed his aims in the transfer window as the club are linked with PSG star Ibrahim Mbaye",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-carrick-mbaye-37552896",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal 'lead' Man Utd for shock 'top priority' signing as Romano reveals two deals OFF - Football365",
+      "items": [
+        {
+          "title": "Arsenal 'lead' Man Utd for shock 'top priority' signing as Romano reveals two deals OFF - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTg2N3RCYnEwYTZLMTVGVjd0UUdxLXpqaGhGQk5DdUZ4NWtIZ2ZiNDVaQ3p6YzlJSmFHVV9jZFp0ZW9ONV95X2k0TVNSaDZWUV9GLVFQaE55S3dzNm9fQmJJVEtveUV2QmY3OFRYM2o1Ym0wNW1NUlhHRldnQzJQV25KQWdidFZUdUoxbW04TmJFUkQtaV9aNHlOT3NWZ3dXQzJaeUNnendEenU1?oc=5\" target=\"_blank\">Arsenal 'lead' Man Utd for shock 'top priority' signing as Romano reveals two deals OFF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTTg2N3RCYnEwYTZLMTVGVjd0UUdxLXpqaGhGQk5DdUZ4NWtIZ2ZiNDVaQ3p6YzlJSmFHVV9jZFp0ZW9ONV95X2k0TVNSaDZWUV9GLVFQaE55S3dzNm9fQmJJVEtveUV2QmY3OFRYM2o1Ym0wNW1NUlhHRldnQzJQV25KQWdidFZUdUoxbW04TmJFUkQtaV9aNHlOT3NWZ3dXQzJaeUNnendEenU1?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 06:57:39 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'Confirmed' - Fabrizio Romano Shares Promising Man Utd Transfer Update - GiveMeSport",
+      "items": [
+        {
+          "title": "'Confirmed' - Fabrizio Romano Shares Promising Man Utd Transfer Update - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDk4OVRUZ1l2cU5CNHVSY2JsQ1BpeVVQUHZnSkRFaVJsZ2htR2tUTHNMR0JwLXI3WllKR0NFZ1c2N0p2bFFrWXNLLW55QlFqbUg3b2taLTNjRDJJUFM1Y1BlbW1RSjFMazNwZ1ZJRm1jNXEzN2xCYTFWbDlrbEI2TlNuUQ?oc=5\" target=\"_blank\">'Confirmed' - Fabrizio Romano Shares Promising Man Utd Transfer Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVDk4OVRUZ1l2cU5CNHVSY2JsQ1BpeVVQUHZnSkRFaVJsZ2htR2tUTHNMR0JwLXI3WllKR0NFZ1c2N0p2bFFrWXNLLW55QlFqbUg3b2taLTNjRDJJUFM1Y1BlbW1RSjFMazNwZ1ZJRm1jNXEzN2xCYTFWbDlrbEI2TlNuUQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 15 Aug 2026 11:15:14 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "DONE✅! Man United AGREE £47m For Manu Koné As Fabrizio Romano CONFIRMED Today. Fidelity Layoffs (GIIXathtEY) - Mshale",
+      "items": [
+        {
+          "title": "DONE✅! Man United AGREE £47m For Manu Koné As Fabrizio Romano CONFIRMED Today. Fidelity Layoffs (GIIXathtEY) - Mshale",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LY0xSYmpyVlRhVWcxajRIMW5QOVNxS3BjaExLRjM5TU54MmNpUmZEd2N4YVFqMTlrd19fcm9oSFhZR3NhNGlVMmRoc1hSRFRKVDYyUlNEOVdaTk0?oc=5\" target=\"_blank\">DONE✅! Man United AGREE £47m For Manu Koné As Fabrizio Romano CONFIRMED Today. Fidelity Layoffs (GIIXathtEY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LY0xSYmpyVlRhVWcxajRIMW5QOVNxS3BjaExLRjM5TU54MmNpUmZEd2N4YVFqMTlrd19fcm9oSFhZR3NhNGlVMmRoc1hSRFRKVDYyUlNEOVdaTk0?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 14 Aug 2026 18:56:41 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man U’s four options at left back: from expensive and reliable to affordable gamble",
+      "items": [
+        {
+          "title": "Man U’s four options at left back: from expensive and reliable to affordable gamble",
+          "summary": "<p>Manchester United want to find an alternative for Luke Shaw at left back, and they have a number of options. If you enjoy CaughtOffside coverage and want to see more of it, add us as a preferred source on Google to make us a favourite and see more of our content. Manchester United have had [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/15/man-u-four-options-left-back-expensive-affordable/\">Man U&#8217;s four options at left back: from expensive and reliable to affordable gamble</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/15/man-u-four-options-left-back-expensive-affordable/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 15 Aug 2026 13:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vpja85/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vpja85/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vpja85/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-16T01:00:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
+      "items": [
+        {
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p><strong>Men's Team</strong>​ </p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrey Santos</td> <td align=\"left\">CM</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£48m + £2m</td> </tr> <tr> <td align=\"left\">Karl Darlow</td> <td align=\"left\">GK</td> <td align=\"left\">Leeds Utd</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Youri Tielemans</td> <td align=\"left\">CM</td> <td align=\"left\">Aston Villa</td> <td align=\"left\">£35m</td> </tr> <tr> <td align=\"left\">Tynan Thompson</td> <td align=\"left\">LW</td> <td align=\"left\">Tottenham Hotspur</td> <td align=\"left\">£4m + £4m</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">Inter Miami</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> <tr> <td align=\"left\">Tyler Fredricson</td> <td align=\"left\">CB</td> <td align=\"left\">Lausanne-Sport</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Altay Bayindir</td> <td align=\"left\">GK</td> <td align=\"left\">Celta Vigo</td> <td align=\"left\">Loan</td> </tr> <tr> <td align=\"left\">Radek Vitek</td> <td align=\"left\">GK</td> <td align=\"left\">Middlesbrough</td> <td align=\"left\">£7m + £7m</td> </tr> </tbody></table> <p><strong>Women's Team</strong></p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrea Medina</td> <td align=\"left\">LB</td> <td align=\"left\">Atletico Madrid</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Janina Leitzig</td> <td align=\"left\">GK</td> <td align=\"left\">Leicester City</td> <td align=\"left\">Undisclosed Fee</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Millie Turner</td> <td align=\"left\">CB</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Hannah Blundell </td> <td align=\"left\">FB</td> <td align=\"left\">Everton</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Melvine Malard</td> <td align=\"left\">ST</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£850k</td> </tr> <tr> <td align=\"left\">Leah Galton</td> <td align=\"left\">FW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Lisa Naalsund</td> <td align=\"left\">MF</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Gabby George</td> <td align=\"left\">CB</td> <td align=\"left\">Brighton &amp; Hove Albion</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Kayla Rendell</td> <td align=\"left\">GK</td> <td align=\"left\">Newcastle United</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp5295/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp5295/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp5295/transfer_round_up_discussion_summer_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T15:01:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ruben Amorim, after the game, jokes with a fan: “Do you miss me, it’s more boring now”",
+      "items": [
+        {
+          "title": "Ruben Amorim, after the game, jokes with a fan: “Do you miss me, it’s more boring now”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vpe4k5/ruben_amorim_after_the_game_jokes_with_a_fan_do/\"> <img alt=\"Ruben Amorim, after the game, jokes with a fan: “Do you miss me, it’s more boring now”\" src=\"https://external-preview.redd.it/bXlsNHI0MXdzbGpoMbbeq0I9wgnlVoNA8qjl1zIDRlRxjfEC3ZcNPyVr3Luz.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1e331e6f378aa2d279d3f5bf4c47c4549c4f07fa\" title=\"Ruben Amorim, after the game, jokes with a fan: “Do you miss me, it’s more boring now”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Radiant_Guava6332\"> /u/Radiant_Guava6332 </a> <br /> <span><a href=\"https://v.redd.it/ydkonz0wsljh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vpe4k5/ruben_amorim_after_the_game_jokes_with_a_fan_do/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vpe4k5/ruben_amorim_after_the_game_jokes_with_a_fan_do/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T21:06:01+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United [1]-0 AC Milan - Harry Maguire 2'",
+      "items": [
+        {
+          "title": "Manchester United [1]-0 AC Milan - Harry Maguire 2'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp4vga/manchester_united_10_ac_milan_harry_maguire_2/\"> <img alt=\"Manchester United [1]-0 AC Milan - Harry Maguire 2'\" src=\"https://external-preview.redd.it/bGRhYTY3d2R5ampoMU48nV-d9qBqlcb4o6amPHsGN5Nm_y21cluDa3TBs_yJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=81517e72a8f6bc905a518a4ba18dd96e1004859a\" title=\"Manchester United [1]-0 AC Milan - Harry Maguire 2'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xggq\"> /u/xggq </a> <br /> <span><a href=\"https://v.redd.it/97waogvdyjjh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp4vga/manchester_united_10_ac_milan_harry_maguire_2/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp4vga/manchester_united_10_ac_milan_harry_maguire_2/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T14:53:25+00:00"
+        },
+        {
+          "title": "Manchester Utd [2] - 1 AC Milan - Dorgu 51' Goal",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp6ld6/manchester_utd_2_1_ac_milan_dorgu_51_goal/\"> <img alt=\"Manchester Utd [2] - 1 AC Milan - Dorgu 51' Goal\" src=\"https://external-preview.redd.it/dDVlMzNtcnZha2poMeGQ59yR2fUt_NWw6t20k_e5QVaZkJdABdQlfj2I7tfY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b53638a2ccbbfc109caa964de700a31de39810f6\" title=\"Manchester Utd [2] - 1 AC Milan - Dorgu 51' Goal\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/z7oa6tqvakjh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp6ld6/manchester_utd_2_1_ac_milan_dorgu_51_goal/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp6ld6/manchester_utd_2_1_ac_milan_dorgu_51_goal/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T16:03:21+00:00"
+        },
+        {
+          "title": "Match Thread - Manchester United vs AC Milan - 15th August 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Score: 2-4</h1> <p>Scorers - Maguire (2'), Chukwueze (37'), Dorgu(51'), Cisse (57'), Ramos (68'), Loftus-Cheek</p> <p>Lineups: </p> <p>Manchester United: Lammens, Mazraoui, Maguire, Heaven, Shaw, Tielemans, Santos, Amad, Fernandes, Dorgu, Cunha.</p> <p>AC Milan: Torriani, Terracciano, De Winter, Pavlović, Chukwueze, Musah, Jashari, Estupiñán, Loftus-Cheek, Cissè, Ramos.</p> <p>Match Summary:</p> <p>1' - Patrick Dorgu has a shot that is saved by the keeper Torriani. United corner.</p> <h1>2' - Harry Maguire Scores!!! Bullet header from a splending corner by the Magnifico. 1-0 United!</h1> <p>5' - United super intense off the ball but in moments. Physically dominant. </p> <p>6' - Amadinho winning the ball in the penalty area and in a normal game would have earned a penalty. United do get the corner but that comes to nothing.</p> <p>9' - Milan won the ball high up the pitch and get it to loftus cheek who shoots but Senne Saves!</p> <p>11' - Youri does brilliantly in midfield and almost put Amad in 1v1 but Estupinan fouls and gets booked.</p> <p>12' - United are getting into some delicious positions. Should be scoring more soon hopefully.</p> <p>15' - United the architects of their own problems. Milan do get a shot off but it's Great save by Senne actually</p> <p>17' - Cisse shoots from distance after a good give and go. Well wide.</p> <p>21'- United were bright in the first 10 but it's Milan with all the ball since.</p> <p>25' - Brilliant seeking ball from Luke to Bruno and Bruno almost scores. That will be it for now, it is time for the hydration break.</p> <p>30' - United definitely second best for the last 15 mins or so. Having said that Milan with all the ball but no end product.</p> <p>32' - United are super well drilled in defence. But not able to work with the ball.</p> <h1>37' - Maguire fell and took Santosh down with him giving Ramos a billion acres. He finds Chukwueze who taps it in.</h1> <p>39' - United burst into life and manufacture andecent half chance. Bruno shoots but it's straight down the middle.</p> <p>41' - Penalty for United as Youri is brought down in the box. Bruno steps up and Torriani saves. Bruno having some bad luck from the spot.</p> <p>Half Time</p> <p>47' - Almost the second goal for United. Decent start.</p> <h1>51' - Pat Dorgu taps it in as Milan commit a catastrophic mistake at the back</h1> <p>56' - Cisse takes the free kick and it's cleared. Amad slips on the touchline and Milan smuggle a cross in but that too is blocked</p> <h1>57' - Cisse scores after Chukwueze's cross. 2-2.</h1> <p>60' - Subs galore from both teams</p> <p>63 - Very attritional football at the minute. </p> <p>66' - Foray by Marcus and Bryan. Nothing comes off it.</p> <h1>68' - Very intricate play by Milan and they score. Chukwueze has been great. Again it's him with the cross. It's Hydration break time now</h1> <h1>70' - We have been a bit sloppy again. Martinez clearly showing he was at the World Cup. Completely outpaced and Loftus Cheek scores.</h1> <p>72' - Harry Maguire rips one from 35 yards but the Milan keeper saves. </p> <p>78' - United with a couple of half chances. Should have done better.</p> <p>81' - Almost in there. United should have scored another goal by now.</p> <p>85' - Sloppy play from us. A bit too much of that today. </p> <p>87' - Another sloppy finish from Bruno. That could have been a goal.</p> <p>89' - Their keeper has been great. Saved a penalty and saved a rocket of a shot from Maguire</p> <p>90' - Huffed and puffed but densively poor. Senne did make a couple of great saves.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dracogladio1741\"> /u/dracogladio1741 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp4q0u/match_thread_manchester_united_vs_ac_milan_15th/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp4q0u/match_thread_manchester_united_vs_ac_milan_15th/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp4q0u/match_thread_manchester_united_vs_ac_milan_15th/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T14:47:07+00:00"
+        },
+        {
+          "title": "Manchester Utd 2 - [3] AC Milan - Gonçalo Ramos 68'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp6zw8/manchester_utd_2_3_ac_milan_gonçalo_ramos_68/\"> <img alt=\"Manchester Utd 2 - [3] AC Milan - Gonçalo Ramos 68'\" src=\"https://external-preview.redd.it/jnQFl_xxWtsLe6rlfBpaSv56rKKBGtK04Y8jCxleVrM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=709b96390a8b979ff5a1eb6c1316b88682aaae98\" title=\"Manchester Utd 2 - [3] AC Milan - Gonçalo Ramos 68'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hshamshu\"> /u/hshamshu </a> <br /> <span><a href=\"https://streamin.link/v/7518d60e\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp6zw8/manchester_utd_2_3_ac_milan_gonçalo_ramos_68/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp6zw8/manchester_utd_2_3_ac_milan_gonçalo_ramos_68/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T16:19:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Simon Stone] Marcus Rashford on bench for Man Utd. Wears number nine. Club stressing these are not Premier League numbers. It is for this match only. Official numbers confirmed next week.",
+      "items": [
+        {
+          "title": "[Simon Stone] Marcus Rashford on bench for Man Utd. Wears number nine. Club stressing these are not Premier League numbers. It is for this match only. Official numbers confirmed next week.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp33o2/simon_stone_marcus_rashford_on_bench_for_man_utd/\"> <img alt=\"[Simon Stone] Marcus Rashford on bench for Man Utd. Wears number nine. Club stressing these are not Premier League numbers. It is for this match only. Official numbers confirmed next week.\" src=\"https://preview.redd.it/tf7nge6pkjjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c068732d383cfcd3035e0e3431ca8308c125368\" title=\"[Simon Stone] Marcus Rashford on bench for Man Utd. Wears number nine. Club stressing these are not Premier League numbers. It is for this match only. Official numbers confirmed next week.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/tf7nge6pkjjh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp33o2/simon_stone_marcus_rashford_on_bench_for_man_utd/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp33o2/simon_stone_marcus_rashford_on_bench_for_man_utd/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T13:37:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "My dad found an old magazine with signatures of the Man United squad.",
+      "items": [
+        {
+          "title": "My dad found an old magazine with signatures of the Man United squad.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp96ro/my_dad_found_an_old_magazine_with_signatures_of/\"> <img alt=\"My dad found an old magazine with signatures of the Man United squad.\" src=\"https://preview.redd.it/a1dt2zt1tkjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5d7c1ec07a8171100a384f629569823edf9fbf12\" title=\"My dad found an old magazine with signatures of the Man United squad.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BackgroundGrab1\"> /u/BackgroundGrab1 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vp96ro\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp96ro/my_dad_found_an_old_magazine_with_signatures_of/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp96ro/my_dad_found_an_old_magazine_with_signatures_of/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T17:45:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Kobbie Mainon vs AC Milan 86’ Clip",
+      "items": [
+        {
+          "title": "Kobbie Mainon vs AC Milan 86’ Clip",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp7uv6/kobbie_mainon_vs_ac_milan_86_clip/\"> <img alt=\"Kobbie Mainon vs AC Milan 86’ Clip\" src=\"https://external-preview.redd.it/bjZ5djByNHlqa2poMRCXdBzOZvvzNRiKk1cW36FgLsMYdsNRC3QNNsEKbw9N.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=31075c0e55cb181aecdd721d72b31af7f1079020\" title=\"Kobbie Mainon vs AC Milan 86’ Clip\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/7iomc24yjkjh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp7uv6/kobbie_mainon_vs_ac_milan_86_clip/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp7uv6/kobbie_mainon_vs_ac_milan_86_clip/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T16:54:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Post Match Thread: Manchester United 2-4 AC Milan",
+      "items": [
+        {
+          "title": "Post Match Thread: Manchester United 2-4 AC Milan",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 2-4 AC Milan</h1> <p>Goal Scorer United: Harry Maguire 2', Patrick Dorgu 51'</p> <p>Goal Scorer Milan: Samuel Chukwueze 37', Cisse 57', Gonçalo Ramos 68', Ruben Loftus-Cheek 71'</p> <p>____________________________</p> <p>Venue: Tarczyński Arena, Wrocław</p> <p>____________________________</p> <p><strong>United Starting XI:</strong> </p> <p>Lammens; Mazraoui, Maguire, Heaven, Shaw; Santos, Tielemans, Fernandes (c); Amad, Cunha, Dorgu</p> <p>60' Changes:</p> <p>ON: Rashford, Mainoo, Mbeumo, Martínez, Lacey, Dalot<br /> OFF: Cunha, Amad, Mazraoui, Dorgu, Heaven, Santos</p> <p><strong>Milan Starting XI:</strong></p> <p>Torriani, Terracciano, De Winter, Pavlovic, Chukwueze, Jashari, Musah, Estupinan, Loftus-Cheek, Cisse, Ramos.</p> <p>____________________________</p> <p><strong>NEXT MATCH</strong></p> <p>Hull City vs Manchester United - Premier League</p> <p>August 22, 2026 • 12:30 BST</p> <p>MKM Stadium, Hull </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp7k7w/post_match_thread_manchester_united_24_ac_milan/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp7k7w/post_match_thread_manchester_united_24_ac_milan/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp7k7w/post_match_thread_manchester_united_24_ac_milan/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T16:42:18+00:00"
+        },
+        {
+          "title": "Half Time Thread: Manchester Utd 1-1 AC Milan | Friendly",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>HT: Manchester Utd 1-1 AC Milan</h1> <p>Goal Scorer United: Harry Maguire 2'</p> <p>Goal Scorer Milan: Samuel Chukwueze 37'</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp5xyu/half_time_thread_manchester_utd_11_ac_milan/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp5xyu/half_time_thread_manchester_utd_11_ac_milan/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp5xyu/half_time_thread_manchester_utd_11_ac_milan/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T15:37:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "United XI vs. AC Milan: Lammens, Mazraoui, Maguire, Heaven, Dorgu, Shaw, Santos, Tielemans, B. Fernandes (C), Amad, Cunha [Preseason Friendly, Municipal Stadium Wroclaw]",
+      "items": [
+        {
+          "title": "United XI vs. AC Milan: Lammens, Mazraoui, Maguire, Heaven, Dorgu, Shaw, Santos, Tielemans, B. Fernandes (C), Amad, Cunha [Preseason Friendly, Municipal Stadium Wroclaw]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp2z48/united_xi_vs_ac_milan_lammens_mazraoui_maguire/\"> <img alt=\"United XI vs. AC Milan: Lammens, Mazraoui, Maguire, Heaven, Dorgu, Shaw, Santos, Tielemans, B. Fernandes (C), Amad, Cunha [Preseason Friendly, Municipal Stadium Wroclaw]\" src=\"https://preview.redd.it/oo41ityrjjjh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6345b6f0ee29314fb5bebedbe90a5a43bbe8da63\" title=\"United XI vs. AC Milan: Lammens, Mazraoui, Maguire, Heaven, Dorgu, Shaw, Santos, Tielemans, B. Fernandes (C), Amad, Cunha [Preseason Friendly, Municipal Stadium Wroclaw]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.manutd.com/en/matches/mens-team/manchester-united-v-ac-milan-friendly-20260815?tab=pre-match\">https://www.manutd.com/en/matches/mens-team/manchester-united-v-ac-milan-friendly-20260815?tab=pre-match</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LebHeadSinceWilma\"> /u/LebHeadSinceWilma </a> <br /> <span><a href=\"https://i.redd.it/oo41ityrjjjh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp2z48/united_xi_vs_ac_milan_lammens_mazraoui_maguire/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp2z48/united_xi_vs_ac_milan_lammens_mazraoui_maguire/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T13:31:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick post match interview",
+      "items": [
+        {
+          "title": "Michael Carrick post match interview",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp96v5/michael_carrick_post_match_interview/\"> <img alt=\"Michael Carrick post match interview\" src=\"https://external-preview.redd.it/d7vQnYfAkQaHy3yH66g9PmTE6QCBHYxWHPSehAYz18Q.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=18d24bb87152f7f2efa77fc9b0034954da4c7fe0\" title=\"Michael Carrick post match interview\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://youtu.be/IAk48hKe1XQ?si=-sSbLhIT8DKwCDy9\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp96v5/michael_carrick_post_match_interview/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp96v5/michael_carrick_post_match_interview/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T17:46:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester Utd 2 - [4] AC Milan - R. Loftus-Cheek 71'",
+      "items": [
+        {
+          "title": "Manchester Utd 2 - [4] AC Milan - R. Loftus-Cheek 71'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hshamshu\"> /u/hshamshu </a> <br /> <span><a href=\"https://streamin.link/v/58cc79c8\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp70io/manchester_utd_2_4_ac_milan_r_loftuscheek_71/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp70io/manchester_utd_2_4_ac_milan_r_loftuscheek_71/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T16:20:08+00:00"
+        },
+        {
+          "title": "Manchester Utd 1 - [1] AC Milan - S. Chukwueze 37'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp5t48/manchester_utd_1_1_ac_milan_s_chukwueze_37/\"> <img alt=\"Manchester Utd 1 - [1] AC Milan - S. Chukwueze 37'\" src=\"https://external-preview.redd.it/K2H-u7cz2eewttQ4cE2vkqE36nMTks6cAV7ZQqjat8A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=570eda5bfed6d2237a9d7931d4a306f7b78273ac\" title=\"Manchester Utd 1 - [1] AC Milan - S. Chukwueze 37'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hshamshu\"> /u/hshamshu </a> <br /> <span><a href=\"https://streamin.link/v/9b9022dc\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp5t48/manchester_utd_1_1_ac_milan_s_chukwueze_37/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp5t48/manchester_utd_1_1_ac_milan_s_chukwueze_37/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T15:31:47+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne describes feeling of being no.1 | Manchester United",
+      "items": [
+        {
+          "title": "Senne describes feeling of being no.1 | Manchester United",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.manutd.com/en/mutv/videos/detail/senne-describes-feeling-of-being-no-1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vozxg4/senne_describes_feeling_of_being_no1_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vozxg4/senne_describes_feeling_of_being_no1_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T11:01:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Lorenzo Torriani penalty save against Manchester Utd 42'",
+      "items": [
+        {
+          "title": "Lorenzo Torriani penalty save against Manchester Utd 42'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp5tkx/lorenzo_torriani_penalty_save_against_manchester/\"> <img alt=\"Lorenzo Torriani penalty save against Manchester Utd 42'\" src=\"https://external-preview.redd.it/F4PTITChOTW07MNn8iHqpSe56AdQlXTN_So2g-TJFL0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa880583792807a1cb3eb0e0e4da3aa7469a7de1\" title=\"Lorenzo Torriani penalty save against Manchester Utd 42'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/hshamshu\"> /u/hshamshu </a> <br /> <span><a href=\"https://streamin.link/v/4ef0052e\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp5tkx/lorenzo_torriani_penalty_save_against_manchester/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp5tkx/lorenzo_torriani_penalty_save_against_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T15:32:17+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "AC Milan team vs United | Starting XI: Torriani, Terracciano, De Winter, Pavlovic, Chukwueze, Jashari, Musah, Estupinan, Loftus-Cheek, Cisse, Ramos.",
+      "items": [
+        {
+          "title": "AC Milan team vs United | Starting XI: Torriani, Terracciano, De Winter, Pavlovic, Chukwueze, Jashari, Musah, Estupinan, Loftus-Cheek, Cisse, Ramos.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vp3hvv/ac_milan_team_vs_united_starting_xi_torriani/\"> <img alt=\"AC Milan team vs United | Starting XI: Torriani, Terracciano, De Winter, Pavlovic, Chukwueze, Jashari, Musah, Estupinan, Loftus-Cheek, Cisse, Ramos.\" src=\"https://preview.redd.it/mjtkpgwenjjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a1c3b14bde1f3a30ab880e5fcf53c95176af8a8\" title=\"AC Milan team vs United | Starting XI: Torriani, Terracciano, De Winter, Pavlovic, Chukwueze, Jashari, Musah, Estupinan, Loftus-Cheek, Cisse, Ramos.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://i.redd.it/mjtkpgwenjjh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vp3hvv/ac_milan_team_vs_united_starting_xi_torriani/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vp3hvv/ac_milan_team_vs_united_starting_xi_torriani/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T13:54:37+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "What next for Man Utd’s Dan Armer after his ‘magnificent’ pre-season? (Gift Article)",
+      "items": [
+        {
+          "title": "What next for Man Utd’s Dan Armer after his ‘magnificent’ pre-season? (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vou5zr/what_next_for_man_utds_dan_armer_after_his/\"> <img alt=\"What next for Man Utd’s Dan Armer after his ‘magnificent’ pre-season? (Gift Article)\" src=\"https://external-preview.redd.it/jMAmRIGTyXGOS4ZZHdLOKj65JYW4JPyJWiS68mbinDI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4114b2113496d968d7c20fca0448579e4a24987\" title=\"What next for Man Utd’s Dan Armer after his ‘magnificent’ pre-season? (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/agent619\"> /u/agent619 </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7513447/2026/08/15/dan-armer-harry-maguire-manchester-united/?unlocked_article_code=1.5lA.cSCB.dt2RNDed9s3s&amp;source=user_shared_article&amp;smid=ta-ios-share\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vou5zr/what_next_for_man_utds_dan_armer_after_his/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vou5zr/what_next_for_man_utds_dan_armer_after_his/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-15T05:22:21+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 56,
+    "story_count": 46
+  }
+}
