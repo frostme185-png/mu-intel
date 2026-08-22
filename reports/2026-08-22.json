@@ -1,0 +1,896 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T02:15:44.026361+00:00",
+  "match_data": {
+    "collected_at": "2026-08-22T02:15:37.010708+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Man Utd head coach Michael Carrick on the club's ambitions this season.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p5q2zg?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 21 Aug 2026 21:30:00 GMT"
+        },
+        {
+          "title": "Usain Bolt signs for Manchester Sunday League football team",
+          "summary": "The Olympic sprinting legend could soon be bolting down the pitch in Wythenshawe",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/usain-bolt-signs-manchester-sunday-34500270",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 21:55:06 +0000"
+        },
+        {
+          "title": "Manchester United make major breakthrough for Carlos Baleba transfer",
+          "summary": "Man Utd are set to make Carlos Baleba their third midfield signing of the summer transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-carlos-baleba-transfer-34500024",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 19:40:00 +0000"
+        },
+        {
+          "title": "How to watch every Manchester Premier League 2026/27 opening fixture on Sky Sports and TNT",
+          "summary": "Newly-promoted Hull City are thrown straight in at the deep end as they face Man United, while Man City's first Premier League outing without Pep Guardiola in the dugout sees them host Bournemouth",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/premier-league-opening-fixtures-tv-34495693",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Manchester United's new supporter zone complete with stage and food trucks",
+          "summary": "Entertainment will showcase Manchester United's ‘local talent and club legends’",
+          "url": "https://www.manchestereveningnews.co.uk/sport/manchester-uniteds-new-supporter-zone-34495402",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 10:13:59 +0000"
+        },
+        {
+          "title": "Manchester United could spring another surprise after Carlos Baleba move",
+          "summary": "Man Utd would like to sign a midfielder and a left-back, and they have made progress to strengthen one of those positions.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-could-spring-another-34489536",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Manchester United agree deal for Carlos Baleba to continue midfield rebuild",
+          "summary": "<ul><li><p>Brighton midfielder will join Tielemans and Santos</p></li><li><p>Club’s most expensive summer signing at initial £65m</p></li></ul><p>Manchester United have agreed a deal worth an initial £65m for Carlos Baleba and the Brighton midfielder will have his medical this weekend in Manchester.</p><p>If the 22-year-old is signed he will be the third midfielder added to Michael Carrick’s squad in the window. Baleba, a No 6, will join Youri Tielemans, a No 8, and Andrey Santos, who is also a holding player.</p> <a href=\"https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-continue-midfield-regeneration-with-carlos-baleba-deal",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 21:30:45 GMT"
+        },
+        {
+          "title": "Manchester United’s midfield rebuild leaves Carrick with no excuses",
+          "summary": "<p>Signings of Tielemans and Santos have addressed an area that has been problematic since the manager himself stopped playing</p><p>Ed Woodward to MUTV in July 2015: “When people see Bastian Schweinsteiger on the team sheet, that’s going to send some shivers down the spine.” This prediction by Manchester United’s then executive vice-president, about Louis van Gaal’s new midfield signing, proved to be badly off‑target as the World Cup-winner’s career at the club proved to be a disappointment.</p><p>Two years after Woodward’s bullish statement, Schweinsteiger departed for Chicago Fire with a paltry 35 appearances and two goals for United on his CV, having been forced to train for a while with the youngsters by José Mourinho, Van Gaal’s successor. Here, in microcosm, is the story of virtually all midfield recruits by United for a generation. The hope at the club is that this trend changed this summer, with the arrivals of <a href=\"https://www.theguardian.com/football/2026/aug/12/youri-tielemans-manchester-united-smelling-football\">Youri Tielemans for £35m</a> from Aston Villa and <a href=\"https://www.theguardian.com/football/2026/jul/16/andrey-santos-manchester-united-chelsea-michael-carrick-brazil-midfielder-casemiro\">Andrey Santos for £48m</a> plus £2m in add-ons from Chelsea, with the manager, Michael Carrick, also closing in on Brighton’s Carlos Baleba.</p> <a href=\"https://www.theguardian.com/football/2026/aug/21/manchester-united-midfield-rebuild-michael-carrick-hull-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/21/manchester-united-midfield-rebuild-michael-carrick-hull-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 11:41:38 GMT"
+        },
+        {
+          "title": "[Pre Match Thread] Premier League Game 1 | Hull City vs Manchester United",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1><strong><a href=\"https://www.reddit.com/r/reddevils/.rss#Hull\"></a> Hull City vs Manchester United <a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a></strong></h1> <hr /> <p><strong>Competition:</strong> <a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League | <strong>Date:</strong> 22nd August</p> <p><strong>Kick off:</strong> 12:30 BST | <strong>Venue:</strong> MKM Srtadium</p> <p><strong>Referee:</strong> Darren England | <strong>TV:</strong> TNT Sports</p> <hr /> <h1><strong>Team News:</strong></h1> <p><strong>Possible starting XI</strong>:</p> <pre><code>---------Lammens--------- -Dalot-Maguire-Heaven-Shaw- ----Tielemans--Santos------ --Amad---Fernandes---Cunha-- ----------Mbeumo----------- </code></pre> <p><strong>Possible bench:</strong> Darlow, Yoro, Martinez, Mazraoui, Dorgu, Mainoo, Rashford, Zirkzee, Sesko</p> <hr /> <ul> <li><p>Benjamin Sesko and Karl Darlow should make the matchday squad after missing all of pre-season through injury</p></li> <li><p>Mason Mount is a massive doubt for the game but isn't far away from returning</p></li> <li><p>Likely to see debuts for Youri Tielemans and Andrey Santos in midfield</p></li> <li><p>Marcus Rashford could make a United matchday squad for the first time in over 18 months</p></li> <li><p>Matthijs de Ligt is training with the team but is not available as he is eased back in after his back surgery. </p></li> </ul> <hr /> <p><strong>Injuries/Suspensions:</strong></p> <table><thead> <tr> <th align=\"center\">Player</th> <th align=\"center\">Injury/Ban</th> <th align=\"center\">Position</th> <th align=\"center\">Return Date</th> </tr> </thead><tbody> <tr> <td align=\"center\">Tom Heaton</td> <td align=\"center\">Hamstring</td> <td align=\"center\">GK</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Mason Mount</td> <td align=\"center\">TBC</td> <td align=\"center\">CM</td> <td align=\"center\">30th August</td> </tr> <tr> <td align=\"center\">Karl Darlow</td> <td align=\"center\">TBC</td> <td align=\"center\">GK</td> <td align=\"center\">22nd August</td> </tr> <tr> <td align=\"center\">Benjamin Sesko</td> <td align=\"center\">Shin</td> <td align=\"center\">ST</td> <td align=\"center\">22nd August</td> </tr> <tr> <td align=\"center\">Manuel Ugarte</td> <td align=\"center\">ACL</td> <td align=\"center\">DM</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Matthijs de Ligt</td> <td align=\"center\">Back</td> <td align=\"center\">CB</td> <td align=\"center\">September</td> </tr> </tbody></table> <hr /> <h1><strong>Form guide:</strong></h1> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#Hull\"></a> Hull: n/a</p> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> United: n/a</p> <hr /> <h1><strong>Last 3 meetings:</strong></h1> <table><thead> <tr> <th align=\"center\">Result</th> <th align=\"center\">Comp</th> <th align=\"center\">Venue</th> <th align=\"center\">Season</th> </tr> </thead><tbody> <tr> <td align=\"center\">0-0 D</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Old Trafford</td> <td align=\"center\">16/17</td> </tr> <tr> <td align=\"center\">2-1 L</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#EFL\"></a> EFL Cup Semi Final 2nd Leg</td> <td align=\"center\">KCOM Stadium</td> <td align=\"center\">16/17</td> </tr> <tr> <td align=\"center\">2-0 W</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#EFL\"></a> EFL Cup Semi Final 2nd Leg</td> <td align=\"center\">Old Trafford</td> <td align=\"center\">16/17</td> </tr> </tbody></table> <hr /> <h1><strong>Opposition News</strong></h1> <p>Hull have made 11 signings this summer, could be radical changes to their team.</p> <p>Jack Butland, Oscar Zambrano, Charlie Hughes and Joe Gelhardt are all unavailable</p> <hr /> <p><strong>YOU WILL BE ABLE TO SEE FULL MATCH HIGHLIGHTS AFTER THE GAME ON <a href=\"https://www.reddit.com/r/footballhighlights\">/r/footballhighlights</a>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vubvf2/pre_match_thread_premier_league_game_1_hull_city/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vubvf2/pre_match_thread_premier_league_game_1_hull_city/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vubvf2/pre_match_thread_premier_league_game_1_hull_city/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T09:54:16+00:00"
+        },
+        {
+          "title": "[Laurie] Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vuq99l/laurie_carlos_baleba_set_for_manchester_united/\"> <img alt=\"[Laurie] Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton\" src=\"https://external-preview.redd.it/IsBKsWAs3D0C3CKPuyX1yjTeroSl15Lg_o41pbVqMts.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7472354b17eb397d978718c47a30baab5e7bc9ca\" title=\"[Laurie] Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7523511/2026/08/21/carlos-baleba-transfer-man-utd/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vuq99l/laurie_carlos_baleba_set_for_manchester_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vuq99l/laurie_carlos_baleba_set_for_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:33:43+00:00"
+        },
+        {
+          "title": "[Plettenberg] Carlos Baleba to Manchester United - DONE DEAL. Full agreement now reached with Brighton. Transfer fee is at least worth around £70m. Personal terms about a long-term contract were already agreed, as revealed. #MUFC received green light for his medical now.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vupmb4/plettenberg_carlos_baleba_to_manchester_united/\"> <img alt=\"[Plettenberg] Carlos Baleba to Manchester United - DONE DEAL. Full agreement now reached with Brighton. Transfer fee is at least worth around £70m. Personal terms about a long-term contract were already agreed, as revealed. #MUFC received green light for his medical now.\" src=\"https://preview.redd.it/cwiqbm3n1skh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a710ef0bbac56fb2a862d332b9bd8590ca03c565\" title=\"[Plettenberg] Carlos Baleba to Manchester United - DONE DEAL. Full agreement now reached with Brighton. Transfer fee is at least worth around £70m. Personal terms about a long-term contract were already agreed, as revealed. #MUFC received green light for his medical now.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/cwiqbm3n1skh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupmb4/plettenberg_carlos_baleba_to_manchester_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vupmb4/plettenberg_carlos_baleba_to_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:09:45+00:00"
+        },
+        {
+          "title": "[Carl Anka] Manchester United 2026-27 breakthrough player: Shea Lacey",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vunm5t/carl_anka_manchester_united_202627_breakthrough/\"> <img alt=\"[Carl Anka] Manchester United 2026-27 breakthrough player: Shea Lacey\" src=\"https://external-preview.redd.it/XLlbP6ElrAgfVecgQU2NagEhNpcwX0-HkNDAMqgGfSs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=93338c400ec97c7cafb23d8dea1fd432ae88bf41\" title=\"[Carl Anka] Manchester United 2026-27 breakthrough player: Shea Lacey\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7521287/2026/08/21/manchester-united-2026-27-breakthrough-player-shea-lacey/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vunm5t/carl_anka_manchester_united_202627_breakthrough/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vunm5t/carl_anka_manchester_united_202627_breakthrough/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T17:57:52+00:00"
+        },
+        {
+          "title": "Šeško's remarkable record under Carrick | Manchester United",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.manutd.com/en/news/seskos-remarkable-record-under-carrick\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupwux/šeškos_remarkable_record_under_carrick_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vupwux/šeškos_remarkable_record_under_carrick_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:20:33+00:00"
+        },
+        {
+          "title": "[Adam Marshall] Shaw: This is the most positive group I've known | Manchester United",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.manutd.com/en/news/shaw-this-is-the-most-positive-group-ive-known\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vubekx/adam_marshall_shaw_this_is_the_most_positive/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vubekx/adam_marshall_shaw_this_is_the_most_positive/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T09:27:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 4,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Medical booked for double transfer as Michael Carrick gets surprise boost",
+      "items": [
+        {
+          "title": "Man United latest: Medical booked for double transfer as Michael Carrick gets surprise boost",
+          "summary": "Manchester United are reportedly part of multiple transfer moves as Michael Carrick looks to bolster his team ahead of their Premier League opener",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-michael-carrick-34491863",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Michael Carrick to get transfer gift as medical booked for double deal",
+          "summary": "Manchester United are reportedly involved in several transfer dealings as Michael Carrick looks to improve his squad ahead of the new Premier League season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37574449",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United transfer news LIVE: £70m Carlos Baleba agreement, Alejandro Balde push, Salinas move",
+      "items": [
+        {
+          "title": "Man United transfer news LIVE: £70m Carlos Baleba agreement, Alejandro Balde push, Salinas move",
+          "summary": "Latest Manchester United transfer news with updates on Alejandro Balde, Carlos Baleba and more ahead of the new Premier League season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34493903",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 21:58:02 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford's key piece of advice for JJ Gabriel as he mentors Man United wonderkid",
+      "items": [
+        {
+          "title": "Marcus Rashford's key piece of advice for JJ Gabriel as he mentors Man United wonderkid",
+          "summary": "Manchester United star Marcus Rashford has taken emerging star JJ Gabriel under his wing since returning to his boyhood club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-gabriel-manchester-united-34494256",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United burst into transfer negotiations as club chief says 'bring the £14m'",
+      "items": [
+        {
+          "title": "Man United burst into transfer negotiations as club chief says 'bring the £14m'",
+          "summary": "Manchester United are being linked with a summer move for Racing Santander left-back Jorge Salinas as they look to strengthen a problem position in Michael Carrick's squad",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-salinas-34496242",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 12:30:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United recieve telling response after transfer call with Barcelona as next signing decided",
+      "items": [
+        {
+          "title": "Man United recieve telling response after transfer call with Barcelona as next signing decided",
+          "summary": "Manchester United are on the lookout for a new left-back between now and transfer deadline day, while striking a deal for a Barcelona star has become much clearer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-barcelona-alejandro-balde-34494603",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 08:57:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I tried to break the ice with Bruno Fernandes – it very quickly backfired",
+      "items": [
+        {
+          "title": "I tried to break the ice with Bruno Fernandes – it very quickly backfired",
+          "summary": "Manchester United's Bruno Fernandes can sometimes have a bit of a temper - something an ex-Premier League official experienced first-hand",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-united-referee-34488991",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United stars have been saying the same thing about Marcus Rashford's behaviour",
+      "items": [
+        {
+          "title": "Man United stars have been saying the same thing about Marcus Rashford's behaviour",
+          "summary": "Marcus Rashford has returned to the fold at Manchester United ahead of the new Premier League season after his Barcelona loan spell",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-man-united-transfer-34487536",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United predictions for 2026/27 - title chances, player to watch and one we could regret!",
+      "items": [
+        {
+          "title": "Man United predictions for 2026/27 - title chances, player to watch and one we could regret!",
+          "summary": "Manchester United will be looking to improve on the third-place finish they secured last season, but with Champions League football back on the agenda, it's going to be an intriguing campaign. The Manchester Evening News' United writers have had their say on how they think the season will unfold and a whole lot more.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-predictions-202627-title-34356626",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United are about to see how successful Michael Carrick's latest rule change has been",
+      "items": [
+        {
+          "title": "Man United are about to see how successful Michael Carrick's latest rule change has been",
+          "summary": "Manchester United made a significant change ahead of this summer's pre-season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-preseason-34477270",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "13 pundits predict where Man United will finish this season from second to seventh",
+      "items": [
+        {
+          "title": "13 pundits predict where Man United will finish this season from second to seventh",
+          "summary": "Pundits disagree wildly when it comes to where they think Manchester United will finish in the 2026/27 Premier League season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-league-finish-predictions-34487523",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Carlos Baleba to Man Utd transfer details as medical set after breakthrough in Brighton talks",
+      "items": [
+        {
+          "title": "Carlos Baleba to Man Utd transfer details as medical set after breakthrough in Brighton talks",
+          "summary": "Manchester United have a full agreement with Brighton over the signing of midfielder Carlos Baleba, who will travel this weekend to undergo a medical",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/carlos-baleba-man-utd-transfer-37580364",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 19:50:49 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United set for transfer windfall thanks to sell-on clause as player in 'advanced talks'",
+      "items": [
+        {
+          "title": "Man United set for transfer windfall thanks to sell-on clause as player in 'advanced talks'",
+          "summary": "Manchester United's transfer funds could receive a boost before the end of the summer window as they benefit from a deal agreed in 2024",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-news-kambwala-37580009",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 18:10:20 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Brighton manager Fabian Hurzeler responds to Man Utd's bid for Carlos Baleba",
+      "items": [
+        {
+          "title": "Brighton manager Fabian Hurzeler responds to Man Utd's bid for Carlos Baleba",
+          "summary": "Manchester United have submitted an offer of £60million plus £5m in add-ons for Brighton midfielder Carlos Baleba, who will sit out of their Premier League opener this weekend",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carlos-baleba-hurzeler-37579791",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 16:40:56 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The Premier League is back and we want to take you closer to the game than ever before",
+      "items": [
+        {
+          "title": "The Premier League is back and we want to take you closer to the game than ever before",
+          "summary": "The Premier League returns on Friday - and here is a glimpse of what you can expect from our coverage here on Mirror Football",
+          "url": "https://www.mirror.co.uk/sport/football/premier-league-back-want-take-37576713",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 10:42:54 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mason Mount forced Man Utd into transfer U-turn after causing 'internal debate'",
+      "items": [
+        {
+          "title": "Mason Mount forced Man Utd into transfer U-turn after causing 'internal debate'",
+          "summary": "Manchester United have already signed two midfielders this summer with Carlos Baleba set to become a third acquisition following an injury to Mason Mount in pre-season",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/mount-man-utd-transfer-baleba-37577337",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 10:19:03 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Coleen Rooney beams with joy as she reveals Man Utd starlet son Kai's GCSE results",
+      "items": [
+        {
+          "title": "Coleen Rooney beams with joy as she reveals Man Utd starlet son Kai's GCSE results",
+          "summary": "Coleen Rooney has shared her reaction after her Manchester United prospect son Kai received his GCSE exam results",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-kai-coleen-rooney-37576938",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 09:45:34 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League odds as top four favourites emerge and Newcastle most backed for relegation",
+      "items": [
+        {
+          "title": "Premier League odds as top four favourites emerge and Newcastle most backed for relegation",
+          "summary": "Odds for the new season have been revealed - with everything from title favourites and top four contenders right down to relegation candidates",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-odds-favourites-arsenal-37572709",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League 2026-27 predictions as Arsenal tipped for title and £100m signings flop",
+      "items": [
+        {
+          "title": "Premier League 2026-27 predictions as Arsenal tipped for title and £100m signings flop",
+          "summary": "The 2026/27 Premier League season gets underway this weekend and each of the 20 clubs will be hopeful of positive campaigns, with a number of new bosses now at the helm ahead of a fresh campaign",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-2026-27-predictions-37572355",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League news: Iraola warns against writing off Liverpool title hopes",
+      "items": [
+        {
+          "title": "Premier League news: Iraola warns against writing off Liverpool title hopes",
+          "summary": "<p>Manager ‘very confident’ in squad despite lack of summer signings, while Emery counts cost of Villa success</p> <a href=\"https://www.theguardian.com/football/2026/aug/21/premier-league-news-liverpool-iraola-aston-villa-emery\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/21/premier-league-news-liverpool-iraola-aston-villa-emery",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 21:30:45 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Transfer rumors, news: Man United looking at move for Barça's Balde - ESPN",
+      "items": [
+        {
+          "title": "Transfer rumors, news: Man United looking at move for Barça's Balde - ESPN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZngtOXV6ZUktaW5tb25xQ1N3MHA5Z2M1ekluTWEwT2Z0c1hTSktwclhLRnkzSlhybkpDQUhJRzJsLVBpa1BFdGY2VHFXOHBPZ05nUjJpQjROdnFKYm9NVTVQLXJHMzhKUlZvR3N6V0ExTGJNRF8yVFJyRGRheXJfNFF2bkgzak5sVWcwVUtORjhLNHFhcl8tNzkzdUdZbTdBeWRQSEtmd20yV2VRUU80ZzRidWpEa0hJTzBNejV1dHJ2Unht?oc=5\" target=\"_blank\">Transfer rumors, news: Man United looking at move for Barça's Balde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZngtOXV6ZUktaW5tb25xQ1N3MHA5Z2M1ekluTWEwT2Z0c1hTSktwclhLRnkzSlhybkpDQUhJRzJsLVBpa1BFdGY2VHFXOHBPZ05nUjJpQjROdnFKYm9NVTVQLXJHMzhKUlZvR3N6V0ExTGJNRF8yVFJyRGRheXJfNFF2bkgzak5sVWcwVUtORjhLNHFhcl8tNzkzdUdZbTdBeWRQSEtmd20yV2VRUU80ZzRidWpEa0hJTzBNejV1dHJ2Unht?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 20:05:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Explains Man Utd's Next Two Signings After Carlos Baleba - Yahoo Sports",
+      "items": [
+        {
+          "title": "Fabrizio Romano Explains Man Utd's Next Two Signings After Carlos Baleba - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pSTTJCS2hGamVwYWRxaExEN2JMY3N1MTV4Y1VRODV2S2V6dnB2R25PdE1kQ1NPMU05WWswVEpMbGp6WHJVX2NKWWh3ZUpBdmZOenZXSzB6V0U5Z3ZvNnFka2tZWUlXd1c1MVV6a0ZiNy1xNnVDVldTakZkbFlLTUM3ZDlqU2tYcWc?oc=5\" target=\"_blank\">Fabrizio Romano Explains Man Utd's Next Two Signings After Carlos Baleba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1pSTTJCS2hGamVwYWRxaExEN2JMY3N1MTV4Y1VRODV2S2V6dnB2R25PdE1kQ1NPMU05WWswVEpMbGp6WHJVX2NKWWh3ZUpBdmZOenZXSzB6V0U5Z3ZvNnFka2tZWUlXd1c1MVV6a0ZiNy1xNnVDVldTakZkbFlLTUM3ZDlqU2tYcWc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 20 Aug 2026 08:15:24 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd enter bidding for sixth signing after Baleba with deadline set as Jacobs reveals 'offer' - Football365",
+      "items": [
+        {
+          "title": "Man Utd enter bidding for sixth signing after Baleba with deadline set as Jacobs reveals 'offer' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmxQN2ZvRnhIS0FORDF0d1RYbUU5XzNfRU5Kb0ktcW10Q1d4OU96ZWZuejlFZHFWUVFsbVFIQWtzNHR2aXJxOUl0bFU0akJJTVN2VFh0amNpcTVBRTB3WHBfVVA1Sl80Y3Jma3JqNkQ5ZVJPOW1tUHpVMS1CckZLUl9JQVRHdnpVZ2h4UXcybmFxaElDX0F2NWZLR2V6czMy?oc=5\" target=\"_blank\">Man Utd enter bidding for sixth signing after Baleba with deadline set as Jacobs reveals 'offer'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmxQN2ZvRnhIS0FORDF0d1RYbUU5XzNfRU5Kb0ktcW10Q1d4OU96ZWZuejlFZHFWUVFsbVFIQWtzNHR2aXJxOUl0bFU0akJJTVN2VFh0amNpcTVBRTB3WHBfVVA1Sl80Y3Jma3JqNkQ5ZVJPOW1tUHpVMS1CckZLUl9JQVRHdnpVZ2h4UXcybmFxaElDX0F2NWZLR2V6czMy?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 10:05:58 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano confirms major Man United transfer with ‘Here We Go’",
+      "items": [
+        {
+          "title": "Fabrizio Romano confirms major Man United transfer with ‘Here We Go’",
+          "summary": "<p>Manchester United have completed a long-awaited deal for Carlos Baleba, with transfer expert Fabrizio Romano confirming that the Brighton midfielder is set to join the Red Devils. Romano announced the transfer on X with his trademark “Here We Go” confirmation, bringing an end to United&#8217;s long-standing pursuit of the 22-year-old Cameroon international. Carlos Baleba to [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/21/carlos-baleba-manchester-united-here-we-go-fabrizio-romano/\">Fabrizio Romano confirms major Man United transfer with &#8216;Here We Go&#8217;</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/21/carlos-baleba-manchester-united-here-we-go-fabrizio-romano/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 21 Aug 2026 22:42:35 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Megathread] Carlos Baleba",
+      "items": [
+        {
+          "title": "[Megathread] Carlos Baleba",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Simon Peach - #MUFC have this evening reached an agreement with Brighton for Carlos Baleba</p> <p>Laurie - Carlos Baleba given permission to travel to Manchester after fee agreed with Brighton for midfielder. Medical at #MUFC set to take place tomorrow. Deal worth £65m guaranteed plus £5m in add-ons, with sell-on also.</p> <p>Ornstein - Carlos Baleba to join Manchester United from Brighton &amp; Hove Albion on 5+1yr contract; personal terms verbally agreed &amp; 22yo to do #MUFC medical on Saturday after deal struck with #BHAFC at £65m + £5m + sell-on clause</p> <hr /> <p>More to follow</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupyfp/megathread_carlos_baleba/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupyfp/megathread_carlos_baleba/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vupyfp/megathread_carlos_baleba/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:22:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Simon Peach] MUFC have this evening reached an agreement with Brighton for Carlos Baleba, as @FabrizioRomano reports. Looks an exciting addition",
+      "items": [
+        {
+          "title": "[Simon Peach] MUFC have this evening reached an agreement with Brighton for Carlos Baleba, as @FabrizioRomano reports. Looks an exciting addition",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vupykl/simon_peach_mufc_have_this_evening_reached_an/\"> <img alt=\"[Simon Peach] MUFC have this evening reached an agreement with Brighton for Carlos Baleba, as @FabrizioRomano reports. Looks an exciting addition\" src=\"https://preview.redd.it/3msxrhhv3skh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3536b308fdb8978cdfa1c6baf76833b3f4720e6\" title=\"[Simon Peach] MUFC have this evening reached an agreement with Brighton for Carlos Baleba, as @FabrizioRomano reports. Looks an exciting addition\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SOERERY\"> /u/SOERERY </a> <br /> <span><a href=\"https://i.redd.it/3msxrhhv3skh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupykl/simon_peach_mufc_have_this_evening_reached_an/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vupykl/simon_peach_mufc_have_this_evening_reached_an/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:22:17+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[@ManUtd] That was then. This is now. Up the Reds ❤️",
+      "items": [
+        {
+          "title": "[@ManUtd] That was then. This is now. Up the Reds ❤️",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vupfep/manutd_that_was_then_this_is_now_up_the_reds/\"> <img alt=\"[@ManUtd] That was then. This is now. Up the Reds ❤️\" src=\"https://external-preview.redd.it/aHo1bGlkemQwc2toMWrJepdw-kb0YZysjNQKENSEVVNqRwWHlp-vuDUQmA44.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fa40970d0fe2deab1aca8cb9b14e3bd1669faba\" title=\"[@ManUtd] That was then. This is now. Up the Reds ❤️\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://v.redd.it/sz154h0e0skh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupfep/manutd_that_was_then_this_is_now_up_the_reds/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vupfep/manutd_that_was_then_this_is_now_up_the_reds/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:02:49+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Press Conference - Part 2] Carrick on Midfield: “I know we've got a good midfield, you know. We've brought in some really, really top players and really good characters, which is important. And we've got to evolve, you know, and we've got to improve.”",
+      "items": [
+        {
+          "title": "[Press Conference - Part 2] Carrick on Midfield: “I know we've got a good midfield, you know. We've brought in some really, really top players and really good characters, which is important. And we've got to evolve, you know, and we've got to improve.”",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Laurie Whitwell</strong></p> <p><strong>Carrick hints at rotation for Fernandes this season.</strong> “Big player for us but there’s still elements where we need to look after him.”</p> <p>Fernandes played full 90 of all Carrick’s 17 games last season - has only been rested five times in six years</p> <p><strong>Carrick on Tielemans + Santos:</strong> “There’s certainly players that have been more expensive, that’s pretty obvious. We’re delighted with the two we’ve brought in. For the value we feel we’ve got, I think we’ve done very well.” </p> <p>Suspect he would say similar about Baleba.</p> <p><strong>Steven Railston</strong></p> <p>I asked Michael Carrick whether he felt the void left by Casemiro will be filled by this summer’s midfield signings.</p> <p>He said: “I think players have always come and gone through history here, and you've got to evolve, you've got to find ways of moving forward, you've got to find ways of winning, essentially.</p> <p><strong>“I know we've got a good midfield, you know. We've brought in some really, really top players and really good characters, which is important. And we've got to evolve, you know, we've got to evolve and we've got to improve.”</strong></p> <p><strong>Michael Carrick also revealed in the second section that no players have expressed a desire to leave the club. He suggested there would be no outgoings before the transfer deadline</strong>, but it still feels like movement is possible with Joshua Zirkzee</p> <h1>Every word: Part two of Carrick's press conference</h1> <p><a href=\"https://www.manutd.com/en/news/every-word-part-two-of-carricks-press-conference-v-hull-city\">https://www.manutd.com/en/news/every-word-part-two-of-carricks-press-conference-v-hull-city</a></p> <p><strong>Casemiro was a big part of what you did last season. Do you feel like the void he's left behind will be filled by the new recruits?</strong></p> <p>“I think players have always come and gone through history here, and you've got to evolve, you've got to find ways of moving forward, you've got to find ways of winning, essentially. I know we've got a good midfield, you know. We've brought in some really, really top players and really good characters, which is important. And we've got to evolve, you know, we've got to evolve and we've got to improve.”</p> <p><strong>Do you feel like a third midfield signing is necessary before the window closes?</strong></p> <p>“As I said before, we're trying to improve the squad all the time, you know. We're working towards that. I think largely we've got a really good balance within the group. As it stands now, we've got some very good, top midfielders to choose from. So I think we've improved that. As I said, since the start of the window to the end, we'll see what happens, you know. As I said, we want to finish stronger as the window closes, so we're working towards that.”</p> <p><strong>What does progress and success look like to you this season in terms of what you discussed with the board here?</strong></p> <p>“We want to evolve as a team, you know. I think we've got a lot of younger players in the group that we want to help them move forward individually, which, collectively, will move us in a good direction. So I think that, the experiences that they've had, the habit in getting used to feeling what it's like to win a number of games, I think is huge for players at this club to feel it and know what it takes, first of all, and what you've got to put into it to get out the other end. And yeah, of course, let's see what we can achieve. You know, yeah, we want to be finishing in the Champions League again, without doubt. You know, that's a challenge, it's a big challenge. You know, there's a lot of teams fighting for that position and we managed to do that last season. And we've got to aim to do the same and then keep pushing on, you know, through the season to see how it develops. We want to start strong, we want to get through the winter months and we want to be strong and we want to finish strong. So it's putting it all together and then see where we end up. But we're going into it with a lot of encouragement, this season.”</p> <p><strong>Do you still view midfield as the most important area of a football team? I know you might say all positions are vital, but just in terms of how you view midfield now?</strong></p> <p>“I think it's important. You could argue both ends of the pitch are if not more important, but the midfield connects the whole team together and has a big say on how the team performs with, without the ball, and the character and the personality of the team. So I think it's all components. Like you've said, you've almost given the answer anyway when you asked, but both ends of the pitch is where games are won and lost, so that's huge as well, obviously.”</p> <p><strong>Can anything be won without a very good midfield?</strong></p> <p>“I think it gives you the foundation of the team, you know. I think the foundation of the team is important to be consistent, to be consistent through one game from start to finish, to be consistent over a period of time. I think you need a solid foundation through the middle of the team and trying and putting it together and getting that balance. But certainly, I think if you look at all the top teams over the years, all the great teams over the years, the spine of the team is really strong, you know. So we're conscious of that, and I think we've got a good spine of the team right now. We can keep improving as we go in different ways and coaching and helping the boys and developing them, and I think we're in a good place.”</p> <p><strong>Just on Marcus [Rashford], he was one of the latest ones to come back. Is he near full fitness and what kind of season can he have if he is on fire and fully focused?</strong></p> <p>“Yeah, he's come back really well. Very well, you know. I think the way it is now and not having so much time off really, and looking at three weeks, maybe just under three weeks, give or take. Boys don't lose an awful lot in that time. It's certainly the case of managing it coming back in though and being sensible, knowing it's a whole season for all the players to deal with. So in terms of the team this week going into next week as well, getting that balance right with all the group. But Marcus has come back particularly bright, particularly sharp, as I've said, and looks really good.”</p> <p><strong>I know there haven't been too many sales as such, fire sales as such, but have any players expressed a wish to leave?</strong></p> <p>“Not to me, no.”</p> <p><strong>So would you expect all these players to be here until January?</strong> .</p> <p>“Yeah, at least. I don't know what's going to come at us, you know. I don't know what's going to come at us [from elsewhere]. We can control what we can control. I'm really happy with the squad we've got so far, and if not, we want to improve it.”</p> <p><strong>And just taking back to your first pre-season as coach in 2018, it was quite an eventful tour, there was a lot going on. Did you take any lessons learned from that, because it feels like this pre-season, World Cup year as well, feels like it's been a lot smoother, a lot of good preparation, a lot of calm, even though you've not had a lot of players available.</strong></p> <p>“Yeah, I've been really happy with the structure, with it would have been nice to have more players back early, but at the same time, it was nice to see some of the boys go far in the World Cup as well. But yeah, certainly as a structure and as a flow and how the boys have come back, how they've trained, what the group looks like. I think we can be happy with a lot of that. We all know pre-season is one thing, and once the start of the season gets going, it's a whole different story, you know. So I think it just gives you the chance to the foundation to be able to move, and we've got to take big steps as the season goes to move forward.”</p> <p><strong>Bruno Fernandes has been subject to some major interest this summer, as he was last summer. It feels like there are contract talks ongoing. What's your view on his future at the club generally? What's your view on him as a player at the club?</strong></p> <p>“I've said quite a lot about Bruno, you know. He's been a big part of the team and the club over recent times and had a huge impact, so he'll continue to do that. In terms of the games and how it comes, hopefully he stays fit and he's in good shape. But yeah, there's the element talking about the squad and the depth, and as we go through the season and the waves and the momentum and keeping the boys in good form, but keeping them fresh as well. So Bruno's part of that, you know. He's a big player for us, he's obviously our captain, but there's still elements where we need to look after him.”</p> <p><strong>There's been a lot of midfielders that have moved around this summer, some for £100 million. Just wondering partly what you make of the rising prices generally for midfielders, but also when you see the prices you've paid for Tielemans and Santos, do you feel that you maybe got players a bit cheaper compared to some of the others who have gone?</strong></p> <p>“Well, there's certainly players that have gone and been more expensive, I think that's pretty obvious. We're delighted with the two that we've brought in, I think, and for the money, of course, but actually take that away, I'm delighted that we've got them. Two fantastic players [who] give us really good balance, give us a lot within the team, offer us different things. So, but certainly yeah, for the value that we feel we've got, I think we've done very well with them two especially.”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vutnqa/press_conference_part_2_carrick_on_midfield_i/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vutnqa/press_conference_part_2_carrick_on_midfield_i/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vutnqa/press_conference_part_2_carrick_on_midfield_i/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T21:45:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Nathan Edwards] Carrick 'can touch the heart of the player' - Herrera",
+      "items": [
+        {
+          "title": "[Nathan Edwards] Carrick 'can touch the heart of the player' - Herrera",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vunmui/nathan_edwards_carrick_can_touch_the_heart_of_the/\"> <img alt=\"[Nathan Edwards] Carrick 'can touch the heart of the player' - Herrera\" src=\"https://external-preview.redd.it/Th5Wx-K-y30dLr_qnAQf4xLsnwAyDt9MWdggC2iuomM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f0761004d419cad69492706532fdb5d7212b689\" title=\"[Nathan Edwards] Carrick 'can touch the heart of the player' - Herrera\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/c4gjnq75ggzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vunmui/nathan_edwards_carrick_can_touch_the_heart_of_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vunmui/nathan_edwards_carrick_can_touch_the_heart_of_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T17:58:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "\"Everyone's Got That Buzz\" | Carrick Hull Exclusive",
+      "items": [
+        {
+          "title": "\"Everyone's Got That Buzz\" | Carrick Hull Exclusive",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vut4nm/everyones_got_that_buzz_carrick_hull_exclusive/\"> <img alt=\"&quot;Everyone's Got That Buzz&quot; | Carrick Hull Exclusive\" src=\"https://external-preview.redd.it/qnwzGQBLyPtuvKCPf0lmIrBKDlrYOv8vFU9zqO9pCeo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5ecde60500961adc187f168118f60d10da6dab8e\" title=\"&quot;Everyone's Got That Buzz&quot; | Carrick Hull Exclusive\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=wzg-eeT7700\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vut4nm/everyones_got_that_buzz_carrick_hull_exclusive/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vut4nm/everyones_got_that_buzz_carrick_hull_exclusive/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T21:24:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Last 6 Seasons Opening Match Starting XI.",
+      "items": [
+        {
+          "title": "Last 6 Seasons Opening Match Starting XI.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vu9pj0/last_6_seasons_opening_match_starting_xi/\"> <img alt=\"Last 6 Seasons Opening Match Starting XI.\" src=\"https://preview.redd.it/2sp85b6ynokh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=647d65733693881d0ac4466c9cad622fa11c4151\" title=\"Last 6 Seasons Opening Match Starting XI.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/johnnyboy1890\"> /u/johnnyboy1890 </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vu9pj0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vu9pj0/last_6_seasons_opening_match_starting_xi/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vu9pj0/last_6_seasons_opening_match_starting_xi/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T07:47:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick Pre-Hull City | Press Conference: Part Two",
+      "items": [
+        {
+          "title": "Michael Carrick Pre-Hull City | Press Conference: Part Two",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vutumn/michael_carrick_prehull_city_press_conference/\"> <img alt=\"Michael Carrick Pre-Hull City | Press Conference: Part Two\" src=\"https://external-preview.redd.it/8CAz08b1rO8beKa6OFo-XTwWZWuP4OTFvR5p6WjewUc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7d65b02666174af11d9a85ed063714b6fe172f1c\" title=\"Michael Carrick Pre-Hull City | Press Conference: Part Two\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=QWq9z9gKqZo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vutumn/michael_carrick_prehull_city_press_conference/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vutumn/michael_carrick_prehull_city_press_conference/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T21:53:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Simon Stone] Man Utd youngster Jacob Devaney is in talks with Hibs over loan move",
+      "items": [
+        {
+          "title": "[Simon Stone] Man Utd youngster Jacob Devaney is in talks with Hibs over loan move",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vubdzn/simon_stone_man_utd_youngster_jacob_devaney_is_in/\"> <img alt=\"[Simon Stone] Man Utd youngster Jacob Devaney is in talks with Hibs over loan move\" src=\"https://external-preview.redd.it/hwqPKjmoeNp1xWTF3Sg239IZgxukMjKgFw74w5BynZo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=88f2ea8f4132e1508f9cc3a6ff87f49e9b116821\" title=\"[Simon Stone] Man Utd youngster Jacob Devaney is in talks with Hibs over loan move\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/c9w09yeprjno\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vubdzn/simon_stone_man_utd_youngster_jacob_devaney_is_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vubdzn/simon_stone_man_utd_youngster_jacob_devaney_is_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T09:26:57+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Baleba to Man Utd? Tifo Football Podcast by The Athletic",
+      "items": [
+        {
+          "title": "Baleba to Man Utd? Tifo Football Podcast by The Athletic",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vufyp2/baleba_to_man_utd_tifo_football_podcast_by_the/\"> <img alt=\"Baleba to Man Utd? Tifo Football Podcast by The Athletic\" src=\"https://external-preview.redd.it/3aAnrUu7P-cS0txjhs0jAX-YlmR6wv718uboRLhjUW0.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d2fd6df68337f0f5c8513f92ed6ecd3797378ffb\" title=\"Baleba to Man Utd? Tifo Football Podcast by The Athletic\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This episode of the Tifo Football podcast, hosted by Joe Devine and featuring Kaya Kaynak, JJ Bull, and Jack Pitt-Brooke, focuses on major summer transfer news and strategic team developments in the Premier League.</p> <p>Key discussion topics include:</p> <p>• Manchester United's Midfield: The panel discusses the potential signing of Carlos Baleba from Brighton (06:16 - 21:45). They analyze his role as a &quot;space defender&quot; and how he would fit into a midfield rotation with Kobbie Mainoo, Mason Mount, and others.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Former_student_2504\"> /u/Former_student_2504 </a> <br /> <span><a href=\"https://youtu.be/jqwGpzt696g?si=2y1dESUQ6hnNtyvs\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vufyp2/baleba_to_man_utd_tifo_football_podcast_by_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vufyp2/baleba_to_man_utd_tifo_football_podcast_by_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T13:10:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rival watch",
+      "items": [
+        {
+          "title": "Rival watch",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Arsenal vs Coventry </p> <p>2-0 </p> <p>Kai Havertz 15', Saka 23'</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Prthmsh\"> /u/Prthmsh </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupcw5/rival_watch/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupcw5/rival_watch/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vupcw5/rival_watch/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:00:32+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupdln/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vupdln/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vupdln/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T19:01:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Club media] Spend The Day With United At Carrington!",
+      "items": [
+        {
+          "title": "[Club media] Spend The Day With United At Carrington!",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vub5v9/club_media_spend_the_day_with_united_at_carrington/\"> <img alt=\"[Club media] Spend The Day With United At Carrington!\" src=\"https://external-preview.redd.it/ok-YSuYg2WM4SK3geVjp_SMKM49xtzOf_BL1fqPwTeE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ba3bc11dac3aa49457daf987f4936f8571ae9518\" title=\"[Club media] Spend The Day With United At Carrington!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sousagesaregreat\"> /u/sousagesaregreat </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=IE-b7R7ozK4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vub5v9/club_media_spend_the_day_with_united_at_carrington/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vub5v9/club_media_spend_the_day_with_united_at_carrington/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T09:14:00+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How Michael Carrick navigated his first Man Utd summer with late transfers and young blood (Gift Article)",
+      "items": [
+        {
+          "title": "How Michael Carrick navigated his first Man Utd summer with late transfers and young blood (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vu70zm/how_michael_carrick_navigated_his_first_man_utd/\"> <img alt=\"How Michael Carrick navigated his first Man Utd summer with late transfers and young blood (Gift Article)\" src=\"https://external-preview.redd.it/JEjL75JNSPRmOpSmlFIXCEpgGF_s-n2kIQB7hurVraY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3fe381f9499346c062caf37e21612942f95e794\" title=\"How Michael Carrick navigated his first Man Utd summer with late transfers and young blood (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/agent619\"> /u/agent619 </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7527200/2026/08/21/how-michael-carrick-navigated-his-first-man-utd-summer-with-late-transfers-and-young-blood/?unlocked_article_code=1.7FA.kv-k.nk0dUlLsK0EX&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vu70zm/how_michael_carrick_navigated_his_first_man_utd/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vu70zm/how_michael_carrick_navigated_his_first_man_utd/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T05:15:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "BBC pundits prediction for top 4 this season",
+      "items": [
+        {
+          "title": "BBC pundits prediction for top 4 this season",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vu59zk/bbc_pundits_prediction_for_top_4_this_season/\"> <img alt=\"BBC pundits prediction for top 4 this season\" src=\"https://preview.redd.it/zy55967oejkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cdfbf3ffe15513ed43ec4bb9f205d32136c1e42d\" title=\"BBC pundits prediction for top 4 this season\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/defiantkinglion\"> /u/defiantkinglion </a> <br /> <span><a href=\"https://i.redd.it/zy55967oejkh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vu59zk/bbc_pundits_prediction_for_top_4_this_season/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vu59zk/bbc_pundits_prediction_for_top_4_this_season/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T03:46:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
+      "items": [
+        {
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p><strong>Men's Team</strong>​ </p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrey Santos</td> <td align=\"left\">CM</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£48m + £2m</td> </tr> <tr> <td align=\"left\">Karl Darlow</td> <td align=\"left\">GK</td> <td align=\"left\">Leeds Utd</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Youri Tielemans</td> <td align=\"left\">CM</td> <td align=\"left\">Aston Villa</td> <td align=\"left\">£35m</td> </tr> <tr> <td align=\"left\">Tynan Thompson</td> <td align=\"left\">LW</td> <td align=\"left\">Tottenham Hotspur</td> <td align=\"left\">£4m + £4m</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">Inter Miami</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> <tr> <td align=\"left\">Tyler Fredricson</td> <td align=\"left\">CB</td> <td align=\"left\">Lausanne-Sport</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Altay Bayindir</td> <td align=\"left\">GK</td> <td align=\"left\">Celta Vigo</td> <td align=\"left\">Loan</td> </tr> <tr> <td align=\"left\">Radek Vitek</td> <td align=\"left\">GK</td> <td align=\"left\">Middlesbrough</td> <td align=\"left\">£7m + £7m</td> </tr> </tbody></table> <p><strong>Women's Team</strong></p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrea Medina</td> <td align=\"left\">LB</td> <td align=\"left\">Atletico Madrid</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Janina Leitzig</td> <td align=\"left\">GK</td> <td align=\"left\">Leicester City</td> <td align=\"left\">Undisclosed Fee</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Millie Turner</td> <td align=\"left\">CB</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Hannah Blundell </td> <td align=\"left\">FB</td> <td align=\"left\">Everton</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Melvine Malard</td> <td align=\"left\">ST</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£850k</td> </tr> <tr> <td align=\"left\">Leah Galton</td> <td align=\"left\">FW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Lisa Naalsund</td> <td align=\"left\">MF</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Gabby George</td> <td align=\"left\">CB</td> <td align=\"left\">Brighton &amp; Hove Albion</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Kayla Rendell</td> <td align=\"left\">GK</td> <td align=\"left\">Newcastle United</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vuaxoe/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vuaxoe/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vuaxoe/transfer_round_up_discussion_summer_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-21T09:01:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 54,
+    "story_count": 40
+  }
+}
