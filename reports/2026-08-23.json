@@ -1,0 +1,1261 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T02:24:01.683147+00:00",
+  "match_data": {
+    "collected_at": "2026-08-23T02:23:56.750480+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Michael Carrick reacts to Manchester United's 2-0 opening day defeat to Hull City.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p5v6s2?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 22 Aug 2026 14:17:00 GMT"
+        },
+        {
+          "title": "Hull vs Manchester United highlights and reaction as Reds kick off with chastening defeat",
+          "summary": "Man United have started the Premier League season with a 2-0 defeat to Hull City at the MKM Stadium",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/hull-vs-manchester-united-live-34489613",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 15:50:13 +0000"
+        },
+        {
+          "title": "Michael Carrick defends Manchester United star after he was hooked at half-time",
+          "summary": "Michael Carrick was asked about Patrick Dorgu's half-time substitution after Man Utd's defeat against Hull on Saturday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-defends-manchester-united-34500702",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 15:11:27 +0000"
+        },
+        {
+          "title": "Michael Carrick exposed another Manchester United problem in shocking defeat to Hull",
+          "summary": "Man Utd suffered an unexpected 2-0 defeat to Hull on the opening day of the new Premier League season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-exposed-another-manchester-34500704",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 13:51:24 +0000"
+        },
+        {
+          "title": "Manchester United player ratings vs Hull as seven get 3/10 in dreadful opening day defeat",
+          "summary": "Man United lost 2-0 against Hull City in their opening Premier League game of the season and this is how the players rated at the MKM Stadium.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34500677",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 13:24:52 +0000"
+        },
+        {
+          "title": "Why Amad is missing from Manchester United squad vs Hull",
+          "summary": "Man Utd play Hull in their opening Premier League game today but Amad has not been included in the squad.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/amad-missing-manchester-united-squad-34500984",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 10:42:07 +0000"
+        },
+        {
+          "title": "Marcus Rashford's new Manchester United shirt number confirmed",
+          "summary": "Marcus Rashford was welcomed back to Man Utd earlier this month, and he has now been handed a new squad number.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/breaking-marcus-rashfords-new-manchester-34468839",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 09:39:50 +0000"
+        },
+        {
+          "title": "Sesko, Mount, De Ligt, Ugarte - Manchester United injury news and return dates ahead of Hull",
+          "summary": "Manchester United are back in Premier League action today when they visit Hull City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/sesko-mount-de-ligt-ugarte-34497303",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 06:00:00 +0000"
+        },
+        {
+          "title": "How Manchester United should line up vs Hull in Premier League opener",
+          "summary": "Man United travel to Hull City this afternoon for their first Premier League fixture of the season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/how-manchester-united-should-line-34495269",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Michael Carrick must do something Bruno Fernandes does not want at Manchester United",
+          "summary": "Bruno Fernandes has missed just a few games for Man Utd since he signed from Sporting Lisbon six years ago.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-must-something-bruno-34494247",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Hull of a debut: Socceroos teenager ‘buzzing’ after win over Manchester United in first Premier League outing",
+          "summary": "<p>Lucas Herrington, 18, came on as a second half substitute as Hull stunned the Premier League giants</p><p>Teenage Socceroo Lucas Herrington has made a dream start to life in the Premier League, coming on as a second-half substitute in <a href=\"https://www.theguardian.com/football/2026/aug/22/hull-manchester-united-premier-league-match-report\">Hull City’s boilover 2-0 victory</a> over giants Manchester United.</p><p>The 18-year-old defender, the only Australian in English soccer’s top-flight, didn’t put a foot wrong in promoted Hull’s return to the league, helping to protect his side’s two-goal lead.</p> <a href=\"https://www.theguardian.com/football/2026/aug/23/hull-debut-socceroos-teenager-buzzing-after-win-over-manchester-united\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/23/hull-debut-socceroos-teenager-buzzing-after-win-over-manchester-united",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 23 Aug 2026 02:08:24 GMT"
+        },
+        {
+          "title": "Carrick tells Manchester United to keep calm and carry on after Hull humbling",
+          "summary": "<ul><li><p>Bruno Fernandes: ‘We gave too much of the ball to them’</p></li><li><p>Sergej Jakirovic happy Hull proved critics wrong</p></li></ul><p>Michael Carrick says he will not overreact, but has called for improvement after Manchester United started the season with a 2-0 defeat at Hull. United lost their opening game for the fourth time in the past seven years as Semi Ajayi and Nobel Mendy took advantage of poor defending from set-pieces.</p><p>The United head coach presented a professional exterior despite United’s performance not reaching the desired standard as they were deservedly beaten by Hull, who finished sixth in the Championship last season.</p> <a href=\"https://www.theguardian.com/football/2026/aug/22/carrick-manchester-united-shock-defeat-by-hull\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/22/carrick-manchester-united-shock-defeat-by-hull",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 15:41:27 GMT"
+        },
+        {
+          "title": "Hull City 2-0 Manchester United: Premier League – as it happened",
+          "summary": "<p>⚽ Live updates on the 12.30pm (BST) kick-off at the MKM Stadium<br />⚽ <a href=\"https://www.theguardian.com/football/results\">Live scores </a>| <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Sign up for Football Daily</a> | <a href=\"mailto:tim.delisle.casual@guardian.co.uk\">Mail Tim</a></p><p><strong>Hull, naturally, are in orange too, with black stripes.</strong> United are in ivory as Bruno Fernandes gathers them for a pep talk.</p><p><strong>The teams come out, and so do the fireworks.</strong> The MKM Stadium is a happy swirl of orange smoke.</p> <a href=\"https://www.theguardian.com/football/live/2026/aug/22/hull-city-v-manchester-united-premier-league-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/aug/22/hull-city-v-manchester-united-premier-league-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 14:04:08 GMT"
+        },
+        {
+          "title": "Ajayi and Mendy give Hull dream start against misfiring Manchester United",
+          "summary": "<p>Ever since Sir Alex Ferguson’s retirement 13 years ago, Manchester United have been stuck in football’s equivalent of purgatory and a chastening experience in Hull suggests they could be there a while longer. Michael Carrick’s permanent appointment was supposed to hail a new era at Old Trafford but very little has changed based on this defeat.</p><p>United were sluggish from start to finish and rightly punished for failing to defend set pieces with any degree of competence. Centre-backs Semi Ajayi and Nobel Mendy earned Hull the prized scalp upon their <a href=\"https://www.theguardian.com/football/2026/may/23/hull-middlesbrough-championship-playoff-final-match-report\">return to the Premier League</a> while United are left to ponder if the squad requires more invasive surgery before the transfer window closes.</p> <a href=\"https://www.theguardian.com/football/2026/aug/22/hull-manchester-united-premier-league-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/22/hull-manchester-united-premier-league-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 13:36:13 GMT"
+        },
+        {
+          "title": "Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic - The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUhVVjdQNlltTE4tdndGTWpsWkRwV3B2TmxLX2JZck1lckxFUHc4U2ctdDVmcnRybWxIRk9KZkwwNVM1WXF6TGEyVkM1S21ZUlhfLVZ2U2Y1YTFIOEV2anowWHVuUGFNYWloeU5ZQW5vVjBrdGRQTXRZNWNpSUFEUGxQM0dOZ1JHNTlB?oc=5\" target=\"_blank\">Carlos Baleba set for Manchester United medical after £70m deal agreed with Brighton - The Athletic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUhVVjdQNlltTE4tdndGTWpsWkRwV3B2TmxLX2JZck1lckxFUHc4U2ctdDVmcnRybWxIRk9KZkwwNVM1WXF6TGEyVkM1S21ZUlhfLVZ2U2Y1YTFIOEV2anowWHVuUGFNYWloeU5ZQW5vVjBrdGRQTXRZNWNpSUFEUGxQM0dOZ1JHNTlB?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 19:59:45 GMT"
+        },
+        {
+          "title": "Details of Baleba's Transfer to Manchester United - ysscores.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0VzSEdnSHpBemxQWURtMzMweXBNT3FNaWluSGE4VGI2b2ZPeUxlZVJzRHh1R2xIQmhoa3l0blZxcTEyNjBBMU10U3lHb2hrekpKUWhhbzlkdC1zWTNOYXBNTW45UEp6aFZldmpIUnJCNnpGQTZLbnU1Vl9TX1RQMjVlRERNbVF5UlBqaERzZnUzM2Q3?oc=5\" target=\"_blank\">Details of Baleba's Transfer to Manchester United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ysscores.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0VzSEdnSHpBemxQWURtMzMweXBNT3FNaWluSGE4VGI2b2ZPeUxlZVJzRHh1R2xIQmhoa3l0blZxcTEyNjBBMU10U3lHb2hrekpKUWhhbzlkdC1zWTNOYXBNTW45UEp6aFZldmpIUnJCNnpGQTZLbnU1Vl9TX1RQMjVlRERNbVF5UlBqaERzZnUzM2Q3?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 07:31:13 GMT"
+        },
+        {
+          "title": "“It’s one game” – Carrick defends Manchester United progress despite total lack of attacking spark",
+          "summary": "<p>Manchester United were beaten badly by Hull City this afternoon, and Michael Carrick has had to calm things post game. If you enjoy CaughtOffside coverage and want to see more of it, add us as a preferred source on Google to make us a favourite and see more of our content. There were lots of [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/22/its-one-game-carrick-defends-manchester-united-progress-despite-total-lack-of-attacking-spark/\">&#8220;It&#8217;s one game&#8221; &#8211; Carrick defends Manchester United progress despite total lack of attacking spark</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/22/its-one-game-carrick-defends-manchester-united-progress-despite-total-lack-of-attacking-spark/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 22 Aug 2026 16:12:01 +0000"
+        },
+        {
+          "title": "Post Match Thread: Hull City 2-0 Manchester United | PL MD1",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Hull City 2-0 Manchester United | PL MD1</h1> <p>Goal Scorers: Semi Ajayi 17', Nobel Mendy 38'</p> <p>____________________________</p> <p><strong>Venue</strong>: - MKM Stadium, Hull<br /> ____________________________</p> <p><strong>Manchester United</strong></p> <p><strong>Starting XI</strong>:: Lammens; Mazraoui, Maguire, Heaven, Shaw; Santos, Tielemans; Mbeumo, Fernandes (c), Dorgu; Cunha</p> <p><strong>Hull City</strong></p> <p><strong>Starting X</strong>:I: Tzolakis; Coyle, Egan, Ajayi, Mendy, Giles; Slater, Crooks; Belloumi, Stroud; McBurnie</p> <p>____________________________</p> <p><strong>NEXT MATCH</strong></p> <p>Man Utd vs Ipswich - Premier League</p> <p>August 30, 2026 • 16:30</p> <p>Old Trafford, Manchester </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvcds6/post_match_thread_hull_city_20_manchester_united/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvcds6/post_match_thread_hull_city_20_manchester_united/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvcds6/post_match_thread_hull_city_20_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T13:24:37+00:00"
+        },
+        {
+          "title": "Manchester United’s greatest players: No 1, Sir Bobby Charlton (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vv2inm/manchester_uniteds_greatest_players_no_1_sir/\"> <img alt=\"Manchester United’s greatest players: No 1, Sir Bobby Charlton (Gift Article)\" src=\"https://external-preview.redd.it/E-anCWUHdfik0h76tCD1MUWAiQc1YDo8lzzcngdeUCE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a121e02f7384d7eddab337c5e1ef27be80685b1b\" title=\"Manchester United’s greatest players: No 1, Sir Bobby Charlton (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/magicalumbrella\"> /u/magicalumbrella </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7523566/2026/08/22/manchester-united-greatest-players-bobby-charlton/?unlocked_article_code=1.7VA.yCF3.8nrfkLl0nQfc&amp;source=user_shared_article&amp;smid=ta-ios-share\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv2inm/manchester_uniteds_greatest_players_no_1_sir/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv2inm/manchester_uniteds_greatest_players_no_1_sir/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T04:32:18+00:00"
+        },
+        {
+          "title": "Manchester United Team vs Hull City, Premier League, 22 August 2026 | Starting XI: Lammens; Mazraoui, Maguire, Heaven, Shaw; Santos, Tielemans; Mbeumo, Fernandes (c), Dorgu; Cunha.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.manutd.com/en/matches/mens-team/hull-city-v-manchester-united-premier-league-20260822?tab=live\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv8l2i/manchester_united_team_vs_hull_city_premier/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv8l2i/manchester_united_team_vs_hull_city_premier/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T10:15:28+00:00"
+        },
+        {
+          "title": "Hull City [2]-0 Manchester United - Nobel Mendy 38'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://v.redd.it/rotucbab3xkh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvaqxy/hull_city_20_manchester_united_nobel_mendy_38/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvaqxy/hull_city_20_manchester_united_nobel_mendy_38/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T12:08:38+00:00"
+        },
+        {
+          "title": "Half Time Thread : Hull City 2-0 Manchester United",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>HT: Hull City 2-0 Manchester United</h1> <p>Goal Scorer: Semi Ajayi 17', Nobel Mendy 38'</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvaxt2/half_time_thread_hull_city_20_manchester_united/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvaxt2/half_time_thread_hull_city_20_manchester_united/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvaxt2/half_time_thread_hull_city_20_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T12:17:48+00:00"
+        },
+        {
+          "title": "[Match Thread] Hull City vs. Manchester United",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Premier League opening day tie between Hull City and Manchester United</p> <p><strong>Score Hull City 2-0 Manchester United</strong></p> <hr /> <p><strong>22nd August 2026</strong>: </p> <hr /> <p><strong>Kick off 12:30 GMT</strong>:</p> <hr /> <p><strong>Venue</strong>: - MKM Stadium, Hull</p> <hr /> <p><strong>Referee</strong>: - Darren England</p> <hr /> <p><strong>Manchester United | Starting XI</strong>:: Lammens; Mazraoui, Maguire, Heaven, Shaw; Santos, Tielemans; Mbeumo, Fernandes (c), Dorgu; Cunha</p> <hr /> <p><strong>Hull City | Starting X</strong>:I: Tzolakis; Coyle, Egan, Ajayi, Mendy, Giles; Slater, Crooks; Belloumi, Stroud; McBurnie</p> <hr /> <hr /> <p><strong>Team news:</strong>: Amad Diallo doesn't travel, debuts for Tielemans and Santos</p> <hr /> <p><strong>Match updates:</strong></p> <p><strong>FIRST HALF</strong></p> <ul> <li>10' - Looks like Cunha playing more central with Mbeumo coming in off the right. I'm sure we'll see switching though</li> <li>12' - Slightly nervy start, Hull playing very direct and United with most of the possession though</li> <li>14' - Cunha with a nice first touch and shot, no power though and easily saved</li> <li>15' - Hull get their first chance, McBurnie forces a fine save from Lammens with a header</li> <li>16' - Hull growing into this game. Giles with a dipping cross/shot forces Lammens to tip it over</li> <li>17' - <strong>GOAL 1-0 - Hull score from the following corner, a good save from Lammens but the follow up scramble sees the ball bundled home by Ajayi</strong></li> <li>21' - Hull continuing to look dangerous after the goal. United struggling with the direct, physical football.</li> <li>22' - Some nice link up play by Cunha sees Mbeumo with a chance for an inswinging cross but it is too close to the keeper</li> <li>24' - Bruno scoops a ball over to Dorgu who manages to hold off the defender and get a shot in. It's pulled just wide.</li> <li>28' - Maguire with a good cross from deep but Dorgu can't get a good connection and it results in a goal kick</li> <li>32' - Santos goes down in the area claiming a foul but the ref is not interested and VAR quickly clears it</li> <li>33' - Dorgu gets the first yellow card of the game, stretching for the ball but only finding the Hull player's foot.</li> <li>35' - Shaw with a deep cross and an acrobatic effort from Mbeumo is deflected wide for a corner</li> <li>37' - Clumsy challenge from Tielemans gives Hull City a free kick in a dangerous area...</li> <li>37' - <strong>GOAL 2-0 - Hull double their lead, inswinging freekick is headed home by Mendy</strong></li> <li>40' - Very little room when United attack, Hull packing the box and Dorgu is easily dispossessed</li> <li>44' - Mbeumo to Dorgu has been our most common attacking combination, this time Dorgu can't get over the cross and it goes straight up</li> <li><strong>Half Time | Hull City 2-0 Manchester United</strong> - Big questions for Michael Carrick to address at half time, very little attacking threat and struggling against another back 3.</li> </ul> <p><strong>SECOND HALF</strong></p> <ul> <li>46' - Half time substitution, Rashford coming on for Dorgu. Rashford starting out left.</li> <li>48' - Rashford's first chance to run with the ball and he's brought down from behind, the free kick is headed away</li> <li>53' - Thing just aren't clicking. Fernandes dummies a pass from Mbeumo but Tielemans isn't expecting it and Hull clear</li> <li>55' - Mistake from Bruno sees Hull through on goal. Thankfully Lammens is alert and out quickly to clear</li> <li>58' - McBurnie turns into McMessi and dribbles through our midfield like they aren't there</li> <li>60' - Tielemans plays a nice disguised through ball to Rashford but there is too much on it and he looked offside anyway</li> <li>64' - Hull City make a double sub. Scorer Mendy off for new signing Herrington and Former Red McNair on for scorer Ajayi.</li> <li>66' - Manchester United double sub. Sesko on for Santos and Mainoo on for Tielemans. Bruno to midfield?</li> <li>69' (nice) - Extended stoppage here, a Hull player receiving treatment is quickly followed up by another double sub for Hull. Liam Miller and Cody Drameh come on for Lewie Coyle and Elliot Stroud.</li> <li>70' - United are hardly knocking on the door here. Hull look very comfortable dealing with a series of crosses.</li> <li>73' - In fact it is Hull who come closest to the next goal. Drameh has just come on a drives wide of the left post.</li> <li>75' - Mbeumo cuts in and curls one but it is always rising over the bar to cheers from the Hull City fans.</li> <li>77' - Best chance of the second half, Mbeumo played in by Cunha but his finish is unconvincing and turned wide for a corner</li> <li>79' - United double sub. Dalot on for Mazraoui, Lacey on for Cunha</li> <li>80' - First sign of Air Sesko. Rashford cross but Sesko can't get a good connection</li> <li>84' - Maguire has his Thanos moment, cutting inside and hitting a left footed strike. Straight at the keeper though.</li> <li>85' - Final Hull sub, Targett on for Giles</li> <li>88' - This one is ending with a whimper instead of a bang. Hull look comfortable and United seem to have given up</li> <li>90' - 6 mins added on by the assistant. Sesko gets the ball in the area after a deflected cross but he can't get it out of his feet and it's cleared.</li> <li>Injury time is just us camped in their third offering no threat at all</li> <li><strong>Final Whistle - Hull City 0 - 2 Manchester United</strong> Welcome back everyone, things can only get better?</li> </ul> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/shami-kebab\"> /u/shami-kebab </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vva109/match_thread_hull_city_vs_manchester_united/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vva109/match_thread_hull_city_vs_manchester_united/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vva109/match_thread_hull_city_vs_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T11:32:43+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Caught Offside",
+        "Google News: David Ornstein",
+        "BBC Sport - Manchester United",
+        "r/reddevils",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 6,
+      "category": "match"
+    },
+    {
+      "representative_title": "Marcus Rashford makes Man United wish after disappointing Hull defeat",
+      "items": [
+        {
+          "title": "Marcus Rashford makes Man United wish after disappointing Hull defeat",
+          "summary": "Manchester United star Marcus Rashford came off the bench against Hull City but could not help his team as they fell to a 2-0 defeat in their opening Premier League fixture",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-man-united-hull-34502582",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 17:49:19 +0000"
+        },
+        {
+          "title": "Marcus Rashford sends Man Utd message after dismal Hull City loss",
+          "summary": "Marcus Rashford made his long-awaited return for Manchester United in their dismal Premier League defeat to Hull City as the former Barcelona loanee came off the bench",
+          "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-hull-37582549",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 18:51:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What TV channel is Hull City vs Man United on - kick-off time and live stream details",
+      "items": [
+        {
+          "title": "What TV channel is Hull City vs Man United on - kick-off time and live stream details",
+          "summary": "Manchester United begin their Premier League campaign with a trip to the MKM Stadium as they face newly promoted side Hull City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-hull-tv-stream-34494127",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 09:00:00 +0000"
+        },
+        {
+          "title": "How to watch Man United U18s vs Man City U18s - TV channel, live stream, kick-off time",
+          "summary": "Manchester United's 18s will open the new campaign with a derby duel against bitter rivals Manchester City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-city-u18-stream-34490482",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 08:00:00 +0000"
+        },
+        {
+          "title": "How to watch Hull City vs Man Utd – TV channel, live stream and kick-off time",
+          "summary": "Manchester United travel to Hull for their first outing of the 2026/27 Premier League season and here's how to watch",
+          "url": "https://www.mirror.co.uk/sport/football/news/hull-man-utd-tv-channel-37574896",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 08:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Youri Tielemans already pinpointed Man United issue before Hull disaster",
+      "items": [
+        {
+          "title": "Youri Tielemans already pinpointed Man United issue before Hull disaster",
+          "summary": "Manchester United endured a poor start to the new Premier League campaign, but one of their major issues appears to have been foreshadowed by Youri Tielemans",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-hull-youri-tielemans-34502654",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 19:55:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United handed £110m Rasmus Hojlund update after completing transfer as truth clear on striker",
+      "items": [
+        {
+          "title": "Man United handed £110m Rasmus Hojlund update after completing transfer as truth clear on striker",
+          "summary": "Rasmus Hojlund joined Napoli in a permanent move this summer, following last season's fruitful spell in the Serie A - but Manchester United may have short-changed themselves",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-rasmus-hojlund-transfer-34502170",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 18:14:58 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'There's definitely issues' - Michael Carrick gives honest assessment after Man United defeat to Hull",
+      "items": [
+        {
+          "title": "'There's definitely issues' - Michael Carrick gives honest assessment after Man United defeat to Hull",
+          "summary": "Michael Carrick spoke to the media after Man Utd's defeat against Hull City in Premier League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/theres-definitely-issues-michael-carrick-34500682",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 14:58:55 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes slams Man United for making the 'same mistakes as we did last season every away game'",
+      "items": [
+        {
+          "title": "Bruno Fernandes slams Man United for making the 'same mistakes as we did last season every away game'",
+          "summary": "Manchester United lost 2-0 to newly-promoted Hull City at the MKM Stadium in their first Premier League game of the campaign.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-slams-man-united-34501800",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 14:16:02 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Napoli demand Rasmus Hojlund do something he never did at Man United after £38m transfer",
+      "items": [
+        {
+          "title": "Napoli demand Rasmus Hojlund do something he never did at Man United after £38m transfer",
+          "summary": "Rasmus Hojlund left Manchester United on a permanent transfer earlier this summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-rasmus-hojlund-napoli-34501019",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 10:56:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United are not wearing their away kit vs Hull City after club announcement",
+      "items": [
+        {
+          "title": "Man United are not wearing their away kit vs Hull City after club announcement",
+          "summary": "Manchester United take on Hull City in a lunchtime kick-off to get their new Premier League campaign up and running",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-third-kit-hull-34491424",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 10:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United vs City Derby tickets still available despite selling out as prices 'dropped'",
+      "items": [
+        {
+          "title": "Man United vs City Derby tickets still available despite selling out as prices 'dropped'",
+          "summary": "The Premier League is back and the first Manchester Derby of the season is just a few fixtures away",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-vs-city-derby-34496007",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 09:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Roy Keane's biggest Man United red flag now after missing out on three transfer targets",
+      "items": [
+        {
+          "title": "Roy Keane's biggest Man United red flag now after missing out on three transfer targets",
+          "summary": "Manchester United legend Roy Keane has had his say on how Michael Carrick's team are shaping up going into the new Premier League season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-keane-34500427",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 08:13:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United and City fans snap up £35 Premier League 2026 advent calendar for £15",
+      "items": [
+        {
+          "title": "Man United and City fans snap up £35 Premier League 2026 advent calendar for £15",
+          "summary": "The 2026/27 Premier League season gets underway this weekend, and to celebrate fans of all teams can get this year's official advent calendar with a huge discount",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-city-fans-snap-34482797",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I left Man United for Hull City – it wasn't easy but I have no regrets",
+      "items": [
+        {
+          "title": "I left Man United for Hull City – it wasn't easy but I have no regrets",
+          "summary": "Manchester United face Hull in their Premier League opener",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-hull-city-brady-34481575",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "I was a lifelong Man United fan – but I stayed too long waiting for an opportunity there",
+      "items": [
+        {
+          "title": "I was a lifelong Man United fan – but I stayed too long waiting for an opportunity there",
+          "summary": "This former Manchester United and Hull City star admits he stayed at Old Trafford for far too long waiting for his shot",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-hull-city-transfer-34481371",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 04:45:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Fifth summer signing after Baleba planned as Lewis-Skelly stance clear",
+      "items": [
+        {
+          "title": "Man United latest: Fifth summer signing after Baleba planned as Lewis-Skelly stance clear",
+          "summary": "Manchester United start their Premier League season this weekend but there's still plenty of focus on the summer transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-baleba-skelly-34498156",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jamie Carragher fires early Man Utd dig as 'carried away' remark comes full cricle",
+      "items": [
+        {
+          "title": "Jamie Carragher fires early Man Utd dig as 'carried away' remark comes full cricle",
+          "summary": "Jamie Carragher claimed on Friday night that the predictions for Manchester United this season were potentially over the top with the Red Devils then going down to Hull",
+          "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-man-utd-loss-37582609",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 19:30:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd told new urgent transfer need after awful opening-day defeat to Hull City",
+      "items": [
+        {
+          "title": "Man Utd told new urgent transfer need after awful opening-day defeat to Hull City",
+          "summary": "Manchester United have been urged to add attacking reinforcements before the summer ends after they struggled during their shock loss at Hull",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-forward-signing-hargreaves-37582287",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 16:34:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick hints at new role for Bruno Fernandes as Man Utd hold future talks",
+      "items": [
+        {
+          "title": "Michael Carrick hints at new role for Bruno Fernandes as Man Utd hold future talks",
+          "summary": "Turkish giants Galatasaray were plotting a €50million (£43m) bid for Bruno Fernandes, but Manchester United have moved to open talks with him over a new contract",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-bruno-fernandes-manchester-united-37581117",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Hull City fans call out TNT Sports pundit during coverage of shock Man Utd win",
+      "items": [
+        {
+          "title": "Hull City fans call out TNT Sports pundit during coverage of shock Man Utd win",
+          "summary": "Joe Cole confessed he would be stunned if Hull City avoided relegation and their fans were happy to remind him of that during their win over Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/hull-fans-cole-man-utd-37582139",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 14:46:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Alan Shearer slams 'unfit' Man Utd and points out concern for Michael Carrick",
+      "items": [
+        {
+          "title": "Alan Shearer slams 'unfit' Man Utd and points out concern for Michael Carrick",
+          "summary": "Manchester United started their Premier League campaign with a whimper, as Michael Carrick's side fell to a woeful 2-0 defeat away to newly promoted Hull on Saturday",
+          "url": "https://www.mirror.co.uk/sport/football/news/alan-shearer-manchester-united-hull-37582029",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 14:18:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes points the blame after Hull defeat with criticism of Man Utd approach",
+      "items": [
+        {
+          "title": "Bruno Fernandes points the blame after Hull defeat with criticism of Man Utd approach",
+          "summary": "Manchester United began their Premier League campaign with a terrible performance and a 2-0 defeat by newly-promoted Hull City on Saturday, much to the annoyance of Bruno Fernandes",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-hull-man-utd-37582061",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 14:13:03 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Dismal Man Utd sent brutal reality check after opening day defeat by Hull - 5 talking points",
+      "items": [
+        {
+          "title": "Dismal Man Utd sent brutal reality check after opening day defeat by Hull - 5 talking points",
+          "summary": "HULL CITY 2-0 MANCHESTER UNITED: Newly-promoted Tigers get their Premier League campaign off to a roaring start by outplaying and easily beating an abject United side",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-hull-highlights-goals-37581575",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 13:24:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Amad absence from Man Utd squad vs Hull explained after training ground blow",
+      "items": [
+        {
+          "title": "Amad absence from Man Utd squad vs Hull explained after training ground blow",
+          "summary": "Man Utd are without Amad for their opening game of the new Premier League season as Michael Carrick's team travel to newly-promoted Hull City",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-amad-hull-city-37581447",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 10:45:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Marcus Rashford shirt number confirmed as Man Utd make JJ Gabriel decision",
+      "items": [
+        {
+          "title": "Marcus Rashford shirt number confirmed as Man Utd make JJ Gabriel decision",
+          "summary": "Marcus Rashford is likely to remain at Manchester United for the 2026-27 season after spending last term on loan at Barcelona, but he hasn't been able to reclaim his shirt number",
+          "url": "https://www.mirror.co.uk/sport/football/news/rashford-shirt-number-manchester-united-37581256",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 10:16:28 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "14 wonderkids to keep an eye on this season including Man Utd and Chelsea gems",
+      "items": [
+        {
+          "title": "14 wonderkids to keep an eye on this season including Man Utd and Chelsea gems",
+          "summary": "We're taking at look 14 wonderkids who could be about to take English football by storm",
+          "url": "https://www.mirror.co.uk/sport/football/news/wonderkids-man-utd-chelsea-liverpool-37574063",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney's new job and drastic body transformation as BBC pundit returns after surgery",
+      "items": [
+        {
+          "title": "Wayne Rooney's new job and drastic body transformation as BBC pundit returns after surgery",
+          "summary": "A new-look Wayne Rooney is all set to return to our televisions ahead of the 2026/27 Premier League season",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-motd-surgery-united-37571890",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd news: Next signing after Carlos Baleba decided as Myles Lewis-Skelly verdict reached",
+      "items": [
+        {
+          "title": "Man Utd news: Next signing after Carlos Baleba decided as Myles Lewis-Skelly verdict reached",
+          "summary": "As Manchester United prepare for their Premier League opener, there is still time for Michael Carrick to add to his squad",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-baleba-lewis-skelly-37578181",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd chances of signing Barcelona star skyrocket - Fabrizio Romano - Football365",
+      "items": [
+        {
+          "title": "Man Utd chances of signing Barcelona star skyrocket - Fabrizio Romano - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmFDSzl6VDdSd1BqZ2pQNTYzM1Q2czFlY18zUGtqdk5TWEFVLS16LUxsTHB4VGZUc2F2MmVtNWFFR01VNmRMMG9UVllFR19zM2NiRTNXQ1ktNTFrOFY0NWg5ODM1V01RWjVvYnc0ZmVxX3ZHLVNmYzNwUjZEcDVhM3B0bUs3eS1DMDNzYUVOT0pXTnJHT2QtSkw0UFZUemlJdWh1c3l3?oc=5\" target=\"_blank\">Man Utd chances of signing Barcelona star skyrocket - Fabrizio Romano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmFDSzl6VDdSd1BqZ2pQNTYzM1Q2czFlY18zUGtqdk5TWEFVLS16LUxsTHB4VGZUc2F2MmVtNWFFR01VNmRMMG9UVllFR19zM2NiRTNXQ1ktNTFrOFY0NWg5ODM1V01RWjVvYnc0ZmVxX3ZHLVNmYzNwUjZEcDVhM3B0bUs3eS1DMDNzYUVOT0pXTnJHT2QtSkw0UFZUemlJdWh1c3l3?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 12:25:29 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano: Aston Villa 'Make Call' to Sign Man Utd Forward to Replace Ollie Watkins - GiveMeSport",
+      "items": [
+        {
+          "title": "Fabrizio Romano: Aston Villa 'Make Call' to Sign Man Utd Forward to Replace Ollie Watkins - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWV2OHVTV0VfUU1mMGp0Y0J0T3Vma21JMnFxc3MwRFNfTUxfdlVjeW9mdWJIUUxELURoMjBERVJndXlKMUhsMzV2WTBvUXpvZ2ttV0ptRE81el9sME9CWW5pdG4zM2swRFlVVTdwZ3oyUkpEVm5oNWRaMlFjLWJObUF5ZUtiR1ZRVXdWQUR3?oc=5\" target=\"_blank\">Fabrizio Romano: Aston Villa 'Make Call' to Sign Man Utd Forward to Replace Ollie Watkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWV2OHVTV0VfUU1mMGp0Y0J0T3Vma21JMnFxc3MwRFNfTUxfdlVjeW9mdWJIUUxELURoMjBERVJndXlKMUhsMzV2WTBvUXpvZ2ttV0ptRE81el9sME9CWW5pdG4zM2swRFlVVTdwZ3oyUkpEVm5oNWRaMlFjLWJObUF5ZUtiR1ZRVXdWQUR3?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 07:16:37 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - TEAMtalk",
+      "items": [
+        {
+          "title": "Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWRnUm1UMlVMNWtKckdnVlJPbWotdVdoNVN6NHZBVFZHUE95NTI1WWczRTV1V1NUb0ZFTldyME81VzVOVncwZGtfVnowTUZ2TlRRVFRmRVZQdEF5ekFVZDZjWllLeHY4d2xsWFZHYnJMYmxNbHpwMzA5TTJCQkV5WGZnbmJUOHlEdUFjRC1DZVJ0VGZHV3NGWC1aQUNmZ3kxSXJVUXdsaFpQTkhWWnZMc1FJVklWYVVqNE15bEdMUTRaeTNERHc?oc=5\" target=\"_blank\">Fabrizio Romano drops ’50/50′ bombshell on stunning next Man Utd signing after Carlos Baleba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeWRnUm1UMlVMNWtKckdnVlJPbWotdVdoNVN6NHZBVFZHUE95NTI1WWczRTV1V1NUb0ZFTldyME81VzVOVncwZGtfVnowTUZ2TlRRVFRmRVZQdEF5ekFVZDZjWllLeHY4d2xsWFZHYnJMYmxNbHpwMzA5TTJCQkV5WGZnbmJUOHlEdUFjRC1DZVJ0VGZHV3NGWC1aQUNmZ3kxSXJVUXdsaFpQTkhWWnZMc1FJVklWYVVqNE15bEdMUTRaeTNERHc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 08:30:25 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano confirms major Man United transfer with ‘Here We Go’ - CaughtOffside",
+      "items": [
+        {
+          "title": "Fabrizio Romano confirms major Man United transfer with ‘Here We Go’ - CaughtOffside",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTNJbFpOS2R4WkJBamFaUDAxcm1iZWhfTVgybEhXX2lOMzZ5UW8zTks1dVBjN0pjbmhSYkJkeU9Xa2w4MGtTa2dJdzdOZ2tpRmdYbVBXdHJjczdkMzZpOVVYZ0lqSDdGaE9KTGZMdEw0bnBvLWMtS2s2dGRVOV9ndWdLSmo2QlRDZEFLdFJ6RGlnVFktdUp4Q2xhOHhmNzRVV1HSAacBQVVfeXFMTk1GTDkzVmIwOHRiWl94NWp6enVBeUo3eEFIaGl4Y25wTDNROUhHVGhwMjVFcGp4bFlrX0U1cGhkNnNQdTQyVDBiZ1pfbGVwYVlpNS1ueTMwTjF4eW1BLUxuTDZ5MWpGNldXdVkxZEVmbkJnWXllWmoxTmtPOUVmQTFsYUZjOVVDTDUxYkUwZWdGUi1Bbi12dm9SVzllZkRfbnROaGswWGM?oc=5\" target=\"_blank\">Fabrizio Romano confirms major Man United transfer with ‘Here We Go’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CaughtOffside</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMTNJbFpOS2R4WkJBamFaUDAxcm1iZWhfTVgybEhXX2lOMzZ5UW8zTks1dVBjN0pjbmhSYkJkeU9Xa2w4MGtTa2dJdzdOZ2tpRmdYbVBXdHJjczdkMzZpOVVYZ0lqSDdGaE9KTGZMdEw0bnBvLWMtS2s2dGRVOV9ndWdLSmo2QlRDZEFLdFJ6RGlnVFktdUp4Q2xhOHhmNzRVV1HSAacBQVVfeXFMTk1GTDkzVmIwOHRiWl94NWp6enVBeUo3eEFIaGl4Y25wTDNROUhHVGhwMjVFcGp4bFlrX0U1cGhkNnNQdTQyVDBiZ1pfbGVwYVlpNS1ueTMwTjF4eW1BLUxuTDZ5MWpGNldXdVkxZEVmbkJnWXllWmoxTmtPOUVmQTFsYUZjOVVDTDUxYkUwZWdGUi1Bbi12dm9SVzllZkRfbnROaGswWGM?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 22:42:35 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd reach shock decision on Lewis Hall transfer after INEOS enter bidding for sixth signing - Football365",
+      "items": [
+        {
+          "title": "Man Utd reach shock decision on Lewis Hall transfer after INEOS enter bidding for sixth signing - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWtqdVFsTVJZTTAycUxOd0NiSUxobU1KOTdickFTS2VTSWkzSVhRYzVMcGVQa0RFWmI0eUIzM05mYUFSem9OWnVkNWZjOHMzVENNQUlUdnp5T01KdmN0VDNjendybTZuWDdGSlF1ZlBtRGZqdHpfOW1LS1pYMFh0Z3VENGpITzNaUGs2M3dMY2VjbGlxa0E?oc=5\" target=\"_blank\">Man Utd reach shock decision on Lewis Hall transfer after INEOS enter bidding for sixth signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWtqdVFsTVJZTTAycUxOd0NiSUxobU1KOTdickFTS2VTSWkzSVhRYzVMcGVQa0RFWmI0eUIzM05mYUFSem9OWnVkNWZjOHMzVENNQUlUdnp5T01KdmN0VDNjendybTZuWDdGSlF1ZlBtRGZqdHpfOW1LS1pYMFh0Z3VENGpITzNaUGs2M3dMY2VjbGlxa0E?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 07:49:25 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Transfer rumors, news: Man United looking at move for Barça's Balde - espn.in",
+      "items": [
+        {
+          "title": "Transfer rumors, news: Man United looking at move for Barça's Balde - espn.in",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHdmRVFEdDloaWxlMGExRHpiS3BmMjVRdy1VdVdNSFJGRlFIRUxNR3Jwa0h5bWtfZ1RrWVZkSGltT25JRmZ6eFI4N21CT0lrWEJtMnJmUWFEX3otRkNGLXZlV25mZDhOR0NNMDlaYzFtSkcyOEhrbUdlVkNkMVRWWlhrcmdzYzhKNk5FZnkyX2JiZmpzVjl2b0QzYTBqVWlBYnFpV3hKaXlhN1hmUEVzdlhuYmUyMUMzbkpaR0xwRjc?oc=5\" target=\"_blank\">Transfer rumors, news: Man United looking at move for Barça's Balde</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">espn.in</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSHdmRVFEdDloaWxlMGExRHpiS3BmMjVRdy1VdVdNSFJGRlFIRUxNR3Jwa0h5bWtfZ1RrWVZkSGltT25JRmZ6eFI4N21CT0lrWEJtMnJmUWFEX3otRkNGLXZlV25mZDhOR0NNMDlaYzFtSkcyOEhrbUdlVkNkMVRWWlhrcmdzYzhKNk5FZnkyX2JiZmpzVjl2b0QzYTBqVWlBYnFpV3hKaXlhN1hmUEVzdlhuYmUyMUMzbkpaR0xwRjc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 23:54:10 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano confirms Aston Villa ‘call’ for Man Utd star as Al-Hilal continue bidding for Watkins - Football365",
+      "items": [
+        {
+          "title": "Romano confirms Aston Villa ‘call’ for Man Utd star as Al-Hilal continue bidding for Watkins - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTdvNGxiM0xsYy1KcDA5SWMyWm1UOGVFV2pCUTZZdmtKMUw2UkhjeDVxVUY4UDN2V3diOWlHTS13SThlaVRyTV9JUnlzekVMQ1R3TDZsV1lUeW9QTjFHR0tIUGlxdUVjbjh3TVAyLXJUWF9YbHhXRUg0bnMtT1dqMFJ0cEtVUFAzM1VNZ1RHei03UVk?oc=5\" target=\"_blank\">Romano confirms Aston Villa ‘call’ for Man Utd star as Al-Hilal continue bidding for Watkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOTdvNGxiM0xsYy1KcDA5SWMyWm1UOGVFV2pCUTZZdmtKMUw2UkhjeDVxVUY4UDN2V3diOWlHTS13SThlaVRyTV9JUnlzekVMQ1R3TDZsV1lUeW9QTjFHR0tIUGlxdUVjbjh3TVAyLXJUWF9YbHhXRUg0bnMtT1dqMFJ0cEtVUFAzM1VNZ1RHei03UVk?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 09:59:23 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jacobs confirms fourth Man Utd midfield signing after Romano gives Baleba update - Football365",
+      "items": [
+        {
+          "title": "Jacobs confirms fourth Man Utd midfield signing after Romano gives Baleba update - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOG1aaFFacnNRRTZYU2lhYkpoVGZsd0Y1Z1p1TVJweTAxWWFBQUNDRUk3UkowUFBnTjh0TjNDM2ZZVHZsZ0xmT3YyM2pZUDl2WU5xN25SMWRKSnZfNGN0OTFtekpNUkhia3ZfNjhNcWstcUlnRER0TGVJRi05LWpKVjdUUkNNams0U19abDZGZkZLU05BakxIdnFUYjNINVZ1ZEd3?oc=5\" target=\"_blank\">Jacobs confirms fourth Man Utd midfield signing after Romano gives Baleba update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOG1aaFFacnNRRTZYU2lhYkpoVGZsd0Y1Z1p1TVJweTAxWWFBQUNDRUk3UkowUFBnTjh0TjNDM2ZZVHZsZ0xmT3YyM2pZUDl2WU5xN25SMWRKSnZfNGN0OTFtekpNUkhia3ZfNjhNcWstcUlnRER0TGVJRi05LWpKVjdUUkNNams0U19abDZGZkZLU05BakxIdnFUYjNINVZ1ZEd3?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 21 Aug 2026 07:23:49 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd deal for Baleba highlights new disciplined transfer approach, says Ornstein - TNT Sports",
+      "items": [
+        {
+          "title": "Man Utd deal for Baleba highlights new disciplined transfer approach, says Ornstein - TNT Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxQNmp5UU1qX3dPTDcxMTl0RmNvOUxfQU44YmI5TWxBVkFHYXJIUnNxOVJGSkY5WWJJc3FkNXh6U1RMMW4zRmJMcEwwXy1LUjk4ZTRlUW80SXE1ZWhRa1p1aEZoSkc3RFQwUE9sejV1c1ZQS2YxVW9fVjg5R0F2ZUluSmNTc1RKZ3ZueWxZMTVoWTcxODZBTUwwN2I1anFJUXFidEFDREhOYzY5eEpsREZoZmtzeHhwM3hrR1NsWnBlT01MMnh4Ry11NlozUmtMZDhIdzdiM3Izb0stdXJDd1dRc1ZtZzlJbnp2ZzVqSzVoX0l6Z2w5TzlsRjE5SjZLWlBWVWpEVWZqbmhHdDM5S0cySHRR?oc=5\" target=\"_blank\">Man Utd deal for Baleba highlights new disciplined transfer approach, says Ornstein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TNT Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNmp5UU1qX3dPTDcxMTl0RmNvOUxfQU44YmI5TWxBVkFHYXJIUnNxOVJGSkY5WWJJc3FkNXh6U1RMMW4zRmJMcEwwXy1LUjk4ZTRlUW80SXE1ZWhRa1p1aEZoSkc3RFQwUE9sejV1c1ZQS2YxVW9fVjg5R0F2ZUluSmNTc1RKZ3ZueWxZMTVoWTcxODZBTUwwN2I1anFJUXFidEFDREhOYzY5eEpsREZoZmtzeHhwM3hrR1NsWnBlT01MMnh4Ry11NlozUmtMZDhIdzdiM3Izb0stdXJDd1dRc1ZtZzlJbnp2ZzVqSzVoX0l6Z2w5TzlsRjE5SjZLWlBWVWpEVWZqbmhHdDM5S0cySHRR?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Sat, 22 Aug 2026 11:37:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "(Videos): Hull City score twice to shock Man U in first major upset of the Premier League season",
+      "items": [
+        {
+          "title": "(Videos): Hull City score twice to shock Man U in first major upset of the Premier League season",
+          "summary": "<p>Hull City have beaten 2-0 Manchester United in the first big shock of the Premier League season. If you enjoy CaughtOffside coverage and want to see more of it, add us as a preferred source on Google to make us a favourite and see more of our content. The Premier League season started last night [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/22/hull-city-score-twice-man-u-massive-upset/\">(Videos): Hull City score twice to shock Man U in first major upset of the Premier League season</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/22/hull-city-score-twice-man-u-massive-upset/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 22 Aug 2026 13:45:27 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvj9ar/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvj9ar/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvj9ar/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T18:01:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "DdG: It's not how it starts, it's how it ends.",
+      "items": [
+        {
+          "title": "DdG: It's not how it starts, it's how it ends.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvdqy1/ddg_its_not_how_it_starts_its_how_it_ends/\"> <img alt=\"DdG: It's not how it starts, it's how it ends.\" src=\"https://preview.redd.it/szgc82jarxkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c3c7327b15bda769cd61bf7de21049c027ec9ff\" title=\"DdG: It's not how it starts, it's how it ends.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/szgc82jarxkh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvdqy1/ddg_its_not_how_it_starts_its_how_it_ends/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvdqy1/ddg_its_not_how_it_starts_its_how_it_ends/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T14:22:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford on IG: “After 618 days, I'm back playing with United. I wish the result were better, but it's something we can improve on.”",
+      "items": [
+        {
+          "title": "Marcus Rashford on IG: “After 618 days, I'm back playing with United. I wish the result were better, but it's something we can improve on.”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvh246/marcus_rashford_on_ig_after_618_days_im_back/\"> <img alt=\"Marcus Rashford on IG: “After 618 days, I'm back playing with United. I wish the result were better, but it's something we can improve on.”\" src=\"https://preview.redd.it/iz44byw3fykh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f46094c08772318ea73888f174b90a0404471950\" title=\"Marcus Rashford on IG: “After 618 days, I'm back playing with United. I wish the result were better, but it's something we can improve on.”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Baroninthehood\"> /u/Baroninthehood </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1vvh246\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvh246/marcus_rashford_on_ig_after_618_days_im_back/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvh246/marcus_rashford_on_ig_after_618_days_im_back/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T16:35:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Shockingly poor performance by United. Slow, lacking in movement or inventiveness, loose passing, erratic set-piece defending. Hull so much more urgent. United played with the speed of a pre-season friendly.",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Shockingly poor performance by United. Slow, lacking in movement or inventiveness, loose passing, erratic set-piece defending. Hull so much more urgent. United played with the speed of a pre-season friendly.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvcm2h/laurie_whitwell_shockingly_poor_performance_by/\"> <img alt=\"[Laurie Whitwell] Shockingly poor performance by United. Slow, lacking in movement or inventiveness, loose passing, erratic set-piece defending. Hull so much more urgent. United played with the speed of a pre-season friendly.\" src=\"https://preview.redd.it/djh3quooixkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3dc611d8e28030385c6b0bdfe06ffcebabf1b5e7\" title=\"[Laurie Whitwell] Shockingly poor performance by United. Slow, lacking in movement or inventiveness, loose passing, erratic set-piece defending. Hull so much more urgent. United played with the speed of a pre-season friendly.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/djh3quooixkh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvcm2h/laurie_whitwell_shockingly_poor_performance_by/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvcm2h/laurie_whitwell_shockingly_poor_performance_by/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T13:34:46+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes: \"Same mistakes we did last season every away game. We give the ball away too much. The goalkeeper had too much time on the ball in the beginning of the game. We have to press a bit more... We need to work on set plays.\"",
+      "items": [
+        {
+          "title": "Bruno Fernandes: \"Same mistakes we did last season every away game. We give the ball away too much. The goalkeeper had too much time on the ball in the beginning of the game. We have to press a bit more... We need to work on set plays.\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vveouu/bruno_fernandes_same_mistakes_we_did_last_season/\"> <img alt=\"Bruno Fernandes: &quot;Same mistakes we did last season every away game. We give the ball away too much. The goalkeeper had too much time on the ball in the beginning of the game. We have to press a bit more... We need to work on set plays.&quot;\" src=\"https://external-preview.redd.it/cWQ0MnZwaHp0eGtoMaEL-XFPV2viCnQoqpMpeZQRdklzCs4HVKSrZlCGnemQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=735160e80210477a42a4c9794c0d91656b1ef8be\" title=\"Bruno Fernandes: &quot;Same mistakes we did last season every away game. We give the ball away too much. The goalkeeper had too much time on the ball in the beginning of the game. We have to press a bit more... We need to work on set plays.&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rbascb\"> /u/rbascb </a> <br /> <span><a href=\"https://www.reddit.com/r/soccer/comments/1vve50h/bruno_fernandes_same_mistakes_we_did_last_season/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vveouu/bruno_fernandes_same_mistakes_we_did_last_season/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vveouu/bruno_fernandes_same_mistakes_we_did_last_season/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T15:01:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Woeful opening game for MUFC. Battered and bullied, slow and soporific. MUFC didn't look like scoring. Hull City well worth their 2-0 win. (Andy Mitten on Twitter)",
+      "items": [
+        {
+          "title": "Woeful opening game for MUFC. Battered and bullied, slow and soporific. MUFC didn't look like scoring. Hull City well worth their 2-0 win. (Andy Mitten on Twitter)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvd33g/woeful_opening_game_for_mufc_battered_and_bullied/\"> <img alt=\"Woeful opening game for MUFC. Battered and bullied, slow and soporific. MUFC didn't look like scoring. Hull City well worth their 2-0 win. (Andy Mitten on Twitter)\" src=\"https://preview.redd.it/5vpng22dmxkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fba6f7077ddca5ddf4cd1ed52ccf432ad6b684df\" title=\"Woeful opening game for MUFC. Battered and bullied, slow and soporific. MUFC didn't look like scoring. Hull City well worth their 2-0 win. (Andy Mitten on Twitter)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dracogladio1741\"> /u/dracogladio1741 </a> <br /> <span><a href=\"https://i.redd.it/5vpng22dmxkh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvd33g/woeful_opening_game_for_mufc_battered_and_bullied/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvd33g/woeful_opening_game_for_mufc_battered_and_bullied/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T13:54:50+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Statman Dave] Man Utd crossed the ball 39 times against Hull City, 14 more than they have attempted in any game under Micheal Carrick.",
+      "items": [
+        {
+          "title": "[Statman Dave] Man Utd crossed the ball 39 times against Hull City, 14 more than they have attempted in any game under Micheal Carrick.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvctro/statman_dave_man_utd_crossed_the_ball_39_times/\"> <img alt=\"[Statman Dave] Man Utd crossed the ball 39 times against Hull City, 14 more than they have attempted in any game under Micheal Carrick.\" src=\"https://preview.redd.it/hr4q8dndkxkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1679cc13946dfe7233a42f51cd52deb6cd7545e0\" title=\"[Statman Dave] Man Utd crossed the ball 39 times against Hull City, 14 more than they have attempted in any game under Micheal Carrick.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/IXRaven\"> /u/IXRaven </a> <br /> <span><a href=\"https://i.redd.it/hr4q8dndkxkh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvctro/statman_dave_man_utd_crossed_the_ball_39_times/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvctro/statman_dave_man_utd_crossed_the_ball_39_times/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T13:43:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "\"When they went for him last season, the price was Moisés Caicedo levels.\" David Ornstein reveals how Man United finally got their deal for Carlos Baleba done, and what it says about their new approach in the transfer market.",
+      "items": [
+        {
+          "title": "\"When they went for him last season, the price was Moisés Caicedo levels.\" David Ornstein reveals how Man United finally got their deal for Carlos Baleba done, and what it says about their new approach in the transfer market.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vv9dtj/when_they_went_for_him_last_season_the_price_was/\"> <img alt=\"&quot;When they went for him last season, the price was Moisés Caicedo levels.&quot; David Ornstein reveals how Man United finally got their deal for Carlos Baleba done, and what it says about their new approach in the transfer market.\" src=\"https://external-preview.redd.it/b2UydnVoZXNxd2toMfAtEeFBLTi7fhfV99E67g8SD_TvpgI_YPILmoqJ4w0X.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=72705332e7cb23fba79d953397db52f2eda297e6\" title=\"&quot;When they went for him last season, the price was Moisés Caicedo levels.&quot; David Ornstein reveals how Man United finally got their deal for Carlos Baleba done, and what it says about their new approach in the transfer market.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/5sxzwtdsqwkh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv9dtj/when_they_went_for_him_last_season_the_price_was/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv9dtj/when_they_went_for_him_last_season_the_price_was/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T10:59:46+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[@ManUtd] 🔐 Locked in. Our 2026/27 #PL squad numbers have been revealed... 👀",
+      "items": [
+        {
+          "title": "[@ManUtd] 🔐 Locked in. Our 2026/27 #PL squad numbers have been revealed... 👀",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vv7u1y/manutd_locked_in_our_202627_pl_squad_numbers_have/\"> <img alt=\"[@ManUtd] 🔐 Locked in. Our 2026/27 #PL squad numbers have been revealed... 👀\" src=\"https://preview.redd.it/sdie7qvhbwkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f92533d837d07ea3f0c9dc0838f9dd68876e293\" title=\"[@ManUtd] 🔐 Locked in. Our 2026/27 #PL squad numbers have been revealed... 👀\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/sdie7qvhbwkh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv7u1y/manutd_locked_in_our_202627_pl_squad_numbers_have/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv7u1y/manutd_locked_in_our_202627_pl_squad_numbers_have/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T09:32:25+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carrick Post Match: ‘One game doesn't change our direction'",
+      "items": [
+        {
+          "title": "Carrick Post Match: ‘One game doesn't change our direction'",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Michael Carrick, Manchester United boss, speaking to TNT Sports post-match:</strong> &quot;We have a bit to improve on, it was never going to be perfect going behind makes it more difficult, against a promoted team at home, we can't give them much and they had opportunities, we're disappointed but it won't knock us.&quot;</p> <p><strong>On what areas need improvement:</strong> &quot;It's for us to know and to improve during the week and keep getting stronger as a group and we have a lot to learn from it.&quot;</p> <p><strong>On conceded goals:</strong> &quot;Two goals is frustrating anyway, they decide the game today and there's things to improve on, one game doesn't change the direction of everything. It doesn't change the direction of the football club.&quot;</p> <p><strong>On potential signing Carlos Baleba:</strong> &quot;I had all eyes on this today so any other player, until he's ours, it's not for me to comment on.&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/The-Black-Angel\"> /u/The-Black-Angel </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvdc9s/carrick_post_match_one_game_doesnt_change_our/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvdc9s/carrick_post_match_one_game_doesnt_change_our/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvdc9s/carrick_post_match_one_game_doesnt_change_our/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T14:05:21+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Passing Network against Hull City",
+      "items": [
+        {
+          "title": "Passing Network against Hull City",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvedxk/passing_network_against_hull_city/\"> <img alt=\"Passing Network against Hull City\" src=\"https://preview.redd.it/llkg4ke1wxkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=955cc4323421b4513f4b3e209b353ea94f1af195\" title=\"Passing Network against Hull City\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://i.redd.it/llkg4ke1wxkh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvedxk/passing_network_against_hull_city/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvedxk/passing_network_against_hull_city/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T14:49:03+00:00"
+        },
+        {
+          "title": "[Opta] xG Map against Hull City",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvsbdh/opta_xg_map_against_hull_city/\"> <img alt=\"[Opta] xG Map against Hull City\" src=\"https://preview.redd.it/vk3gjenhp0lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=062b54ddebd5172b9a9dd5868aacb3b0b88b8b07\" title=\"[Opta] xG Map against Hull City\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://theanalyst.com/articles/hull-city-vs-manchester-united-stats-premier-league-08-2026\">https://theanalyst.com/articles/hull-city-vs-manchester-united-stats-premier-league-08-2026</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://i.redd.it/vk3gjenhp0lh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvsbdh/opta_xg_map_against_hull_city/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvsbdh/opta_xg_map_against_hull_city/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-23T00:17:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Simon Peach] Amad Diallo absent for #MUFC with a niggle picked up at the end of the week. Club hoping he will be back fairly soon but still being assessed",
+      "items": [
+        {
+          "title": "[Simon Peach] Amad Diallo absent for #MUFC with a niggle picked up at the end of the week. Club hoping he will be back fairly soon but still being assessed",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vv8zwt/simon_peach_amad_diallo_absent_for_mufc_with_a/\"> <img alt=\"[Simon Peach] Amad Diallo absent for #MUFC with a niggle picked up at the end of the week. Club hoping he will be back fairly soon but still being assessed\" src=\"https://preview.redd.it/quwm5c0cnwkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5c823445e94c1f3c1ce3dfad50800e81222d455\" title=\"[Simon Peach] Amad Diallo absent for #MUFC with a niggle picked up at the end of the week. Club hoping he will be back fairly soon but still being assessed\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/quwm5c0cnwkh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv8zwt/simon_peach_amad_diallo_absent_for_mufc_with_a/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv8zwt/simon_peach_amad_diallo_absent_for_mufc_with_a/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T10:38:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Simon Stone: No Amad in @ManUtd travelling squad today. No Mason Mount. Benjamin Sesko is here.",
+      "items": [
+        {
+          "title": "Simon Stone: No Amad in @ManUtd travelling squad today. No Mason Mount. Benjamin Sesko is here.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vv8dal/simon_stone_no_amad_in_manutd_travelling_squad/\"> <img alt=\"Simon Stone: No Amad in @ManUtd travelling squad today. No Mason Mount. Benjamin Sesko is here.\" src=\"https://preview.redd.it/qknlnxfzgwkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=933f4ff8a59d5eb17440169d40f314d6552bbca9\" title=\"Simon Stone: No Amad in @ManUtd travelling squad today. No Mason Mount. Benjamin Sesko is here.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/qknlnxfzgwkh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv8dal/simon_stone_no_amad_in_manutd_travelling_squad/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv8dal/simon_stone_no_amad_in_manutd_travelling_squad/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T10:03:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick reflects on Man United's opening day defeat to Hull",
+      "items": [
+        {
+          "title": "Michael Carrick reflects on Man United's opening day defeat to Hull",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvdn6v/michael_carrick_reflects_on_man_uniteds_opening/\"> <img alt=\"Michael Carrick reflects on Man United's opening day defeat to Hull\" src=\"https://external-preview.redd.it/D-Ysq4-J32-V2e1CtUMybfzQnQjufkaozu8uX_Lbsjo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a5e5379f2ffd6d04723d6ddc6c9a532cfd89e8c8\" title=\"Michael Carrick reflects on Man United's opening day defeat to Hull\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=HNhcn6Z6o1Y\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvdn6v/michael_carrick_reflects_on_man_uniteds_opening/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvdn6v/michael_carrick_reflects_on_man_uniteds_opening/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T14:18:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "United 2026-2027 Season Preview by Aditya Reds",
+      "items": [
+        {
+          "title": "United 2026-2027 Season Preview by Aditya Reds",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vv5s6y/united_20262027_season_preview_by_aditya_reds/\"> <img alt=\"United 2026-2027 Season Preview by Aditya Reds\" src=\"https://external-preview.redd.it/d3l3NWU4cWdwdmtoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe8f5dfa052a00b9792b1cfd575880c98ca4d5eb\" title=\"United 2026-2027 Season Preview by Aditya Reds\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://v.redd.it/cj1is4qgpvkh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv5s6y/united_20262027_season_preview_by_aditya_reds/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv5s6y/united_20262027_season_preview_by_aditya_reds/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T07:29:47+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Full time Match Stats - Hull v United",
+      "items": [
+        {
+          "title": "Full time Match Stats - Hull v United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vvcj9f/full_time_match_stats_hull_v_united/\"> <img alt=\"Full time Match Stats - Hull v United\" src=\"https://preview.redd.it/brik6flshxkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb433fc02d6fb008db6d06b63370c397ce04f8bc\" title=\"Full time Match Stats - Hull v United\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/brik6flshxkh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vvcj9f/full_time_match_stats_hull_v_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vvcj9f/full_time_match_stats_hull_v_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T13:31:20+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Dawson: Amad not in the squad today because of injury.",
+      "items": [
+        {
+          "title": "Dawson: Amad not in the squad today because of injury.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1vv8v9p/dawson_amad_not_in_the_squad_today_because_of/\"> <img alt=\"Dawson: Amad not in the squad today because of injury.\" src=\"https://preview.redd.it/i0hdsvuzlwkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c408220b284c16d2a86532aa01a58e81dcfa2744\" title=\"Dawson: Amad not in the squad today because of injury.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/i0hdsvuzlwkh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1vv8v9p/dawson_amad_not_in_the_squad_today_because_of/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1vv8v9p/dawson_amad_not_in_the_squad_today_because_of/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-22T10:31:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 80,
+    "story_count": 54
+  }
+}
