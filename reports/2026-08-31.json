@@ -1,0 +1,1122 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T06:45:55.891334+00:00",
+  "match_data": {
+    "collected_at": "2026-08-31T06:45:51.148884+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Michael Carrick and Bruno Fernandes after a 5-2 win over Ipswich at Old Trafford.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p749rl?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 30 Aug 2026 18:18:00 GMT"
+        },
+        {
+          "title": "Manchester United's next transfer could shape their short-term strategy",
+          "summary": "Man United have just two days remaining before the transfer window closes, and there is still business that needs to be completed",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-uniteds-next-transfer-could-34542101",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 06:00:00 +0000"
+        },
+        {
+          "title": "Manchester United led out by A66 police officer's sons in incredibly emotional scenes at Old Trafford",
+          "summary": "Two police officers were killed in the crash on the A66",
+          "url": "https://www.manchestereveningnews.co.uk/incoming/manchester-united-led-out-a66-34543990",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 05:27:54 +0000"
+        },
+        {
+          "title": "What Marcus Rashford has done to impress Michael Carrick after Manchester United return",
+          "summary": "Marcus Rashford made his first start for Man Utd since December 2024 and was impressive as Michael Carrick's side beat Ipswich 5-2 at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-marcus-rashford-done-impress-34543402",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Manchester United vs Ipswich Town highlights and reaction as Fernandes stars in seven-goal thriller",
+          "summary": "Manchester United have beaten Ipswich Town to get off the mark in the Premier League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-vs-ipswich-live-34524083",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 19:31:03 +0000"
+        },
+        {
+          "title": "'Wouldn't shut that down' - Manchester United transfer stance ahead of deadline day",
+          "summary": "Man Utd have made four first-team signings this summer and with two days of the window to go they are open to making another addition.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/wouldnt-shut-down-manchester-united-34543267",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 18:59:19 +0000"
+        },
+        {
+          "title": "The \"immense\" Manchester United star who went under the radar amid Bruno Fernandes heroics",
+          "summary": "Bruno Fernandes was the hero for Man Utd as he scored a hat-trick in the 5-2 win against Ipswich at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/immense-manchester-united-star-who-34543263",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 18:37:35 +0000"
+        },
+        {
+          "title": "'We knew' - Harry Maguire hails five-star Manchester United response to Hull 'crisis'",
+          "summary": "Manchester United bounced back from the opening day defeat to Hull City with a 5-2 victory over Ipswich Town at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/we-knew-harry-maguire-hails-34543330",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 18:33:14 +0000"
+        },
+        {
+          "title": "Bruno Fernandes explains what Manchester United win over Ipswich means - 'massive'",
+          "summary": "Manchester United returned to winning ways against Ipswich Town as they ran out 5-2 winners at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-explains-what-manchester-34543290",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 18:10:55 +0000"
+        },
+        {
+          "title": "Manchester United have the best player in the Premier League - and their rivals know it",
+          "summary": "Man Utd got their Premier League campaign up and running with a 5-2 win against Ipswich at Old Trafford, with Bruno Fernandes scoring another hat-trick.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-best-player-premier-34542608",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 17:45:31 +0000"
+        },
+        {
+          "title": "Manchester United player ratings vs Ipswich as Bruno Fernandes sensational and two others star",
+          "summary": "Man Utd bounced back from defeat at Hull to beat Ipswich 5-2 at Old Trafford on a day when Bruno Fernandes again took centre stage.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34542584",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 17:27:43 +0000"
+        },
+        {
+          "title": "Michael Carrick hails Manchester United’s grit after rout of Ipswich",
+          "summary": "<ul><li><p>Fernandes fires hat-trick as United enjoy home win</p></li><li><p>‘The way they bounced back, that’s the biggest thing’</p></li></ul><p>A delighted Michael Carrick praised how Manchester United bounced back from the opening-weekend defeat at Hull with their 5-2 rout of Ipswich.</p><p>Bruno Fernandes’s hat-trick, scored in the 40th, 61st and 68th minutes, ensured United’s comeback win after Leif Davis’s opener. A Jacob Greaves own goal after 56 minutes and Bryan Mbeumo’s 82nd-minute strike completed the home scoring, Chuka Akpom’s added-time finish giving Ipswich their second.</p> <a href=\"https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/30/michael-carrick-manchester-united-ipswich-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 20:25:19 GMT"
+        },
+        {
+          "title": "Marcus Rashford’s Manchester United return feels like a marriage of convenience | Will Unwin",
+          "summary": "<p>A lack of offers and problems in finding a replacement may be behind the move, but that does not mean it cannot work</p><p>The first chant of the match was for Marcus&nbsp;Rashford, Manchester United’s returning rogue son, the one banished for 18&nbsp;months, first to the Midlands and then Catalonia. Every football fan loves an academy product who has risen up the ranks, from scrawny child to getting 76,000 off their seats. Rashford is one of these, living out the dream of everyone inside Old Trafford and they are willing to forgive but want something in return.</p><p>Not since 7 December 2024 has Rashford been seen in red at Old Trafford. Then it was as a substitute forlornly trying to turn things around in an eventual 3-2 defeat by Nottingham Forest. His relationship with Ruben Amorim was already deteriorating, the second head coach to have become irritated with Rashford. After loans with Aston Villa and Barcelona, everyone is surprised to see him back; it feels like a marriage of convenience because of a lack of offers and securing a replacement was deemed complex.</p> <a href=\"https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/30/marcus-rashford-manchester-united-return-old-trafford",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 19:45:41 GMT"
+        },
+        {
+          "title": "Manchester United 5-2 Ipswich Town: Premier League –as it happened",
+          "summary": "<ul><li><p>Premier League updates from the 4.30pm (BST) kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"mailto:tim.delisle.casual@theguardian.com\">Mail Tim</a> and follow us over on <a href=\"https://bsky.app/profile/sport.theguardian.com\">Bluesky</a></p></li></ul><p><strong>Out come the players, some of them holding babes in arms</strong> – including Marcus Rashford, who has a big smile on his face.</p><p><strong>The first email of the afternoon comes from Dave.</strong> “Hi Tim, loving the MBM.” Thanks! “Just wondered if there’s any insight into why Sesko seems to find it so hard to get a start.”</p> <a href=\"https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/aug/30/manchester-united-v-ipswich-town-premier-league-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 17:55:52 GMT"
+        },
+        {
+          "title": "Fernandes fires hat-trick as Manchester United fight back to thrash Ipswich",
+          "summary": "<p>To follow the claiming of both the major footballer of the year awards by scoring a hat-trick in Manchester United’s first home game was some Bruno Fernandes act, and points to an intent to continue his stellar form of last season.</p><p>Ipswich came to scythe through Michael Carrick’s side via the pace of Julio Enciso, Abdul Fatawu and Daizen Maeda, and when Leif Davis gave them a 29th-minute lead victory looked on. However, the contest turned with Marcelino Núñez’s slip as the break neared. Suddenly Fernandes was rifling in a left-foot bullet and from this point on United cuffed Gary O’Neil’s team aside.</p> <a href=\"https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 17:46:59 GMT"
+        },
+        {
+          "title": "Post Match Thread: Manchester United 5-2 Ipswich Town | PL MD2",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 5-2 Ipswich Town | Premier League Matchday 2</h1> <p>Goal Scorers United : Bruno Fernandes 40', 61' (PEN), 68'; Jacob Greaves 56' (OG), Bryan Mbeumo 83'</p> <p>Goal Scorers Ipswich: Leif Davis 29‎'‎, Chuba Akpom 90+1'</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Venue:</strong> Old Trafford</p> <p><sup>\\</sup>___________________________)</p> <p><strong>LINE-UPS</strong></p> <p><strong>Manchester United</strong></p> <p>Senne Lammens; Diogo Dalot, Harry Maguire, Lisandro Martinez, Luke Shaw; Kobbie Mainoo, Youri Tielemans; Bryan Mbeumo, Bruno Fernandes (c), Marcus Rashford; Matheus Cunha.</p> <p><strong>Subs:</strong> Karl Darlow, Noussair Mazraoui, Patrick Dorgu, Lenny Yoro, Ayden Heaven, Andrey Santos, Joshua Zirkzee, Benjamin Sesko, Shea Lacey.</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Ipswich Town</strong></p> <p>Kjell Scherpen; Leif Davis, Jacob Greaves, Issa Diop, Dara O'Shea; Sasa Lukic, Marcelino Nunez; Daizen Maeda, Julio Enciso, Abdul Fatawu; Emersonn.</p> <p><strong>Subs:</strong> Darnell Furlong, Cedric Kipre, Sindre Egeli, Kasey McAteer, Exequiel Palacios, Christian Walton, Chuba Akpom, Abdoul Ouattara, Jack Clarke.</p> <p><sup>\\</sup>___________________________)</p> <p><strong>MATCH EVENTS</strong></p> <p>1' Ipswich Town get the match under way from the kick-off!</p> <p>7' After receiving Cunha’s pass forward, Rashford again cuts inside with intent ahead of O’Shea and opts against feeding the ball to the byline for Shaw, instead attempting to work room for a shot. With the Ipswich Town defence closing down, the winger lays the ball back to Cunha, whose first-time shot from just outside the 18-yard box fails to hit the target.</p> <p>13' FANTASTIC SAVE! Rashford’s cross towards the penalty spot is glanced away by the defence but settled at the back post by Mbeumo, who takes a touch before laying it back to the edge of the area for Dalot. Looking to work a bit of space, the full-back skilfully steps inside in front of Fatawu and hammers a curling left-footed effort towards the top corner that’s palmed over the bar by the physically imposing Scherpen!</p> <p>15' CHANCES AT EITHER END! Manchester United’s ensuing corner is cleared easily by the Ipswich defence, who release the rapid Enciso on the counter-attack. In the opposition’s half ahead of both the lagging Shaw and Mbeumo, the Paraguay international draws Lammens off his line, but the goalkeeper makes the save with his legs to keep the scores level! The action at one end leads to an opportunity at the other as Carrick’s side come back the other way through Cunha, who frees himself down the left before teasing a centring ball to Rashford that’s missed by the England international despite a desperate slide!</p> <p>23' GOOD SAVE! Davis’ incisive pass between the full-back and centre-back allows Maeda to beat Dalot in the race for the ball before hitting a left-footed effort towards the far post that’s tipped round the post and behind for a corner by the fingertips of Lammens!</p> <p><strong>29' Goal! Manchester United 0 - Ipswich Town 1. Leif Davis (Ipswich Town) left footed shot from the centre of the box to the high centre of the goal. Assisted by Abdul Fatawu.</strong></p> <p>31' DAVIS AGAIN! Fatawu gets a few touches of the ball ahead of Shaw on the corner of the Manchester United penalty area and leans back before delivering a back-post cross for the perfectly timed run of Davis, who pops up and attempts a similar finish from closer distance - only to be denied by the raised arm of Lammens!</p> <p><strong>33' Yellow Card Sasa Lukic</strong> Not his first foul of the game, Lukic draws the attention of the referee again for a rather unnecessary foul on Tielemans - stretching across the front of the midfielder to take him down with no chance of winning the ball - which earns the Ipswich Town player the game’s first yellow card.</p> <p><strong>37' Yellow Card Abdul Fatawu</strong> A heavy challenge inside the centre-circle leaves a pair of players on the ground and Craig Pawson with some sorting out to do, as Fatawu’s heavy touch leads him into a rash challenge on the arriving Mbeumo. Thankfully, the two are able to get back to their feet after taking a moment to gather himself, and the yellow card eventually arrives for the Ipswich Town winger.</p> <p><strong>40' Goal Manchester United 1 - Ipswich Town</strong> <strong>1. Bruno Miguel Borges Fernandes</strong> FERNANDES TO THE RESCUE! 1-1! Looking to keep possession after Davis’ long throw into the area is headed away by Dalot, Nunez slips ahead of Cunha, with only Lukic back inside Ipswich Town’s half. The midfielder does his best to try and cover the space, but the Brazil international charges forward before timing a perfect pass through the lines for Fernandes, who takes the ball wide before slamming a finish past Scherpen from a tight angle!</p> <p>Cunha picks up the assist on Manchester United’s first goal of the season, unselfishly playing an unmarked Fernandes through on goal with a well-weighted pass.</p> <p>42' Tielemans receives Mainoo’s pass inside Ipswich Town’s penalty area with his back to goal before falling after an apparent challenge from O’Shea, but the captain pleads his innocence and the referee agrees with him, deeming the contact incidental and not enough for a spot-kick.</p> <p>45'+1' The fourth official indicates two minutes will be added to the end of the half for stoppages.</p> <p><strong>45'+3' HALF-TIME: MANCHESTER UNITED 1-1 IPSWICH TOWN</strong></p> <p><strong>45' Substitution A change at the break for the visitors sees Akpom come on in place of Emersonn.</strong></p> <p>46' Manchester United get the match restarted from the kick-off!</p> <p><strong>56' Own Goal Own goal Jacob Greaves</strong> <strong>COMEBACK COMPLETE AT OLD TRAFFORD! 2-1 MANCHESTER UNITED!</strong> Akpom meets Greaves’ headed clearance and tries to lift the ball over the head of the oncoming Maguire, who stands in front of the trick bravely before bringing down possession to stride forward. With just enough space to shoot ahead of the misaligned defence, the centre-back drags a low, off-target effort that takes an unfortunate deflection off Greaves and ends up in Scherpen’s goal!</p> <p><strong>59' PENALTY TO MANCHESTER UNITED!</strong> Mainoo strides away from three Ipswich players in midfield, displaying great balance to get in the opposition’s half before firing a ball through the lines for the run of Cunha. Desperate to prevent a third, Greaves slides in to try and poke the ball away from the Brazil international but he gets his contact wrong and commits a foul - giving the hosts a chance to put themselves ahead by two from the spot!</p> <p>60' Yellow Card Greaves’ afternoon has just gone from bad to worse, as he’s shown a yellow card for the challenge that conceded the penalty, just four minutes after putting the ball into his own net to give Manchester United the lead.</p> <p><strong>61' Penalty - Scored Penalty Goal Bruno Miguel Borges Fernandes NO DOUBT ABOUT IT! 3-1 MANCHESTER UNITED</strong>! A set-piece specialist, Fernandes steps up to the spot with a short, stuttering run before forcing Scherpen to move first and tucking a neat finish into the opposite corner!</p> <p>62' Substitution A change immediately after conceding for the third time sees Ipswich Town bring on Palacios in place of Nunez.</p> <p><strong>68' Goal A HAT-TRICK FOR THE CAPTAIN! 4-1 MANCHESTER UNITED!</strong> Fernandes is able to profit off a bit of confusion inside Ipswich Town’s penalty area and makes the defence pay with clinical precision! First Mainoo’s effort from just outside the 18-yard box is blocked by Greaves, before Mbeumo is also denied by a covering defender - this time Davis - but the ricochet falls perfectly into the path of Fernandes, who settles it with a cushioned touch before dragging a finish into the opposite corner!</p> <p>70' AUDACIOUS ATTEMPT AT A FOURTH GOAL! Enciso looks to dribble the ball past two converging Manchester United players inside the centre-circle immediately following kick-off, which quickly leads to Tieleman poking the ball away. Fernandes is there to pick it up and he turns, spots the goalkeeper off his line and launches an effort from half the pitch away that forces Scherpen to charge back into his own goal, landing awkwardly in the netting, while the ball sails narrowly over the crossbar!</p> <p>73' Substitution A change with just over a quarter-hour to play sees the booked Lukic come off for Ouattara.</p> <p>73' Substitution Furlong is the latest entrant for Ipswich Town - ending Maeda’s contest at the 73rd minute.</p> <p>73' Substitution Mazraoui slots into the Manchester United defence with the result seemingly beyond doubt, giving Shaw an early rest.</p> <p>74' Substitution Dalot is also allowed to put his feet up early, as Yoro is sent into the fray to protect the three-goal advantage.</p> <p>80' Substitution Santos comes on to pair Tielemans in midfield with 10 minutes to go, as Mainoo makes his way off the pitch to a round of applause.</p> <p>80' Substitution Rashford isn’t able to mark his first Premier League start in 21 months with a goal, as he makes way for Dorgu in the final stages.</p> <p>80' Substitution The physically imposing Sesko is sent on to deal with set-pieces at both ends of the pitch, which brings an end to Cunha’s match.</p> <p><strong>82' Goal Bryan Mbeumo Assist Bruno Miguel Borges Fernandes</strong> THIS TIME THE BALL OFF THE CROSSBAR GOES IN! 5-1 MANCHESTER UNITED! After interchanging with Tielemans just inside his own half, Santos plays a ball square towards the byline for Fernandes, who turns on it to hit a lovely pass high above the Ipswich Town defence for Mbeumo. The last man capable of stopping the attack, Scherpen comes racing off his line, prompting the Cameroon international to lift the bouncing ball over the head of the tall goalkeeper, before smacking the underside of the bar and bouncing in thanks to a rather fortunate bounce back off the turf!</p> <p>83' Substitution Substitution Abdul Fatawu Issahaku Kasey McAteer</p> <p><strong>90'+1' Goal Chuba Akpom</strong></p> <p><sup>\\</sup>___________________________)</p> <p><strong>NEXT MATCH</strong></p> <p>Everton vs Man Utd - Premier League</p> <p>September 6, 2026 • 14:00</p> <p>Hill Dickinson Stadium, Liverpool, Merseyside</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2nnft/post_match_thread_manchester_united_52_ipswich/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2nnft/post_match_thread_manchester_united_52_ipswich/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2nnft/post_match_thread_manchester_united_52_ipswich/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:27:10+00:00"
+        },
+        {
+          "title": "[ Henry Winter] “Red-emption” headlines incoming for Marcus Rashford. When he plays like this, working hard in and out of possession, applying his skill and ferocious pace, he absolutely has to have a future at Manchester United.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2nvxk/henry_winter_redemption_headlines_incoming_for/\"> <img alt=\"[ Henry Winter] “Red-emption” headlines incoming for Marcus Rashford. When he plays like this, working hard in and out of possession, applying his skill and ferocious pace, he absolutely has to have a future at Manchester United.\" src=\"https://preview.redd.it/fpzqi555tjmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=407e3c5a2a818c3ba09fa264a485b07ccae7d7c2\" title=\"[ Henry Winter] “Red-emption” headlines incoming for Marcus Rashford. When he plays like this, working hard in and out of possession, applying his skill and ferocious pace, he absolutely has to have a future at Manchester United.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Routine_Specialist13\"> /u/Routine_Specialist13 </a> <br /> <span><a href=\"https://i.redd.it/fpzqi555tjmh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2nvxk/henry_winter_redemption_headlines_incoming_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2nvxk/henry_winter_redemption_headlines_incoming_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:36:10+00:00"
+        },
+        {
+          "title": "Carlos Baleba unveiled on the pitch at Old Trafford ahead of Manchester United vs Ipswich",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2kjd9/carlos_baleba_unveiled_on_the_pitch_at_old/\"> <img alt=\"Carlos Baleba unveiled on the pitch at Old Trafford ahead of Manchester United vs Ipswich\" src=\"https://external-preview.redd.it/eThqcmhuMjY2am1oMUDWpQEzSMhg_KCuHtVUtruTobfLxZCAq-L_GL9C-yaW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2510f38ced0a7396de7b63f8b2c5a5df0901ca8a\" title=\"Carlos Baleba unveiled on the pitch at Old Trafford ahead of Manchester United vs Ipswich\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/jg28m8266jmh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2kjd9/carlos_baleba_unveiled_on_the_pitch_at_old/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2kjd9/carlos_baleba_unveiled_on_the_pitch_at_old/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T15:27:36+00:00"
+        },
+        {
+          "title": "Manchester United [5]-1 Ipswich Town - Bryan Mbeumo 82'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/simplsimonmetapieman\"> /u/simplsimonmetapieman </a> <br /> <span><a href=\"https://v.redd.it/rz9w3mquojmh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2nauf/manchester_united_51_ipswich_town_bryan_mbeumo_82/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2nauf/manchester_united_51_ipswich_town_bryan_mbeumo_82/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:13:46+00:00"
+        },
+        {
+          "title": "Manchester United [1]-1 Ipswich Town -Bruno 40'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2lncp/manchester_united_11_ipswich_town_bruno_40/\"> <img alt=\"Manchester United [1]-1 Ipswich Town -Bruno 40'\" src=\"https://external-preview.redd.it/zz6CR1TrOWvQuZ8x_8ViVBTkpj2jXVq-r47j4ApNgWA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa3662558fea820d332430809b48f60a0e096098\" title=\"Manchester United [1]-1 Ipswich Town -Bruno 40'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/anthn885\"> /u/anthn885 </a> <br /> <span><a href=\"https://streama.in/RLJIq7RBotbm7cK/watch\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2lncp/manchester_united_11_ipswich_town_bruno_40/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2lncp/manchester_united_11_ipswich_town_bruno_40/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T16:11:08+00:00"
+        },
+        {
+          "title": "Manchester United recorded 33 shots against Ipswich today. The 2nd highest shot count recorded by the club in a single match.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2o4p4/manchester_united_recorded_33_shots_against/\"> <img alt=\"Manchester United recorded 33 shots against Ipswich today. The 2nd highest shot count recorded by the club in a single match.\" src=\"https://preview.redd.it/iaxq063rujmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef04c93c7da6a80b014b9fc2a9398964e35ead48\" title=\"Manchester United recorded 33 shots against Ipswich today. The 2nd highest shot count recorded by the club in a single match.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Today’s 5-2 win against Ipswich saw Manchester United register 33 total shots, making it the second highest shot volume recorded by the club in a single match, trailing only the infamous 0-0 draw against Burnley in October 2016 (38 shots).</p> <p><strong>Edit: Today's 2nd half tally of 22 shots is the record for the most shots by Manchester United in a single half.</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/oooooO___Oooooo\"> /u/oooooO___Oooooo </a> <br /> <span><a href=\"https://i.redd.it/iaxq063rujmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2o4p4/manchester_united_recorded_33_shots_against/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2o4p4/manchester_united_recorded_33_shots_against/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:45:29+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "r/reddevils",
+        "The Guardian - Manchester United",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 4,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why Harry Maguire goal was allowed to stand despite refs seeing Man United handball",
+      "items": [
+        {
+          "title": "Why Harry Maguire goal was allowed to stand despite refs seeing Man United handball",
+          "summary": "Manchester United's second goal against Ipswich Town was allowed to stand after an initial VAR check",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/harry-maguire-man-united-ipswich-34543159",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 16:55:13 +0000"
+        },
+        {
+          "title": "Why Harry Maguire goal was allowed to stand despite refs seeing Man Utd handball",
+          "summary": "Manchester United's second goal against Ipswich Town was allowed to stand after an initial VAR check as Harry Maguire's shot found the bottom corner",
+          "url": "https://www.mirror.co.uk/sport/football/news/harry-maguire-man-utd-ipswich-37609108",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 16:55:45 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Victor Osimhen 'waiting' for Man United transfer as dream Benjamin Sesko scenario suggested",
+      "items": [
+        {
+          "title": "Victor Osimhen 'waiting' for Man United transfer as dream Benjamin Sesko scenario suggested",
+          "summary": "Manchester United have been linked with Victor Osimhen on plenty of occasions over recent years but now believe Benjamin Sesko is their long-term centre-forward",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/united-man-utd-osimhen-sesko-34542319",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 14:20:23 +0000"
+        },
+        {
+          "title": "Man Utd told Victor Osimhen is 'waiting' for transfer as Benjamin Sesko plan tipped",
+          "summary": "Former Manchester United striker Louis Saha has claimed that Victor Osimhen is still waiting for the Red Devils to make their move before the September 1 deadline",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-osimhen-fernandes-transfer-37608945",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 16:18:48 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What TV channel is Man United vs Ipswich Town on - kick-off time and live stream details",
+      "items": [
+        {
+          "title": "What TV channel is Man United vs Ipswich Town on - kick-off time and live stream details",
+          "summary": "Manchester United host Ipswich looking to bounce back from the dire defeat at Hull",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ipswich-tv-stream-34537777",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 13:00:00 +0000"
+        },
+        {
+          "title": "What channel is Man Utd vs Ipswich on? Live stream details and kick-off time",
+          "summary": "Manchester United and Ipswich Town are set to meet in the Premier League this weekend",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ipswich-tv-channel-37604130",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 12:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United transfer news LIVE: Victor Osimhen update, £17m star linked, Arsenal agreement",
+      "items": [
+        {
+          "title": "Man United transfer news LIVE: Victor Osimhen update, £17m star linked, Arsenal agreement",
+          "summary": "The latest Manchester United transfer news, with updates on Victor Osimhen, Marcus Rashford, Leif Davis and more before this summer's deadline day on September 1",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-live-34540737",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 05:46:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Michael Carrick told Victor Osimhen is 'waiting' as star discusses exit",
+      "items": [
+        {
+          "title": "Man United latest: Michael Carrick told Victor Osimhen is 'waiting' as star discusses exit",
+          "summary": "Manchester United could look to complete several deals before the summer transfer window closes",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-michael-carrick-34542190",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Four transfers Man United can complete before deadline as key position fixed and £36.5m man moves",
+      "items": [
+        {
+          "title": "Four transfers Man United can complete before deadline as key position fixed and £36.5m man moves",
+          "summary": "Manchester United are running out of time to get transfers done before deadline day",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-deadline-day-34541584",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United make two big Old Trafford changes after 14 years following player concerns",
+      "items": [
+        {
+          "title": "Man United make two big Old Trafford changes after 14 years following player concerns",
+          "summary": "Manchester United played their first home game in more than three months on Sunday and some changes to Old Trafford were on display",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-old-trafford-changes-34543035",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 19:17:52 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United handed penalty verdict after Youri Tielemans incident during Ipswich Town clash",
+      "items": [
+        {
+          "title": "Man United handed penalty verdict after Youri Tielemans incident during Ipswich Town clash",
+          "summary": "Gary Neville has delivered his verdict on Manchester United's late first-half penalty shout as Youri Tielemans went down in the box following a challenge from Dara O'Shea",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-neville-tielemans-ipswich-34543056",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 16:30:32 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United's Premier League rivals take action to avoid transfer after interest emerges",
+      "items": [
+        {
+          "title": "Man United's Premier League rivals take action to avoid transfer after interest emerges",
+          "summary": "Manchester United are still trying to make signings ahead of the summer transfer window's deadline at 11pm on September 1",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/united-man-utd-premier-league-34541632",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 11:08:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Nine players could miss Man United vs Ipswich Town as Michael Carrick looks to bounce back",
+      "items": [
+        {
+          "title": "Nine players could miss Man United vs Ipswich Town as Michael Carrick looks to bounce back",
+          "summary": "Manchester United play host to Ipswich Town at Old Trafford in a bid to recover from their opening day loss to Hull City last week",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ipswich-town-injuries-34540947",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 08:53:30 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What happened to the four Man United stars Wayne Rooney demanded the club be built around",
+      "items": [
+        {
+          "title": "What happened to the four Man United stars Wayne Rooney demanded the club be built around",
+          "summary": "Wayne Rooney's advice for Manchester United regarding four attacking players has aged poorly",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/wayne-rooney-man-united-rashford-34540758",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 08:15:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Luke Shaw points the blame for Man Utd issue as Rio Ferdinand singles out his teammate",
+      "items": [
+        {
+          "title": "Luke Shaw points the blame for Man Utd issue as Rio Ferdinand singles out his teammate",
+          "summary": "Manchester United rebounded from their opening-day defeat by Hull by thrashing Ipswich 5-2 on Sunday, but while their attack was on song, the defence still has issues to iron out",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ipswich-shaw-ferdinand-37609625",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 06:35:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: Club told striker is 'waiting' for them as star speaks out on transfer move",
+      "items": [
+        {
+          "title": "Man Utd news: Club told striker is 'waiting' for them as star speaks out on transfer move",
+          "summary": "Manchester United face an intriguing couple of days as the summer transfer deadline approaches for Michael Carrick's team",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-united-transfers-michael-carrick-37608613",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 31 Aug 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford's impact on Man Utd transfer deadline day plan as 'new signing' hailed",
+      "items": [
+        {
+          "title": "Marcus Rashford's impact on Man Utd transfer deadline day plan as 'new signing' hailed",
+          "summary": "Marcus Rashford's reintegration into the Manchester United starting picture has given Michael Carrick less reason to make any late transfer moves",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-rashford-deadline-day-37609314",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 19:23:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd's thumping Ipswich win highlights their best transfer work this summer",
+      "items": [
+        {
+          "title": "Man Utd's thumping Ipswich win highlights their best transfer work this summer",
+          "summary": "Bruno Fernandes showed just why he's so integral to Manchester United as they eased to three points against Ipswich to win their first game of the season",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-ipswich-bruno-fernandes-37609179",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 17:46:12 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Brilliant Bruno Fernandes and VAR loophole help Man Utd thrash Ipswich - 5 talking points",
+      "items": [
+        {
+          "title": "Brilliant Bruno Fernandes and VAR loophole help Man Utd thrash Ipswich - 5 talking points",
+          "summary": "MANCHESTER UNITED 5-2 IPSWICH TOWN: Bruno Fernandes scored a hat-trick as the hosts overcame going behind to secure a comfortable three points",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-ipswich-premier-league-37608974",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 17:27:09 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sons of police officer killed in horror A66 crash lead out dad's beloved Man Utd vs Ipswich",
+      "items": [
+        {
+          "title": "Sons of police officer killed in horror A66 crash lead out dad's beloved Man Utd vs Ipswich",
+          "summary": "Manchester United fan PC Matthew Blades was killed in a horror head-on collision with a vehicle that was speeding down the wrong way of the A66 in Teesside last week",
+          "url": "https://www.mirror.co.uk/news/uk-news/man-utd-police-son-a66-37608992",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 16:12:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick hits out 'lazy' Man Utd critics after nightmare start to the season",
+      "items": [
+        {
+          "title": "Michael Carrick hits out 'lazy' Man Utd critics after nightmare start to the season",
+          "summary": "Manchester United had the worst possible start to the 2026/27 season with defeat to newly-promoted Hull City but Red Devils boss Michael Carrick is not getting too downbeat",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/michael-carrick-man-utd-ipswich-37608164",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 10:36:23 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Nine stars will miss Man Utd vs Ipswich Town including £75m man",
+      "items": [
+        {
+          "title": "Nine stars will miss Man Utd vs Ipswich Town including £75m man",
+          "summary": "Manchester United will be without a number of players for their Premier League clash with Ipswich Town, with nine players in total potentially missing the Old Trafford showdown",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-ipswich-town-injuries-37608130",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 10:15:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick told to sign replacement for Man Utd star whose 'time is gone'",
+      "items": [
+        {
+          "title": "Michael Carrick told to sign replacement for Man Utd star whose 'time is gone'",
+          "summary": "Manchester United have been told to move on from one veteran of the squad and invest in a replacement before the transfer window shuts",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-haw-hall-37607865",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 07:58:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals Man Utd striker plan as £25m transfer agreement greenlit - Football365",
+      "items": [
+        {
+          "title": "Romano reveals Man Utd striker plan as £25m transfer agreement greenlit - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG13d1hIem1YV3VtUTBYSy13dkZYRHo4U3AwZUNSbDBEQnlRTHVfNDhvaVdjOGlqOW94cEhuN20zN3lvdFE4bnVKR2thbnlNaEMtLXZKNEktS3MyalZOQkY2YlgtOC1fRk1UZ2xqeVE1Wno4SzQxZVgwdDRZQlJfR0gxelRxTjVjSWpxZ1AwMlhNc2J6TWRGZkRKUVVxaDNTVGU5VXFvMFJGdkF4RTh4bXk5RQ?oc=5\" target=\"_blank\">Romano reveals Man Utd striker plan as £25m transfer agreement greenlit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG13d1hIem1YV3VtUTBYSy13dkZYRHo4U3AwZUNSbDBEQnlRTHVfNDhvaVdjOGlqOW94cEhuN20zN3lvdFE4bnVKR2thbnlNaEMtLXZKNEktS3MyalZOQkY2YlgtOC1fRk1UZ2xqeVE1Wno4SzQxZVgwdDRZQlJfR0gxelRxTjVjSWpxZ1AwMlhNc2J6TWRGZkRKUVVxaDNTVGU5VXFvMFJGdkF4RTh4bXk5RQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 14:42:33 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano says Alejandro Balde to Man Utd POSSIBLE on ONE condition - TEAMtalk",
+      "items": [
+        {
+          "title": "Fabrizio Romano says Alejandro Balde to Man Utd POSSIBLE on ONE condition - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXhRdjEzMGJPc3V0aHFQbUwydkFaaTNrUm1JUkI1Z0ZqOVFPcjhjYm1MY0JiN01jbmFXanR0Uk5XWVdNTWoxUmJoQVdsV01BWGpTTjNPamFMSzVaMTF1ZVl0WDR1NWR6R2pmdWUwNEY4SEJKa2lXQVFjbEhxY3VFdzI0RWJ1emNybHE2VmJhdFNfWGdYQWlKd0JqcXI1Z0RBM3Ewa2ZXeVVYa0Nqc3Y3Wm5TQkJpcjQ?oc=5\" target=\"_blank\">Fabrizio Romano says Alejandro Balde to Man Utd POSSIBLE on ONE condition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXhRdjEzMGJPc3V0aHFQbUwydkFaaTNrUm1JUkI1Z0ZqOVFPcjhjYm1MY0JiN01jbmFXanR0Uk5XWVdNTWoxUmJoQVdsV01BWGpTTjNPamFMSzVaMTF1ZVl0WDR1NWR6R2pmdWUwNEY4SEJKa2lXQVFjbEhxY3VFdzI0RWJ1emNybHE2VmJhdFNfWGdYQWlKd0JqcXI1Z0RBM3Ewa2ZXeVVYa0Nqc3Y3Wm5TQkJpcjQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 29 Aug 2026 11:57:14 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Gives Update on Man Utd Replacing Zirkzee With New Striker - GiveMeSport",
+      "items": [
+        {
+          "title": "Fabrizio Romano Gives Update on Man Utd Replacing Zirkzee With New Striker - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPT1RKYzllenBmRUhPX0kxSUtEdGpMLXFGQ2ViNGk5S3NMZFI0RFl2V09GX1pmMElLTi1vZEpJd214bmhqeE93R25BTUVkYktiS29JNXJrNjA0U1B6MlZUY2ktOU83QjR1TmUwOWlSUUNnZVNwXzZYc0o1a1NUU3FCX1pfSjRZZw?oc=5\" target=\"_blank\">Fabrizio Romano Gives Update on Man Utd Replacing Zirkzee With New Striker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT1RKYzllenBmRUhPX0kxSUtEdGpMLXFGQ2ViNGk5S3NMZFI0RFl2V09GX1pmMElLTi1vZEpJd214bmhqeE93R25BTUVkYktiS29JNXJrNjA0U1B6MlZUY2ktOU83QjR1TmUwOWlSUUNnZVNwXzZYc0o1a1NUU3FCX1pfSjRZZw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 11:16:12 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Aston Villa pip Man Utd to £30m star as extra £25m deal considered - Football365",
+      "items": [
+        {
+          "title": "Aston Villa pip Man Utd to £30m star as extra £25m deal considered - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNblJlbUF0bjZ4SjdTMVJWZ0F1UkRDc2lfS201NVlNZldRWnVBT3c2TE90SVVDNzdCUEFfdHU0T3dPakMxQURCdzBoMU5yWkwtZU0wcWZHUlFZZncxMjhXTm81SktQS3Y1UTB5MWo2S1dCRUVOOEM1VWN3MlFJSWczM3JTcTBHNHpTY1FIWTc2SFExQWl0b0pDWmJ5THBHZlAtRG5lUWJUd3dsbnZLX1F5RnZJSW1JQQ?oc=5\" target=\"_blank\">Aston Villa pip Man Utd to £30m star as extra £25m deal considered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblJlbUF0bjZ4SjdTMVJWZ0F1UkRDc2lfS201NVlNZldRWnVBT3c2TE90SVVDNzdCUEFfdHU0T3dPakMxQURCdzBoMU5yWkwtZU0wcWZHUlFZZncxMjhXTm81SktQS3Y1UTB5MWo2S1dCRUVOOEM1VWN3MlFJSWczM3JTcTBHNHpTY1FIWTc2SFExQWl0b0pDWmJ5THBHZlAtRG5lUWJUd3dsbnZLX1F5RnZJSW1JQQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 30 Aug 2026 17:44:34 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘Immense’ – Carrick praised Man United player after special performance against Ipswich",
+      "items": [
+        {
+          "title": "‘Immense’ – Carrick praised Man United player after special performance against Ipswich",
+          "summary": "<p>Kobbie Mainoo delivered a major reminder of his quality as Manchester United bounced back from their opening-day defeat with an emphatic 5-2 victory over Ipswich Town at Old Trafford. Bruno Fernandes naturally dominated the headlines after scoring a hat-trick, but Mainoo’s first start of the season was arguably just as encouraging for Michael Carrick. Want [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/31/immense-carrick-praised-man-united-player-special-performance/\">&#8216;Immense&#8217; &#8211; Carrick praised Man United player after special performance against Ipswich</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/31/immense-carrick-praised-man-united-player-special-performance/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 31 Aug 2026 06:13:44 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carrick hails Man United player by calling him a ‘new signing’ after latest performance",
+      "items": [
+        {
+          "title": "Carrick hails Man United player by calling him a ‘new signing’ after latest performance",
+          "summary": "<p>Michael Carrick believes Marcus Rashford’s return could feel like a new signing for Manchester United after the forward impressed on his first Old Trafford start in almost two years. Rashford featured prominently as United responded to their opening-day defeat at Hull City by beating Ipswich Town 5-2 on Sunday. Want more CaughtOffside coverage? Add us [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/31/carrick-hails-man-united-player-calling-him-a-new-signing/\">Carrick hails Man United player by calling him a &#8216;new signing&#8217; after latest performance</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/31/carrick-hails-man-united-player-calling-him-a-new-signing/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 31 Aug 2026 05:53:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sources: Arsenal make ‘generational’ talent their top target amid rising interest",
+      "items": [
+        {
+          "title": "Sources: Arsenal make ‘generational’ talent their top target amid rising interest",
+          "summary": "<p>Arsenal remain interested in Bournemouth striker Eli Junior Kroupi despite the youngster’s serious injury setback, with Manchester United and Liverpool also monitoring his long-term future. Mikel Arteta’s side have tracked the 20-year-old closely after his impressive first Premier League campaign, in which he scored 13 goals. Want more CaughtOffside coverage? Add us as a preferred [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/31/sources-arsenal-make-generational-talent-top-target/\">Sources: Arsenal make &#8216;generational&#8217; talent their top target amid rising interest</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/31/sources-arsenal-make-generational-talent-top-target/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 31 Aug 2026 05:30:06 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘Only going one way’: BBC Sport reporter makes Man United transfer demand after ‘struggling’ Old Trafford moment",
+      "items": [
+        {
+          "title": "‘Only going one way’: BBC Sport reporter makes Man United transfer demand after ‘struggling’ Old Trafford moment",
+          "summary": "<p>Manchester United have been urged to sign a new left-back to replace Luke Shaw after his horrid defending resulted in an early goal for Ipswich Town at Old Trafford. Reporting live from Old Trafford for BBC Sport, Chief Football News Reporter Simon Stone highlighted the growing consensus that United must recruit a primary option on [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/08/30/man-united-luke-shaw-left-back-transfer-ipswich/\">&#8216;Only going one way&#8217;: BBC Sport reporter makes Man United transfer demand after &#8216;struggling&#8217; Old Trafford moment</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/08/30/man-united-luke-shaw-left-back-transfer-ipswich/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 30 Aug 2026 17:10:49 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Transfer Round Up & Discussion] Summer 2026",
+      "items": [
+        {
+          "title": "[Transfer Round Up & Discussion] Summer 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p>Summer Transfer Window 2026 is here!</p> <p>The Premier League transfer window will open between Monday June 15 until Deadline Day on Tuesday September 1; the summer windows will close at 23.00 BST.</p> <p>As always, here is a run-down of the rules we have on for posting during transfer windows:</p> <p><strong>Daily Threads</strong></p> <p>There will be a Transfer thread posted every single day, on a 23-hour timer, to get a different post-time every day. These threads are for everything transfer related, no limits on sources, line-up conversations, etc.</p> <p><strong>Individual posts</strong></p> <p>From now on, only posts <strong>TIER 2 OR BETTER</strong> are allowed to be posted in their own right. This helps us only keep credible sources on the subreddit.</p> <p>The tier guide can be found here: <a href=\"https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/\">https://www.reddit.com/r/reddevils/wiki/transfer-reliability-guide/</a></p> <p>We will make exceptions during slower days for some Tier 3 posts, and there will usually be some posts from sources not on our tier guide. We will take everything case-by-case. If you believe something to be on the sub and not a good source, please let us know.</p> <p><strong>Men's Team</strong>​ </p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrey Santos</td> <td align=\"left\">CM</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£48m + £2m</td> </tr> <tr> <td align=\"left\">Karl Darlow</td> <td align=\"left\">GK</td> <td align=\"left\">Leeds Utd</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Youri Tielemans</td> <td align=\"left\">CM</td> <td align=\"left\">Aston Villa</td> <td align=\"left\">£35m</td> </tr> <tr> <td align=\"left\">Tynan Thompson</td> <td align=\"left\">LW</td> <td align=\"left\">Tottenham Hotspur</td> <td align=\"left\">£4m + £4m</td> </tr> <tr> <td align=\"left\">Carlos Baleba</td> <td align=\"left\">DM</td> <td align=\"left\">Brighton &amp; Hove Albion</td> <td align=\"left\">£65m + £5m</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Casemiro</td> <td align=\"left\">MF</td> <td align=\"left\">Inter Miami</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Jadon Sancho</td> <td align=\"left\">LW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Tyrell Malacia</td> <td align=\"left\">LB</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Rasmus Hojlund</td> <td align=\"left\">ST</td> <td align=\"left\">Napoli</td> <td align=\"left\">£38m (Obligation clause triggered)</td> </tr> <tr> <td align=\"left\">Andre Onana</td> <td align=\"left\">GK</td> <td align=\"left\">Trabzonspor</td> <td align=\"left\">Loan</td> </tr> <tr> <td align=\"left\">Tyler Fredricson</td> <td align=\"left\">CB</td> <td align=\"left\">Lausanne-Sport</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Altay Bayindir</td> <td align=\"left\">GK</td> <td align=\"left\">Celta Vigo</td> <td align=\"left\">Loan</td> </tr> <tr> <td align=\"left\">Radek Vitek</td> <td align=\"left\">GK</td> <td align=\"left\">Middlesbrough</td> <td align=\"left\">£7m + £7m</td> </tr> </tbody></table> <p><strong>Women's Team</strong></p> <p><strong>Transfers IN</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">From</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Andrea Medina</td> <td align=\"left\">LB</td> <td align=\"left\">Atletico Madrid</td> <td align=\"left\">Free</td> </tr> <tr> <td align=\"left\">Janina Leitzig</td> <td align=\"left\">GK</td> <td align=\"left\">Leicester City</td> <td align=\"left\">Undisclosed Fee</td> </tr> </tbody></table> <p><strong>Transfers OUT</strong></p> <table><thead> <tr> <th align=\"left\">Name</th> <th align=\"left\">Position</th> <th align=\"left\">To</th> <th align=\"left\">Fee</th> </tr> </thead><tbody> <tr> <td align=\"left\">Millie Turner</td> <td align=\"left\">CB</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Hannah Blundell </td> <td align=\"left\">FB</td> <td align=\"left\">Everton</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Melvine Malard</td> <td align=\"left\">ST</td> <td align=\"left\">Chelsea</td> <td align=\"left\">£850k</td> </tr> <tr> <td align=\"left\">Leah Galton</td> <td align=\"left\">FW</td> <td align=\"left\">-</td> <td align=\"left\">Contract Expired</td> </tr> <tr> <td align=\"left\">Lisa Naalsund</td> <td align=\"left\">MF</td> <td align=\"left\">Birmingham City</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Gabby George</td> <td align=\"left\">CB</td> <td align=\"left\">Brighton &amp; Hove Albion</td> <td align=\"left\">Undisclosed</td> </tr> <tr> <td align=\"left\">Kayla Rendell</td> <td align=\"left\">GK</td> <td align=\"left\">Newcastle United</td> <td align=\"left\">Loan</td> </tr> </tbody></table> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2w7ma/transfer_round_up_discussion_summer_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2w7ma/transfer_round_up_discussion_summer_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2w7ma/transfer_round_up_discussion_summer_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T23:01:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Look what Tielemans was doing during Bruno’s penalty 😅",
+      "items": [
+        {
+          "title": "Look what Tielemans was doing during Bruno’s penalty 😅",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2tt8a/look_what_tielemans_was_doing_during_brunos/\"> <img alt=\"Look what Tielemans was doing during Bruno’s penalty 😅\" src=\"https://external-preview.redd.it/bTBybmNkZzd4a21oMQIfOmPYt1XmUAnHlkdDx6YTnp-mSbZKwqoyAlzBjQYj.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4a0969457f560a3a63b50569ff7c67b221f23de\" title=\"Look what Tielemans was doing during Bruno’s penalty 😅\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/middleeasternboxer\"> /u/middleeasternboxer </a> <br /> <span><a href=\"https://v.redd.it/ubyvdjj7xkmh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2tt8a/look_what_tielemans_was_doing_during_brunos/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2tt8a/look_what_tielemans_was_doing_during_brunos/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T21:20:54+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford on Instagram: What a beautiful day! 💕 📍Old Trafford 🏟",
+      "items": [
+        {
+          "title": "Marcus Rashford on Instagram: What a beautiful day! 💕 📍Old Trafford 🏟",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2ytwp/marcus_rashford_on_instagram_what_a_beautiful_day/\"> <img alt=\"Marcus Rashford on Instagram: What a beautiful day! 💕 📍Old Trafford 🏟\" src=\"https://preview.redd.it/nai9mbozzlmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bc6983aec56e565b1fa66a776be3566dfc4bf92\" title=\"Marcus Rashford on Instagram: What a beautiful day! 💕 📍Old Trafford 🏟\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jojihuman1\"> /u/jojihuman1 </a> <br /> <span><a href=\"https://i.redd.it/nai9mbozzlmh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2ytwp/marcus_rashford_on_instagram_what_a_beautiful_day/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2ytwp/marcus_rashford_on_instagram_what_a_beautiful_day/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-31T00:58:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kobbie on Instagram: G.A.B.O.S (game ain’t based on sympathy)",
+      "items": [
+        {
+          "title": "Kobbie on Instagram: G.A.B.O.S (game ain’t based on sympathy)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2rsy7/kobbie_on_instagram_gabos_game_aint_based_on/\"> <img alt=\"Kobbie on Instagram: G.A.B.O.S (game ain’t based on sympathy)\" src=\"https://preview.redd.it/zdj4l6mdjkmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e93708a9e0ab273c3060b8c423cebebc957b54a\" title=\"Kobbie on Instagram: G.A.B.O.S (game ain’t based on sympathy)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/zdj4l6mdjkmh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2rsy7/kobbie_on_instagram_gabos_game_aint_based_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2rsy7/kobbie_on_instagram_gabos_game_aint_based_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T20:03:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kobbie Mainoo vs Ipswich",
+      "items": [
+        {
+          "title": "Kobbie Mainoo vs Ipswich",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2opf7/kobbie_mainoo_vs_ipswich/\"> <img alt=\"Kobbie Mainoo vs Ipswich\" src=\"https://external-preview.redd.it/eTJsOWF1N2t5am1oMeduKApdjgNp0-f4x23ZcKwpXBlIxB2LQnSkqbakWvKR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=131795782da1eb2a8d378512ad62579d26e1e33a\" title=\"Kobbie Mainoo vs Ipswich\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://v.redd.it/jzc95q7kyjmh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2opf7/kobbie_mainoo_vs_ipswich/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2opf7/kobbie_mainoo_vs_ipswich/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T18:07:00+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Statman Dave] Youri Tielemans covered more distance (11.9km) and created more chances (4) than any other player on the pitch vs. Ipswich Town.",
+      "items": [
+        {
+          "title": "[Statman Dave] Youri Tielemans covered more distance (11.9km) and created more chances (4) than any other player on the pitch vs. Ipswich Town.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2qwva/statman_dave_youri_tielemans_covered_more/\"> <img alt=\"[Statman Dave] Youri Tielemans covered more distance (11.9km) and created more chances (4) than any other player on the pitch vs. Ipswich Town.\" src=\"https://preview.redd.it/h7asawdfdkmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f5a41cd194f7a76f31ca6558a7f717c5fe900dd\" title=\"[Statman Dave] Youri Tielemans covered more distance (11.9km) and created more chances (4) than any other player on the pitch vs. Ipswich Town.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hot_Patience_5962\"> /u/Hot_Patience_5962 </a> <br /> <span><a href=\"https://i.redd.it/h7asawdfdkmh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2qwva/statman_dave_youri_tielemans_covered_more/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2qwva/statman_dave_youri_tielemans_covered_more/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T19:29:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[MOTD] Rashford chance creation in the first two games of the season",
+      "items": [
+        {
+          "title": "[MOTD] Rashford chance creation in the first two games of the season",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w354qm/motd_rashford_chance_creation_in_the_first_two/\"> <img alt=\"[MOTD] Rashford chance creation in the first two games of the season\" src=\"https://preview.redd.it/1jdu2923jnmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c38ccac1eb0d96a97e02c371a13c39603987eb9\" title=\"[MOTD] Rashford chance creation in the first two games of the season\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/berbatouchbg\"> /u/berbatouchbg </a> <br /> <span><a href=\"https://i.redd.it/1jdu2923jnmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w354qm/motd_rashford_chance_creation_in_the_first_two/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w354qm/motd_rashford_chance_creation_in_the_first_two/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-31T06:07:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The xG Philosophy: Man Utd (5.02) 5-2 (2.18) Ipswich",
+      "items": [
+        {
+          "title": "The xG Philosophy: Man Utd (5.02) 5-2 (2.18) Ipswich",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2nq7d/the_xg_philosophy_man_utd_502_52_218_ipswich/\"> <img alt=\"The xG Philosophy: Man Utd (5.02) 5-2 (2.18) Ipswich\" src=\"https://preview.redd.it/p8x19mv0sjmh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2d89a55e30a7334a6b8b44f831ec5d28178c45aa\" title=\"The xG Philosophy: Man Utd (5.02) 5-2 (2.18) Ipswich\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/killerdrama\"> /u/killerdrama </a> <br /> <span><a href=\"https://i.redd.it/p8x19mv0sjmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2nq7d/the_xg_philosophy_man_utd_502_52_218_ipswich/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2nq7d/the_xg_philosophy_man_utd_502_52_218_ipswich/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:30:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson is back at Old Trafford to watch United. He is wearing a protective boot.",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson is back at Old Trafford to watch United. He is wearing a protective boot.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2icvu/sir_alex_ferguson_is_back_at_old_trafford_to/\"> <img alt=\"Sir Alex Ferguson is back at Old Trafford to watch United. He is wearing a protective boot.\" src=\"https://external-preview.redd.it/NmFxdHIzaHBwaW1oMWM1WFjW6AIYr1wnzhhy_kItvZ0Y8sqCHXhR5t4Pk9Ip.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0eddf2ba8e5ba327b6a136ffc760e85bc6bfd7a4\" title=\"Sir Alex Ferguson is back at Old Trafford to watch United. He is wearing a protective boot.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/p4i11cgppimh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2icvu/sir_alex_ferguson_is_back_at_old_trafford_to/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2icvu/sir_alex_ferguson_is_back_at_old_trafford_to/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T14:00:54+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Cunha on Instagram",
+      "items": [
+        {
+          "title": "Cunha on Instagram",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2osdz/cunha_on_instagram/\"> <img alt=\"Cunha on Instagram\" src=\"https://preview.redd.it/x5zgx1x6zjmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6bad90f8c61fabca45fab455955fe18b58efe679\" title=\"Cunha on Instagram\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/x5zgx1x6zjmh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2osdz/cunha_on_instagram/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2osdz/cunha_on_instagram/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T18:10:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "#MUFC 5-2 Ipswich: The first time United have scored five in a Premier League game since their opening game of the 2021-22 season, 5-1 v Leeds at Old Trafford. Carrick was on Solskjaer's coaching team that day. Fernandes also scored a hat-trick. [Laurie Whitwell]",
+      "items": [
+        {
+          "title": "#MUFC 5-2 Ipswich: The first time United have scored five in a Premier League game since their opening game of the 2021-22 season, 5-1 v Leeds at Old Trafford. Carrick was on Solskjaer's coaching team that day. Fernandes also scored a hat-trick. [Laurie Whitwell]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2ny8q/mufc_52_ipswich_the_first_time_united_have_scored/\"> <img alt=\"#MUFC 5-2 Ipswich: The first time United have scored five in a Premier League game since their opening game of the 2021-22 season, 5-1 v Leeds at Old Trafford. Carrick was on Solskjaer's coaching team that day. Fernandes also scored a hat-trick. [Laurie Whitwell]\" src=\"https://preview.redd.it/ioff3k9htjmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=43e1bcef5c349b357ab1b682631cdcd9dd456994\" title=\"#MUFC 5-2 Ipswich: The first time United have scored five in a Premier League game since their opening game of the 2021-22 season, 5-1 v Leeds at Old Trafford. Carrick was on Solskjaer's coaching team that day. Fernandes also scored a hat-trick. [Laurie Whitwell]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/ioff3k9htjmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2ny8q/mufc_52_ipswich_the_first_time_united_have_scored/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2ny8q/mufc_52_ipswich_the_first_time_united_have_scored/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:38:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick on transfer window: \"Always difficult to say with so little time left, pleased with business, better group and a team. Marcus feels like a new signing. Always looking to add so wouldn’t shut it down but have to wait and see.\" [Simon Stone]",
+      "items": [
+        {
+          "title": "Michael Carrick on transfer window: \"Always difficult to say with so little time left, pleased with business, better group and a team. Marcus feels like a new signing. Always looking to add so wouldn’t shut it down but have to wait and see.\" [Simon Stone]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2oykv/michael_carrick_on_transfer_window_always/\"> <img alt=\"Michael Carrick on transfer window: &quot;Always difficult to say with so little time left, pleased with business, better group and a team. Marcus feels like a new signing. Always looking to add so wouldn’t shut it down but have to wait and see.&quot; [Simon Stone]\" src=\"https://preview.redd.it/19nn3fs50kmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=46074abf5574472b7519f8f25202ca109c831936\" title=\"Michael Carrick on transfer window: &quot;Always difficult to say with so little time left, pleased with business, better group and a team. Marcus feels like a new signing. Always looking to add so wouldn’t shut it down but have to wait and see.&quot; [Simon Stone]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/19nn3fs50kmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2oykv/michael_carrick_on_transfer_window_always/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2oykv/michael_carrick_on_transfer_window_always/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T18:16:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes’ game by numbers vs. Ipswich Town: 86% pass accuracy 15 line-breaking passes 9 passes into the final third 8 shots 7 defensive contributions 3 chances created 3 goals 1 assist Unreal. ⚽️⚽️⚽️🅰️",
+      "items": [
+        {
+          "title": "Bruno Fernandes’ game by numbers vs. Ipswich Town: 86% pass accuracy 15 line-breaking passes 9 passes into the final third 8 shots 7 defensive contributions 3 chances created 3 goals 1 assist Unreal. ⚽️⚽️⚽️🅰️",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2nttm/bruno_fernandes_game_by_numbers_vs_ipswich_town/\"> <img alt=\"Bruno Fernandes’ game by numbers vs. Ipswich Town: 86% pass accuracy 15 line-breaking passes 9 passes into the final third 8 shots 7 defensive contributions 3 chances created 3 goals 1 assist Unreal. ⚽️⚽️⚽️🅰️\" src=\"https://preview.redd.it/zer6zu3psjmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=271262229ab3ed6e84e740811533a93e4fc84a7d\" title=\"Bruno Fernandes’ game by numbers vs. Ipswich Town: 86% pass accuracy 15 line-breaking passes 9 passes into the final third 8 shots 7 defensive contributions 3 chances created 3 goals 1 assist Unreal. ⚽️⚽️⚽️🅰️\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/zer6zu3psjmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2nttm/bruno_fernandes_game_by_numbers_vs_ipswich_town/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2nttm/bruno_fernandes_game_by_numbers_vs_ipswich_town/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:33:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mbeumo Goal (Pitch Side)",
+      "items": [
+        {
+          "title": "Mbeumo Goal (Pitch Side)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2x2bh/mbeumo_goal_pitch_side/\"> <img alt=\"Mbeumo Goal (Pitch Side)\" src=\"https://external-preview.redd.it/YjNvOHV2cm1sbG1oMb9BZfIvYs9ESMPohYGopuYWPMGb6liqfhsNL6mqwVhb.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d23eba6a3b30d1042cc5b7c44cac282dc55450b2\" title=\"Mbeumo Goal (Pitch Side)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>First time visiting OT from Canada and caught this beautiful goal &amp; assist on camera!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LightBlade12\"> /u/LightBlade12 </a> <br /> <span><a href=\"https://v.redd.it/o23hspymllmh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2x2bh/mbeumo_goal_pitch_side/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2x2bh/mbeumo_goal_pitch_side/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T23:38:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Di Marzio] Juventus have sent the first official bid to Man Utd for Zirkzee. €2.5m loan fee with €30m option to buy",
+      "items": [
+        {
+          "title": "[Di Marzio] Juventus have sent the first official bid to Man Utd for Zirkzee. €2.5m loan fee with €30m option to buy",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2uktw/di_marzio_juventus_have_sent_the_first_official/\"> <img alt=\"[Di Marzio] Juventus have sent the first official bid to Man Utd for Zirkzee. €2.5m loan fee with €30m option to buy\" src=\"https://external-preview.redd.it/IXUYD3FQauuIEmDG2UtsGXLARSKgedZ_Hw0h1ObZaw4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44d8ca1dae466c106f41e44466cb1ead530a69f5\" title=\"[Di Marzio] Juventus have sent the first official bid to Man Utd for Zirkzee. €2.5m loan fee with €30m option to buy\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Urchin02\"> /u/Urchin02 </a> <br /> <span><a href=\"https://www.gianlucadimarzio.com/calciomercato/juventus-presentata-offerta-manchester-united-zirkzee-situazione-496643\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2uktw/di_marzio_juventus_have_sent_the_first_official/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2uktw/di_marzio_juventus_have_sent_the_first_official/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T21:52:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "United loanee Jacob Devaney was the Player of the Match in his Hibs debut today as they beat Dundee 2-1 away from home",
+      "items": [
+        {
+          "title": "United loanee Jacob Devaney was the Player of the Match in his Hibs debut today as they beat Dundee 2-1 away from home",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2sui2/united_loanee_jacob_devaney_was_the_player_of_the/\"> <img alt=\"United loanee Jacob Devaney was the Player of the Match in his Hibs debut today as they beat Dundee 2-1 away from home\" src=\"https://preview.redd.it/pz8y337fokmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bda80bb639d87572dea3505abfcb0aa6c1166995\" title=\"United loanee Jacob Devaney was the Player of the Match in his Hibs debut today as they beat Dundee 2-1 away from home\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/pz8y337fokmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2sui2/united_loanee_jacob_devaney_was_the_player_of_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2sui2/united_loanee_jacob_devaney_was_the_player_of_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T20:43:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Stone] Own goal so can't be disallowed for Maguire handball.",
+      "items": [
+        {
+          "title": "[Stone] Own goal so can't be disallowed for Maguire handball.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2mmtu/stone_own_goal_so_cant_be_disallowed_for_maguire/\"> <img alt=\"[Stone] Own goal so can't be disallowed for Maguire handball.\" src=\"https://preview.redd.it/nf4034vpkjmh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=42c890e17f70e9d5a28458c5f78b0c27bd8eedb7\" title=\"[Stone] Own goal so can't be disallowed for Maguire handball.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/nf4034vpkjmh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2mmtu/stone_own_goal_so_cant_be_disallowed_for_maguire/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2mmtu/stone_own_goal_so_cant_be_disallowed_for_maguire/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T16:48:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Brian Mbeumo goal 30-08-26 vs Ipswich [full sequence]",
+      "items": [
+        {
+          "title": "Brian Mbeumo goal 30-08-26 vs Ipswich [full sequence]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2z2gv/brian_mbeumo_goal_300826_vs_ipswich_full_sequence/\"> <img alt=\"Brian Mbeumo goal 30-08-26 vs Ipswich [full sequence]\" src=\"https://external-preview.redd.it/c2ttZXJtbHAxbW1oMUR20QTPN0HLXWDZiYkO6TfhtZNl3KyfbeUe1Kfc17--.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f6f0283ea02113688328b27e90a276c80f74c0e\" title=\"Brian Mbeumo goal 30-08-26 vs Ipswich [full sequence]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Apologies for bad sound and visuals. Wanted to avoid copyright issues.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/superhoffy\"> /u/superhoffy </a> <br /> <span><a href=\"https://v.redd.it/rcuu0glp1mmh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2z2gv/brian_mbeumo_goal_300826_vs_ipswich_full_sequence/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2z2gv/brian_mbeumo_goal_300826_vs_ipswich_full_sequence/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-31T01:08:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "MUFC 5 Ipswich Town 2. First win of season. Top game. Utd stepped it up after the break. Bruno the man, with a hat-trick. Rashford, Kobbie, Martinez all spot on. Actually think Ipswich look more capable than two years ago. The rain can do one. (Andy Mitten)",
+      "items": [
+        {
+          "title": "MUFC 5 Ipswich Town 2. First win of season. Top game. Utd stepped it up after the break. Bruno the man, with a hat-trick. Rashford, Kobbie, Martinez all spot on. Actually think Ipswich look more capable than two years ago. The rain can do one. (Andy Mitten)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w2ntwr/mufc_5_ipswich_town_2_first_win_of_season_top/\"> <img alt=\"MUFC 5 Ipswich Town 2. First win of season. Top game. Utd stepped it up after the break. Bruno the man, with a hat-trick. Rashford, Kobbie, Martinez all spot on. Actually think Ipswich look more capable than two years ago. The rain can do one. (Andy Mitten)\" src=\"https://preview.redd.it/rl2vjtersjmh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=73af0fd6ac41a80447f133011072bbb80d35ccab\" title=\"MUFC 5 Ipswich Town 2. First win of season. Top game. Utd stepped it up after the break. Bruno the man, with a hat-trick. Rashford, Kobbie, Martinez all spot on. Actually think Ipswich look more capable than two years ago. The rain can do one. (Andy Mitten)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dracogladio1741\"> /u/dracogladio1741 </a> <br /> <span><a href=\"https://i.redd.it/rl2vjtersjmh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w2ntwr/mufc_5_ipswich_town_2_first_win_of_season_top/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w2ntwr/mufc_5_ipswich_town_2_first_win_of_season_top/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-08-30T17:34:01+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 71,
+    "story_count": 48
+  }
+}
