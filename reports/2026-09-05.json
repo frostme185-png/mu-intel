@@ -1,0 +1,746 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T05:21:06.233929+00:00",
+  "match_data": {
+    "collected_at": "2026-09-05T05:20:59.630983+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Man Utd head coach Michael Carrick on their transfer business and Joshua Zirkzee staying.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p81d3w?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 04 Sep 2026 15:24:00 GMT"
+        },
+        {
+          "title": "Transfer talks continue, Fernandes intrigue and Amass' future - Manchester United Notebook",
+          "summary": "The transfer window is now closed but this week's Notebook looks at a player Man Utd are still trying to sign and the situation with Bruno Fernandes' contract.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-talks-continue-fernandes-intrigue-34565442",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 5 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Michael Carrick reflects on Manchester United transfer window and makes 'finances' admission",
+          "summary": "Man Utd signed three midfielders and a back-up goalkeeper during the transfer window and head coach Michael Carrick has reflected on that business.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-reflects-manchester-united-34567060",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 12:30:00 +0000"
+        },
+        {
+          "title": "'Like a new signing' - Michael Carrick hints at new role for Manchester United star",
+          "summary": "Man Utd have been left short of left-back cover after the end of the transfer window but Michael Carrick could use Patrick Dorgu there.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/like-new-signing-michael-carrick-34567076",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Manchester United confirm 25-man Champions League squad",
+          "summary": "Man United will return to the Champions League this season and they have named their European squad ahead of the competition starting next week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-confirm-25-man-34565597",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 08:18:08 +0000"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Every word from Michael Carrick press conference including Man United transfer reaction and Dorgu role",
+      "items": [
+        {
+          "title": "Every word from Michael Carrick press conference including Man United transfer reaction and Dorgu role",
+          "summary": "Take a look back at what Michael Carrick had to say ahead of Manchester United's trip to Everton in the Premier League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34565696",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 13:58:51 +0000"
+        },
+        {
+          "title": "Michael Carrick press conference Vs Everton",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w73wn6/michael_carrick_press_conference_vs_everton/\"> <img alt=\"Michael Carrick press conference Vs Everton\" src=\"https://external-preview.redd.it/YAchFcy5kymvmzqSAsNhLmEm12eucqpK6-h9g8yw-Sg.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=33ca1e80dc26520ee00163f9ee7da2c55a4ada89\" title=\"Michael Carrick press conference Vs Everton\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://youtu.be/5uXgJ1btXEk?si=GByU5xtr4ngUGVuX\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w73wn6/michael_carrick_press_conference_vs_everton/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w73wn6/michael_carrick_press_conference_vs_everton/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T13:06:46+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Carrick made to rue 'real deal' transfer target as forward completes move",
+      "items": [
+        {
+          "title": "Man United latest: Carrick made to rue 'real deal' transfer target as forward completes move",
+          "summary": "Manchester United boss Michael Carrick knows the squad at his disposal after the summer transfer window came to a close",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-michael-carrick-34569047",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 5 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Paul Scholes has blasted 12 Man United players – and only one has left the club",
+      "items": [
+        {
+          "title": "Paul Scholes has blasted 12 Man United players – and only one has left the club",
+          "summary": "The former Manchester United midfielder has laid the law down on several current players at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-scholes-casemiro-maguire-34565915",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 5 Sep 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Shaw, Amad, Baleba - Man United injury latest news and return dates before Everton clash",
+      "items": [
+        {
+          "title": "Shaw, Amad, Baleba - Man United injury latest news and return dates before Everton clash",
+          "summary": "Manchester United are set to take on Everton at Hill Dickinson Stadium on Sunday, but Michael Carrick looks to be without a number of potentially key players for the match",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-injury-news-everton-34571077",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 18:02:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United announce another transfer after deadline as striker completes move",
+      "items": [
+        {
+          "title": "Man United announce another transfer after deadline as striker completes move",
+          "summary": "Stoke City have confirmed the signing of Manchester United youth striker Louie Bradbury, with the 17-year-old penning a two-year professional contract with the Potters",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-exit-34569213",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 14:46:20 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I knew my first Man United start would be my last – but I don't dwell on the past in new career",
+      "items": [
+        {
+          "title": "I knew my first Man United start would be my last – but I don't dwell on the past in new career",
+          "summary": "A decade on from making his first Manchester United start alongside Marcus Rashford, a former Red Devils prospect has since swapped full-time football for an office job",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-academy-joe-riley-34567998",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 12:59:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson's final Man United signing set for free transfer after Joshua Zirkzee failure",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson's final Man United signing set for free transfer after Joshua Zirkzee failure",
+          "summary": "Joshua Zirkzee was expected to depart Manchester United this summer, but the fact he hasn't had a big effect on the future of Sir Alex Ferguson's final ever signing",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-wilfried-zaha-transfer-34566772",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 10:36:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Club chief speaks out after Man United sanction striker transfer - 'He's an elite player'",
+      "items": [
+        {
+          "title": "Club chief speaks out after Man United sanction striker transfer - 'He's an elite player'",
+          "summary": "Manchester United sanctioned another loan move for Ethan Wheatley during this summer's transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/ethan-wheatley-lincoln-man-utd-34566127",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 09:16:30 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why Kobbie Mainoo and Leny Yoro have not been included in Man United's Champions League squad",
+      "items": [
+        {
+          "title": "Why Kobbie Mainoo and Leny Yoro have not been included in Man United's Champions League squad",
+          "summary": "Manchester United have submitted a 25-man squad to UEFA ahead of the return of the Champions League to Old Trafford next week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/kobbie-mainoo-leny-yoro-not-34565925",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 08:59:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ex-Man United coach re-appointed to manager job just two months after quitting",
+      "items": [
+        {
+          "title": "Ex-Man United coach re-appointed to manager job just two months after quitting",
+          "summary": "The life of a football manager can be an unpredictable one, just ask one former Manchester United manager who is back in situ at a job he left two months ago",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carlos-queiroz-ghana-man-utd-34565938",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 08:50:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Scott McTominay makes transfer admission as he teases reunion with ex-Man United manager",
+      "items": [
+        {
+          "title": "Scott McTominay makes transfer admission as he teases reunion with ex-Man United manager",
+          "summary": "Scott McTominay has spoken about being reunited with a former Manchester United manager",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/scott-mctominay-united-napoli-transfer-34565481",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 08:18:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: Michael Carrick misses out on ‘real deal’ signing as striker seals transfer",
+      "items": [
+        {
+          "title": "Man Utd news: Michael Carrick misses out on ‘real deal’ signing as striker seals transfer",
+          "summary": "Manchester United manager Michael Carrick is preparing for Premier League action after the closing of the summer transfer window",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-michael-carrick-37627939",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 5 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd striker transfer confirmed despite summer window closing",
+      "items": [
+        {
+          "title": "Man Utd striker transfer confirmed despite summer window closing",
+          "summary": "Manchester United have confirmed that academy striker Louie Bradbury has agreed a move to Stoke City on a permanent transfer",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-bradbury-stoke-37629671",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 19:37:41 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick hints he could fill problem Man Utd position without spending a penny",
+      "items": [
+        {
+          "title": "Michael Carrick hints he could fill problem Man Utd position without spending a penny",
+          "summary": "Manchester United spent just under £150m in the summer transfer window but the Red Devils still have one specific position in the squad that could cause an issue for the remainder of the season",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-carrick-dorgu-transfer-37629234",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 16:13:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Desperate Everton turn to Jamie Vardy and ex-Man Utd star after deadline day farce",
+      "items": [
+        {
+          "title": "Desperate Everton turn to Jamie Vardy and ex-Man Utd star after deadline day farce",
+          "summary": "Former Leicester City and England star Jamie Vardy has been without a club since leaving Italian side Cremonese at the end of last season but he could potentially be back in the Premier League",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/jamie-vardy-everton-transfer-martial-37629013",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 15:25:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "How to watch London City Lionesses vs Man Utd Women – TV channel and live stream",
+      "items": [
+        {
+          "title": "How to watch London City Lionesses vs Man Utd Women – TV channel and live stream",
+          "summary": "The Women's Super League kicks off on Friday night with a blockbuster clash between London City Lionesses and Manchester United Women",
+          "url": "https://www.mirror.co.uk/sport/football/news/london-city-man-utd-stream-37622455",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 15:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick hints Man Utd fell short in transfer window and opens up on budget",
+      "items": [
+        {
+          "title": "Michael Carrick hints Man Utd fell short in transfer window and opens up on budget",
+          "summary": "Manchester United boss Michael Carrick feels his side have made the most of the finances they had available to them this summer",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-everton-carrick-transfers-37626422",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 12:56:26 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford gets new Man Utd tattoo on Old Trafford return after 18 months away",
+      "items": [
+        {
+          "title": "Marcus Rashford gets new Man Utd tattoo on Old Trafford return after 18 months away",
+          "summary": "Marcus Rashford is back in the fold at Manchester United after being frozen out by Ruben Amorim and now looks set to play a key role under Michael Carrick this season",
+          "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-tattoo-37626675",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 10:39:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I made full Man Utd debut with Marcus Rashford – now I have new career selling insurance'",
+      "items": [
+        {
+          "title": "'I made full Man Utd debut with Marcus Rashford – now I have new career selling insurance'",
+          "summary": "An ex-Manchester United player now lives a very different life",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-joe-riley-rashford-37626533",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 10:37:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd, Arsenal and Liverpool name Champions League squads as Reds snub two senior stars",
+      "items": [
+        {
+          "title": "Man Utd, Arsenal and Liverpool name Champions League squads as Reds snub two senior stars",
+          "summary": "Arsenal, Liverpool and Manchester United are among the teams who have now officially confirmed their 25-man squads for the Champions League - and there are some big surprises",
+          "url": "https://www.mirror.co.uk/sport/football/news/arsenal-liverpool-man-utd-squads-37625986",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 08:28:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I cried when Man Utd transfer fell through – I wanted to stay at Real Madrid'",
+      "items": [
+        {
+          "title": "'I cried when Man Utd transfer fell through – I wanted to stay at Real Madrid'",
+          "summary": "Manchester United are a dream destination for many players, though one target disclosed how relieved he was a transfer to Old Trafford collapsed at the 11th hour",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-real-madrid-transfer-37622336",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 4 Sep 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
+      "items": [
+        {
+          "title": "Premier League news: Richarlison refused new contract, Alonso backs James in midfield",
+          "summary": "<p>Tottenham manager Roberto De Zerbi insists his wantaway Brazilian striker ‘decided everything, not me’</p> <a href=\"https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-news-manchester-united-everton-aston-villa-manchester-city-tottenham",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 04 Sep 2026 21:30:00 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals ‘secret’ star Man Utd ‘discussed’ before transfer deadline - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals ‘secret’ star Man Utd ‘discussed’ before transfer deadline - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTBLWFlPV2xCZTN6Sl9iSjlxVlFDZXluZ3c5MzZoSTg2cGVmLUZHcGlfOFR0dVRZeXFxTDFaT3dfLWpHcVRjRlVYYktvNUdieDU1YXMyUS1ZRkcxXzZuenhtdExndVprNnFpZ2ZYcW80d21JRmNXTHNEamtNdEF2M1M5Z0xTWW00Sk53OERRcVItUU5yRjVsS0tldFhpMmVLdFFRM2ktemZHOVlja3cxc3RGMGdldlgwamxJ?oc=5\" target=\"_blank\">Fabrizio Romano reveals ‘secret’ star Man Utd ‘discussed’ before transfer deadline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTBLWFlPV2xCZTN6Sl9iSjlxVlFDZXluZ3c5MzZoSTg2cGVmLUZHcGlfOFR0dVRZeXFxTDFaT3dfLWpHcVRjRlVYYktvNUdieDU1YXMyUS1ZRkcxXzZuenhtdExndVprNnFpZ2ZYcW80d21JRmNXTHNEamtNdEF2M1M5Z0xTWW00Sk53OERRcVItUU5yRjVsS0tldFhpMmVLdFFRM2ktemZHOVlja3cxc3RGMGdldlgwamxJ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 04 Sep 2026 19:23:55 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals World Cup winner as Man Utd target - Read Man Utd",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals World Cup winner as Man Utd target - Read Man Utd",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOWldpTjlJYkxRbWxnUWxhYTB1QWZKSXZ0Y0NpbTB5ektrRjNkNW1YeE5VMUNzX1RYNFZjNDdpOHpzV2cyYW16S2UwQWxBMFRIY3dTclJoSHZjbE1GR2EwMHNKcG82b0VjNFBpbF9EYzJ3Qi1qaFNKV1Q4MXBoektIUVpSeW1WQQ?oc=5\" target=\"_blank\">Fabrizio Romano reveals World Cup winner as Man Utd target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Read Man Utd</font>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWldpTjlJYkxRbWxnUWxhYTB1QWZKSXZ0Y0NpbTB5ektrRjNkNW1YeE5VMUNzX1RYNFZjNDdpOHpzV2cyYW16S2UwQWxBMFRIY3dTclJoSHZjbE1GR2EwMHNKcG82b0VjNFBpbF9EYzJ3Qi1qaFNKV1Q4MXBoektIUVpSeW1WQQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 04 Sep 2026 20:00:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w7q1w1/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w7q1w1/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w7q1w1/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-05T04:00:47+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bryan Mbeumo has made the most off-ball runs in the Premier League through two matches",
+      "items": [
+        {
+          "title": "Bryan Mbeumo has made the most off-ball runs in the Premier League through two matches",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w79tdx/bryan_mbeumo_has_made_the_most_offball_runs_in/\"> <img alt=\"Bryan Mbeumo has made the most off-ball runs in the Premier League through two matches\" src=\"https://preview.redd.it/fpavis7d9jnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=971923bd08af63a2b84a5218161d94a9f2cf1707\" title=\"Bryan Mbeumo has made the most off-ball runs in the Premier League through two matches\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Mbeumo - 63</p> <p>Kai Havertz - 51</p> <p>Diego Gómez - 51</p> <p>Gonzalo García - 44</p> <p>Erling Haaland - 43</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://i.redd.it/fpavis7d9jnh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w79tdx/bryan_mbeumo_has_made_the_most_offball_runs_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w79tdx/bryan_mbeumo_has_made_the_most_offball_runs_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T16:49:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd [1]-2 London City - Simi Awujo 90+10'",
+      "items": [
+        {
+          "title": "Man Utd [1]-2 London City - Simi Awujo 90+10'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w7fcio/man_utd_12_london_city_simi_awujo_9010/\"> <img alt=\"Man Utd [1]-2 London City - Simi Awujo 90+10'\" src=\"https://external-preview.redd.it/M2p1d25lYnE4a25oMbWdmwBaVzulriLXKr_gwsNKnIaj82inIitqW3Vcfjpq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e690321058334ceea7d1e7bba0e01e1c7f7e6d87\" title=\"Man Utd [1]-2 London City - Simi Awujo 90+10'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/4mmm7paq8knh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w7fcio/man_utd_12_london_city_simi_awujo_9010/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w7fcio/man_utd_12_london_city_simi_awujo_9010/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T20:08:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Press Conference] Carrick on Utd spending less than many of their rivals: 'It’s just the situation we have. Whatever the amount is, you want to make the most of it. Whatever we’ve spent we’ve made the most of it, without a shadow of a doubt.'",
+      "items": [
+        {
+          "title": "[Press Conference] Carrick on Utd spending less than many of their rivals: 'It’s just the situation we have. Whatever the amount is, you want to make the most of it. Whatever we’ve spent we’ve made the most of it, without a shadow of a doubt.'",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick's Pre-Match Press Conference | Everton vs Manchester United, PL MD3</p> <p><strong>Chris Wheeler</strong></p> <p><strong>Carrick on Utd spending less than many of their rivals:</strong> 'It’s just the situation we have. Whatever the amount is, you want to make the most of it. Whatever we’ve spent we’ve made the most of it, without a shadow of a doubt.'</p> <p><strong>Carrick on not signing a left-back or striker:</strong> 'You always have to find ways of adapting, when you are building and trying to push to the top and that is the ultimate goal. It’s not going to be one hit. It’s the whole thing improving as a group.'</p> <p><strong>Carrick on Joshua Zirkzee staying despite late Everton bid:</strong> 'For sure, Josh is important. Josh is happy with here. I have a really good relationship with him. He wants to play play more than he has done. Josh can do some really top things.'</p> <p><strong>Michael Carrick says he is ‘largely happy’ with the transfer window</strong> despite Man Utd’s failure to sign a left-back</p> <p>Carrick: 'We went into the window wanting to come out stronger from the group we had last season. We've definitely added to that, and it's good work in that respect. The situation is what it is in terms of finances. I think we’ve done some really good business.'</p> <p>You can always look at it, and things that could have become available. We obviously had things we needed to fill and improve the group, but I think we’ve got a good a balance and players that are flexible throughout the team who can play as and when.'</p> <p><strong>Simon Stone</strong></p> <p>Michael Carrick on ManUtd: &quot;Going through a period where you are trying to get to the top, you have to take steps, it is not going to be one hit.&quot;</p> <p>Michael Carrick on Joshua Zirkzee: &quot;Josh is important. It is the depth and the squad. He is happy here. I have a really good relationship. He wants to play more than he has done. Josh can do some really top things. I look forward to him doing that a little bit more often.&quot;</p> <h1>Detailed Quotes</h1> <h1>Carrick on Deadline Day</h1> <blockquote> <p>We went into the window wanting to come out stronger. From the group we had last season. We’ve added to that, we’ve done a lot of good work. The situation is what it is in terms of finances and what we can work with. The players we brought in I’m delighted with, for the quality and level we’ve got I’m really happy with. There is always other things you can do or could have done, that’s part of evolving the group and trying to push all the time. We had certain things we needed to fill, try and improve the group and largely I think we’re in a good group. We’ve good dynamic in the squad. We’ve got players that are flexible in the team and can play in different positions. Largely pretty happy.</p> </blockquote> <h1>Carrick on Sesko</h1> <blockquote> <p>Ben is improving his fitness all the time. He had some time off which was important to make sure it was right moving forward and no setbacks, you can never guarantee that but give him a chance to be fit. He made big strides last season; he’s still young, still adapting to a point, learning, and developing his game. Loads more to come from Ben. It’s just being patient, looking after him and letting him grow into the season.</p> </blockquote> <h1>Carrick on Squad Balance</h1> <blockquote> <p>We went into the window wanting to come out stronger. From the group we had last season. We’ve added to that, we’ve done a lot of good work. The situation is what it is in terms of finances and what we can work with. The players we brought in I’m delighted with, for the quality and level we’ve got I’m really happy with. There is always other things you can do or could have done, that’s part of evolving the group and trying to push all the time. We had certain things we needed to fill, try and improve the group and largely I think we’re in a good group. We’ve good dynamic in the squad. We’ve got players that are flexible in the team and can play in different positions. Largely pretty happy.</p> </blockquote> <h1>Carrick on Finances</h1> <blockquote> <p>I didn’t say restrictions. It’s the situation we have. Whatever the amount is we want to make the most of it. For what we’ve spent we’ve made the most of it, without a shadow of a doubt, because of the players we brought in. I only focus on ourselves and what we can do and maximising what we can do.</p> </blockquote> <h1>Carrick on Squad again</h1> <blockquote> <p>What squad is ever perfect? You always have to find ways of adapting, when you’re building and going through a period where we’re trying to get to the top, you have to make steps. It’s not going to be one hit. Not just talking about players, it’s the whole thing, improving as a group, as a squad. It’s not an instant fix. There’s a whole road we have to go down with that and make sure we keep improving and in the end we want to be going where we want to be. There’s always things that we’re looking at and trying to improve.</p> </blockquote> <h1>Carrick on Zirkzee</h1> <blockquote> <p>Josh is important. It’s the team, the squad, the depth for the whole season. Josh is happy here, I have a really good relationship with him. He wants to play more than he has done. That’s the healthy competition for places. We have a lot of games coming up and a shorter period between games. Josh can do some really top things. I’ve seen it myself and I look forward to him doing it a little bit more.</p> </blockquote> <h1>Carrick on Dorgu at LB</h1> <blockquote> <p>He can certainly play there, he has done and I am not saying he can't do that. The way we’ve worked since I’ve been here, he’s unfortunately been injured for some time. For me he’s almost like a new player to have, like a new signing in some ways because he’s added so much to the group. He played off the right for Denmark and scored a great goal in the summer, he can play left-back. He can do a number of things. At some point he might have to do that. There are times in training when he does it. He’s only young and having the attributes he has got, we have to try and get the most out of him.</p> </blockquote> <h1>Carrick on Everton</h1> <blockquote> <p>However long I have been going to Everton, every game is as tough as it comes. Whatever position they are in, historically it has been tough. David is a terrific manager. They’ve got some talent, some very good attacking players as well. We’re expecting as tough a game as it gets.</p> </blockquote> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w73bhg/press_conference_carrick_on_utd_spending_less/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w73bhg/press_conference_carrick_on_utd_spending_less/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w73bhg/press_conference_carrick_on_utd_spending_less/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T12:41:54+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Champions League Predictions 2026-27: The Opta Supercomputer Projections",
+      "items": [
+        {
+          "title": "Champions League Predictions 2026-27: The Opta Supercomputer Projections",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w7b9sx/champions_league_predictions_202627_the_opta/\"> <img alt=\"Champions League Predictions 2026-27: The Opta Supercomputer Projections\" src=\"https://preview.redd.it/x5ew8bjlijnh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc95904fb31860c822a5e43d2a762e0c71a70467\" title=\"Champions League Predictions 2026-27: The Opta Supercomputer Projections\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BishhEzz\"> /u/BishhEzz </a> <br /> <span><a href=\"https://i.redd.it/x5ew8bjlijnh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w7b9sx/champions_league_predictions_202627_the_opta/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w7b9sx/champions_league_predictions_202627_the_opta/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T17:41:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd Women Starting XI vs London City Lionesses - WSL Match 1 | Tullis-Joyce; Sandberg, Le Tissier(C), Medina, Toone, Park, Terland, Riviere, Zigiotti, Janssen, Hinata.",
+      "items": [
+        {
+          "title": "Man Utd Women Starting XI vs London City Lionesses - WSL Match 1 | Tullis-Joyce; Sandberg, Le Tissier(C), Medina, Toone, Park, Terland, Riviere, Zigiotti, Janssen, Hinata.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w7akza/man_utd_women_starting_xi_vs_london_city/\"> <img alt=\"Man Utd Women Starting XI vs London City Lionesses - WSL Match 1 | Tullis-Joyce; Sandberg, Le Tissier(C), Medina, Toone, Park, Terland, Riviere, Zigiotti, Janssen, Hinata.\" src=\"https://preview.redd.it/3dc48nsldjnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6bcb24a566907ece90853c1a1d10b1b5e2b066b\" title=\"Man Utd Women Starting XI vs London City Lionesses - WSL Match 1 | Tullis-Joyce; Sandberg, Le Tissier(C), Medina, Toone, Park, Terland, Riviere, Zigiotti, Janssen, Hinata.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/3dc48nsldjnh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w7akza/man_utd_women_starting_xi_vs_london_city/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w7akza/man_utd_women_starting_xi_vs_london_city/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T17:16:43+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Sky Sports] Michael Carrick happy with transfer business and convinced that his squad has improved after summer window",
+      "items": [
+        {
+          "title": "[Sky Sports] Michael Carrick happy with transfer business and convinced that his squad has improved after summer window",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w6ze86/sky_sports_michael_carrick_happy_with_transfer/\"> <img alt=\"[Sky Sports] Michael Carrick happy with transfer business and convinced that his squad has improved after summer window\" src=\"https://external-preview.redd.it/8wAOYoEgtPhhvQ-x9n3tQQfRpR-cAVQOFkw5UbuvsVc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b6a2a1a4ca723d41ec029b17a0e4f84ea9e1b1c\" title=\"[Sky Sports] Michael Carrick happy with transfer business and convinced that his squad has improved after summer window\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/berbatouchbg\"> /u/berbatouchbg </a> <br /> <span><a href=\"https://www.skysports.com/football/news/11095/13580994/manchester-united-latest-michael-carrick-happy-with-transfer-business-and-convinced-that-his-squad-has-improved-after-summer-window\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w6ze86/sky_sports_michael_carrick_happy_with_transfer/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w6ze86/sky_sports_michael_carrick_happy_with_transfer/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T09:22:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "New week, same Mentality!",
+      "items": [
+        {
+          "title": "New week, same Mentality!",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w789rc/new_week_same_mentality/\"> <img alt=\"New week, same Mentality!\" src=\"https://external-preview.redd.it/a-Rq_8xFEK4M66VzULtoBz46CSZM5Qr65gW4rTQjZC4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f1d1901ecd189993d3f09bb75a73ab38e266533b\" title=\"New week, same Mentality!\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/simplsimonmetapieman\"> /u/simplsimonmetapieman </a> <br /> <span><a href=\"https://youtu.be/zseiHM5FtVA?si=aYp394YVYg2jtpuR\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w789rc/new_week_same_mentality/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w789rc/new_week_same_mentality/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T15:54:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick discusses Man Utd's transfer business, the season ahead and Bruno Fernandes! 🔥🔴",
+      "items": [
+        {
+          "title": "Michael Carrick discusses Man Utd's transfer business, the season ahead and Bruno Fernandes! 🔥🔴",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w779o4/michael_carrick_discusses_man_utds_transfer/\"> <img alt=\"Michael Carrick discusses Man Utd's transfer business, the season ahead and Bruno Fernandes! 🔥🔴\" src=\"https://external-preview.redd.it/WpBjbZDEP-ylWuTPoPHGO49BbFyANNCk3WYa_yVj4e0.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1e76d062771fe96e8e6f98255f4bcf7f7229db55\" title=\"Michael Carrick discusses Man Utd's transfer business, the season ahead and Bruno Fernandes! 🔥🔴\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=8OVfmLYiOCE\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w779o4/michael_carrick_discusses_man_utds_transfer/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w779o4/michael_carrick_discusses_man_utds_transfer/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T15:17:20+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Kieran Maguire] Premier League squad costs for 26/27 season",
+      "items": [
+        {
+          "title": "[Kieran Maguire] Premier League squad costs for 26/27 season",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w70b4o/kieran_maguire_premier_league_squad_costs_for/\"> <img alt=\"[Kieran Maguire] Premier League squad costs for 26/27 season\" src=\"https://preview.redd.it/wquz2rjzahnh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8ecbcf82bf64df18d6365e50ca2c4e69c015141\" title=\"[Kieran Maguire] Premier League squad costs for 26/27 season\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MrLead69\"> /u/MrLead69 </a> <br /> <span><a href=\"https://i.redd.it/wquz2rjzahnh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w70b4o/kieran_maguire_premier_league_squad_costs_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w70b4o/kieran_maguire_premier_league_squad_costs_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T10:15:03+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Academy forward Louie Bradbury has agreed a move to Championship side Stoke City",
+      "items": [
+        {
+          "title": "Academy forward Louie Bradbury has agreed a move to Championship side Stoke City",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/transfer-news-bradbury-joins-stoke\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w6z449/academy_forward_louie_bradbury_has_agreed_a_move/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w6z449/academy_forward_louie_bradbury_has_agreed_a_move/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-04T09:06:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 41,
+    "story_count": 36
+  }
+}
