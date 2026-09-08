@@ -1,0 +1,819 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T05:41:29.172836+00:00",
+  "match_data": {
+    "collected_at": "2026-09-08T05:41:22.304850+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p8f4f3?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 07 Sep 2026 15:13:00 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "Joe and Gaz discuss the draw at Everton and look ahead to facing Sabah and Man City.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p8dffr?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 07 Sep 2026 12:02:00 GMT"
+        },
+        {
+          "title": "Michael Carrick might need to think outside the box to fix glaring Manchester United weakness",
+          "summary": "Man Utd are conceding too many goals and Michael Carrick knows this is a weakness that is going to cost his team if it isn't fixed soon.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-might-need-think-34580274",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Manchester United are about to discover where they stand with young striker",
+          "summary": "Man Utd sent young striker Chido Obi on loan to Dutch club Willem II late in the summer transfer window.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-discover-stand-young-34580212",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "What Michael Carrick said after Manchester United vs Everton should set alarm bells ringing",
+          "summary": "The case for Michael Carrick's defence of Manchester United is weak. It is also insulting to some sections of supporters.",
+          "url": "https://www.manchestereveningnews.co.uk/incoming/what-michael-carrick-said-after-34578283",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 13:14:44 +0000"
+        },
+        {
+          "title": "Benjamin Sesko reacts to 'very painful' Manchester United draw vs Everton",
+          "summary": "Man Utd were on course to record a 2-1 away win against Everton before the home side scored a late equaliser.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/benjamin-sesko-reacts-very-painful-34578511",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 13:01:56 +0000"
+        },
+        {
+          "title": "Michael Carrick must make ruthless decision to drop Manchester United star",
+          "summary": "Man Utd have conceded six goals in their opening three Premier League games.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-must-make-ruthless-34577380",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 12:50:56 +0000"
+        },
+        {
+          "title": "Marcus Rashford has changed how Manchester United attack - the winners and losers are clear",
+          "summary": "Man Utd are attacking differently down their left compared to their right and the numbers are bearing it out.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/marcus-rashford-changed-how-manchester-34577566",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 10:10:31 +0000"
+        },
+        {
+          "title": "‘Here we go’ – Fabrizio Romano confirms Liverpool player will join Manchester United - readliverpoolfc.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHBsSTNSRmdldVYxUDdGcm1vZFJYUnNlbkRidUFVT1QtMnpOS1VKaXBXS3JOS25sdkRnSHFuQVpGZFhvcFlwVllFVFZyeEhtQlc5QmgzYVljb1M3SVI2MzhuVjAzVjlIVl9tREhWSFpocURGRlV0YllWWElMTkc2UVlQbmFYb01BV25CVDBGU1c5bGRuNDJXckFMaFFtd0R6eHNKSm16Z0J4Wm4yQWNXZlY1SE8?oc=5\" target=\"_blank\">‘Here we go’ – Fabrizio Romano confirms Liverpool player will join Manchester United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">readliverpoolfc.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHBsSTNSRmdldVYxUDdGcm1vZFJYUnNlbkRidUFVT1QtMnpOS1VKaXBXS3JOS25sdkRnSHFuQVpGZFhvcFlwVllFVFZyeEhtQlc5QmgzYVljb1M3SVI2MzhuVjAzVjlIVl9tREhWSFpocURGRlV0YllWWElMTkc2UVlQbmFYb01BV25CVDBGU1c5bGRuNDJXckFMaFFtd0R6eHNKSm16Z0J4Wm4yQWNXZlY1SE8?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 07 Sep 2026 20:08:40 GMT"
+        },
+        {
+          "title": "Arsenal and Manchester United track €65m-rated Premier League attacker",
+          "summary": "<p>Bournemouth attacker Evanilson has been linked with a move away from the club in recent months. Arsenal were interested in signing the 26-year-old attacker during the summer transfer window, and they initiated informal contact with the Cherries in order to enquire about the Brazilian. However, Bournemouth were unwilling to sell the player and rejected the [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/07/arsenal-and-manchester-united-track-e65m-rated-premier-league-attacker/\">Arsenal and Manchester United track €65m-rated Premier League attacker</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/07/arsenal-and-manchester-united-track-e65m-rated-premier-league-attacker/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 07 Sep 2026 19:10:05 +0000"
+        },
+        {
+          "title": "Arsenal and Manchester United target €45m-rated Bundesliga defender",
+          "summary": "<p>Borussia Dortmund defender Daniel Svensson has been linked with a move away from the German club, and he is a target for clubs like Arsenal and Manchester United. Arsenal admire his versatility and the ability to slot into multiple roles. They are closely monitoring his development and could look to make a move in the [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/07/arsenal-and-manchester-united-target-e45m-rated-bundesliga-defender/\">Arsenal and Manchester United target €45m-rated Bundesliga defender</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/07/arsenal-and-manchester-united-target-e45m-rated-bundesliga-defender/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 07 Sep 2026 18:30:07 +0000"
+        },
+        {
+          "title": "Liverpool and Manchester United make direct contact over £50m-rated teenager",
+          "summary": "<p>Mateus Mane continues to be linked with a move away from Wolves, and top clubs are keeping tabs on him. Liverpool and Manchester United are reportedly long-term admirers of the player, and they have made direct contact with the player&#8217;s representatives and Wolves regarding a potential move, as per Football 360. Mateus Mane attracts Premier [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/07/liverpool-and-manchester-united-make-direct-contact-over-50m-rated-teenager/\">Liverpool and Manchester United make direct contact over £50m-rated teenager</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/07/liverpool-and-manchester-united-make-direct-contact-over-50m-rated-teenager/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 07 Sep 2026 18:00:09 +0000"
+        },
+        {
+          "title": "Chelsea, Manchester United and Tottenham monitor €60m-rated South American striker",
+          "summary": "<p>Palmeiras striker Vitor Roque has been linked with a move to the Premier League in the past, and multiple clubs are keeping tabs on him. According to Sportowy, Chelsea, Manchester United and Tottenham Hotspur are closely monitoring his situation, and it remains to be seen whether they submit an offer to sign him in the [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/07/chelsea-manchester-united-and-tottenham-monitor-e60m-rated-south-american-striker/\">Chelsea, Manchester United and Tottenham monitor €60m-rated South American striker</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/07/chelsea-manchester-united-and-tottenham-monitor-e60m-rated-south-american-striker/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 07 Sep 2026 17:00:57 +0000"
+        },
+        {
+          "title": "Arsenal and Manchester United make enquiries for 18-year-old French prodigy",
+          "summary": "<p>Arsenal and Manchester United were reportedly interested in signing the French attacker Mohamed Kader Meite before the transfer deadline. According to TEAMtalk, the two clubs made enquiries to sign the player before the summer transfer window closed, and they remain keen on him. Mohamed Kader Meite attracts Premier League interest The 18-year-old is highly rated, [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/07/arsenal-and-manchester-united-make-enquiries-for-18-year-old-french-prodigy/\">Arsenal and Manchester United make enquiries for 18-year-old French prodigy</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/07/arsenal-and-manchester-united-make-enquiries-for-18-year-old-french-prodigy/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 07 Sep 2026 16:00:18 +0000"
+        },
+        {
+          "title": "Manchester United need to learn how to kill the hope",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w9mwef/manchester_united_need_to_learn_how_to_kill_the/\"> <img alt=\"Manchester United need to learn how to kill the hope\" src=\"https://external-preview.redd.it/hyCtq7dlfjhxhXs-M_PkkHSS3sMrbzSGzvoKaQSnriE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99e61645c88d9849a78dbe2469e16a2b8ad50626\" title=\"Manchester United need to learn how to kill the hope\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Michael Carrick was right that moments ultimately cost United two points against Everton. </p> <p>But if his team is to push on from last season, these are the type of games they need to kill.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7570441/2026/09/07/manchester-united-everton-analysis/?unlocked_article_code=1._VA.hvrK.CXVwWAiMhUq6&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9mwef/manchester_united_need_to_learn_how_to_kill_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9mwef/manchester_united_need_to_learn_how_to_kill_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T09:00:20+00:00"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "Google News: Fabrizio Romano",
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 5,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ederson shares new theory on Man United medical and £35m transfer agreement failure",
+      "items": [
+        {
+          "title": "Ederson shares new theory on Man United medical and £35m transfer agreement failure",
+          "summary": "Manchester United had agreed a deal to sign Ederson before pulling out of the transfer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ederson-manchester-united-transfer-atalanta-34581554",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 17:51:00 +0000"
+        },
+        {
+          "title": "Ederson gives fresh take on Man Utd medical after £35m transfer fell through",
+          "summary": "Manchester United had agreed a deal to sign Atalanta midfielder Ederson before changing their mind and pursuing other targets",
+          "url": "https://www.mirror.co.uk/sport/football/news/ederson-man-utd-transfer-ederson-37637111",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 19:01:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League clubs 'in Jadon Sancho transfer talks' as Man United flop eyes return",
+      "items": [
+        {
+          "title": "Premier League clubs 'in Jadon Sancho transfer talks' as Man United flop eyes return",
+          "summary": "Manchester United released Jadon Sancho this summer, who spent last season on loan at Aston Villa and after Chelsea paid £5million not to sign him 12 months ago",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jadon-sancho-man-utd-transfer-34580829",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 15:30:46 +0000"
+        },
+        {
+          "title": "Jadon Sancho 'in talks with two Premier League clubs' days after Man Utd flop’s return option",
+          "summary": "The attacker left Manchester United in the summer becoming a free agent following loan spells at Chelsea and Aston Villa",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/jadon-sancho-dortmund-man-utd-37636019",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 14:15:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Marcus Rashford feelings clear as Gary Neville slams team-mate's 'mistake'",
+      "items": [
+        {
+          "title": "Man United latest: Marcus Rashford feelings clear as Gary Neville slams team-mate's 'mistake'",
+          "summary": "Manchester United were held to a 2-2 draw by Everton in the Premier League on Sunday, with the Toffees scoring a last-minute equaliser through Ainsley Maitland-Niles",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-marcus-rashford-neville-34580863",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United strike agreement to sign Liverpool youngster as deal 'completed'",
+      "items": [
+        {
+          "title": "Man United strike agreement to sign Liverpool youngster as deal 'completed'",
+          "summary": "Manchester United have reportedly reached an agreement to sign a young Liverpool star",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-transfer-liverpool-konde-34581921",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 18:40:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Scott McTominay's recovery timeline revealed ahead of ex-Man United star's heart surgery",
+      "items": [
+        {
+          "title": "Scott McTominay's recovery timeline revealed ahead of ex-Man United star's heart surgery",
+          "summary": "A Napoli club chief has shared more information on former Manchester United star Scott McTominay's upcoming surgery and expected recovery time",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/scott-mctominay-heart-surgery-napoli-34581118",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 16:36:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'You can't' - Michael Carrick accused of doing same thing as Ruben Amorim and Erik ten Hag",
+      "items": [
+        {
+          "title": "'You can't' - Michael Carrick accused of doing same thing as Ruben Amorim and Erik ten Hag",
+          "summary": "Michael Carrick has been accused of doing the same thing as Ruben Amorim and Erik ten Hag during Manchester United's draw against Everton on Sunday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-man-united-neville-34580700",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 15:59:33 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United make decision on £39m left-back after Lewis Hall transfer decision",
+      "items": [
+        {
+          "title": "Man United make decision on £39m left-back after Lewis Hall transfer decision",
+          "summary": "Manchester United attempted to strengthen their left-back options in the summer, but will now have to wait until the January transfer window.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-left-back-transfer-34580862",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 15:24:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rio Ferdinand tells Michael Carrick to change his mind on Man United teenager now",
+      "items": [
+        {
+          "title": "Rio Ferdinand tells Michael Carrick to change his mind on Man United teenager now",
+          "summary": "Rio Ferdinand sent a message to former team-mate Michael Carrick following Manchester United's 2-2 draw with Everton at Hill Dickinson Stadium",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/rio-ferdinand-carrick-man-united-34580300",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 15:02:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "AD FEATURE: Man United Champions League 2026/27 preview: odds, fixtures, prediction and win tickets",
+      "items": [
+        {
+          "title": "AD FEATURE: Man United Champions League 2026/27 preview: odds, fixtures, prediction and win tickets",
+          "summary": "Man United's Champions League campaign gets underway this week - here's everything you need to know and a chance to win match tickets",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-preview-34578735",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 14:32:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Michael Carrick meant by 'loads of little things' comment after Man United draw vs Everton",
+      "items": [
+        {
+          "title": "What Michael Carrick meant by 'loads of little things' comment after Man United draw vs Everton",
+          "summary": "Manchester United took the lead in the 88th minute at Everton but struggled to control the game after that and conceded a late equaliser.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-meant-loads-34578546",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 13:42:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville is right - Michael Carrick's Man United have a big unsolvable problem",
+      "items": [
+        {
+          "title": "Gary Neville is right - Michael Carrick's Man United have a big unsolvable problem",
+          "summary": "Manchester United have got off to a slow start in the Premier League and Michael Carrick has a problem that must be fixed if he wants to challenge at the top",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-gary-neville-defence-34578343",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 13:19:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Rashford, Amad, Baleba - Man United injury news and return dates after Everton draw",
+      "items": [
+        {
+          "title": "Rashford, Amad, Baleba - Man United injury news and return dates after Everton draw",
+          "summary": "Manchester United will be back in European action on Thursday when they face Sabah at Old Trafford after drawing at Everton in the Premier League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-injuries-rashford-amad-34578966",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 11:25:36 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville singles out three Man United stars over Everton equaliser - 'I was screaming'",
+      "items": [
+        {
+          "title": "Gary Neville singles out three Man United stars over Everton equaliser - 'I was screaming'",
+          "summary": "Michael Carrick's Manchester United could have taken all three points against Everton were it not for the individual errors that gifted the equaliser",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/neville-dorgu-man-united-everton-34577729",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 09:27:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford sends message after Man United injury scare vs Everton",
+      "items": [
+        {
+          "title": "Marcus Rashford sends message after Man United injury scare vs Everton",
+          "summary": "Marcus Rashford impressed on the left wing during Manchester United's 2-2 Premier League draw with Everton at Hill Dickinson Stadium on Sunday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-man-united-injury-34577223",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 07:24:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United 'make official contact' for £86m transfer as January plans take shape",
+      "items": [
+        {
+          "title": "Man United 'make official contact' for £86m transfer as January plans take shape",
+          "summary": "Manchester United have made contact with an £86million midfielder despite signing three in the summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-felix-nmecha-34576965",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 05:49:38 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: Marcus Rashford sent transfer message as Gary Neville highlights 'massive mistake'",
+      "items": [
+        {
+          "title": "Man Utd news: Marcus Rashford sent transfer message as Gary Neville highlights 'massive mistake'",
+          "summary": "Manchester United were held to a 2-2 draw at Everton on Sunday afternoon but their Champions League opener is now on the horizon",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-marcus-rashford-neville-37636133",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd strike deal to land Liverpool wonderkid in major transfer coup",
+      "items": [
+        {
+          "title": "Man Utd strike deal to land Liverpool wonderkid in major transfer coup",
+          "summary": "Manchester United have struck an agreement with Liverpool to sign teenage star Isaac Konde as the 16-year-old prepares to move from Anfield to Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-strike-deal-land-37637283",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 20:42:02 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick should not be 'disappointed' with Man Utd setback - he should be angry",
+      "items": [
+        {
+          "title": "Michael Carrick should not be 'disappointed' with Man Utd setback - he should be angry",
+          "summary": "The Man Utd boss has come under fire for saying his team's start to the season has 'not been that bad' and needs to get on the front foot in the Champions League and Manchester derby",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-everton-37635301",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 16:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd signing 'isn't the answer' as Michael Carrick treatment sums up problem",
+      "items": [
+        {
+          "title": "Man Utd signing 'isn't the answer' as Michael Carrick treatment sums up problem",
+          "summary": "Manchester United frontman Benjamin Sesko has continued to be used as an impact player with Michael Carrick opting against using him from the start, which was also the case last season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-sesko-37636415",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 15:00:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd's four-year-old defence have kept just four clean sheets together in damning record",
+      "items": [
+        {
+          "title": "Man Utd's four-year-old defence have kept just four clean sheets together in damning record",
+          "summary": "Manchester United have yet to keep a clean sheet this season and their back four has come under scrutiny",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-defence-stats-carrick-37635386",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 13:13:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd are accepting mediocrity and insulting supporters - it needs to stop",
+      "items": [
+        {
+          "title": "Man Utd are accepting mediocrity and insulting supporters - it needs to stop",
+          "summary": "Manchester United have won just one of their opening three Premier League games, conceding two goals in each, and are nowhere near challenging for the title",
+          "url": "https://www.mirror.co.uk/sport/football/man-utd-accepting-mediocrity-insulting-37634789",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 10:55:45 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville makes damning Michael Carrick comparison and admits 'big fear' for Man Utd",
+      "items": [
+        {
+          "title": "Gary Neville makes damning Michael Carrick comparison and admits 'big fear' for Man Utd",
+          "summary": "Manchester United surrendered the lead twice during Sunday's 2-2 draw away to Everton, leaving Michael Carrick's side with four points from their opening three games",
+          "url": "https://www.mirror.co.uk/sport/football/news/neville-carrick-manchester-united-everton-37633962",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 7 Sep 2026 06:44:54 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League: 10 talking points from the weekend’s action",
+      "items": [
+        {
+          "title": "Premier League: 10 talking points from the weekend’s action",
+          "summary": "<p>Fulham need a win, Tottenham show some spirit and Jack Grealish offers Everton much-needed energy</p><p>With 25 minutes to go against Manchester United, the Everton supporters had something to roar about as Jack Grealish made his return after rejoining on loan. The attacking midfielder remains universally popular thanks to his desire to entertain, getting the hosts back on their feet by creating dangerous situations within seconds of his arrival. Everton were limited in the final third for long periods as Thierno Barry sat on the periphery. If David Moyes is to keep his side pushing for a top-half finish, he will need Grealish to be a creative focal point. <strong>Will Unwin</strong></p> <a href=\"https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/07/premier-league-10-talking-points-from-the-weekends-action",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Mon, 07 Sep 2026 07:00:27 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein explains key reason behind Man United’s summer transfer frustrations - Yahoo Sports",
+      "items": [
+        {
+          "title": "David Ornstein explains key reason behind Man United’s summer transfer frustrations - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUh3WHpUSUZ4QjdaejdFR01Lam1OU2tBNko1TV9GSmJka2lKNlJoampJVWhmV0dSeHlYcFpMa19xa0huSG1naEJKUnNOS1FkdWJUbjUxOG9ZTjVaVzlVejFiVTBrV3FzWW5acWhiU3JJeVVqZEZ0U2pKZ0pHX2t4UEd0eUE2TUhfdkM4?oc=5\" target=\"_blank\">David Ornstein explains key reason behind Man United’s summer transfer frustrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWUh3WHpUSUZ4QjdaejdFR01Lam1OU2tBNko1TV9GSmJka2lKNlJoampJVWhmV0dSeHlYcFpMa19xa0huSG1naEJKUnNOS1FkdWJUbjUxOG9ZTjVaVzlVejFiVTBrV3FzWW5acWhiU3JJeVVqZEZ0U2pKZ0pHX2t4UEd0eUE2TUhfdkM4?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Sun, 06 Sep 2026 09:05:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United remain keen on signing midfielder after failed move on deadline day",
+      "items": [
+        {
+          "title": "Man United remain keen on signing midfielder after failed move on deadline day",
+          "summary": "<p>Manchester United are expected to continue their pursuit of Leicester City midfielder Louis Page after failing to complete a deadline-day deal for the highly-rated teenager. The 18-year-old was one of United’s late targets despite Michael Carrick already strengthening his midfield significantly during the summer. Want more CaughtOffside coverage? Add us as a preferred source on [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/08/man-united-remain-keen-on-signing-midfielder-after-failed-move-on-deadline-day/\">Man United remain keen on signing midfielder after failed move on deadline day</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/08/man-united-remain-keen-on-signing-midfielder-after-failed-move-on-deadline-day/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 08 Sep 2026 05:40:45 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wa9zu6/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wa9zu6/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wa9zu6/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T01:01:01+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Happy birthday Bruno",
+      "items": [
+        {
+          "title": "Happy birthday Bruno",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wa8wi9/happy_birthday_bruno/\"> <img alt=\"Happy birthday Bruno\" src=\"https://preview.redd.it/zahqzwnwu6oh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f39cb45ba65e668c888f63116446b568b0f289c0\" title=\"Happy birthday Bruno\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Today 32 years ago this specimen of a player was born in my city.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Ok_Aardvark_5537\"> /u/Ok_Aardvark_5537 </a> <br /> <span><a href=\"https://i.redd.it/zahqzwnwu6oh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wa8wi9/happy_birthday_bruno/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wa8wi9/happy_birthday_bruno/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T00:11:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Premier League] Match officials for Matchweek 4 - Michael Oliver Referee for Man Utd vs Man City",
+      "items": [
+        {
+          "title": "[Premier League] Match officials for Matchweek 4 - Michael Oliver Referee for Man Utd vs Man City",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w9xr0r/premier_league_match_officials_for_matchweek_4/\"> <img alt=\"[Premier League] Match officials for Matchweek 4 - Michael Oliver Referee for Man Utd vs Man City\" src=\"https://external-preview.redd.it/6o_9knOx0KHFeOVZ5TnukTOfh8PVkYHWC-OqBy1pizM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a137b870fff26e81ce39e4bcef9ef59950765e2\" title=\"[Premier League] Match officials for Matchweek 4 - Michael Oliver Referee for Man Utd vs Man City\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.premierleague.com/en/news/4711668/match-officials-for-matchweek-4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9xr0r/premier_league_match_officials_for_matchweek_4/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9xr0r/premier_league_match_officials_for_matchweek_4/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T16:59:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Rob Dawson] Man United still pursuing Leicester midfielder Louis Page",
+      "items": [
+        {
+          "title": "[Rob Dawson] Man United still pursuing Leicester midfielder Louis Page",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w9samu/rob_dawson_man_united_still_pursuing_leicester/\"> <img alt=\"[Rob Dawson] Man United still pursuing Leicester midfielder Louis Page\" src=\"https://external-preview.redd.it/ZqL8dhxxlF-LdyO53XOf4mfGxKFtaH7nwk9jZMJ-Zm4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4b61be5496dafbd257c3a79ab05313ebf404c4f1\" title=\"[Rob Dawson] Man United still pursuing Leicester midfielder Louis Page\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://www.espn.com/soccer/story/_/id/49858056/man-united-leicester-louis-page-premier-league-transfers-league-one\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9samu/rob_dawson_man_united_still_pursuing_leicester/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9samu/rob_dawson_man_united_still_pursuing_leicester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T13:32:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Opta Analyst] The most involved players in open-play attacking sequences across the first three matchdays of the 2026-27 Premier League - Bruno tops; Mbeumo, Tielemans & Cunha in top 10",
+      "items": [
+        {
+          "title": "[Opta Analyst] The most involved players in open-play attacking sequences across the first three matchdays of the 2026-27 Premier League - Bruno tops; Mbeumo, Tielemans & Cunha in top 10",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w9wzhk/opta_analyst_the_most_involved_players_in/\"> <img alt=\"[Opta Analyst] The most involved players in open-play attacking sequences across the first three matchdays of the 2026-27 Premier League - Bruno tops; Mbeumo, Tielemans &amp; Cunha in top 10\" src=\"https://preview.redd.it/qi6y3dxwj4oh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c71a72a3f58204d89427bb437d6deb447388bfee\" title=\"[Opta Analyst] The most involved players in open-play attacking sequences across the first three matchdays of the 2026-27 Premier League - Bruno tops; Mbeumo, Tielemans &amp; Cunha in top 10\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/qi6y3dxwj4oh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9wzhk/opta_analyst_the_most_involved_players_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9wzhk/opta_analyst_the_most_involved_players_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T16:31:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Talk of the Devils: Cause for concern in Man United’s performance at Everton?",
+      "items": [
+        {
+          "title": "Talk of the Devils: Cause for concern in Man United’s performance at Everton?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w9x8v0/talk_of_the_devils_cause_for_concern_in_man/\"> <img alt=\"Talk of the Devils: Cause for concern in Man United’s performance at Everton?\" src=\"https://external-preview.redd.it/zGmHAzmfkBoTvXouEMM8ASTYK7AMZrGV3WZg-2GEQaQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e7b7178b1d764e88dfdd709198a9b357b718bd8b\" title=\"Talk of the Devils: Cause for concern in Man United’s performance at Everton?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=-TRrI6i1WIo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9x8v0/talk_of_the_devils_cause_for_concern_in_man/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9x8v0/talk_of_the_devils_cause_for_concern_in_man/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T16:41:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chances against Everton",
+      "items": [
+        {
+          "title": "Chances against Everton",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w9osjj/chances_against_everton/\"> <img alt=\"Chances against Everton\" src=\"https://external-preview.redd.it/YTZqZXduejl2Mm9oMTlEYdeIaeTboFXRo6FoZHON0FLrvxthftYoPiGAzpIm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a3041ad805e9ce97be4d9c9f30c96bf306c0ead\" title=\"Chances against Everton\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I just can’t believe we didn’t beat this Everton side. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/maszhanan\"> /u/maszhanan </a> <br /> <span><a href=\"https://v.redd.it/zzc9ckz9v2oh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9osjj/chances_against_everton/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9osjj/chances_against_everton/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T10:47:37+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Academy defender James Overy has agreed a move to Australian side Sydney FC",
+      "items": [
+        {
+          "title": "Academy defender James Overy has agreed a move to Australian side Sydney FC",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/james-overy-departs-for-sydney-fc\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9nfw6/academy_defender_james_overy_has_agreed_a_move_to/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9nfw6/academy_defender_james_overy_has_agreed_a_move_to/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T09:31:25+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Match Recap | Everton Vs United | Premier League 26/27",
+      "items": [
+        {
+          "title": "Match Recap | Everton Vs United | Premier League 26/27",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1w9n6vt/match_recap_everton_vs_united_premier_league_2627/\"> <img alt=\"Match Recap | Everton Vs United | Premier League 26/27\" src=\"https://external-preview.redd.it/NjRuOTZ1YTlmMm9oMe6L4rnvKID8O6IWMs-1QqC7pyxs74DLumDjdTK5xk2x.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f077e2b7b370429345e0ea0cc2618589c0300726\" title=\"Match Recap | Everton Vs United | Premier League 26/27\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://v.redd.it/14xopla9f2oh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1w9n6vt/match_recap_everton_vs_united_premier_league_2627/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1w9n6vt/match_recap_everton_vs_united_premier_league_2627/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-07T09:16:52+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 51,
+    "story_count": 35
+  }
+}
