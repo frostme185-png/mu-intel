@@ -1,0 +1,634 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T05:46:42.209969+00:00",
+  "match_data": {
+    "collected_at": "2026-09-09T05:46:35.845659+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p8lc6n?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 08 Sep 2026 16:00:00 GMT"
+        },
+        {
+          "title": "Matheus Cunha is exposing Manchester United transfer error through no fault of his own",
+          "summary": "Manchester United's blunt attack were punished by a late Everton equaliser on Sunday and the solution is unlikely to be found this season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/matheus-cunha-exposing-manchester-united-34587265",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Manchester United fans' planned protest is no reason for Man City fans to laugh",
+          "summary": "Man Utd fans will protest against the club's alleged 'season ticket banning crackdown' before the Manchester derby.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-fans-planned-protest-34582868",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Another Manchester United transfer exit confirmed as midfielder leaves on loan",
+          "summary": "Young Manchester United midfielder has left on loan",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/another-manchester-united-transfer-exit-34587568",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 18:59:12 +0000"
+        },
+        {
+          "title": "Manchester United fans announce ticket protest before Manchester derby",
+          "summary": "Man Utd fans are set to protest against the club's treatment of season-ticket holders amid the ticket-touting operation fiasco",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-fans-announce-ticket-34583481",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 10:00:07 +0000"
+        },
+        {
+          "title": "Manchester United announce major cash boost after latest sponsor deal",
+          "summary": "Man Utd have struck a deal that will see a new company sponsor the sleeves of their home and away kits.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-announce-major-cash-34582870",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 09:00:00 +0000"
+        },
+        {
+          "title": "Manchester United to confirm three signings from Liverpool and Man City",
+          "summary": "Manchester United have added a few talented young players to their academy from rival clubs this summer.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/isaac-konde-man-utd-transfer-34514690",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 08:18:08 +0000"
+        },
+        {
+          "title": "Manchester United reach new agreement as cash injection confirmed",
+          "summary": "Manchester United are set for a major cash influx, having reached a fresh agreement with the help of their coming Champions League campaign",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-announcement-premier-league-37638421",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 09:35:30 +0000"
+        },
+        {
+          "title": "Manchester United's Transfer Strategy Revealed - YSscores",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzJXM1g4R0RxUkxpNTJfUDdyQ0hzR0x2SkNDaXNlZVRoWmotSFJUamlVREJNZ0hTWlBETGg2SGd0aDVKVDlRalJBUG5idTRtVHZLTmZTTFp2RGJac1FBTzZ3UTBTTGlsa25MMDBrbEJ5cGJFWC1PTWVYZHg5NGVLbWpxLVFWMEoxdmJwT29HSjc?oc=5\" target=\"_blank\">Manchester United's Transfer Strategy Revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">YSscores</font>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzJXM1g4R0RxUkxpNTJfUDdyQ0hzR0x2SkNDaXNlZVRoWmotSFJUamlVREJNZ0hTWlBETGg2SGd0aDVKVDlRalJBUG5idTRtVHZLTmZTTFp2RGJac1FBTzZ3UTBTTGlsa25MMDBrbEJ5cGJFWC1PTWVYZHg5NGVLbWpxLVFWMEoxdmJwT29HSjc?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Mon, 07 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Wayne Rooney identifies two mistakes Manchester United need to fix after summer window",
+          "summary": "<p>Former Manchester United striker Wayne Rooney believes the club still lacks two quality players to compete with elite clubs. Rooney feels Manchester United need another reliable goalscorer besides Benjamin Sesko, and they also need to invest in a quality full-back. Luke Shaw is unlikely to play every game, and they could have used an alternative. [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/08/wayne-rooney-identifies-two-mistakes-manchester-united-need-to-fix-after-summer-window/\">Wayne Rooney identifies two mistakes Manchester United need to fix after summer window</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/08/wayne-rooney-identifies-two-mistakes-manchester-united-need-to-fix-after-summer-window/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 08 Sep 2026 18:00:39 +0000"
+        },
+        {
+          "title": "[Steven Railston] Manchester United are set to complete the signing of Isaac Konde from Liverpool, the latest high-profile academy addition following the arrivals of David Eze and Karim Cassim from Manchester City.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1waihne/steven_railston_manchester_united_are_set_to/\"> <img alt=\"[Steven Railston] Manchester United are set to complete the signing of Isaac Konde from Liverpool, the latest high-profile academy addition following the arrivals of David Eze and Karim Cassim from Manchester City.\" src=\"https://external-preview.redd.it/1nDUl397TZ2SSscRO-Lc8LVuFqWRTo9pJV77VEzerhM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9957bad1072e050dee14a9875c842d805c1a4e3a\" title=\"[Steven Railston] Manchester United are set to complete the signing of Isaac Konde from Liverpool, the latest high-profile academy addition following the arrivals of David Eze and Karim Cassim from Manchester City.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manchestereveningnews.co.uk/sport/football/transfer-news/isaac-konde-man-utd-transfer-34514690\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1waihne/steven_railston_manchester_united_are_set_to/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1waihne/steven_railston_manchester_united_are_set_to/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T08:27:03+00:00"
+        },
+        {
+          "title": "Manchester United fan group to protest season ticket sanctions before derby",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wapgj5/manchester_united_fan_group_to_protest_season/\"> <img alt=\"Manchester United fan group to protest season ticket sanctions before derby\" src=\"https://external-preview.redd.it/BJx9oEzozOieBP-LEbpSY4qzuot2uDymatmQxQJgZD0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a408a928c85fb5eb6549eb64e8f6e6af3f277062\" title=\"Manchester United fan group to protest season ticket sanctions before derby\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PavanayiShavamayilla\"> /u/PavanayiShavamayilla </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7574477/2026/09/08/manchester-united-ticket-protest/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wapgj5/manchester_united_fan_group_to_protest_season/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wapgj5/manchester_united_fan_group_to_protest_season/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T14:09:14+00:00"
+        },
+        {
+          "title": "Manchester United and SumUp today announced a multi-year partnership that will see the leading global fintech company become the club’s Official Sleeve Partner.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/sumup-is-united-official-sleeve-partner\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1waj2kq/manchester_united_and_sumup_today_announced_a/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1waj2kq/manchester_united_and_sumup_today_announced_a/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T09:01:48+00:00"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC",
+        "r/reddevils",
+        "Google News: David Ornstein",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 6,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Record-breaking deal done as Peter Schmeichel dubs player 'fantastic'",
+      "items": [
+        {
+          "title": "Man United latest: Record-breaking deal done as Peter Schmeichel dubs player 'fantastic'",
+          "summary": "The latest news as Manchester United prepare to re-enter the Champions League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-schmeichel-marcus-rashford-34585554",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Alejandro Garnacho suffers Champions League embarrassment as suspicions raised",
+      "items": [
+        {
+          "title": "Alejandro Garnacho suffers Champions League embarrassment as suspicions raised",
+          "summary": "Former Manchester United star Alejandro Garnacho has struggled for regular minutes during his loan at Aston Villa - and things got even worse for him on Tuesday night",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/alejandro-garnacho-champions-league-villa-34587817",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 19:32:17 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carabao Cup fourth round draw date, time, how to watch and live stream details",
+      "items": [
+        {
+          "title": "Carabao Cup fourth round draw date, time, how to watch and live stream details",
+          "summary": "Manchester United and Man City will both be hoping for deep runs in this year's Carabao Cup as the third round begins",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carabao-cup-fourth-round-draw-34587348",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 19:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lewis Hall 'closing in' on Newcastle agreement as Man United learn final transfer decision",
+      "items": [
+        {
+          "title": "Lewis Hall 'closing in' on Newcastle agreement as Man United learn final transfer decision",
+          "summary": "Manchester United identified the Newcastle United left-back as a target in the summer transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/lewis-hall-manchester-united-newcaslte-34584569",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 11:44:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jadon Sancho offered lifeline by ex-Liverpool star as Serie A transfer ruled out",
+      "items": [
+        {
+          "title": "Jadon Sancho offered lifeline by ex-Liverpool star as Serie A transfer ruled out",
+          "summary": "Jadon Sancho has been a free agent since leaving Manchester United and has been offered a move to the UAE",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jadon-sancho-transfer-man-utd-34583809",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 11:29:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford's new tattoo says it all as Man United star told 'we've missed you'",
+      "items": [
+        {
+          "title": "Marcus Rashford's new tattoo says it all as Man United star told 'we've missed you'",
+          "summary": "Marcus Rashford has impressed on his return to Manchester United and he has been told that his new tattoo proves he means business on his homecoming at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-tattoo-man-utd-34584005",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 11:16:02 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Five players looking to impress Enzo Maresca ahead of Man City's hectic schedule",
+      "items": [
+        {
+          "title": "Five players looking to impress Enzo Maresca ahead of Man City's hectic schedule",
+          "summary": "Manchester City will play four games in 12 days, starting tonight when they visit Porto in the Champions League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/five-players-looking-impress-enzo-34581591",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ryan Giggs shares some home truths in brutally honest advice for Marcus Rashford",
+      "items": [
+        {
+          "title": "Ryan Giggs shares some home truths in brutally honest advice for Marcus Rashford",
+          "summary": "Marcus Rashford is back at Manchester United after two loan spells away, with manager Michael Carrick reintegrating him into his squad for the new campaign",
+          "url": "https://www.mirror.co.uk/sport/football/news/ryan-giggs-marcus-rashford-manunited-37641402",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: 'New signing' dubbed 'dangerous' as Red Devils land record-breaking deal",
+      "items": [
+        {
+          "title": "Man Utd news: 'New signing' dubbed 'dangerous' as Red Devils land record-breaking deal",
+          "summary": "Round-up as Manchester United prepare for their return to the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-schmeichel-marcus-rashford-37639630",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd REJECTED chance to sign Kylian Mbappe after Ryan Giggs scouting mission",
+      "items": [
+        {
+          "title": "Man Utd REJECTED chance to sign Kylian Mbappe after Ryan Giggs scouting mission",
+          "summary": "Kylian Mbappe has become one of the world's best footballers during his spells with Monaco, PSG and Real Madrid but he could have become a Manchester United player",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-giggs-ferdinand-mbappe-37641344",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 21:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney issues Michael Carrick sack warning and says Bruno Fernandes won't be happy",
+      "items": [
+        {
+          "title": "Wayne Rooney issues Michael Carrick sack warning and says Bruno Fernandes won't be happy",
+          "summary": "Manchester United have only managed to win one of their opening three Premier League matches, a far cry from the red-hot form which they enjoyed under Michael Carrick last season",
+          "url": "https://www.mirror.co.uk/sport/football/news/rooney-carrick-manchester-united-sack-37640743",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 17:50:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd's 2027 transfer plan already in tatters as priority target agrees deal",
+      "items": [
+        {
+          "title": "Man Utd's 2027 transfer plan already in tatters as priority target agrees deal",
+          "summary": "Manchester United focussed on making signings in midfield during the 2026 summer transfer window, but their plan to strengthen another position next year has already suffered a setback",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-hall-newcastle-37640829",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 16:50:26 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Peter Schmeichel snubs Man Utd stars as he names signing of the season",
+      "items": [
+        {
+          "title": "Peter Schmeichel snubs Man Utd stars as he names signing of the season",
+          "summary": "Manchester United splashed the cash this summer ahead of Michael Carrick’s first full season at the helm but it appears Peter Schmeichel is more impressed by another club’s business",
+          "url": "https://www.mirror.co.uk/sport/football/news/peter-schmeichel-chelsea-transfer-martinez-37640647",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 16:19:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "One week after the transfer window closes, Man Utd remind fans what they're really about",
+      "items": [
+        {
+          "title": "One week after the transfer window closes, Man Utd remind fans what they're really about",
+          "summary": "Manchester United needed a new defender, but have got a shirt sleeve sponsor instead, reminding supporters what the priorities of the club's owners still are",
+          "url": "https://www.mirror.co.uk/sport/football/news/one-week-after-transfer-window-37638901",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd fan group announce protest plans after club 'crossed the line' with ticket plans",
+      "items": [
+        {
+          "title": "Man Utd fan group announce protest plans after club 'crossed the line' with ticket plans",
+          "summary": "Manchester United supporters are being urged to join a protest by a fan group, who remain frustrated by the way the club attempted to rid of certain individual's season tickets",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fans-protest-tickets-37640021",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 15:03:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd issue resolved after breaking Premier League rule and being forced into kit change",
+      "items": [
+        {
+          "title": "Man Utd issue resolved after breaking Premier League rule and being forced into kit change",
+          "summary": "Manchester United have fixed a problem which came to light after their first Premier League match of the new season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-premier-league-rules-37639916",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 14:57:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick's 'not that bad' remark assessed as Man Utd start under the spotlight",
+      "items": [
+        {
+          "title": "Michael Carrick's 'not that bad' remark assessed as Man Utd start under the spotlight",
+          "summary": "Manchester United were denied late on at Everton on Sunday, halting their hopes of building an early season momentum, as Michael Carrick addresses their results and performances",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-utd-season-37638798",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 12:05:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why English clubs have struggled to dominate Champions League despite Prem riches",
+      "items": [
+        {
+          "title": "Why English clubs have struggled to dominate Champions League despite Prem riches",
+          "summary": "OPINION: Europe's blue riband competition gets underway and Premier League teams will still find it tough to win it even though they have had another record-breaking transfer window",
+          "url": "https://www.mirror.co.uk/sport/football/champions-league-manutd-arsenal-liverpool-37638240",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 09:48:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Newcastle warn fans more players will be sold as Man Utd eye Lewis Hall transfer",
+      "items": [
+        {
+          "title": "Newcastle warn fans more players will be sold as Man Utd eye Lewis Hall transfer",
+          "summary": "Newcastle sanctioned the sales of some of their biggest names in the summer transfer window and fans have now been told to brace for more high-profile departures in the future",
+          "url": "https://www.mirror.co.uk/sport/football/news/newcastle-lewis-hall-man-utd-37637835",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 8 Sep 2026 08:30:56 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals next Man Utd signing 'completed'; INEOS primed to land Arsenal target - Football365",
+      "items": [
+        {
+          "title": "Romano reveals next Man Utd signing 'completed'; INEOS primed to land Arsenal target - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONnNId0p3T1hRWkFodGhaYkhhMDhTOXRnSUFMZEctVWVNaUthVHA1ZUV1cFIwa1hFSEZCOWhvbEtzajNZUXBjU0tYWXFyWVFGR0g2c01SemZDZkZkX3lEbDBBelBTWW5oLWxnTS1ZWUwyTkZyemxVTWt5cHlHUU9KYW1rR2xHcmc0VFdXQjZJMW95Q01kVkUwRGpudVlWVGt5Vk94UE1fZnlvb2Z2cnJF?oc=5\" target=\"_blank\">Romano reveals next Man Utd signing 'completed'; INEOS primed to land Arsenal target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONnNId0p3T1hRWkFodGhaYkhhMDhTOXRnSUFMZEctVWVNaUthVHA1ZUV1cFIwa1hFSEZCOWhvbEtzajNZUXBjU0tYWXFyWVFGR0g2c01SemZDZkZkX3lEbDBBelBTWW5oLWxnTS1ZWUwyTkZyemxVTWt5cHlHUU9KYW1rR2xHcmc0VFdXQjZJMW95Q01kVkUwRGpudVlWVGt5Vk94UE1fZnlvb2Z2cnJF?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 08 Sep 2026 07:23:46 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘My feeling is…’: Romano admits he’s been left shocked by Man Utd summer window for one key reason - utdreport.co.uk",
+      "items": [
+        {
+          "title": "‘My feeling is…’: Romano admits he’s been left shocked by Man Utd summer window for one key reason - utdreport.co.uk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0tUY2VmVGY0Ml9HQjgxRUh6SnVaYmJ1NS1hc2R0UDBNSkQ4VXBIRXFOSjNLUHlxZWFSX0JIUjlZcV9MMThDQXZvcWgtM2lSczRUX1BERUZhc0VpX2g3aEp2SWItOUItV2dMMlotdHFZRWlOT1FYWFREX0pvTklJYy1jNmg3Q1NCdnVBTDc0YzRjRnFaU0hZa2xSbEdPTDZwUmZuQkNKcWNjcC1BUFFfZzQ4LUJ6Szh5bWlyeTB0c2pKaW55U0p2Z9IBzgFBVV95cUxQX2x6SGk0bl9qS1Jmb0RldDlRaUNJMWRKaG9CX19mbXkxUXJTTlc0WmVLak5qcHFENUoyOFBBb1Nfd0NjUU1teDBuQ092Y2RYb3RnLUZMZHE5UVZCQ0pESlVmRzQzMmpTZndKczJ0MTJnVU0yMUl5aElXbGYtajJiTUpKZ3dKNlp3dV9TdGxnaWVFUkNWNC1GRnBHelVBaHJvUXh2R3JDY1VnQnJEWlFrczJ4NHhyUldCWjIyU3EtcjNvakdNOERGckZDY01iUQ?oc=5\" target=\"_blank\">‘My feeling is…’: Romano admits he’s been left shocked by Man Utd summer window for one key reason</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport.co.uk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0tUY2VmVGY0Ml9HQjgxRUh6SnVaYmJ1NS1hc2R0UDBNSkQ4VXBIRXFOSjNLUHlxZWFSX0JIUjlZcV9MMThDQXZvcWgtM2lSczRUX1BERUZhc0VpX2g3aEp2SWItOUItV2dMMlotdHFZRWlOT1FYWFREX0pvTklJYy1jNmg3Q1NCdnVBTDc0YzRjRnFaU0hZa2xSbEdPTDZwUmZuQkNKcWNjcC1BUFFfZzQ4LUJ6Szh5bWlyeTB0c2pKaW55U0p2Z9IBzgFBVV95cUxQX2x6SGk0bl9qS1Jmb0RldDlRaUNJMWRKaG9CX19mbXkxUXJTTlc0WmVLak5qcHFENUoyOFBBb1Nfd0NjUU1teDBuQ092Y2RYb3RnLUZMZHE5UVZCQ0pESlVmRzQzMmpTZndKczJ0MTJnVU0yMUl5aElXbGYtajJiTUpKZ3dKNlp3dV9TdGxnaWVFUkNWNC1GRnBHelVBaHJvUXh2R3JDY1VnQnJEWlFrczJ4NHhyUldCWjIyU3EtcjNvakdNOERGckZDY01iUQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 08 Sep 2026 10:38:19 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wb5itv/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wb5itv/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wb5itv/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T00:00:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Official : Bruno Fernandes nominated in 2026 Ballon d’Or top 30",
+      "items": [
+        {
+          "title": "Official : Bruno Fernandes nominated in 2026 Ballon d’Or top 30",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wapf6j/official_bruno_fernandes_nominated_in_2026_ballon/\"> <img alt=\"Official : Bruno Fernandes nominated in 2026 Ballon d’Or top 30\" src=\"https://preview.redd.it/v2zuh4h40boh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cec544b949c1565e60c06c52e502840487b3af5a\" title=\"Official : Bruno Fernandes nominated in 2026 Ballon d’Or top 30\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/v2zuh4h40boh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wapf6j/official_bruno_fernandes_nominated_in_2026_ballon/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wapf6j/official_bruno_fernandes_nominated_in_2026_ballon/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T14:07:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Wheeler, Salt] Stewards charged over derby assault axed by Old Trafford security, outrage at club's cup tickets warning, new stadium clears next hurdle and injury boost for Amad Diallo",
+      "items": [
+        {
+          "title": "[Wheeler, Salt] Stewards charged over derby assault axed by Old Trafford security, outrage at club's cup tickets warning, new stadium clears next hurdle and injury boost for Amad Diallo",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wasr20/wheeler_salt_stewards_charged_over_derby_assault/\"> <img alt=\"[Wheeler, Salt] Stewards charged over derby assault axed by Old Trafford security, outrage at club's cup tickets warning, new stadium clears next hurdle and injury boost for Amad Diallo\" src=\"https://external-preview.redd.it/vtqvghDBn_A4oxQ50c0M_Jo06upGTF0KNUUeADQAPdA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=787f52e8bd95611dc7a4a6301febbb38a1662abe\" title=\"[Wheeler, Salt] Stewards charged over derby assault axed by Old Trafford security, outrage at club's cup tickets warning, new stadium clears next hurdle and injury boost for Amad Diallo\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-16113697/man-united-stewards-assault-old-trafford-amad.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wasr20/wheeler_salt_stewards_charged_over_derby_assault/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wasr20/wheeler_salt_stewards_charged_over_derby_assault/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T16:10:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "CL Watch Thread",
+      "items": [
+        {
+          "title": "CL Watch Thread",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>AEK — LASK 1:0 FT</p> <p>Club Brugge — Aston Victor 2:3 FT (Seys and Tresoldi watch failed successfully)</p> <p>Dortmund — Villarreal 3:2 2H</p> <p>Real Mourinho — Inter 2:1 FT</p> <p>Lille — Real Antony 2:3 FT</p> <p>Porto — 115 FC 0:2 FT</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Hexogen\"> /u/Lord_Hexogen </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1waucdc/cl_watch_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1waucdc/cl_watch_thread/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1waucdc/cl_watch_thread/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T17:06:53+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Everton v Man Utd | Access All Areas",
+      "items": [
+        {
+          "title": "Everton v Man Utd | Access All Areas",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wapkl5/everton_v_man_utd_access_all_areas/\"> <img alt=\"Everton v Man Utd | Access All Areas\" src=\"https://external-preview.redd.it/Q7HNBmYovj2306qB-7zjTQFO_96uKwdxBoz7Lx_qeJw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dcad0a95cbe4b528518f8b1573c53a730ace70cd\" title=\"Everton v Man Utd | Access All Areas\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=9pkUvJ5IJLQ\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wapkl5/everton_v_man_utd_access_all_areas/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wapkl5/everton_v_man_utd_access_all_areas/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-08T14:13:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 39,
+    "story_count": 27
+  }
+}
