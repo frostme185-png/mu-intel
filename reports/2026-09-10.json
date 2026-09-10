@@ -1,0 +1,781 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T05:41:17.910456+00:00",
+  "match_data": {
+    "collected_at": "2026-09-10T05:41:12.646228+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Journalist Katie Wilson, who covers football in Azerbaijan, gives an insight on Sabah.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p8sx96?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 09 Sep 2026 18:22:18 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p8s1q4?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 09 Sep 2026 16:10:00 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "Michael Carrick and Bryan Mbeumo on United's return to Champions League football.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p8r0zn?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 09 Sep 2026 14:07:00 GMT"
+        },
+        {
+          "title": "Manchester United lineup predicted vs Sabah as issue exposed at worst possible time",
+          "summary": "Man United are preparing for their return to the Champions League and their failure to strengthen at left-back might be about to come back to haunt them",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-lineup-predicted-vs-34592563",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 03:30:00 +0000"
+        },
+        {
+          "title": "How Manchester United should line up vs Sabah in Champions League return",
+          "summary": "Man Utd play Sabah FK in the Champions League tonight and this is how our writers think they should start.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34578362",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 03:00:00 +0000"
+        },
+        {
+          "title": "'We're capable' - Michael Carrick makes Champions League demand of Manchester United",
+          "summary": "Man Utd return to the Champions League tomorrow and Michael Carrick is confident they can leave a mark on the competition.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/were-capable-michael-carrick-makes-34591336",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 16:17:55 +0000"
+        },
+        {
+          "title": "Michael Carrick hints at fixture anger over Manchester United vs Man City date - 'Not ideal'",
+          "summary": "Man Utd face Manchester City on Sunday in the first derby of the season but the visiting team have been handed an extra 48 hours to prepare.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-hints-fixture-anger-34591319",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 13:51:42 +0000"
+        },
+        {
+          "title": "Manchester United issue injury updates on Luke Shaw and Matthijs de Ligt amid training scare",
+          "summary": "Man Utd face Sabah in the Champions League on Thursday but left-back Luke Shaw could miss the game after he was absent from training",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-issue-injury-updates-34591313",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 13:29:27 +0000"
+        },
+        {
+          "title": "Manchester United REJECTED chance to sign Kylian Mbappe after Ryan Giggs scouting mission",
+          "summary": "Kylian Mbappe is widely considered to be one of the best footballer's on the planet, but in 2015, he wasn't good enough for Manchester United's scouts, according to club legend Ryan Giggs",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-rejected-chance-sign-34588624",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 07:00:00 +0000"
+        },
+        {
+          "title": "[Pre Match Thread] Champions League Game 1 | Manchester United vs Sabah FK",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1><strong>Manchester United vs Sabah FK</strong></h1> <hr /> <p><strong>Competition:</strong> <a href=\"https://www.reddit.com/r/reddevils/.rss#CL\"></a> Champions League | <strong>Date:</strong> 10th September</p> <p><strong>Kick off:</strong> 20:00 BST | <strong>Venue:</strong> Old Trafford</p> <p><strong>Referee:</strong> Willy Delajod (FRA) | <strong>TV:</strong> TNT Sports</p> <hr /> <h1><strong>Team News:</strong></h1> <p><strong>Possible starting XI</strong>:</p> <pre><code> ---------Lammens---------- -Mazraoui-Yoro-Martinez-Dorgu- ------Santos---Tielemans----- --Mbeumo--Fernandes--Cunha-- ------------Sesko------------ </code></pre> <p><strong>Possible bench:</strong> Darlow, Mee, Dalot, Amass, Maguire, Heaven, Shaw, Mainoo, Mount, Lacey, Rashford, Zirkzee</p> <hr /> <ul> <li><p>Shaw may not start, he was given an extra recovery day</p></li> <li><p>Could see some rotation, but still no Amad, de Ligt or Baleba</p></li> </ul> <hr /> <p><strong>Injuries/Suspensions:</strong></p> <table><thead> <tr> <th align=\"center\">Player</th> <th align=\"center\">Injury/Ban</th> <th align=\"center\">Position</th> <th align=\"center\">Return Date</th> </tr> </thead><tbody> <tr> <td align=\"center\">Carlos Baleba</td> <td align=\"center\">Ankle</td> <td align=\"center\">DM</td> <td align=\"center\">20th September</td> </tr> <tr> <td align=\"center\">Amad Diallo</td> <td align=\"center\">Knock</td> <td align=\"center\">RW</td> <td align=\"center\">20th September</td> </tr> <tr> <td align=\"center\">Tom Heaton</td> <td align=\"center\">Hamstring</td> <td align=\"center\">GK</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Manuel Ugarte</td> <td align=\"center\">ACL</td> <td align=\"center\">DM</td> <td align=\"center\">January</td> </tr> <tr> <td align=\"center\">Matthijs de Ligt</td> <td align=\"center\">Back</td> <td align=\"center\">CB</td> <td align=\"center\">10th October</td> </tr> </tbody></table> <hr /> <h1><strong>Form guide:</strong></h1> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> United: <strong>L W D</strong> | Home form: <strong>W</strong></p> <p>Sabah: <strong>W W L W W W</strong> | Away form: <strong>W W L L W</strong></p> <hr /> <h1><strong>Last 3 meetings:</strong></h1> <table><thead> <tr> <th align=\"center\">Result</th> <th align=\"center\">Comp</th> <th align=\"center\">Venue</th> <th align=\"center\">Season</th> </tr> </thead><tbody> <tr> <td align=\"center\">Never</td> <td align=\"center\">Played</td> <td align=\"center\">Them</td> <td align=\"center\">Before</td> </tr> </tbody></table> <hr /> <h1><strong>Opposition News</strong></h1> <p>n/a</p> <hr /> <p><strong>YOU WILL BE ABLE TO SEE FULL MATCH HIGHLIGHTS AFTER THE GAME ON <a href=\"https://www.reddit.com/r/footballhighlights\">/r/footballhighlights</a>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbljen/pre_match_thread_champions_league_game_1/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbljen/pre_match_thread_champions_league_game_1/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbljen/pre_match_thread_champions_league_game_1/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T13:25:31+00:00"
+        },
+        {
+          "title": "[Craig Hope, In Article] Lewis Hall’s new contract at Newcastle does not include a release clause. Manchester United’s interest in the player is likely to be revisited.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wbqpm0/craig_hope_in_article_lewis_halls_new_contract_at/\"> <img alt=\"[Craig Hope, In Article] Lewis Hall’s new contract at Newcastle does not include a release clause. Manchester United’s interest in the player is likely to be revisited.\" src=\"https://external-preview.redd.it/sa8vU6PM7cCDOa93EiOrBBArzCQArSzxFgZ5C3EnX8E.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da4431236f9e9ec8bcb550d515725c09d0617252\" title=\"[Craig Hope, In Article] Lewis Hall’s new contract at Newcastle does not include a release clause. Manchester United’s interest in the player is likely to be revisited.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-16114755/Newcastle-Lewis-Hall-contract-Osula-injury-sponsors.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbqpm0/craig_hope_in_article_lewis_halls_new_contract_at/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbqpm0/craig_hope_in_article_lewis_halls_new_contract_at/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T16:37:41+00:00"
+        },
+        {
+          "title": "[Laurie Whitwell] Is Marcus Rashford really getting back to his Manchester United best?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wbfq8j/laurie_whitwell_is_marcus_rashford_really_getting/\"> <img alt=\"[Laurie Whitwell] Is Marcus Rashford really getting back to his Manchester United best?\" src=\"https://external-preview.redd.it/UBTvRzigJJ0VthU2eXV36Gtt90sKdYyvO1hJKvOisUk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4624a8fe441f77ab87d70557225b82a8dfbe957\" title=\"[Laurie Whitwell] Is Marcus Rashford really getting back to his Manchester United best?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Yes, it is a small sample size. And sure he has yet to register a goal or an assist. </p> <p>But there has been something exhilarating about Marcus Rashford’s early performances for Manchester United this season. </p> <p>He is beating players for fun, has built a potent partnership with Luke Shaw and is creating chances at a rapid rate. </p> <p>Could the old Rashford really be back?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7575325/2026/09/09/marcus-rashford-manchester-united-back-analysis/?unlocked_article_code=1._1A.tm7h.mu1eauL9EB_Z&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbfq8j/laurie_whitwell_is_marcus_rashford_really_getting/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbfq8j/laurie_whitwell_is_marcus_rashford_really_getting/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T08:31:43+00:00"
+        },
+        {
+          "title": "Michael Carrick & Bryan Mbeumo | Champions League Prematch Press Conference Video | Manchester United v Sabah",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PDubsinTF-NEW\"> /u/PDubsinTF-NEW </a> <br /> <span><a href=\"https://youtube.com/live/h1EPEqfP3WY?si=DygWjus5fhoLaj1F\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbm7mc/michael_carrick_bryan_mbeumo_champions_league/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbm7mc/michael_carrick_bryan_mbeumo_champions_league/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T13:52:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 3,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man City star told Man United icon Ryan Giggs to 'leave him alone' on golf course",
+      "items": [
+        {
+          "title": "Man City star told Man United icon Ryan Giggs to 'leave him alone' on golf course",
+          "summary": "Manchester United legend Ryan Giggs tried to convince Elliot Anderson to sign for the Reds this summer before his move to Manchester City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-united-ryan-giggs-34593904",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 17:53:13 +0000"
+        },
+        {
+          "title": "Man City star told Ryan Giggs 'to leave him alone' after Man Utd transfer probe",
+          "summary": "Ryan Giggs has said he tried to persuade Elliot Anderson to sign for Manchester United this summer after a chance meeting on the golf course in Portugal",
+          "url": "https://www.mirror.co.uk/sport/football/news/ryan-giggs-man-utd-anderson-37645472",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 18:59:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick knows what the Champions League means to Man United - his players must listen to him",
+      "items": [
+        {
+          "title": "Michael Carrick knows what the Champions League means to Man United - his players must listen to him",
+          "summary": "Man Utd have a patchy Champions League record, but Michael Carrick made no attempt to play down what the competition means ahead of their return.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-knows-what-champions-34592664",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: JJ Gabriel exit warning sent and fan group plans protest at Old Trafford",
+      "items": [
+        {
+          "title": "Man United latest: JJ Gabriel exit warning sent and fan group plans protest at Old Trafford",
+          "summary": "Manchester United face a big few days on and off the pitch, leading up to Sunday's derby against Manchester City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-fan-protest-gabriel-34591839",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Latest Man United injury news as five miss Sabah clash after Luke Shaw update",
+      "items": [
+        {
+          "title": "Latest Man United injury news as five miss Sabah clash after Luke Shaw update",
+          "summary": "Manchester United are now back in the Champions League, but their return to Europe's elite competition will have to be done without at least five stars",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-sabah-34593956",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Six players could miss Man Utd vs Sabah as Michael Carrick gives Luke Shaw injury update",
+          "summary": "Manchester United will face Sabah in the Champions League on Thursday night and will have several players unavailable for the Old Trafford fixture",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-sabah-injury-news-34591231",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "How Man United played a part in the incredible story of Sabah's manager ahead of Champions League tie",
+      "items": [
+        {
+          "title": "How Man United played a part in the incredible story of Sabah's manager ahead of Champions League tie",
+          "summary": "Sabah FK coach Valdas Dambrauskas has fond memories of Manchester United and Old Trafford having worked for the club's soccer schools programme 20 years ago.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-sabahs-manager-used-gameshow-34587851",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United get Lewis Hall clarity as release clause truth emerges after agreement",
+      "items": [
+        {
+          "title": "Man United get Lewis Hall clarity as release clause truth emerges after agreement",
+          "summary": "Manchester United will have to find an alternative transfer to Newcastle United left-back Lewis Hall who has reportedly agreed to a new contract",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-lewis-hall-transfer-34594184",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 19:45:02 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United take important step on way to new stadium after making key decision",
+      "items": [
+        {
+          "title": "Man United take important step on way to new stadium after making key decision",
+          "summary": "Manchester United have taken the next step in their plans to build a new stadium",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-new-stadium-ratcliffe-34594025",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 18:25:23 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford questioned as Man United sent clear message over Liverpool transfer",
+      "items": [
+        {
+          "title": "Marcus Rashford questioned as Man United sent clear message over Liverpool transfer",
+          "summary": "One of the biggest positives for Manchester United on Sunday against Everton was the performance of Marcus Rashford, who impressed on the left wing",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-man-united-transfer-34593935",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 18:00:30 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Every word Michael Carrick said in Man United press conference - injury updates, derby fury and Champions League return",
+      "items": [
+        {
+          "title": "Every word Michael Carrick said in Man United press conference - injury updates, derby fury and Champions League return",
+          "summary": "Man United return to the Champions League tomorrow night and Michael Carrick has previewed the game with Sabah",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-press-conference-live-34589610",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 17:29:28 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why is Man United vs Sabah Champions League game being played on a Thursday? Reason explained",
+      "items": [
+        {
+          "title": "Why is Man United vs Sabah Champions League game being played on a Thursday? Reason explained",
+          "summary": "Manchester United return to the Champions League this week to face Sabah, but the fixture is unusually on a Thursday rather than the usual Tuesday or Wednesday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-sabah-champions-league-34584731",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Carlos Baleba agreement reached as Man United icons hold nothing back on £70m transfer",
+      "items": [
+        {
+          "title": "Carlos Baleba agreement reached as Man United icons hold nothing back on £70m transfer",
+          "summary": "Carlos Baleba arrived at Manchester United this summer in a big-money deal with expectations high around the former Brighton midfielder",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-baleba-34590817",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 13:57:58 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Luke Shaw, Carlos Baleba, Mason Mount - Man United injury latest and return dates ahead of Sabah",
+      "items": [
+        {
+          "title": "Luke Shaw, Carlos Baleba, Mason Mount - Man United injury latest and return dates ahead of Sabah",
+          "summary": "Michael Carrick offered some injury updates ahead of Manchester United's first Champions League match of the campaign against Sabah",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-sabah-34591265",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 13:16:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Andrew Flintoff puts Man United icon's stunning old £6.8m Cheshire mansion up for sale",
+      "items": [
+        {
+          "title": "Andrew Flintoff puts Man United icon's stunning old £6.8m Cheshire mansion up for sale",
+          "summary": "Freddie Flintoff has put his Cheshire mansion on the market, but he's not the only famous face to have resided in the stunning £6.8m abode",
+          "url": "https://www.manchestereveningnews.co.uk/sport/freddie-flintoff-manchester-united-house-34591190",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 12:44:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United 24-man training squad vs Sabah confirmed as key man absent before Champions League tie",
+      "items": [
+        {
+          "title": "Man United 24-man training squad vs Sabah confirmed as key man absent before Champions League tie",
+          "summary": "Man Utd have been training at Carrington ahead of their return to the Champions League on Thursday night.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-24-man-training-34588811",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 10:23:13 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Amad injury return timeline as Man United 'refuse' to take Matthijs de Ligt chances",
+      "items": [
+        {
+          "title": "Amad injury return timeline as Man United 'refuse' to take Matthijs de Ligt chances",
+          "summary": "Manchester United have been handed updates on the fitness of Amad Diallo and Matthijs de Ligt",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-injury-amad-de-34589280",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 09:58:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: Fan group announces huge protest plan as JJ Gabriel exit fears emerge",
+      "items": [
+        {
+          "title": "Man Utd news: Fan group announces huge protest plan as JJ Gabriel exit fears emerge",
+          "summary": "Manchester United's supporters are making their feelings known with a significant protest planned",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fans-jj-gabriel-37643144",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ryan Giggs sends JJ Gabriel a clear warning despite comparison with Man Utd legend",
+      "items": [
+        {
+          "title": "Ryan Giggs sends JJ Gabriel a clear warning despite comparison with Man Utd legend",
+          "summary": "Manchester United wonderkid JJ Gabriel has a huge amount of hype around him and club legend Ryan Giggs has sent the 15-year-old some advice after an exciting pre-season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-giggs-37645318",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 18:59:58 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd vs Sabah injury news as six players could miss Champions League opener",
+      "items": [
+        {
+          "title": "Man Utd vs Sabah injury news as six players could miss Champions League opener",
+          "summary": "Manchester United will be looking to get their Champions League campaign off to a winning start when they host Azerbaijani side Sabah at Old Trafford on Thursday night",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-injury-news-sabah-37644419",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 18:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick explains why Luke Shaw missed Man Utd training with transfer failure clear",
+      "items": [
+        {
+          "title": "Michael Carrick explains why Luke Shaw missed Man Utd training with transfer failure clear",
+          "summary": "Manchester United host Sabah in their opening Champions League game of the season on Thursday night and Michael Carrick has been forced to address concerns over Luke Shaw",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-injuries-luke-shaw-37644598",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 15:08:13 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Pep Guardiola named Man Utd player he desperately wanted Man City to sign",
+      "items": [
+        {
+          "title": "Pep Guardiola named Man Utd player he desperately wanted Man City to sign",
+          "summary": "Pep Guardiola once openly admitted which Manchester United star was the best at Old Trafford and conceded he'd sign him in a heartbeat given the chance",
+          "url": "https://www.mirror.co.uk/sport/football/news/pep-guardiola-man-utd-rashford-37641823",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 9 Sep 2026 06:11:11 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carrick up for ‘magical’ Champions League but derby timing ‘not ideal’",
+      "items": [
+        {
+          "title": "Carrick up for ‘magical’ Champions League but derby timing ‘not ideal’",
+          "summary": "<ul><li><p>United play Sabah, then Manchester City on Sunday</p></li><li><p>‘To win the Champions League was the ultimate’</p></li></ul><p>Michael Carrick is excited to lead Manchester United on their return to the “magical” Champions League but admitted playing on Thursday night was “not ideal” with the derby on Sunday.</p><p>United welcome Sabah to Old Trafford after a two-year Champions League absence. The Azerbaijani club are making their debut among Europe’s elite, having been in existence for less than a decade.</p> <a href=\"https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/09/michael-carrick-manchester-united-sabah-champions-league-old-trafford",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 09 Sep 2026 14:56:47 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "28-year-old in line to receive new Man United contract if he proves himself this season",
+      "items": [
+        {
+          "title": "28-year-old in line to receive new Man United contract if he proves himself this season",
+          "summary": "<p>Manchester United are reportedly prepared to reward Lisandro Martinez with a new long-term contract, but only if the Argentina international proves he can stay fit and perform consistently throughout the 2026-27 season. The 28-year-old remains highly rated at Old Trafford and has started the campaign as an important part of Michael Carrick’s defence. Want more [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/10/28-year-old-in-line-to-receive-new-man-united-contract/\">28-year-old in line to receive new Man United contract if he proves himself this season</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/10/28-year-old-in-line-to-receive-new-man-united-contract/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 10 Sep 2026 05:39:43 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League side ready to sell Man United target despite new contract agreement",
+      "items": [
+        {
+          "title": "Premier League side ready to sell Man United target despite new contract agreement",
+          "summary": "<p>Manchester United’s hopes of eventually signing Lewis Hall have taken a setback after the England international agreed a new long-term contract with Newcastle United, but the door may not be completely closed. The 22-year-old was Michael Carrick’s leading left-back target during the summer and United are expected to strengthen that position in 2027. Want more [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/10/premier-league-side-sell-man-united-target-new-contract/\">Premier League side ready to sell Man United target despite new contract agreement</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/10/premier-league-side-sell-man-united-target-new-contract/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 10 Sep 2026 05:32:29 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wc1cmt/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wc1cmt/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wc1cmt/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T23:00:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chicago Fire 1-[1] Inter Miami - Casemiro 48'",
+      "items": [
+        {
+          "title": "Chicago Fire 1-[1] Inter Miami - Casemiro 48'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Garth17\"> /u/Garth17 </a> <br /> <span><a href=\"https://v.redd.it/zdtmhbnemloh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wc5qeo/chicago_fire_11_inter_miami_casemiro_48/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wc5qeo/chicago_fire_11_inter_miami_casemiro_48/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T02:08:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Andrey Santos is back at seleção",
+      "items": [
+        {
+          "title": "Andrey Santos is back at seleção",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wbtisr/andrey_santos_is_back_at_seleção/\"> <img alt=\"Andrey Santos is back at seleção\" src=\"https://preview.redd.it/8zdfj5lgdjoh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=44e0b14fe1759735f7ba85dda6c00009bc94baf7\" title=\"Andrey Santos is back at seleção\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/soldier101br\"> /u/soldier101br </a> <br /> <span><a href=\"https://i.redd.it/8zdfj5lgdjoh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbtisr/andrey_santos_is_back_at_seleção/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbtisr/andrey_santos_is_back_at_seleção/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T18:16:32+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[BBC] No deliberate handball by Maguire before goal against Ipswich - Premier League's Key Match Incidents Panel",
+      "items": [
+        {
+          "title": "[BBC] No deliberate handball by Maguire before goal against Ipswich - Premier League's Key Match Incidents Panel",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wbpg97/bbc_no_deliberate_handball_by_maguire_before_goal/\"> <img alt=\"[BBC] No deliberate handball by Maguire before goal against Ipswich - Premier League's Key Match Incidents Panel\" src=\"https://external-preview.redd.it/K9596YYz25cOe95lGVcPKmPhYnhiQuPmqewpK9Ok6RE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f83a7449794a9ed3b67f66af2fca221f05afcf49\" title=\"[BBC] No deliberate handball by Maguire before goal against Ipswich - Premier League's Key Match Incidents Panel\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/c3wjn7n2enpo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbpg97/bbc_no_deliberate_handball_by_maguire_before_goal/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbpg97/bbc_no_deliberate_handball_by_maguire_before_goal/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T15:52:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Simon Stone - BBC] Is JJ Gabriel, 15, ready to become Man Utd's youngest ever player?",
+      "items": [
+        {
+          "title": "[Simon Stone - BBC] Is JJ Gabriel, 15, ready to become Man Utd's youngest ever player?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wbj3cl/simon_stone_bbc_is_jj_gabriel_15_ready_to_become/\"> <img alt=\"[Simon Stone - BBC] Is JJ Gabriel, 15, ready to become Man Utd's youngest ever player?\" src=\"https://external-preview.redd.it/WSCyKzKSS8i32LEP_-u2EQyNDnKFqIv6PSQNR5dFphU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=470cac50742c23994ff7b25cb20f4ed5a68a4ba4\" title=\"[Simon Stone - BBC] Is JJ Gabriel, 15, ready to become Man Utd's youngest ever player?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MissingLink101\"> /u/MissingLink101 </a> <br /> <span><a href=\"https://www.bbc.co.uk/sport/football/articles/c7706zz7mylo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbj3cl/simon_stone_bbc_is_jj_gabriel_15_ready_to_become/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbj3cl/simon_stone_bbc_is_jj_gabriel_15_ready_to_become/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T11:37:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Simon Stone] Marcus Rashford @ManUtd training this morning. Luke Shaw and Matthijs de Ligt missing. Described as ‘designated rest day’. No JJ Gabriel either. Jim Thwaites and Shea Lacey there.",
+      "items": [
+        {
+          "title": "[Simon Stone] Marcus Rashford @ManUtd training this morning. Luke Shaw and Matthijs de Ligt missing. Described as ‘designated rest day’. No JJ Gabriel either. Jim Thwaites and Shea Lacey there.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wbhjdg/simon_stone_marcus_rashford_manutd_training_this/\"> <img alt=\"[Simon Stone] Marcus Rashford @ManUtd training this morning. Luke Shaw and Matthijs de Ligt missing. Described as ‘designated rest day’. No JJ Gabriel either. Jim Thwaites and Shea Lacey there.\" src=\"https://preview.redd.it/bsynxefdzgoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8444747cbccb033e3e7d92725da0158067e8bd6e\" title=\"[Simon Stone] Marcus Rashford @ManUtd training this morning. Luke Shaw and Matthijs de Ligt missing. Described as ‘designated rest day’. No JJ Gabriel either. Jim Thwaites and Shea Lacey there.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/bsynxefdzgoh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbhjdg/simon_stone_marcus_rashford_manutd_training_this/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbhjdg/simon_stone_marcus_rashford_manutd_training_this/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T10:15:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Press Conference] Carrick on Shaw's absence from training: ‘We just gave him an extra recovery day today. Obviously we’ll see by tomorrow how he is. It’s not an ongoing thing, a plan. Just off the back of the game the other day, each individual has things we manage and it was Luke today.’",
+      "items": [
+        {
+          "title": "[Press Conference] Carrick on Shaw's absence from training: ‘We just gave him an extra recovery day today. Obviously we’ll see by tomorrow how he is. It’s not an ongoing thing, a plan. Just off the back of the game the other day, each individual has things we manage and it was Luke today.’",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick &amp; Bryan Mbeumo's Pre-Match Press Conference | United vs Sabah, CL MD1</p> <p><strong>Chris Wheeler</strong></p> <p>Carrick on Shaw's absence from training: ‘We just gave him an extra recovery day today. Obviously we’ll see by tomorrow how he is. It’s not an ongoing thing, a plan. Just off the back of the game the other day, each individual has things we manage and it was Luke today.’</p> <p>Carrick on Man City having two extra days to prepare for the Old Trafford derby: ‘I am not concerned. I wouldn’t say it is ideal but it is not something we have given too much thought about, we have to deal the cards we have been dealt.’</p> <p><strong>Simon Stone</strong></p> <p>Michael Carrick on Man City getting two extra days preparation time for Sunday's derby: &quot;Not concerned. I wouldn’t say it is ideal. We have not given too much thought to it.&quot;</p> <p>Michael Carrick on what it means to be in Champions League with ManUtd: &quot;It means an awful lot. Challenging yourself against the elite. This club has been used to challenging the best, what it takes to be there and stay there. It is where we want to be and where we should expect to be. It is the standard we want to set.&quot;</p> <p>Michael Carrick: &quot;Play Thursday, Sunday, Wednesday. It is what we are here for.&quot;</p> <p><strong>Laurie Whitwell</strong></p> <p>Carrick on Moscow 2008: &quot;As a one-off feeling + instant kind of emotion, definitely winning the Champions League is the best feeling I've been lucky enough to have as a footballer. The ultimate. Be nice someday to feel that again.&quot;</p> <p>Carrick on Shaw: &quot;We gave him an extra recovery day today. We'll see by tomorrow how he is. It's not an ongoing thing or plan, just a thing off the back off the game the other day.&quot;</p> <h1>Detailed Quotes</h1> <h1>How do United approach the game?</h1> <p>Carrick: &quot; It's great to be here. We're trying to make the campaign as long as we can make it, some big challenges ahead and looking forward to it.&quot;</p> <h1>What does it mean to Mbeumo?</h1> <p><strong>Mbeumo</strong>: &quot;It's a massive reward for me and I'm looking forward to it.&quot;</p> <h1>Shaw in contention?</h1> <p>Carrick: &quot;We just gave him an extra recovery day so we'll see by tomorrow how he is but it's not an ongoing thing or a plan. As normal each individual has different things that we manage.&quot;</p> <h1>Mbeumo's route to the Champions League</h1> <p>Mbeumo: &quot;I saw the team and I knew I'd have connections with the guys here at United. I knew we could achieve something good.&quot;</p> <h1>What does this mean to United?</h1> <p>Carrick: &quot;It means an awful lot. This football club has been used to challenging with the best and being the best and it's not something we take for granted. We've missed out on it for a number of years so it means a lot, it's where we expect to be. We've made huge steps over the past few months to make it in to be in this position. Now it's about what's next, the next phase, this is certainly where we want to be.&quot;</p> <h1>Mbeumo excited?</h1> <p>Mbeumo: &quot;It's the first time I've watched the draw. I'm excited for the games, every team is different so it's good to go there and see.&quot;</p> <h1>What do you expect from Sabah?</h1> <p>Carrick: &quot;They're a very well-coached team, they've won a lot of matches and they're playing with confidence. They press well as a team so we're aware of what we're up against.&quot;</p> <h1>How important is this campaign for players like Bruno Fernandes?</h1> <p>Carrick: &quot;It's up to us to take the step of achieving it (going far in the competition). We've got to be humble and realistic. Bruno has only played in one knockout tie, so it's up to us to keep pushing. We want to be there as quickly as possible, but we need to understand the steps that need to be put in place.</p> <p>&quot;We're capable of some really bg things, we can go up against anyone and come out on top.&quot;</p> <h1>Patch European record?</h1> <p>Carrick: &quot;We have to be humble enough to understand what recent history we've had. It doesn't take away the desire and expectation to be successful, but we need to be realistic. It's a really balanced view. It's what ahead of us that matters, whether that's coming into this in good shape or not.</p> <p>&quot;We've got a team that's really ready for this phase, we need to learn and keep improving.&quot;</p> <h1>Rotation expected?</h1> <p>Carrick: &quot;It's a balanced view, that's why we've got the squad. We need to adapt to certain strengths and different ways of playing. We play Thursday, Wednesday, it's about managing the group and trusting them and anyone who can play will play.&quot;</p> <h1>What is United's target this season?</h1> <p>Carrick: &quot;There's no specific target, we've got to embrace the new target that we face, push to what we can push to.</p> <p>&quot;We're capable of doing some really big things in this competition and further down the line who knows when we get that far. But we're not getting ahead of ourselves. It's a new experience for some of us, but the boys are used to playing European football.&quot;</p> <h1>Tight turnaround to the derby?</h1> <p>Carrick: &quot;I'm not concerned. It's not ideal, but it's not something we can do much about. We've got to deal with the cards we were dealt.&quot;</p> <h1>Lofty ambitions?</h1> <p>Carrick: &quot;That's the challenge (to stay in the Champions League). We've done good work to ge there but we want to keep pushing, we want the expectation, the hope and belief we can achieve things. Winning games is always the answer and the more games we can win the better chance we can go further.&quot;</p> <h1>How important is the Champions League?</h1> <p>Carrick: &quot;It's a magical competition, it's where we want to be. We want to make the most of it, we've seen special nights over the years and it's where we want to be. It's the best competition to challenge yourself against the best. We're delighted to be here, but we're not here just to enjoy the occasion. We're here to do business.&quot;</p> <h1>De Ligt update</h1> <p>Carrick: &quot;We're still managing him, he's trained well and he's pushing and pushing, but we've got to manage that last stage. He's in a good place and it's great to have him back. Hopefully he will return soon.&quot;</p> <h1>Sesko close to a start?</h1> <p>Carrick: &quot;Yeah he's close, he missed a lot but we've had to manage him and get him fit. He scored a fantastic goal, he did an awful lot for us last season, and he's in a good place. It's just a case of when he takes that next step.&quot;</p> <h1>Mbeumo's best position?</h1> <p>Carrick: &quot;He prefers playing on the left!&quot;</p> <p>Mbeumo: &quot;I'm used to a few positions. Back at Troyes I played right and drifted central. I don't really mind where I play as long as I can play and perform.&quot;</p> <h1>Was winning the Champions League your biggest achievement?</h1> <p>Carrick: &quot;Yeah definitely the best feeling as a footballer. The longevity of playing over a long period of times gives you satisfaction but winning the Champions League was the best feeling I've had and it would be nice to feel that again.&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbkoof/press_conference_carrick_on_shaws_absence_from/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbkoof/press_conference_carrick_on_shaws_absence_from/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbkoof/press_conference_carrick_on_shaws_absence_from/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T12:50:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Foundation to feature on Champions League shirts",
+      "items": [
+        {
+          "title": "Foundation to feature on Champions League shirts",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>The transformative work of Manchester United Foundation will be spotlighted throughout this season’s UEFA Champions League campaign, with <strong>the logo of the club’s charity set to feature on the back of our men’s team’s shirts for all European games.</strong></p> <p>The logo will first appear in the opening fixture against Champions League debutants Sabah at Old Trafford on Thursday 10 September. <strong>Fans will soon be able to support the initiative by visiting the Megastore to have the logo printed onto their new or existing shirt, with the net profits donated directly to the Foundation to support its work with young people across Greater Manchester and beyond.</strong> </p> <p>Established in 2007, the Foundation works with over 30,000 young people each year and delivers 129 projects, providing educational and community engagement programmes to help participants make positive choices in their lives. Putting the Foundation in the spotlight will help to drive awareness of this life-changing work in the local community.</p> <p>To celebrate this, four participants who attend Street Reds - the Foundation’s free evening football provision - and form part of its Youth Voice panel, were invited to Old Trafford to join a special photoshoot with first-team players including Marcus Rashford, Bryan Mbeumo and Benjamin Šeško, to highlight the new addition to the shirts. </p> <p>One of the participants taking part was Ella, 14, who has been attending the Foundation’s Street Reds community football session at Great Academy Ashton for six years. Ella said: “It was crazy to be part of the photoshoot! Going from watching the players every week on the pitch, to being able to meet them and talk to them, it’s amazing. “I’ll be watching all the Champions League games and I think it will feel even more special now after being part of this - more people will become aware of the Foundation and be able to play football, meet new people and make more friends.”</p> <p>Ashley Hackett, CEO, Manchester United Foundation, said: “This is a wonderful opportunity for us, offering unparalleled exposure on one of football’s biggest stages during Manchester United's famous European nights. “We’re incredibly proud of the vital work we do to support young people from communities across Greater Manchester, where our impact is genuinely life changing. “Proceeds generated from this initiative will be instrumental in helping us to continue to deliver our programmes that make a huge difference to those we work with. “On behalf of everyone at the Foundation, I'd like to thank the club for this fantastic support.” </p> <p><em>Details on how supporters can obtain Foundation patches will be announced soon across the club's website and social media channels.</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://www.manutd.com/en/news/foundation-to-feature-on-champions-league-shirts\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbr5qh/foundation_to_feature_on_champions_league_shirts/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbr5qh/foundation_to_feature_on_champions_league_shirts/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T16:53:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "CL Watch Thread",
+      "items": [
+        {
+          "title": "CL Watch Thread",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Liverpool - Atletico 2:1</p> <p>Sporting CP - Galatasaray 3:1</p> <p>Napoli - Arsenal 0:1</p> <p>Paris Saint-Germain - Slovan Bratislava 6:1</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Hexogen\"> /u/Lord_Hexogen </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbuwsx/cl_watch_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbuwsx/cl_watch_thread/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbuwsx/cl_watch_thread/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T19:04:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Preparing For Sabah | Inside Training",
+      "items": [
+        {
+          "title": "Preparing For Sabah | Inside Training",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wbr2sz/preparing_for_sabah_inside_training/\"> <img alt=\"Preparing For Sabah | Inside Training\" src=\"https://external-preview.redd.it/shKRxUhs7AB3Zm4GvC_IZS33QiRTVX_XXZJviY_Ek2E.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b5f432d4d63768405bd710076112676e3c423875\" title=\"Preparing For Sabah | Inside Training\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=Kawuk_LevLw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wbr2sz/preparing_for_sabah_inside_training/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wbr2sz/preparing_for_sabah_inside_training/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-09T16:50:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 48,
+    "story_count": 34
+  }
+}
