@@ -1,0 +1,1272 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T05:40:48.148346+00:00",
+  "match_data": {
+    "collected_at": "2026-09-11T05:40:41.235580+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Man Utd boss Michael Carrick on their 4-0 winning return to the Champions League.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p9263p?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 10 Sep 2026 22:16:00 GMT"
+        },
+        {
+          "title": "Michael Carrick hails new Manchester United partnership and 'different kind of threat'",
+          "summary": "Michael Carrick started the same midfield for the third game in a row as Man Utd cruised past Sabah in their first game in the Champions League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-hails-new-manchester-34600889",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 03:30:00 +0000"
+        },
+        {
+          "title": "Why two Manchester United substitutes left Michael Carrick \"delighted\" vs Sabah",
+          "summary": "Man Utd beat Sabah 4-0 in the Champions League, and the manner of the win allowed Michael Carrick to use all five substitutes with time to spare.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/two-manchester-united-substitutes-left-34600888",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 03:00:00 +0000"
+        },
+        {
+          "title": "Manchester United vs Sabah highlights and reaction from big Champions League win",
+          "summary": "Man United beat Sabah FK 4-0 at Old Trafford to kick off their Champions League campaign in style.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-vs-sabah-live-34599156",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 22:32:31 +0000"
+        },
+        {
+          "title": "Manchester United player ratings vs Sabah as Mainoo and Tielemans star in Champions League",
+          "summary": "Man Utd got their Champions League campaign off to a winning start as they beat Sabah FK 4-0 at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34600567",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 20:52:47 +0000"
+        },
+        {
+          "title": "Why Luke Shaw is missing from Man United squad vs Sabah as update given ahead of Manchester derby",
+          "summary": "Luke Shaw has not been named in Manchester United's squad as they return to the Champions League against Sabah this evening.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/luke-shaw-missing-man-united-34600535",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 18:22:07 +0000"
+        },
+        {
+          "title": "Manchester United Christmas fixtures confirmed as Premier League announce schedule",
+          "summary": "Manchester United have discovered their fixture dates over Christmas ahead of schedule after the Premier League confirmed dates",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/breaking-manchester-united-christmas-fixtures-34596815",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 14:06:10 +0000"
+        },
+        {
+          "title": "Man City discover Christmas schedule as Manchester United get wish from Premier League",
+          "summary": "Manchester City have learned their fate over the course of the Christmas period, with the Premier League announcing the club's schedule earlier than usual",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-city-united-christmas-fixtures-34597548",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 14:03:05 +0000"
+        },
+        {
+          "title": "Barcelona explain why they didn't sign Manchester United star Marcus Rashford",
+          "summary": "Manchester United forward Marcus Rashford was expected to join Barcelona permanently in the summer, only for the Catalan club to sign Anthony Gordon instead",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/barcelona-explain-didnt-sign-manchester-34597738",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 13:00:00 +0000"
+        },
+        {
+          "title": "Inside Champions League minnows Sabah FK as they aim for 'historic' Manchester United upset",
+          "summary": "Manchester United begin their Champions League campaign against Azerbaijan side Sabah FK at Old Trafford this evening",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/inside-champions-league-minnows-sabah-34596366",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 12:00:00 +0000"
+        },
+        {
+          "title": "Three new transfers and potential first-team chance - Manchester United Academy Notebook",
+          "summary": "It's time for this week's Man Utd academy notebook, bringing you the latest news, reaction and views around the club's youth system.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/three-new-transfers-potential-first-34582850",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Manchester United confirm kit change ahead of Champions League opener vs Sabak FK",
+          "summary": "Man United begin their Champions League campaign tonight when they host Azerbaijani side Sabah FK at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-confirm-kit-change-34595030",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Michael Carrick gives Luke Shaw injury update after he misses game before Manchester derby",
+          "summary": "Luke Shaw was missing from the Manchester United squad for their 4-0 win against Azerbaijani side Sabah on Thursday night and Red Devils boss Michael Carrick has given an update",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-shaw-sabah-37650129",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 21:45:55 +0000"
+        },
+        {
+          "title": "Manchester United 4-0 Sabah: Champions League – as it happened",
+          "summary": "<p>Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martínez gave United a comfortable victory in their opening game</p><p><strong>It’s also worth noting that Patrick Dorgu starts at left-back tonight, for the first time under Carrick. </strong>Bought for Ruben Amorim, really he’s a specialist wing-back – not a defender because his awareness isn’t great, nor his ability to pass the ball out from the back, nor a winger because he lacks finesse and one-on-one ability – he starts at the back tonight mainly because Shaw is rested and there’s no better option. But if he’s to have a future as a starter, it feels much more likely it’ll be at the back than in attack – though, as we’ve seen he’s got a worldie in him.</p><p><strong>Thinking more about that United defence, this is a big evening for Leny Yoro.</strong> He was pretty good in his first season at Old Trafford, but didn’t get to play much last; ultimately, Carrick couldn’t afford to risk him because he had a formula that worked – Maguire and Martinez, plus fast counters – with points to win and a job to secure.</p> <a href=\"https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/sep/10/manchester-united-v-sabah-champions-league-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 21:08:10 GMT"
+        },
+        {
+          "title": "Sesko soars as Manchester United surge past Sabah on Champions League return",
+          "summary": "<p>It was a night for romance given the astonishing story that Sabah brought with them to Old Trafford for their Champions League debut. This is a club that did not even exist a decade ago and nobody saw their bolt to the title in Azerbaijan coming last season; in 2024-25, they had finished 41 points off the top. The job that their manager, Valdas Dambrauskas, <a href=\"https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league\">has done since taking over</a> in the summer of last year is extraordinary.</p><p>It was also a night for cold, hard reality. Manchester United were back in Europe’s elite competition after a two-year hiatus and in need of something to soothe them after the trauma of their last-gasp coughing up of two points in last Sunday’s Premier League draw at Everton. And before the extremely serious business of the derby here against Manchester City on Sunday. They got it on the back of a first-half performance that burned slowly before catching fire.</p> <a href=\"https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 21:05:24 GMT"
+        },
+        {
+          "title": "Premier League summer signing admits he would have joined Manchester United",
+          "summary": "<p>Belgian defender Thomas Meunier joined Sunderland in the summer transfer window, and he has said he would have joined elite clubs like Manchester United if he had the choice. The 34-year-old joined the Black Cats on a free transfer from a French outfit. In a recent interview, the defender said transfers are sometimes not up [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/10/premier-league-summer-signing-admits-he-would-have-joined-manchester-united/\">Premier League summer signing admits he would have joined Manchester United</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/10/premier-league-summer-signing-admits-he-would-have-joined-manchester-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 10 Sep 2026 17:00:49 +0000"
+        },
+        {
+          "title": "Manchester United lead Liverpool and Tottenham in race for €50m Serie A star",
+          "summary": "<p>Manchester United are reportedly leading the race to sign the Juventus defender, Pierre Kalulu. Liverpool and Tottenham Hotspur are also targeting the player, according to Fussball News. The 26-year-old defender has done well for the Italian outfit, and he could prove to be an interesting acquisition for the Premier League clubs. Pierre Kalulu on Manchester [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/10/manchester-united-lead-liverpool-and-tottenham-in-race-for-e50m-serie-a-star/\">Manchester United lead Liverpool and Tottenham in race for €50m Serie A star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/10/manchester-united-lead-liverpool-and-tottenham-in-race-for-e50m-serie-a-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 10 Sep 2026 14:00:27 +0000"
+        },
+        {
+          "title": "81 - Kobbie Mainoo completed the most passes in Manchester United's 4-0 win over Sabah (81).It was the most by an Englishman for the Red Devils in a UEFA Champions League match since Michael Carrick in February 2014 vs Olympiakos (89). Mentor.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcxcsy/81_kobbie_mainoo_completed_the_most_passes_in/\"> <img alt=\"81 - Kobbie Mainoo completed the most passes in Manchester United's 4-0 win over Sabah (81).It was the most by an Englishman for the Red Devils in a UEFA Champions League match since Michael Carrick in February 2014 vs Olympiakos (89). Mentor.\" src=\"https://preview.redd.it/9jcsaidxmroh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e13c2a545d0ebe0fcee2482ff8b3ad744eab38a5\" title=\"81 - Kobbie Mainoo completed the most passes in Manchester United's 4-0 win over Sabah (81).It was the most by an Englishman for the Red Devils in a UEFA Champions League match since Michael Carrick in February 2014 vs Olympiakos (89). Mentor.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Total-Fix-8506\"> /u/Total-Fix-8506 </a> <br /> <span><a href=\"https://i.redd.it/9jcsaidxmroh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcxcsy/81_kobbie_mainoo_completed_the_most_passes_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcxcsy/81_kobbie_mainoo_completed_the_most_passes_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T22:04:14+00:00"
+        },
+        {
+          "title": "“It’s nice to have a clean sheet” Michael Carrick was pleased with Manchester United’s defensive solidity against Sabah",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcwjuh/its_nice_to_have_a_clean_sheet_michael_carrick/\"> <img alt=\"“It’s nice to have a clean sheet” Michael Carrick was pleased with Manchester United’s defensive solidity against Sabah\" src=\"https://external-preview.redd.it/a2N2MnY5b2xncm9oMfJCblaQ2xAQ58GFUfJnlzisX-CF5amU21UtDYpsMUtK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1d7def09ffc641e3ed08f5c9fb455377d549807\" title=\"“It’s nice to have a clean sheet” Michael Carrick was pleased with Manchester United’s defensive solidity against Sabah\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/9prp8knlgroh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcwjuh/its_nice_to_have_a_clean_sheet_michael_carrick/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcwjuh/its_nice_to_have_a_clean_sheet_michael_carrick/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T21:32:25+00:00"
+        },
+        {
+          "title": "Post Match Thread: Manchester United 4-0 Sabah FK | Champions League",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 4-0 Sabah FK</h1> <p>UEFA Champions League 2026-27 | Group Stage - Matchday 1</p> <p>Goal Scorers United: Matheus Cunha 27', Bruno Fernandes 42', Benjamin Sesko 45', Lisandro Martinez 68'</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Venue:</strong> Old Trafford</p> <p><sup>\\</sup>___________________________)</p> <p><strong>LINE-UPS</strong></p> <p><strong>Manchester United (4-2-3-1):</strong> </p> <p>Senne Lammens; Noussair Mazraoui, Leny Yoro, Lisandro Martinez, Patrick Dorgu; Youri Tielemans, Kobbin Mainoo; Bryan Mbeumo, Bruno Fernandes, Matheus Cunha; Benjamin Sesko</p> <p><strong>Subs:</strong> Karl Darlow, Dermot Mee, Harry Amass, Diogo Dalot, Ayden Heaven, Harry Maguire, Andrey Santos, Mason Mount, Tyler Fletcher, Shea Lacey, Marcus Rashford, Joshua Zirkzee</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Sabah (4-2-3-1):</strong> </p> <p>Stas Pokatilov; Tymoteusz Puchacz, Aden McCarthy, Rahman Dasdamirov, Akim Zedadka; Ivan Lepinjica, Umarali Rakhmonaliev; Christian Nwachukwu, Veljko Simic, Kaheem Parris; Joy-Lance Mickels</p> <p><strong>Subs:</strong> Amin Ramazanov, Abdulla Xaybulayev, Aleksey Isayev, Rauf Rüstamli, Tellur Mutallimov, Junior Almeida, Du Queiroz, Rodrigo Fernandes, Cafar Muxtarov, Ravan Mirzammadov, Orphe Mbina</p> <p><sup>\\</sup>___________________________)</p> <p><strong>MATCH EVENTS</strong></p> <p>1' French referee Willy Delajod blows his whistle, and we are underway at Old Trafford!</p> <p>9' United knock it about well, and Mazraoui slips in Cunha, whose shot to the near post is saved by Pokatilov and pushed behind for a corner. Mbeumo swings it deep, Martinez gets a head on it, but Sabah clear their lines before Mazraoui has a long-range effort blocked.</p> <p>13' That first Mbeumo corner goes deep, causes a bit of chaos and leads to another. Cunha swings it over this time from the other side, but there's a foul on McCarthy and Sabah survive again. At the other end, Zedadka looks to go past Martinez, but he shepherds him well and United win the goal-kick.</p> <p>17' Sabah almost play themselves into trouble, but McCarty just about deals with it as Fernandes applies the pressure on the centre-back. At the other end, Parris has the chance to deliver, but his cross is poor and is easily scooped up by Lammens.</p> <p>19' United were queueing up to shoot in another sustained attack. Eventually, Fernandes' bending effort is deflected behind for another corner. Cunha goes over to take it, but Pokatilov makes a routine catch.</p> <p>23' Mainoo clips a lovely ball around the corner to send Fernandes into the right of the area, and Dasdamirov takes evasive action to concede the corner. Mbeumo's delivery is punched away by Pokatilov.</p> <p>25' United are just starting to grow in confidence a little. Tielemans plays a nice ball forward into the path of Mbeumo, who hits his shot straight at Pokatilov. It's an effort on target, though.</p> <p><strong>27' Goal! Manchester United 1-0 Sabah! Scored by Matheus Santos Carneiro da Cunha. Assist by Patrick Dorgu</strong> <strong>GOOOOOOOOAAAAAAAAAALLLL! UNITED TAKE THE LEAD!</strong> Parris gives the ball away cheaply, and United break at rapid speed. Fernandes slips in Dorgu on the left, and his first-time cross is turned home at the near post by Cunha, who has a first Champions League goal. United lead Sabah 1-0!</p> <p>27' It's a lovely delivery from Dorgu, who has been a real threat down the left. His delivery was put on a plate for Cunha.</p> <p>31' Mazraoui's cross goes all the way to Dorgu as Parris misses with the interception, the full-back's effort is blocked, though.</p> <p>33' CLOSE! United work another great move, with Tielemans' reverse ball picking out Dorgu on the left again. His cross finds Sesko, who adjusts well to steer an effort just past the left-hand post with a cushioned volley.</p> <p>35' HOW HAS HE MISSED! Sabah should be level! Parris does really well on the right of the area, and hangs up a wonderful cross to the back post, where Mickels - who scored a hat-trick at the weekend - can only nod wide of the post from point-blank range! A huge, huge let-off for United!</p> <p>39' Fernandes should do better! Mbeumo has space on the right flank again, and lays one into the path of Fernandes, who blasts over from a central position from just outside the D. A player of his quality should at least test the goalkeeper from there.</p> <p><strong>42'Goal! Manchester United 2-0 Sabah! Scored by Bruno Miguel Borges Fernandes! Assisted by Youri Tielemans</strong> <strong>GOOOOOOOAAAAAAAAAAALLLLL! UNITED LEAD 2-0!</strong> Tielemans starts the move by finding Dorgu. He combines with Cunha, who slips in Tielemans again. The Belgian ace is falling over but manages to do enough to slip the pass into the path of Fernandes, who coolly side-foots into the bottom-right corner. A great move!</p> <p>42' Tielemans did brilliantly, starting this move then playing the final ball into the path of Fernandes.</p> <p><strong>45'Goal! Manchester United 3-0 Sabah! Scored by Bejamin Sesko! Assisted by Bryan Mbeumo!</strong> GOOOOOAAAAAAAAAAALLLL! UNITED MAKE IT 3-0 THROUGH SESKO! Mbeumo takes a long ball on the run, and immediately slides in Sesko, who goes one-on-one. The striker does brilliantly to round Pokatillov and slide into the open goal.</p> <p>45' It's a wonderful assist from Mbeumo, who did brilliantly to take it in his stride and release Sesko.</p> <p><strong>45'+1' HALF-TIME: MANCHESTER UNITED 3-0 SABAH</strong></p> <p>45'Substitution Both teams are making a change at the break, with Tielemans taking a seat for Mount.</p> <p>45' And Sabah replace Nwachukwu with Mbina.</p> <p>46' Delajod blows his whistle and we are back underway at Old Trafford!</p> <p>50' Fernandes and Sesko try to combine on the edge of the area, but the Slovenia striker is dispossessed.</p> <p>54' Sabah are enjoying a spell of possession, but are hitting a lot of United brick walls. Rakhmonaliev shapes to shoot from distance, but his effort is blocked by Martinez.</p> <p>58' Mazraoui gets the ball on the right of the area, takes a touch inside, then hits a left-foot shot over the top when leaning back from the edge of the box.</p> <p>60' GOOD SAVE! It's a lovely worked move by United, and Cunha gets the ball out of feet and shoots towards the bottom-right corner from the edge of the box. Pokatilov gets down well to make the stop. The Sabah goalkeeper then makes another routine save from Ferandes' 20-yard shot.</p> <p>62' Yellow Card Yellow Card Patrick Dorgu</p> <p>64' Substitution Kobbie Mainoo Andrey Nascimento dos Santos</p> <p>64' Substitution Carrick now turns to the bench again, and Sesko - who scored United's third goal is replaced by Zirkzee.</p> <p><strong>68'Goal GOOOOOOOAAAAAALLLLLL! 4-0 TO UNITED!</strong> Fernandes clips the resulting free-kick cleverly over the Sabah wall. Zirkzee does well to bring it down then, when being hounded by two defenders, backheels it goalwards. Pokatilov completely loses where the ball is, and there is Martinez to tap home on the goalline!</p> <p>72' Substitution United are bringing on a couple of their youngsters here. Amass has played European football before but he's on for a Champions League debut as Dorgu comes off after a very good performance.</p> <p>72' Substitution And Mbeumo's night is over as Lacey enters the action.</p> <p>74' Really good work by Zirkzee, who evaded a couple of challenges then sees a shot blocked behind for a corner. Cunha is the man to take it, and there's a lot of headers from both teams before it's eventually leathered clear.</p> <p>80' It's really the countdown to full time now for both of these teams. It's just a matter of if United can add more goals in truth.</p> <p>82' Martínez scored his first Champions League goal on his 21st appearance, and his first for Manchester United at Old Trafford.</p> <p>84' Just six minutes plus change for United to see out now, the tempo has - unsurprisingly - dropped significantly now.</p> <p>86' CLOSE! Nearly a consolation there for Sabah, as Mickels gets beyond Yoro. His left-foot effort flashes wide of the right-hand post. He's had the best two opportunities for his side this evening.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcvioi/post_match_thread_manchester_united_40_sabah_fk/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcvioi/post_match_thread_manchester_united_40_sabah_fk/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcvioi/post_match_thread_manchester_united_40_sabah_fk/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T20:53:19+00:00"
+        },
+        {
+          "title": "Manchester United [3] - 0 Sabah FK - B. Šeško 45'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamin.link/v/3a5b3848\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wctq5u/manchester_united_3_0_sabah_fk_b_šeško_45/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wctq5u/manchester_united_3_0_sabah_fk_b_šeško_45/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T19:47:29+00:00"
+        },
+        {
+          "title": "Manchester United Team vs Sabah, UEFA Champions League Group Stage, 10 September 2026 | Starting XI: Lammens; Mazraoui, Yoro, Martinez, Dorgu; Tielemans, Mainoo; Mbeumo, Fernandes (c), Cunha; Šeško.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.manutd.com/en/matches/mens-team/manchester-united-v-sabah-fk-uefa-champions-league-20260910?tab=live\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcq8y3/manchester_united_team_vs_sabah_uefa_champions/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcq8y3/manchester_united_team_vs_sabah_uefa_champions/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T17:45:46+00:00"
+        },
+        {
+          "title": "Manchester United [2] - 0 Sabah FK - Bruno Fernandes 42'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamin.link/v/42a7d31f\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wctnuh/manchester_united_2_0_sabah_fk_bruno_fernandes_42/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wctnuh/manchester_united_2_0_sabah_fk_bruno_fernandes_42/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T19:45:04+00:00"
+        },
+        {
+          "title": "Manchester United [1] - 0 Sabah FK - Matheus Cunha 27'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamin.link/v/ee0fb6f5\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wct851/manchester_united_1_0_sabah_fk_matheus_cunha_27/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wct851/manchester_united_1_0_sabah_fk_matheus_cunha_27/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T19:29:19+00:00"
+        },
+        {
+          "title": "Manchester United [4] - 0 Sabah FK - Lisandro Martinez 68‎'‎",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcuui1/manchester_united_4_0_sabah_fk_lisandro_martinez/\"> <img alt=\"Manchester United [4] - 0 Sabah FK - Lisandro Martinez 68‎'‎\" src=\"https://external-preview.redd.it/JJk7LtC7-rptElL1_p0usEjDcCNxAld7mCBu8j5z16s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b14fae8e45a6a3f3dbf06ec28904121c4b1fe57\" title=\"Manchester United [4] - 0 Sabah FK - Lisandro Martinez 68‎'‎\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/maxyum\"> /u/maxyum </a> <br /> <span><a href=\"https://streamin.link/v/77ec5dfb\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcuui1/manchester_united_4_0_sabah_fk_lisandro_martinez/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcuui1/manchester_united_4_0_sabah_fk_lisandro_martinez/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T20:28:14+00:00"
+        },
+        {
+          "title": "Match Thread: Manchester United vs Sabah FK | Champions League",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>2nd Half: Manchester United 4-0 Sabah FK</h1> <p>UEFA Champions League 2026-27 | Group Stage - Matchday 1</p> <p>Manchester United Goals: Matheus Cunha, Bruno Fernandes, Benjamin Sesko, Lisandro Martinez</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Venue:</strong> Old Trafford</p> <p><sup>\\</sup>___________________________)</p> <p><strong>LINE-UPS</strong></p> <p><strong>Manchester United (4-2-3-1):</strong> </p> <p>Senne Lammens; Noussair Mazraoui, Leny Yoro, Lisandro Martinez, Patrick Dorgu; Youri Tielemans, Kobbin Mainoo; Bryan Mbeumo, Bruno Fernandes, Matheus Cunha; Benjamin Sesko</p> <p><strong>Subs:</strong> Karl Darlow, Dermot Mee, Harry Amass, Diogo Dalot, Ayden Heaven, Harry Maguire, Andrey Santos, Mason Mount, Tyler Fletcher, Shea Lacey, Marcus Rashford, Joshua Zirkzee</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Sabah (4-2-3-1):</strong> </p> <p>Stas Pokatilov; Tymoteusz Puchacz, Aden McCarthy, Rahman Dasdamirov, Akim Zedadka; Ivan Lepinjica, Umarali Rakhmonaliev; Christian Nwachukwu, Veljko Simic, Kaheem Parris; Joy-Lance Mickels</p> <p><strong>Subs:</strong> Amin Ramazanov, Abdulla Xaybulayev, Aleksey Isayev, Rauf Rüstamli, Tellur Mutallimov, Junior Almeida, Du Queiroz, Rodrigo Fernandes, Cafar Muxtarov, Ravan Mirzammadov, Orphe Mbina</p> <p><sup>\\</sup>___________________________)</p> <p><strong>MATCH EVENTS</strong></p> <p>1' French referee Willy Delajod blows his whistle, and we are underway at Old Trafford!</p> <p>9' United knock it about well, and Mazraoui slips in Cunha, whose shot to the near post is saved by Pokatilov and pushed behind for a corner. Mbeumo swings it deep, Martinez gets a head on it, but Sabah clear their lines before Mazraoui has a long-range effort blocked.</p> <p>13' That first Mbeumo corner goes deep, causes a bit of chaos and leads to another. Cunha swings it over this time from the other side, but there's a foul on McCarthy and Sabah survive again. At the other end, Zedadka looks to go past Martinez, but he shepherds him well and United win the goal-kick.</p> <p>17' Sabah almost play themselves into trouble, but McCarty just about deals with it as Fernandes applies the pressure on the centre-back. At the other end, Parris has the chance to deliver, but his cross is poor and is easily scooped up by Lammens.</p> <p>19' United were queueing up to shoot in another sustained attack. Eventually, Fernandes' bending effort is deflected behind for another corner. Cunha goes over to take it, but Pokatilov makes a routine catch.</p> <p>23' Mainoo clips a lovely ball around the corner to send Fernandes into the right of the area, and Dasdamirov takes evasive action to concede the corner. Mbeumo's delivery is punched away by Pokatilov.</p> <p>25' United are just starting to grow in confidence a little. Tielemans plays a nice ball forward into the path of Mbeumo, who hits his shot straight at Pokatilov. It's an effort on target, though.</p> <p><strong>27' Goal! Manchester United 1-0 Sabah! Scored by Matheus Santos Carneiro da Cunha. Assist by Patrick Dorgu</strong> <strong>GOOOOOOOOAAAAAAAAAALLLL! UNITED TAKE THE LEAD!</strong> Parris gives the ball away cheaply, and United break at rapid speed. Fernandes slips in Dorgu on the left, and his first-time cross is turned home at the near post by Cunha, who has a first Champions League goal. United lead Sabah 1-0!</p> <p>27' It's a lovely delivery from Dorgu, who has been a real threat down the left. His delivery was put on a plate for Cunha.</p> <p>31' Mazraoui's cross goes all the way to Dorgu as Parris misses with the interception, the full-back's effort is blocked, though.</p> <p>33' CLOSE! United work another great move, with Tielemans' reverse ball picking out Dorgu on the left again. His cross finds Sesko, who adjusts well to steer an effort just past the left-hand post with a cushioned volley.</p> <p>35' HOW HAS HE MISSED! Sabah should be level! Parris does really well on the right of the area, and hangs up a wonderful cross to the back post, where Mickels - who scored a hat-trick at the weekend - can only nod wide of the post from point-blank range! A huge, huge let-off for United!</p> <p>39' Fernandes should do better! Mbeumo has space on the right flank again, and lays one into the path of Fernandes, who blasts over from a central position from just outside the D. A player of his quality should at least test the goalkeeper from there.</p> <p><strong>42'Goal! Manchester United 2-0 Sabah! Scored by Bruno Miguel Borges Fernandes! Assisted by Youri Tielemans</strong> <strong>GOOOOOOOAAAAAAAAAAALLLLL! UNITED LEAD 2-0!</strong> Tielemans starts the move by finding Dorgu. He combines with Cunha, who slips in Tielemans again. The Belgian ace is falling over but manages to do enough to slip the pass into the path of Fernandes, who coolly side-foots into the bottom-right corner. A great move!</p> <p>42' Tielemans did brilliantly, starting this move then playing the final ball into the path of Fernandes.</p> <p><strong>45'Goal! Manchester United 3-0 Sabah! Scored by Bejamin Sesko! Assisted by Bryan Mbeumo!</strong> GOOOOOAAAAAAAAAAALLLL! UNITED MAKE IT 3-0 THROUGH SESKO! Mbeumo takes a long ball on the run, and immediately slides in Sesko, who goes one-on-one. The striker does brilliantly to round Pokatillov and slide into the open goal.</p> <p>45' It's a wonderful assist from Mbeumo, who did brilliantly to take it in his stride and release Sesko.</p> <p><strong>45'+1' HALF-TIME: MANCHESTER UNITED 3-0 SABAH</strong></p> <p>45'Substitution Both teams are making a change at the break, with Tielemans taking a seat for Mount.</p> <p>45' And Sabah replace Nwachukwu with Mbina.</p> <p>46' Delajod blows his whistle and we are back underway at Old Trafford!</p> <p>50' Fernandes and Sesko try to combine on the edge of the area, but the Slovenia striker is dispossessed.</p> <p>54' Sabah are enjoying a spell of possession, but are hitting a lot of United brick walls. Rakhmonaliev shapes to shoot from distance, but his effort is blocked by Martinez.</p> <p>58' Mazraoui gets the ball on the right of the area, takes a touch inside, then hits a left-foot shot over the top when leaning back from the edge of the box.</p> <p>60' GOOD SAVE! It's a lovely worked move by United, and Cunha gets the ball out of feet and shoots towards the bottom-right corner from the edge of the box. Pokatilov gets down well to make the stop. The Sabah goalkeeper then makes another routine save from Ferandes' 20-yard shot.</p> <p>62' Yellow Card Yellow Card Patrick Dorgu</p> <p>64' Substitution Kobbie Mainoo Andrey Nascimento dos Santos</p> <p>64' Substitution Carrick now turns to the bench again, and Sesko - who scored United's third goal is replaced by Zirkzee.</p> <p><strong>68'GOOOOOOOAAAAAALLLLLL! 4-0 TO UNITED!</strong> Fernandes clips the resulting free-kick cleverly over the Sabah wall. Zirkzee does well to bring it down then, when being hounded by two defenders, backheels it goalwards. Pokatilov completely loses where the ball is, and there is Martinez to tap home on the goalline!</p> <p>72' Substitution United are bringing on a couple of their youngsters here. Amass has played European football before but he's on for a Champions League debut as Dorgu comes off after a very good performance.</p> <p>72' Substitution And Mbeumo's night is over as Lacey enters the action.</p> <p>74' Really good work by Zirkzee, who evaded a couple of challenges then sees a shot blocked behind for a corner. Cunha is the man to take it, and there's a lot of headers from both teams before it's eventually leathered clear.</p> <p>80' It's really the countdown to full time now for both of these teams. It's just a matter of if United can add more goals in truth.</p> <p>82' Martínez scored his first Champions League goal on his 21st appearance, and his first for Manchester United at Old Trafford.</p> <p>84' Just six minutes plus change for United to see out now, the tempo has - unsurprisingly - dropped significantly now.</p> <p>86' CLOSE! Nearly a consolation there for Sabah, as Mickels gets beyond Yoro. His left-foot effort flashes wide of the right-hand post. He's had the best two opportunities for his side this evening.</p> <p>88' Into the final two minutes we go then, will there be any action to speak of in the final moments...anything at all, lads...please?</p> <p>90' There will be a minimum of three added minutes to play here at Old Trafford.</p> <p>90'+2' WHAT A SAVE! Mickels does brilliantly on the left flank to cross for Mbina, who gets between the United centre-backs. He really should score, but it's tipped over by Lammens! Sabah probably won't get their consolation now.</p> <p><strong>90'+3' FULL-TIME: MANCHESTER UNITED 4-0 SABAH</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcsewe/match_thread_manchester_united_vs_sabah_fk/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcsewe/match_thread_manchester_united_vs_sabah_fk/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcsewe/match_thread_manchester_united_vs_sabah_fk/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T19:00:58+00:00"
+        },
+        {
+          "title": "Half Time Thread: Manchester United 3-0 Sabah FK",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>HT:Manchester United 3-0 Sabah FK</h1> <p>Goal Scorers United: Matheus Cunha 27', Bruno Fernandes 42', Benjamin Sesko 45'</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wctsei/half_time_thread_manchester_united_30_sabah_fk/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wctsei/half_time_thread_manchester_united_30_sabah_fk/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wctsei/half_time_thread_manchester_united_30_sabah_fk/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T19:49:43+00:00"
+        },
+        {
+          "title": "[Danyal Khan] Sabah manager Valdas Dambrauskas on the game tonight: “I don’t think we need to measure ourselves tactically or physically against #mufc, Manchester United is Manchester United and for me, it is the biggest team in the world.”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wccjy0/danyal_khan_sabah_manager_valdas_dambrauskas_on/\"> <img alt=\"[Danyal Khan] Sabah manager Valdas Dambrauskas on the game tonight: “I don’t think we need to measure ourselves tactically or physically against #mufc, Manchester United is Manchester United and for me, it is the biggest team in the world.”\" src=\"https://preview.redd.it/bammox0menoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9f34921b96b53218f5acad20c25510c9f3e7109b\" title=\"[Danyal Khan] Sabah manager Valdas Dambrauskas on the game tonight: “I don’t think we need to measure ourselves tactically or physically against #mufc, Manchester United is Manchester United and for me, it is the biggest team in the world.”\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Interview with Sabah manager Valdas Dambrauskas on SkySportsNews throughout the day.</p> <p>He is very much looking forward to leading Sabah to their first ever Champions League campaign - he worked at MU_Foundation as a coach in their soccer schools for five years - said tonight will be emotional for him.</p> <p><strong>On the game tonight: “I don’t think we need to measure ourselves tactically or physically against #mufc, Manchester United is Manchester United and for me, it is the biggest team in the world.”</strong></p> <p>“I think only one player in my team has experience playing in CL - no point now to look at how we can hurt them, or how to overplay them because tomorrow is the moment of truth - to find how good we are, can we compete, can we take initiative - so many answers we’ll find out tonight.”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/bammox0menoh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wccjy0/danyal_khan_sabah_manager_valdas_dambrauskas_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wccjy0/danyal_khan_sabah_manager_valdas_dambrauskas_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T07:53:55+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United",
+        "The Guardian - Manchester United",
+        "Caught Offside",
+        "r/reddevils",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 6,
+      "category": "match"
+    },
+    {
+      "representative_title": "JJ Gabriel sparks Man United concern after 15-year-old star's unusual social media activity",
+      "items": [
+        {
+          "title": "JJ Gabriel sparks Man United concern after 15-year-old star's unusual social media activity",
+          "summary": "JJ Gabriel has drawn plenty of attention for his displays in Manchester United's academy teams and fans will be hoping to see him make his first-team debut this season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-news-jj-gabriel-34600578",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 19:10:25 +0000"
+        },
+        {
+          "title": "Man Utd star JJ Gabriel sparks social media concern after record-breaking hat-trick",
+          "summary": "Young Man Utd star JJ Gabriel has drawn plenty of attention for his displays in the club's academy teams and fans will be eager to see him in the first team",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-news-jj-gabriel-37650107",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 21:33:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How to watch Man United vs Sabah - TV channel, live stream and kick-off time",
+      "items": [
+        {
+          "title": "How to watch Man United vs Sabah - TV channel, live stream and kick-off time",
+          "summary": "All you need to know about how to watch Manchester United's Champions League clash with Sabah",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-sabah-watch-channel-34584346",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 15:00:00 +0000"
+        },
+        {
+          "title": "What TV channel is Man Utd vs Sabah on? Kick-off time and live stream details",
+          "summary": "Manchester United host Sabah at Old Trafford in the Champions League league phase on Thursday evening",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sabah-watch-channel-37639926",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 15:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick's new Man United rule change gives JJ Gabriel boost in first team plan hint",
+      "items": [
+        {
+          "title": "Michael Carrick's new Man United rule change gives JJ Gabriel boost in first team plan hint",
+          "summary": "Manchester United have made a change at the academy level that could benefit JJ Gabriel and the club's other top prospects",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-carrick-34596812",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 11:51:00 +0000"
+        },
+        {
+          "title": "Man Utd rule change gives JJ Gabriel and Kai Rooney huge boost thanks to Michael Carrick",
+          "summary": "Manchester United have made a key change to their academy sides that could help the club's top prospects",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-carrick-37647985",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 12:59:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Premier League grants club's request as JJ Gabriel gets first-team boost",
+      "items": [
+        {
+          "title": "Man United latest: Premier League grants club's request as JJ Gabriel gets first-team boost",
+          "summary": "Manchester United manager Michael Carrick is helping the club's long-term future as his side prepare for Premier League action",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-premier-league-gabriel-34598936",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick didn't get the answer he wanted from Man United trial despite big Sabah win",
+      "items": [
+        {
+          "title": "Michael Carrick didn't get the answer he wanted from Man United trial despite big Sabah win",
+          "summary": "Manchester United won 4-0 against Sabah in the Champions League on Thursday night as Patrick Dorgu started at left-back.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-didnt-answer-wanted-34600426",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How Enzo Maresca is engineering a new Man City blueprint - and why Man United should be worried",
+      "items": [
+        {
+          "title": "How Enzo Maresca is engineering a new Man City blueprint - and why Man United should be worried",
+          "summary": "We take a look at the tactical alterations Enzo Maresca has made in his early matches in charge at Manchester City and how the new-look set-up could thrive against Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/how-enzo-maresca-engineering-new-34592904",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick praises 'fantastic' Man United star and lifts lid on midfield change",
+      "items": [
+        {
+          "title": "Michael Carrick praises 'fantastic' Man United star and lifts lid on midfield change",
+          "summary": "Michael Carrick oversaw a 4-0 win on Manchester United's return to the Champions League on Thursday night and he was full of praise for Kobbie Mainoo after the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-praises-fantastic-man-34600919",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 01:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United have the perfect partnership to upstage Man City's £326m midfield after Sabah win",
+      "items": [
+        {
+          "title": "Man United have the perfect partnership to upstage Man City's £326m midfield after Sabah win",
+          "summary": "Manchester United cruised through their Champions League opener against Sabah and can now look forward to a mouth-watering derby on Sunday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-perfect-partnership-upstage-34600544",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 21:10:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "JJ Gabriel sends Michael Carrick perfect message ahead of Man United debut",
+      "items": [
+        {
+          "title": "JJ Gabriel sends Michael Carrick perfect message ahead of Man United debut",
+          "summary": "Talented young Manchester United forward JJ Gabriel continues to impress in the club's academy and Michael Carrick will be watching on with interest",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-carrick-34599710",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 16:20:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Who are Man United's Champions League opponents Sabah, squad value and star players",
+      "items": [
+        {
+          "title": "Who are Man United's Champions League opponents Sabah, squad value and star players",
+          "summary": "Manchester United return to the Champions League with a clash against some competition debutants on Thursday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-sabah-champions-league-34584983",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 15:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United already know their transfer priority after securing £415m deals",
+      "items": [
+        {
+          "title": "Man United already know their transfer priority after securing £415m deals",
+          "summary": "Manchester United have spent big over the past couple of summers, as INEOS look to revamp their first-team to allow them to challenge in the Premier League and Europe - but work is still needed",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-lewis-hall-transfer-34596808",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 12:45:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick has two reasons to ignore major Man United problem for Man City clash",
+      "items": [
+        {
+          "title": "Michael Carrick has two reasons to ignore major Man United problem for Man City clash",
+          "summary": "Manchester United face Manchester City in the Premier League on Sunday - but one of Michael Carrick's biggest problems does not need solving",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-city-34596404",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 11:38:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man City got it badly wrong last time they played Man United - how Enzo Maresca can avoid repeat",
+      "items": [
+        {
+          "title": "Man City got it badly wrong last time they played Man United - how Enzo Maresca can avoid repeat",
+          "summary": "Manchester City failed to perform at Old Trafford last season but head to Manchester United this weekend in buoyant mood",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-badly-wrong-last-34592778",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United handed Matheus Cunha boost after Carlo Ancelotti bizarrely snubs striker",
+      "items": [
+        {
+          "title": "Man United handed Matheus Cunha boost after Carlo Ancelotti bizarrely snubs striker",
+          "summary": "Matheus Cunha has proven to be one of Manchester United's most important players since his arrival in the North West last summer, with Michael Carrick receiving a major boost regarding the versatile forward",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-matheus-cunha-ancelotti-34595876",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 10:52:23 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: Michael Carrick makes rule change as club's Premier League request granted",
+      "items": [
+        {
+          "title": "Man Utd news: Michael Carrick makes rule change as club's Premier League request granted",
+          "summary": "Manchester United are preparing for a huge game in the Premier League and Michael Carrick is also focused on the club's long-term future",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-premier-league-37648560",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Benjamin Sesko sends clear message to Michael Carrick on night of few revelations for Man Utd",
+      "items": [
+        {
+          "title": "Benjamin Sesko sends clear message to Michael Carrick on night of few revelations for Man Utd",
+          "summary": "Manchester United made light work for Azerbaijani side Sabah on their return to the Champions League, with Benjamin Sesko sending a reminder to Michael Carrick with a well-taken goal",
+          "url": "https://www.mirror.co.uk/sport/football/benjamin-sesko-man-utd-sabah-37650001",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 20:53:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd batter Sabah to enjoy dream Champions League return - 5 talking points",
+      "items": [
+        {
+          "title": "Man Utd batter Sabah to enjoy dream Champions League return - 5 talking points",
+          "summary": "MANCHESTER UNITED 4-0 SABAH: Goals from Matheus Cunha, Bruno Fernandes, Benjamin Sesko and Lisandro Martinez saw Michael Carrick chalk up his first win in the Champions League as full-time United boss",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-champions-league-sabah-37649834",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 20:53:22 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League star admits he would CYCLE to Man Utd after transfer collapse",
+      "items": [
+        {
+          "title": "Premier League star admits he would CYCLE to Man Utd after transfer collapse",
+          "summary": "Manchester United chose not to sign a new defender this summer but it appears that a former Bundesliga star would have accepted a move to Old Trafford had he been approached",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-sunderland-meunier-37649647",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 18:28:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League plan for £550m boost opposed by 'Big Six' clubs in new financial dispute",
+      "items": [
+        {
+          "title": "Premier League plan for £550m boost opposed by 'Big Six' clubs in new financial dispute",
+          "summary": "The Premier League's 'Big Six' - Arsenal, Chelsea, Liverpool, Manchester City, Manchester United, and Tottenham Hotspur - are reportedly in dispute with the league's other 14 clubs",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-man-united-manchester-37649697",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 18:18:23 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd receive explanation from Barcelona for Marcus Rashford transfer snub",
+      "items": [
+        {
+          "title": "Man Utd receive explanation from Barcelona for Marcus Rashford transfer snub",
+          "summary": "Marcus Rashford saw a permanent move to Barcelona fall through after the Spanish giants chose to sign Anthony Gordon from Newcastle United instead",
+          "url": "https://www.mirror.co.uk/sport/football/news/rashford-gordon-barcelona-man-utd-37648990",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 17:01:31 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "All you need to know about Man Utd's opponents Sabah as they make Champions League debut",
+      "items": [
+        {
+          "title": "All you need to know about Man Utd's opponents Sabah as they make Champions League debut",
+          "summary": "Manchester United will host tournament debutants Sabah upon their return to the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sabah-champions-league-37641964",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Matthias Jaissle 'in love' with Lewis Hall after he snubbed Man Utd to stay at Newcastle",
+      "items": [
+        {
+          "title": "Matthias Jaissle 'in love' with Lewis Hall after he snubbed Man Utd to stay at Newcastle",
+          "summary": "Lewis Hall was Manchester United's number one transfer target at left-back this summer but decided to stay with Newcastle, where he will soon sign a new contract",
+          "url": "https://www.mirror.co.uk/sport/football/news/jaissle-lewis-hall-man-utd-37648982",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 15:12:34 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd, Arsenal and Liverpool learn fate as Premier League announce Christmas schedule",
+      "items": [
+        {
+          "title": "Man Utd, Arsenal and Liverpool learn fate as Premier League announce Christmas schedule",
+          "summary": "The Premier League have announced the broadcast selections for fixtures across the festive period, including the Boxing Day and New Year’s Day weekends",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-christmas-fixtures-arsenal-37647312",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 14:01:49 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mason Mount’s true feelings on Man Utd signing THREE new midfielders this summer",
+      "items": [
+        {
+          "title": "Mason Mount’s true feelings on Man Utd signing THREE new midfielders this summer",
+          "summary": "Mason Mount has struggled for minutes and form since moving to Manchester United and this summer saw the club sign three midfielders",
+          "url": "https://www.mirror.co.uk/sport/football/news/mason-mount-man-utd-midfielders-37646776",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 09:57:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League 'give in to Man Utd' as huge fixture announcement being made TODAY",
+      "items": [
+        {
+          "title": "Premier League 'give in to Man Utd' as huge fixture announcement being made TODAY",
+          "summary": "The Premier League are set to announce the December fixtures today, with Manchester United among the clubs who pushed for an earlier release",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-pl-december-fixtures-37647022",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 09:41:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd confirm final Champions League squad for Sabah clash as eight players added",
+      "items": [
+        {
+          "title": "Man Utd confirm final Champions League squad for Sabah clash as eight players added",
+          "summary": "Manchester United have confirmed their 25-man Champions League squad, with eight players added to the B-list ahead of their opening match against Sabah FK",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-champions-league-squad-37646248",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 07:37:49 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Who are Sabah? Champions League minnows led by ex-Man Utd youth coach who won quiz show",
+      "items": [
+        {
+          "title": "Who are Sabah? Champions League minnows led by ex-Man Utd youth coach who won quiz show",
+          "summary": "Manchester United begin their Champions League campaign against Sabah, the champions of Azerbaijan, who have a unique history",
+          "url": "https://www.mirror.co.uk/sport/football/news/who-sabah-champions-league-minnows-37643650",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League: 10 things to look out for this weekend",
+      "items": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "summary": "<p>Nicolas Jackson is ready to impress, Spurs are scrambled and the 199th Manchester derby takes place at Old Trafford</p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot\"><strong>Premier League top scorers 2026-27: who is leading race for the golden boot?</strong></a></p></li></ul><p>With 10 top-flight goal contributions between them across three games already this season, the Chelsea trio of Morgan Rogers, João Pedro and Cole Palmer are the early pace-setters for the Premier League’s most prolific, fluid and high octane attacking unit. But on the occasion of his 100th Premier League appearance, a scruffier and more ungainly unit will be hoping to steal their thunder, as high-flying Hull try to register a top-flight win against Chelsea for the very first time. Yet to score this season but with a couple of near-misses to his name, what Oli McBurnie has thus far lacked in goal contributions he has more than made up for with selfless graft and off-the-ball grunt work, making a total mockery of Steve Clarke’s decision not to include him in Scotland’s World Cup squad. The Hull striker ought to prove a real handful for a decidedly porous home defence, and a goal would be a fitting way to mark a century of Premier League appearances. Chelsea have not won any of their past four league matches against promoted opposition and given Hull’s blistering start to the season, victory on Saturday seems anything but a foregone conclusion. <strong>Barry Glendenning</strong></p><p><em>Chelsea v Hull, Saturday 3pm (all times BST)</em></p><p><em>Liverpool v Fulham, Saturday 3pm</em></p><p><em>Crystal Palace v Ipswich, Saturday 3pm</em></p> <a href=\"https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 23:01:48 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
+      "items": [
+        {
+          "title": "Mickels miss a turning point as latest stop in Sabah’s odyssey ends with regret | Jamie Jackson",
+          "summary": "<p>Forward’s spurned opportunity to level the match proved decisive in the Champions League newcomers’ loss to Manchester United</p><p>Football – like much of life – can be a story of what might have been, and on 39 minutes Joy-Lance Mickels had an experience that was a sliding doors moment for the centre-forward and Sabah that may haunt a long time.</p><p>Azerbaijan’s champions were trailing to Matheus Cunha’s opener when Kaheem Parris spiralled the ball up to the far post of Manchester United’s goal. The lurking Mickels had a gilded chance, unmarked and close-in, yet when the delivery dropped, the 32-year-old snatched at his header and the ball fell wide.</p> <a href=\"https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-european-odyssey-champions-league-analysis",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 22:56:27 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
+      "items": [
+        {
+          "title": "‘That’s how it started’: Dambrauskas’ journey from Who Wants to Be a Millionaire to Champions League",
+          "summary": "<p>Valdas Dambrauskas takes Sabah to Manchester United after journeying from Lithuania and a game show win, via London pub work </p><p>Valdas Dambrauskas can reel off the questions and answers without a moment’s pause. Who won the first Academy Award for best actor in 1929? It was Emil Jannings, even if someone else might have been tempted to go with Charlie Chaplin. Which country publishes the highest number of daily newspapers? India was the clear winner. Can you name the nation that produces the most electricity per capita in the world? His family, watching back home, clasped heads in hands but he was right: back then, in 2002, the answer was his native Lithuania.</p><p>It was enough to win Dambrauskas about £725 in his appearance on Six Zeros – A Million, the Lithuanian version of Who Wants to Be a Millionaire? “At that time it was quite big money,” he says. “I could have bought a flat in&nbsp;my home town; it was a very difficult period there and they were almost free. But my plan was to go to England and follow my dream to become a coach, and that’s how it started.”</p> <a href=\"https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/10/valdas-dambrauskas-sabah-manchester-united-arsenal-champions-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 06:00:19 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals Lewis Hall to Man Utd still on despite Newcastle agreement - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals Lewis Hall to Man Utd still on despite Newcastle agreement - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHgyY0tZNkQzaDljWEc3YnNCa3FvcGNzaXVDSHNLZzFXY0ZmbXJtMlBnNktRWnJyYlphTC14VG9lMzRwbXJ0MHFTeVEyT1YzX2lvZnZiRUFGTVJNbDF1WG9kci1ZaG1yM281V3hkSjE1SUdNZmZlNmFIUG5VNE90YXUxNGh4bExlSlIwRXV1OW93WXVFLTRkVHhhMWREaVh0ZHIzZmktbW9lM2JqdFE?oc=5\" target=\"_blank\">Fabrizio Romano reveals Lewis Hall to Man Utd still on despite Newcastle agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVHgyY0tZNkQzaDljWEc3YnNCa3FvcGNzaXVDSHNLZzFXY0ZmbXJtMlBnNktRWnJyYlphTC14VG9lMzRwbXJ0MHFTeVEyT1YzX2lvZnZiRUFGTVJNbDF1WG9kci1ZaG1yM281V3hkSjE1SUdNZmZlNmFIUG5VNE90YXUxNGh4bExlSlIwRXV1OW93WXVFLTRkVHhhMWREaVh0ZHIzZmktbW9lM2JqdFE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 14:51:20 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano says Man United making move for PL speedster next year is “serious possibility” - The Peoples Person",
+      "items": [
+        {
+          "title": "Fabrizio Romano says Man United making move for PL speedster next year is “serious possibility” - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNuVkxvcHZUTm5NY3pGT3dEak9OWEZGTmpuanFvMDJ1OE80X1FNOGI5bDJJQkk4c1dCRTlXWTJQVzdmakM4NW9uU0hnUVQ2R3lKLWNUOEhqOUtjOE5oSkZ0Q3l5dnFaY1UzandwOVZVNFcxQ0FUU2dxRVpVaDY5NWR3bmJoSFRZWjFxOFZodnd4UEU2a2ZqNElDR3hBTy1OdmNWalhQUmlvbk92V3RFczlFR2FqWmViMXNWaEl1RzF1QmE4NkFjeEtHQzBXanpfSi11b3JDWmQ?oc=5\" target=\"_blank\">Fabrizio Romano says Man United making move for PL speedster next year is “serious possibility”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVVNuVkxvcHZUTm5NY3pGT3dEak9OWEZGTmpuanFvMDJ1OE80X1FNOGI5bDJJQkk4c1dCRTlXWTJQVzdmakM4NW9uU0hnUVQ2R3lKLWNUOEhqOUtjOE5oSkZ0Q3l5dnFaY1UzandwOVZVNFcxQ0FUU2dxRVpVaDY5NWR3bmJoSFRZWjFxOFZodnd4UEU2a2ZqNElDR3hBTy1OdmNWalhQUmlvbk92V3RFczlFR2FqWmViMXNWaEl1RzF1QmE4NkFjeEtHQzBXanpfSi11b3JDWmQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 15:02:10 GMT"
+        },
+        {
+          "title": "Fabrizio Romano says Man United making move for PL speedster next year is “serious possibility” - sports.yahoo.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0dTOGhYQ1d0NmlYQzhVSEVBTW0wOHpNdEwwdm5hcUotZTZKREdtTTNnTVJxcTNQSEFIcHRVWGlnSVY3NHFIbVk3bVpRVGRTWEVJSnpDRzJRNDZTdURCNzlTT2NhNjNCeVNXYTVkaE00TUtJV2xCcWRsNXZod21neDA5NDhUSE0?oc=5\" target=\"_blank\">Fabrizio Romano says Man United making move for PL speedster next year is “serious possibility”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sports.yahoo.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0dTOGhYQ1d0NmlYQzhVSEVBTW0wOHpNdEwwdm5hcUotZTZKREdtTTNnTVJxcTNQSEFIcHRVWGlnSVY3NHFIbVk3bVpRVGRTWEVJSnpDRzJRNDZTdURCNzlTT2NhNjNCeVNXYTVkaE00TUtJV2xCcWRsNXZod21neDA5NDhUSE0?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 15:05:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals 'destination Man Utd' update; reason for Hall contract decision revealed - Football365",
+      "items": [
+        {
+          "title": "Romano reveals 'destination Man Utd' update; reason for Hall contract decision revealed - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjJMd28yT3YyeWhUMzVDb3d3RjA5TUYwSU9hMUVYdWhwWXdIMVNncnM5MEpfN1poS1BTMk1DelZ0UlROMExRWlh0WWNybnF1UVBBNmh0Q2RHdk00TndHcmJTZnVfNDJLeDQ3SWNtTmhXTFNPaGJha0JIX3U4QXJ0QWxyaW5WSnN6N3VranNkR09tUDdGekVJZDZrbHF4ekdhdWc?oc=5\" target=\"_blank\">Romano reveals 'destination Man Utd' update; reason for Hall contract decision revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVjJMd28yT3YyeWhUMzVDb3d3RjA5TUYwSU9hMUVYdWhwWXdIMVNncnM5MEpfN1poS1BTMk1DelZ0UlROMExRWlh0WWNybnF1UVBBNmh0Q2RHdk00TndHcmJTZnVfNDJLeDQ3SWNtTmhXTFNPaGJha0JIX3U4QXJ0QWxyaW5WSnN6N3VranNkR09tUDdGekVJZDZrbHF4ekdhdWc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 17:16:31 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Transfer news LIVE: Arsenal eye huge double deal; major Man Utd boost; Chelsea want Lopez; Liverpool battle - London Evening Standard",
+      "items": [
+        {
+          "title": "Transfer news LIVE: Arsenal eye huge double deal; major Man Utd boost; Chelsea want Lopez; Liverpool battle - London Evening Standard",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRm1yMlRqaUZpaGJmQmpoelVzTmQwcVhQbHZ6NFZLakJKQ1A0Wk9rVVJjRVd6ZjdkNUxYM19yRTY1N1Y0MmU5Z1dDWDA5LWd3ekd4ZE1xVGUtaDFRdEFRY0R2cHRYcjJHZzR1LURHMDRYN0dKTGRzX0R0bUZKdVRuVE53QndRbHQzMTBPckx3aUh2RUJGem9aeE1LME5lMmM5WUxyYVd6TzBKeW5UYi11TlUwRXpicld6WkdtWGFURVFlOUhIeUE?oc=5\" target=\"_blank\">Transfer news LIVE: Arsenal eye huge double deal; major Man Utd boost; Chelsea want Lopez; Liverpool battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRm1yMlRqaUZpaGJmQmpoelVzTmQwcVhQbHZ6NFZLakJKQ1A0Wk9rVVJjRVd6ZjdkNUxYM19yRTY1N1Y0MmU5Z1dDWDA5LWd3ekd4ZE1xVGUtaDFRdEFRY0R2cHRYcjJHZzR1LURHMDRYN0dKTGRzX0R0bUZKdVRuVE53QndRbHQzMTBPckx3aUh2RUJGem9aeE1LME5lMmM5WUxyYVd6TzBKeW5UYi11TlUwRXpicld6WkdtWGFURVFlOUhIeUE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 11 Sep 2026 02:36:45 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ornstein tips Man Utd to open £60m talks for ‘best left-back in the country’ - Football365",
+      "items": [
+        {
+          "title": "Ornstein tips Man Utd to open £60m talks for ‘best left-back in the country’ - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP?oc=5\" target=\"_blank\">Ornstein tips Man Utd to open £60m talks for ‘best left-back in the country’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2NCeGZTcXpHUDZWREp1TEI4YkRpV3BSeTZQSVFCNG03Z3Uzbk5LZGg3eXp3eV9ldjVCSUNvNVF5cUpyYUR1OTJQdmYtLThjeFI0OUFpdjhqSGtHcS12cTlSS2lWdVRORUFQYVR3V2dSSmFFR1pBOW00Q0xlZWlIQll6a3JUbkVuR0VyNG1FdVdSaXJua01CbUFLNWhRcXNmMzVTb2xKOUNmVTVP?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 12:09:14 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd transfer news: David Ornstein teases \"deal to be done\" for Red Devils' £60m left-back target - Sports Mole",
+      "items": [
+        {
+          "title": "Man Utd transfer news: David Ornstein teases \"deal to be done\" for Red Devils' £60m left-back target - Sports Mole",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX2hESGRESy1IV3U4RWllYTk4aTlEVHNWZDg1TWc1Z2h1UjBLTDJBNjc5dEgyOV9DOUh0TkpxS2lDRU01anlvOHo5d2EwUE0yNTZoMzN5T3duckkyMVpGTFhSUkdOcHR3cHhxbnFIam4tOW42TDN1aEJhV19HZ3pMb1NFMVVpNFdQVDVDMzZPR1VwVmVWRjkxMTI3LWtiZ3FMbmxrOU1rWVMxQ3JkQ0JoQzJTTFhfSWx5MHBTckZvUEpOSDZhYzZEWUFyRnZDcnNDYVpKbFdTNDJEdTVJcEhUaEN1dmQ?oc=5\" target=\"_blank\">Man Utd transfer news: David Ornstein teases \"deal to be done\" for Red Devils' £60m left-back target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sports Mole</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX2hESGRESy1IV3U4RWllYTk4aTlEVHNWZDg1TWc1Z2h1UjBLTDJBNjc5dEgyOV9DOUh0TkpxS2lDRU01anlvOHo5d2EwUE0yNTZoMzN5T3duckkyMVpGTFhSUkdOcHR3cHhxbnFIam4tOW42TDN1aEJhV19HZ3pMb1NFMVVpNFdQVDVDMzZPR1VwVmVWRjkxMTI3LWtiZ3FMbmxrOU1rWVMxQ3JkQ0JoQzJTTFhfSWx5MHBTckZvUEpOSDZhYzZEWUFyRnZDcnNDYVpKbFdTNDJEdTVJcEhUaEN1dmQ?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 11:45:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'Best in the country' Bournemouth star tipped to join Man Utd in £60m deal by David Ornstein - TEAMtalk",
+      "items": [
+        {
+          "title": "'Best in the country' Bournemouth star tipped to join Man Utd in £60m deal by David Ornstein - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1h3bDhKajZ3ZzN2QVBQcmF1ZTdZNW1GUEVzYjhyYXBrd2NHTHJRMUNvVFJtSHlSNFlHc1A0N1VRNFFublJ0QWl5eHFpaGhzcnE3d1MwbjdIczkyaDJIQU0tbXVxS2hYaVpQSzU2SVVEeEgxLXhoeXdhdGZTNC1JS25NamJQTVNjZk5TQy1DVDh1QThKSElyVlFKMXpLbXhwSTlLU19pcndkbU9HSC13LUhzTm1BSmM?oc=5\" target=\"_blank\">'Best in the country' Bournemouth star tipped to join Man Utd in £60m deal by David Ornstein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1h3bDhKajZ3ZzN2QVBQcmF1ZTdZNW1GUEVzYjhyYXBrd2NHTHJRMUNvVFJtSHlSNFlHc1A0N1VRNFFublJ0QWl5eHFpaGhzcnE3d1MwbjdIczkyaDJIQU0tbXVxS2hYaVpQSzU2SVVEeEgxLXhoeXdhdGZTNC1JS25NamJQTVNjZk5TQy1DVDh1QThKSElyVlFKMXpLbXhwSTlLU19pcndkbU9HSC13LUhzTm1BSmM?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 10 Sep 2026 10:30:08 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal send scouts to watch highly rated 24-year-old La Liga ace",
+      "items": [
+        {
+          "title": "Arsenal send scouts to watch highly rated 24-year-old La Liga ace",
+          "summary": "<p>Arsenal are reportedly keeping tabs on the Sevilla midfielder Lucien Agoume. The 24-year-old defensive midfielder has been linked with a move to a London club in the past as well. Arsenal have sent scouts to watch the player in action, according to a report from Fichero. Agoume has also been linked with Manchester United in [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/10/arsenal-send-scouts-to-watch-highly-rated-24-year-old-la-liga-ace/\">Arsenal send scouts to watch highly rated 24-year-old La Liga ace</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/10/arsenal-send-scouts-to-watch-highly-rated-24-year-old-la-liga-ace/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 10 Sep 2026 17:40:57 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Free Talk Friday",
+      "items": [
+        {
+          "title": "Free Talk Friday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>What's the craic? </p> <p><strong>Looking for memes? Head over to</strong> <a href=\"https://www.reddit.com/r/memechesterunited\">/r/memechesterunited</a><strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhelansShorts\"> /u/PhelansShorts </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wd6lgs/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wd6lgs/free_talk_friday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wd6lgs/free_talk_friday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-11T05:00:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcx97c/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcx97c/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcx97c/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T22:00:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Patrick Dorgu with the Official UEFA Player of the Match award",
+      "items": [
+        {
+          "title": "Patrick Dorgu with the Official UEFA Player of the Match award",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcw1u3/patrick_dorgu_with_the_official_uefa_player_of/\"> <img alt=\"Patrick Dorgu with the Official UEFA Player of the Match award\" src=\"https://preview.redd.it/x3fq778sdroh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c33fbe90c55233258716612a5b066971f0b0d70a\" title=\"Patrick Dorgu with the Official UEFA Player of the Match award\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/x3fq778sdroh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcw1u3/patrick_dorgu_with_the_official_uefa_player_of/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcw1u3/patrick_dorgu_with_the_official_uefa_player_of/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T21:13:21+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Kobbie on Instagram: “We back baby”",
+      "items": [
+        {
+          "title": "Kobbie on Instagram: “We back baby”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcy5wp/kobbie_on_instagram_we_back_baby/\"> <img alt=\"Kobbie on Instagram: “We back baby”\" src=\"https://preview.redd.it/b04vc4gqsroh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e07831638ef7b3fc7875feb4da12c563a726cd9\" title=\"Kobbie on Instagram: “We back baby”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/b04vc4gqsroh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcy5wp/kobbie_on_instagram_we_back_baby/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcy5wp/kobbie_on_instagram_we_back_baby/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T22:36:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[@ManUtd] Benjamin Šeško™️",
+      "items": [
+        {
+          "title": "[@ManUtd] Benjamin Šeško™️",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcu2bs/manutd_benjamin_šeško/\"> <img alt=\"[@ManUtd] Benjamin Šeško™️\" src=\"https://preview.redd.it/znf2sz7q0roh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d920b196ea6428c7c6126f9540d085e0ea602d4\" title=\"[@ManUtd] Benjamin Šeško™️\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/znf2sz7q0roh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcu2bs/manutd_benjamin_šeško/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcu2bs/manutd_benjamin_šeško/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T19:59:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "“As a player? Good person.” The Butcher clarifying on Jamie Carragher",
+      "items": [
+        {
+          "title": "“As a player? Good person.” The Butcher clarifying on Jamie Carragher",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcxmef/as_a_player_good_person_the_butcher_clarifying_on/\"> <img alt=\"“As a player? Good person.” The Butcher clarifying on Jamie Carragher\" src=\"https://external-preview.redd.it/ZG9memlyZXJvcm9oMfOCfkS8sjNGy4MyJKum3GHzet1TAlU5F1aMELdCY7-J.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0548d0201a6d986719410a8b94f5109859ecc75\" title=\"“As a player? Good person.” The Butcher clarifying on Jamie Carragher\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BurgerNugget12\"> /u/BurgerNugget12 </a> <br /> <span><a href=\"https://v.redd.it/f2ibppgroroh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcxmef/as_a_player_good_person_the_butcher_clarifying_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcxmef/as_a_player_good_person_the_butcher_clarifying_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T22:14:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kobbie Mainoo's game by numbers vs. Sabah: 64 minutes played 93 touches 81/83 successful passes 10 passes into final third 6/6 accurate long balls 4 duels won 2 tackles 1 chance created Hardly ever puts a foot wrong. [@Squawka]",
+      "items": [
+        {
+          "title": "Kobbie Mainoo's game by numbers vs. Sabah: 64 minutes played 93 touches 81/83 successful passes 10 passes into final third 6/6 accurate long balls 4 duels won 2 tackles 1 chance created Hardly ever puts a foot wrong. [@Squawka]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcvtde/kobbie_mainoos_game_by_numbers_vs_sabah_64/\"> <img alt=\"Kobbie Mainoo's game by numbers vs. Sabah: 64 minutes played 93 touches 81/83 successful passes 10 passes into final third 6/6 accurate long balls 4 duels won 2 tackles 1 chance created Hardly ever puts a foot wrong. [@Squawka]\" src=\"https://preview.redd.it/io7if6fnbroh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc8d25bc3d287a509c7be237708034f965a3e413\" title=\"Kobbie Mainoo's game by numbers vs. Sabah: 64 minutes played 93 touches 81/83 successful passes 10 passes into final third 6/6 accurate long balls 4 duels won 2 tackles 1 chance created Hardly ever puts a foot wrong. [@Squawka]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/io7if6fnbroh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcvtde/kobbie_mainoos_game_by_numbers_vs_sabah_64/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcvtde/kobbie_mainoos_game_by_numbers_vs_sabah_64/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T21:04:25+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[BBCMOTD] Since joining Man Utd in 2020, Bruno Fernandes has the most goals and assists of any midfielder in major European competitions 👏🔴",
+      "items": [
+        {
+          "title": "[BBCMOTD] Since joining Man Utd in 2020, Bruno Fernandes has the most goals and assists of any midfielder in major European competitions 👏🔴",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcvon8/bbcmotd_since_joining_man_utd_in_2020_bruno/\"> <img alt=\"[BBCMOTD] Since joining Man Utd in 2020, Bruno Fernandes has the most goals and assists of any midfielder in major European competitions 👏🔴\" src=\"https://preview.redd.it/01vz81x8broh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=12552bb4b4adb7cc76dbd3a092e741ab16023268\" title=\"[BBCMOTD] Since joining Man Utd in 2020, Bruno Fernandes has the most goals and assists of any midfielder in major European competitions 👏🔴\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/01vz81x8broh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcvon8/bbcmotd_since_joining_man_utd_in_2020_bruno/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcvon8/bbcmotd_since_joining_man_utd_in_2020_bruno/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T20:59:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "ManUtd: Old Trafford is #UCL ready 🏟️✨",
+      "items": [
+        {
+          "title": "ManUtd: Old Trafford is #UCL ready 🏟️✨",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcparb/manutd_old_trafford_is_ucl_ready/\"> <img alt=\"ManUtd: Old Trafford is #UCL ready 🏟️✨\" src=\"https://external-preview.redd.it/eDdldThmc3M2cW9oMRiTOgY4NBA6Cl-K9byENkZ1VmWvChBKsIs1gkENoaUu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a35acddd3b62d3176afddeb70cec307e018885b\" title=\"ManUtd: Old Trafford is #UCL ready 🏟️✨\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/17hxujrs6qoh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcparb/manutd_old_trafford_is_ucl_ready/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcparb/manutd_old_trafford_is_ucl_ready/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T17:12:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "UEFA Champions League table after Matchday 1 - Man Utd 4th",
+      "items": [
+        {
+          "title": "UEFA Champions League table after Matchday 1 - Man Utd 4th",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcw7p0/uefa_champions_league_table_after_matchday_1_man/\"> <img alt=\"UEFA Champions League table after Matchday 1 - Man Utd 4th\" src=\"https://preview.redd.it/12951n5xeroh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f1f6bfc0a23f1aa8df095d4d807c62e44210c3f\" title=\"UEFA Champions League table after Matchday 1 - Man Utd 4th\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/12951n5xeroh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcw7p0/uefa_champions_league_table_after_matchday_1_man/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcw7p0/uefa_champions_league_table_after_matchday_1_man/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T21:19:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Sabah forward & United fan Joy-Lance Mickels on playing at Old Trafford: \"I'm very very proud. It feels like a dream. Being here myself & competing is very nice. Old Trafford is huge! I know now why they call it the Theatre of Dreams.\"",
+      "items": [
+        {
+          "title": "Sabah forward & United fan Joy-Lance Mickels on playing at Old Trafford: \"I'm very very proud. It feels like a dream. Being here myself & competing is very nice. Old Trafford is huge! I know now why they call it the Theatre of Dreams.\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wckf84/sabah_forward_united_fan_joylance_mickels_on/\"> <img alt=\"Sabah forward &amp; United fan Joy-Lance Mickels on playing at Old Trafford: &quot;I'm very very proud. It feels like a dream. Being here myself &amp; competing is very nice. Old Trafford is huge! I know now why they call it the Theatre of Dreams.&quot;\" src=\"https://external-preview.redd.it/amwxeWUwZ283cG9oMYNrAAM3cya_4Jr5nea3P7qs8-ZcPGDiZYAq3Q1H4MYv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbdbdff445b3d69bf07f1187f15b445da7229305\" title=\"Sabah forward &amp; United fan Joy-Lance Mickels on playing at Old Trafford: &quot;I'm very very proud. It feels like a dream. Being here myself &amp; competing is very nice. Old Trafford is huge! I know now why they call it the Theatre of Dreams.&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/ugvmb4fo7poh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wckf84/sabah_forward_united_fan_joylance_mickels_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wckf84/sabah_forward_united_fan_joylance_mickels_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T14:14:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Full time stats",
+      "items": [
+        {
+          "title": "Full time stats",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcvjpg/full_time_stats/\"> <img alt=\"Full time stats\" src=\"https://preview.redd.it/u8aijf2jaroh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74b11855fea8b57fe4c659ae56f5c25143afccb8\" title=\"Full time stats\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/prettyweirdperson\"> /u/prettyweirdperson </a> <br /> <span><a href=\"https://i.redd.it/u8aijf2jaroh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcvjpg/full_time_stats/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcvjpg/full_time_stats/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T20:54:23+00:00"
+        },
+        {
+          "title": "Half time stats",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcttgf/half_time_stats/\"> <img alt=\"Half time stats\" src=\"https://preview.redd.it/9tw32cs6zqoh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b3105eaa44ae5ed9d4973a2246eae7875846d07\" title=\"Half time stats\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/prettyweirdperson\"> /u/prettyweirdperson </a> <br /> <span><a href=\"https://i.redd.it/9tw32cs6zqoh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcttgf/half_time_stats/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcttgf/half_time_stats/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T19:50:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Passing Network and Ball Progression against Sabah",
+      "items": [
+        {
+          "title": "Passing Network and Ball Progression against Sabah",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wcvyhe/passing_network_and_ball_progression_against_sabah/\"> <img alt=\"Passing Network and Ball Progression against Sabah\" src=\"https://preview.redd.it/pbfu0m5adroh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=c593528a1a0670385ffb5333e9b16bbe7e7b1220\" title=\"Passing Network and Ball Progression against Sabah\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1wcvyhe\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wcvyhe/passing_network_and_ball_progression_against_sabah/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wcvyhe/passing_network_and_ball_progression_against_sabah/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-10T21:09:46+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 84,
+    "story_count": 52
+  }
+}
