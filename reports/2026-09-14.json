@@ -1,0 +1,1322 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T05:54:21.964042+00:00",
+  "match_data": {
+    "collected_at": "2026-09-14T05:54:14.756763+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Michael Carrick reacts to Haaland's goal and losing 1-0 in the Manchester Derby.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p9gcwz?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 13 Sep 2026 18:54:00 GMT"
+        },
+        {
+          "title": "'Utter disgrace!' - Manchester United fans' protest showed that problems run deep at Old Trafford",
+          "summary": "Man Utd fans held a protest against the club's treatment of season ticket holders before the Manchester derby.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/utter-disgrace-manchester-united-fans-34610750",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 14 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Youri Tielemans makes brutally honest admission about Manchester United display vs Man City",
+          "summary": "Man Utd suffered a 1-0 defeat in the Manchester derby despite having a man advantage for most of the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/youri-tielemans-makes-brutally-honest-34610684",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 14 Sep 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man City reaction proves they knew something nobody at Manchester United did",
+          "summary": "Man Utd suffered a 1-0 defeat to Man City in the Manchester derby, a game in which two VAR decisions were decisive.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-city-reaction-proves-knew-34610618",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 14 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Why Michael Carrick refused to criticise Manchester United players after Man City defeat",
+          "summary": "Man Utd were on the wrong end of a controversial call against Manchester City but they didn't play well either.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-refused-criticise-manchester-34612005",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 14 Sep 2026 03:00:00 +0000"
+        },
+        {
+          "title": "Manchester United vs Man City highlights and reaction as Haaland wins it after Foden red card",
+          "summary": "Manchester City beat Man United in the first Manchester derby of the 2026/27 Premier League season at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-vs-city-live-34601677",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 19:24:06 +0000"
+        },
+        {
+          "title": "Lisandro Martinez demands answers after VAR 'mistake' in Manchester United vs Man City",
+          "summary": "Man United conceded a controversial winner against Manchester City that decided the derby at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/lisandro-martinez-demands-answers-after-34612031",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:43:01 +0000"
+        },
+        {
+          "title": "Noel Gallagher pictured enjoying Manchester City win at Old Trafford ahead of Oasis tour announcement",
+          "summary": "The Oasis frontman was in euphoria after the blues saw off Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/noel-gallagher-pictured-enjoying-manchester-34612028",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:23:19 +0000"
+        },
+        {
+          "title": "POLL: Was VAR right to allow Erling Haaland's winner vs Manchester United?",
+          "summary": "Manchester City were victorious against Manchester United at Old Trafford thanks to Erling Haaland's winner",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-var-right-allow-erling-34612006",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:07:12 +0000"
+        },
+        {
+          "title": "POLL: Did VAR make a mistake in allowing Erling Haaland's goal vs Manchester United?",
+          "summary": "Manchester City beat Man United 1-0 at Old Trafford after a controversial winner from Erling Haaland",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-var-make-mistake-allowing-34611990",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:59:37 +0000"
+        },
+        {
+          "title": "Michael Carrick should ask questions of Ineos after Manchester United nightmare vs Man City",
+          "summary": "Man Utd were handed a golden opportunity to beat Manchester City but a flat performance is cause for concern and continued a slow start to the season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-should-ask-questions-34611265",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:48:52 +0000"
+        },
+        {
+          "title": "Manchester United player ratings vs Man City as two get 4/10 in derby day nightmare",
+          "summary": "Man Utd had a man advantage for more than an hour against Manchester City but failed to make it pay in a desperately disappointing defeat.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34611317",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:26:21 +0000"
+        },
+        {
+          "title": "Manchester United fans make their feelings clear as owners targeted during ticket ban protest",
+          "summary": "Man Utd fans protested against the club's controversial changes to tackle ticket touting ahead of the Manchester derby.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-fans-make-feelings-34600952",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 16:09:51 +0000"
+        },
+        {
+          "title": "Manchester United give Luke Shaw injury update after derby blow",
+          "summary": "Man United full-back Luke Shaw misses the Manchester derby against Man City due to injury",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-give-luke-shaw-34610627",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 15:24:20 +0000"
+        },
+        {
+          "title": "Enzo Maresca makes Bruno Fernandes claim as Manchester derby descends into war of words",
+          "summary": "Manchester City came out on top in Sunday's derby courtesy of an Erling Haaland goal but the main talking points after the game revolved around VAR and Phil Foden's red card",
+          "url": "https://www.mirror.co.uk/sport/football/news/enzo-maresca-man-utd-derby-37658651",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:57:07 +0000"
+        },
+        {
+          "title": "Man Utd sent painful reminder in Manchester derby defeat as Enzo Maresca gets huge boost",
+          "summary": "MANCHESTER UNITED 0-1 MANCHESTER CITY: Erling Haaland scored the goal to settle a derby which will be remembered for its controversies rather than the action on the pitch between two great rivals",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-man-city-highlights-37658590",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:15:49 +0000"
+        },
+        {
+          "title": "Wayne Rooney slams Manchester derby VAR call as Man Utd left furious",
+          "summary": "Manchester City's winning goal in the Manchester derby was given by VAR - but the decision has sparked a huge backlash among fans and pundits alike following the game",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-gary-neville-var-37658480",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:55:48 +0000"
+        },
+        {
+          "title": "Phil Foden SENT OFF for kicking Bruno Fernandes in Manchester derby flashpoint",
+          "summary": "Manchester United were given an early advantage in Sunday's Manchester derby after Phil Foden was given a red card after kicking out at Bruno Fernandes",
+          "url": "https://www.mirror.co.uk/sport/football/news/phil-foden-sent-off-derby-37658294",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 16:00:22 +0000"
+        },
+        {
+          "title": "Benjamin Sesko makes Man Utd promise ahead of Manchester derby",
+          "summary": "Benjamin Sesko had a mixed first season with Manchester United following his switch from RB Leipzig but the Slovenian striker has hit the ground running this term",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-man-city-sesko-37657269",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 10:22:45 +0000"
+        },
+        {
+          "title": "Manchester Derby predictions made with complete agreement over one aspect",
+          "summary": "Manchester United host Manchester City at Old Trafford on Sunday afternoon in the Premier League, with Michael Carrick hoping his leaky defence won't let Erling Haaland and Co in",
+          "url": "https://www.mirror.co.uk/sport/football/manchester-derby-predictions-united-city-37653139",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 07:00:00 +0000"
+        },
+        {
+          "title": "Manchester United 0-1 Manchester City: Premier League – as it happened",
+          "summary": "<p>Erling Haaland’s controversial goal set up a mighty victory for City, who played brilliantly after Phil Foden’s early red card</p><p><strong>Brighton’s fourth goal was a screamer from Lewis Dunk</strong>, of all people, prompting this email from Steve Bradfield.</p><p>Is Brighton’s fourth goal a slam Dunk for goal of month?</p> <a href=\"https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:16:13 GMT"
+        },
+        {
+          "title": "Manchester City recover from Foden red card as Haaland wins derby at United",
+          "summary": "<p>“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández, who after a star role in a memorable victory has instant cult hero status.</p><p>This 199th derby was won by Erling Haaland’s ninth strike in the fixture but the visitors’ totem was their new No 17. He was the key nuisance in a goal ruled out initially for offside and which the video assistant referee overturned when ruling that Fernández was not distracting Lisandro Martínez when Josko Gvardiol’s ball came over. Pro Ref later made contact with United to acknowledge an “error of judgment” in allowing the goal to stand.</p> <a href=\"https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:32:15 GMT"
+        },
+        {
+          "title": "David Ornstein provides update on Bruno Fernandes contract talks with Manchester United - centredevils.co.uk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmdaek94dVlROTY2QjU0VkNOXzd5Q0EzN2JPeUR3czAzN2JqdEplVUlWVlE3TllzTy10ajMtYnNrVXJFNWllLWdjRWw3bDRJUGhOdV83YkhZLTZYS1R3ZnhjZ2stMkx0TmZ3WWtVUjhFME4tTjFWUVlCa0xMVU1NY3pxVTJSakttWWdMbG1hLXFfSlV5eW1FdmppYklHLXNjT0pxRnJDQ2xuQXEyV0xBeFdnX1ppM3poZjlHdw?oc=5\" target=\"_blank\">David Ornstein provides update on Bruno Fernandes contract talks with Manchester United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">centredevils.co.uk</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQmdaek94dVlROTY2QjU0VkNOXzd5Q0EzN2JPeUR3czAzN2JqdEplVUlWVlE3TllzTy10ajMtYnNrVXJFNWllLWdjRWw3bDRJUGhOdV83YkhZLTZYS1R3ZnhjZ2stMkx0TmZ3WWtVUjhFME4tTjFWUVlCa0xMVU1NY3pxVTJSakttWWdMbG1hLXFfSlV5eW1FdmppYklHLXNjT0pxRnJDQ2xuQXEyV0xBeFdnX1ppM3poZjlHdw?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 19:25:35 GMT"
+        },
+        {
+          "title": "Video: Phil Foden trolls Manchester United fans with cheeky gesture after City’s Derby win",
+          "summary": "<p>Manchester City star Phil Foden enjoyed the opportunity to troll Manchester United fans on his way out of Old Trafford today. Foden may have been sent off in the Manchester Derby, but he was clearly still feeling pretty happy about life afterwards as his side scraped a 1-0 victory. Erling Haaland scored the winner in [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/13/phil-foden-trolls-united-fans-video/\">Video: Phil Foden trolls Manchester United fans with cheeky gesture after City&#8217;s Derby win</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/13/phil-foden-trolls-united-fans-video/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 13 Sep 2026 19:14:24 +0000"
+        },
+        {
+          "title": "Post Match Thread: Manchester United 0-1 Manchester City | PL MD4",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 0-1 Manchester City</h1> <p>Premier League Matchday 4</p> <p>Red Card Man City: Phil Foden 23'</p> <p>Goal Scorer Man City: Erling Haaland 60'</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Venue:</strong> Old Trafford</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Manchester United</strong></p> <p><strong>Starting XI</strong>: Senne Lammens; Diogo Dalot, Harry Maguire, Lisandro Martinez, Patrick Dorgu; Kobbie Mainoo, Youri Tielemans; Bryan Mbeumo, Bruno Fernandes, Marcus Rashford; Matheus Cunha.</p> <p>MANCHESTER UNITED SUBS: Karl Darlow, Ayden Heaven, Leny Yoro, Noussair Mazraoui, Andrey Santos, Mason Mount, Benjamin Sesko, Joshua Zirkzee, Shea Lacey.</p> <p><strong>Manchester City</strong></p> <p><strong>Starting XI</strong>: Gianluigi Donnarumma; Matheus Nunes, Ruben Dias, Marc Guehi, Josko Gvardiol; Elliot Anderson; Phil Foden, Enzo Fernandez, Rayan Cherki, Antoine Semenyo; Erling Haaland.</p> <p>MANCHESTER CITY SUBS: Geronimo Rulli, Abdukodir Khusanov, Nico O'Reilly, Rico Lewis, Vitor Reis, Ayyoub Bouaddi, Mateo Kovacic, Allan, Iliman Ndiaye.</p> <p><sup>\\</sup>___________________________)</p> <p><strong>MATCH EVENTS</strong></p> <p><strong>FIRST HALF</strong></p> <ul> <li>3' - Early City pressure thanks to a few soft freekicks for City leads to a couple of corners. Nothing comes of it though.</li> <li>6' - An unorthodox challenge from Anderson on Rashford leads to a United freekick in a dangerous position, nothing comes of that either though.</li> <li>11' - It breaks down in midfield and Cunha comes forward but pulls a low shot quite a way wide.</li> <li>16' - Perhaps a rehearsed freekick, Martinez pulls it wide to Mbeumo who lays it off to Mainoo who puts in a delicious deep cross but Rashford can't get over it.</li> <li>18' - Hearts in mouths as Bruno gives it straight to Haaland (his first touch) but he can't find a teammate and the mistake doesn't punish us.</li> <li>21' - Dalot miskicks a back pass and Semenyo steals the ball but his cross is gathered by Lammens</li> <li>22' - <strong>RED CARD</strong> - Foden is off, a bit of afters after the ball has gone and he kicks out at Bruno's stomach from the ground. Ref shows no hesitation. Bruno did stick the boot in after the ball had gone but can't react like that.</li> <li>31' - Almost a chance, Bruno slides in Rashford but the first touch isn't good and Donnarumma gets to it first.</li> <li>35' - We actually looked better before the red. City still look like they have a threat in their front three, Semenyo flashes a cross in but can't find a City shirt.</li> <li>38' - A wild cross from Fernandes goes straight out of play. This is lacking quality so far.</li> <li>44' - Fernandez late on Cunha and United have a freekick in a dangerous position...</li> <li>44' - Close! Rashford hits the post with the freekick.</li> <li>45' - Fernandez goes down in the box and asks for a penalty but the ref isn't interested. Maresca gets a yellow for his reaction. <strong>HALF TIME 0-0</strong></li> </ul> <p><strong>SECOND HALF</strong></p> <ul> <li>45' - Man City sub, Cherki off for Ndiaye</li> <li>48' - Maguire slowly ambles forwards and then does a completely unnecessary longball to a marked Rashford.</li> <li>50' - Close! Mainoo with a curved shot from distance strikes the post solidly. Few moments later Rashford then fires one into the side netting. Better start to this half.</li> <li>58' - Not a lot happening. We're having shots but they're all outside the box and all off target</li> <li>59' - First real sign of Haaland and he buries a shot into the roof of the net...but the flag is up.</li> <li>61' - VAR is still checking this...</li> <li>62' - <strong>GOAL</strong> Manchester United 0 - 1 Manchester City. I don't know why this is a goal, genuinely.</li> <li>67' - Carrick wakes up, Sesko on for Tielemans</li> <li>68' - Enzo Fernandez is a whisker away from 2-0 as he fires just wide</li> <li>69' - Rashford backheels to Mbeumo, Mbeumo backheels it back, the defender just clears it.</li> <li>72' - Dalot cross is flicked on by Mbeumo but it is going wide of the post</li> <li>75' - It should be 2-0. A pea roller of a cross from a freekick but Haaland can only put it wide.</li> <li>79' - Fernandez forces contact with Maguire and then dives for a penalty. Maguire loses his head and tries to pick him up and gets a yellow.</li> <li>82' - Another change, Zirkzee on for Rashford.</li> <li>85' - Maguire header goes close</li> </ul> <p><sup>\\</sup>___________________________)</p> <p><strong>NEXT MATCH</strong></p> <p>Man Utd vs Brighton - League Cup</p> <p>September 16, 2026 • 20:00</p> <p>Old Trafford, Manchester </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfdspq/post_match_thread_manchester_united_01_manchester/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfdspq/post_match_thread_manchester_united_01_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfdspq/post_match_thread_manchester_united_01_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T17:24:11+00:00"
+        },
+        {
+          "title": "[Simon Stone] Confirmed. Man City goal WAS a mistake. Pro Ref spokesperson said: “Following the incident in the 60th minute of Sunday's Premier League fixture between Manchester United and Manchester City at Old Trafford, we can provide clarification regarding Erling Haaland’s awarded goal. (Contd.)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfijj2/simon_stone_confirmed_man_city_goal_was_a_mistake/\"> <img alt=\"[Simon Stone] Confirmed. Man City goal WAS a mistake. Pro Ref spokesperson said: “Following the incident in the 60th minute of Sunday's Premier League fixture between Manchester United and Manchester City at Old Trafford, we can provide clarification regarding Erling Haaland’s awarded goal. (Contd.)\" src=\"https://preview.redd.it/ms3n8df4jcph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5194ce6f7da75c6ed645851941968a113ee3362e\" title=\"[Simon Stone] Confirmed. Man City goal WAS a mistake. Pro Ref spokesperson said: “Following the incident in the 60th minute of Sunday's Premier League fixture between Manchester United and Manchester City at Old Trafford, we can provide clarification regarding Erling Haaland’s awarded goal. (Contd.)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/ms3n8df4jcph1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfijj2/simon_stone_confirmed_man_city_goal_was_a_mistake/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfijj2/simon_stone_confirmed_man_city_goal_was_a_mistake/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T20:19:55+00:00"
+        },
+        {
+          "title": "Kobbie Mainoo amongst Manchester United players vs. Manchester City:🥇 Most touches (83)🥇 Most successful passes (65)🥇 Most defensive contributions (13)🥈 Second most line-breaking passes (11) 🥇 Most successful take-ons (3)🥇 Most chances created (3) A fine individual performance.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfg7nk/kobbie_mainoo_amongst_manchester_united_players/\"> <img alt=\"Kobbie Mainoo amongst Manchester United players vs. Manchester City:🥇 Most touches (83)🥇 Most successful passes (65)🥇 Most defensive contributions (13)🥈 Second most line-breaking passes (11) 🥇 Most successful take-ons (3)🥇 Most chances created (3) A fine individual performance.\" src=\"https://preview.redd.it/1ukawabb1cph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cd41db6c3b7c160650805dbcd506d2dc08a2a95\" title=\"Kobbie Mainoo amongst Manchester United players vs. Manchester City:🥇 Most touches (83)🥇 Most successful passes (65)🥇 Most defensive contributions (13)🥈 Second most line-breaking passes (11) 🥇 Most successful take-ons (3)🥇 Most chances created (3) A fine individual performance.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/1ukawabb1cph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfg7nk/kobbie_mainoo_amongst_manchester_united_players/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfg7nk/kobbie_mainoo_amongst_manchester_united_players/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T18:53:33+00:00"
+        },
+        {
+          "title": "[PLMatchCentre] The referee’s call of red card to Foden for violent conduct was checked and confirmed by VAR.REF: “Red card Phil Foden – kick out into the body of Bruno”.VAR: “That looks like a clear red card to me. Looks to be a secondary movement. Confirming the red card for Manchester City No.47”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfbr6u/plmatchcentre_the_referees_call_of_red_card_to/\"> <img alt=\"[PLMatchCentre] The referee’s call of red card to Foden for violent conduct was checked and confirmed by VAR.REF: “Red card Phil Foden – kick out into the body of Bruno”.VAR: “That looks like a clear red card to me. Looks to be a secondary movement. Confirming the red card for Manchester City No.47”\" src=\"https://preview.redd.it/uyl45xjt9bph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1573d902eccec9d0eca7c96cf406d1b3def56e6b\" title=\"[PLMatchCentre] The referee’s call of red card to Foden for violent conduct was checked and confirmed by VAR.REF: “Red card Phil Foden – kick out into the body of Bruno”.VAR: “That looks like a clear red card to me. Looks to be a secondary movement. Confirming the red card for Manchester City No.47”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/uyl45xjt9bph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfbr6u/plmatchcentre_the_referees_call_of_red_card_to/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfbr6u/plmatchcentre_the_referees_call_of_red_card_to/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T16:07:32+00:00"
+        },
+        {
+          "title": "[Laurie Whitwell] Hundreds at protest outside Old Trafford, organised by @The__1958 to demonstrate against various issues affecting Manchester United fans.#MUFC",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wf9lpb/laurie_whitwell_hundreds_at_protest_outside_old/\"> <img alt=\"[Laurie Whitwell] Hundreds at protest outside Old Trafford, organised by @The__1958 to demonstrate against various issues affecting Manchester United fans.#MUFC\" src=\"https://external-preview.redd.it/MXJkaXhvYzd2YXBoMfgY2VltVlvKAGTJH_2en_rPpWUcwGL-PEK1OyFarPgc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=75c232025ac64279bcc55cb0301a7eebb77e85d0\" title=\"[Laurie Whitwell] Hundreds at protest outside Old Trafford, organised by @The__1958 to demonstrate against various issues affecting Manchester United fans.#MUFC\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://v.redd.it/u7vpglc7vaph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wf9lpb/laurie_whitwell_hundreds_at_protest_outside_old/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wf9lpb/laurie_whitwell_hundreds_at_protest_outside_old/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T14:44:28+00:00"
+        },
+        {
+          "title": "Phil Foden (Manchester City) straight red card against Manchester Utd 23'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfbech/phil_foden_manchester_city_straight_red_card/\"> <img alt=\"Phil Foden (Manchester City) straight red card against Manchester Utd 23'\" src=\"https://external-preview.redd.it/d2eId9OKAHX1onKD4210A1p410XAPPRk3fLcqXsxZo0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c6ef9d24ff3eb24bb8510a39e5018e15e52dbf3\" title=\"Phil Foden (Manchester City) straight red card against Manchester Utd 23'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wrdb2007\"> /u/wrdb2007 </a> <br /> <span><a href=\"https://streamin.link/v/e95c4d20\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfbech/phil_foden_manchester_city_straight_red_card/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfbech/phil_foden_manchester_city_straight_red_card/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T15:54:21+00:00"
+        },
+        {
+          "title": "Manchester United 0-[1] Manchester City - Erling Haaland 60'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://v.redd.it/pyu4ss1ehbph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfcvqz/manchester_united_01_manchester_city_erling/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfcvqz/manchester_united_01_manchester_city_erling/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T16:50:06+00:00"
+        },
+        {
+          "title": "MOTD post match interviews and analysis VS Manchester City 13/09/2026",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfre86/motd_post_match_interviews_and_analysis_vs/\"> <img alt=\"MOTD post match interviews and analysis VS Manchester City 13/09/2026\" src=\"https://external-preview.redd.it/aG1uMDU5dWJnZXBoMSc4P0_UorITjXbnerd_h7yyCnsMk4_2Ta541wYq0FIK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=60bc590875d725d2e55de98e2932742b257bf4cc\" title=\"MOTD post match interviews and analysis VS Manchester City 13/09/2026\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/herkalurk\"> /u/herkalurk </a> <br /> <span><a href=\"https://v.redd.it/b7r3vztbgeph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfre86/motd_post_match_interviews_and_analysis_vs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfre86/motd_post_match_interviews_and_analysis_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-14T02:48:10+00:00"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Caught Offside",
+        "r/reddevils",
+        "Google News: David Ornstein",
+        "The Guardian - Manchester United",
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 7,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pro Ref make statement on controversial Man City goal vs Man United after Erling Haaland row",
+      "items": [
+        {
+          "title": "Pro Ref make statement on controversial Man City goal vs Man United after Erling Haaland row",
+          "summary": "Pro Ref, formerly PGMOL, have recognised that Erling Haaland's winner in the Manchester derby was an error of judgment",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/pro-ref-statement-manchester-derby-34612259",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 20:33:49 +0000"
+        },
+        {
+          "title": "'Took it personally' - Erling Haaland reacts to VAR controversy after Man City winner vs Man United",
+          "summary": "Manchester City striker Erling Haaland scored the winner in the derby as the Blues beat Manchester United 1-0 at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/took-personally-erling-haaland-reacts-34612065",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:47:39 +0000"
+        },
+        {
+          "title": "Pro Ref apologise to Man Utd over Man City goal as statement released on Erling Haaland row",
+          "summary": "Pro Ref have taken accountability after Erling Haaland's controversial winner against Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/pro-ref-haaland-man-united-37658801",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 20:34:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Roy Keane gives verdict on 'violent' Bruno Fernandes role in Phil Foden red card controversy",
+      "items": [
+        {
+          "title": "Roy Keane gives verdict on 'violent' Bruno Fernandes role in Phil Foden red card controversy",
+          "summary": "Roy Keane believes Bruno Fernandes should have been booked for a tackle on Phil Foden before the Manchester City star reacted and ultimately received his marching orders in the Manchester derby",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/fernandes-keane-foden-man-united-34611856",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 16:36:32 +0000"
+        },
+        {
+          "title": "Man City handed Phil Foden VAR verdict after Man United Bruno Fernandes controversy",
+          "summary": "Phil Foden was sent off in the first half of Sunday's clash between Manchester United and Manchester City at Old Trafford after kicking out at Bruno Fernandes",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-foden-fernandes-united-34611719",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 16:02:37 +0000"
+        },
+        {
+          "title": "Roy Keane points finger at Bruno Fernandes over Phil Foden red card - 'I have to call it out'",
+          "summary": "Phil Foden was sent off in the Manchester derby following a clash with Bruno Fernandes but the Manchester United captain's antics were later questioned by Roy Keane",
+          "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-bruno-fernandes-foden-37658417",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:02:06 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane left baffled by Man United warm-up for Man City derby",
+      "items": [
+        {
+          "title": "Roy Keane left baffled by Man United warm-up for Man City derby",
+          "summary": "Manchester United were looking to get one over on Enzo Maresca's side but their preparations raised eyebrows",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-man-city-keane-34611530",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 15:31:42 +0000"
+        },
+        {
+          "title": "Roy Keane takes aim at Man United warm-up for Man City derby as icon left baffled",
+          "summary": "Roy Keane has never been one to hold back, but he was particularly upset with how Manchester United warmed up against Manchester City",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-man-city-keane-37658211",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 15:32:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "“No breakthrough” – David Ornstein issues worrying Man United transfer update - livescore.com",
+      "items": [
+        {
+          "title": "“No breakthrough” – David Ornstein issues worrying Man United transfer update - livescore.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTVp2M1JpcDJYMUxvcHhGdndiMFJmMlc5LXNtU2tLOWY2WktNVS05VGk0UE1PNTJ2SGVoRWpzdGU0Q3hmMDdXaXFhZFBkdFh1NEZPN0doNGZnelQ1VldzQ2NndEl4SGJkdVp3cHlzLWgtSDdMZ2xmVnVycy1RU3RBQVoyUjVWYVlTWVA5T19HazZTUEZ2SGtwekh3MW9rTmxyUTlmbmZUSTc0QTF0ZVZGTU13RmFhS1RoY2ZUa3dDdjNlMUVjUXNXelZDejlMZTlwSWc?oc=5\" target=\"_blank\">“No breakthrough” – David Ornstein issues worrying Man United transfer update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livescore.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTVp2M1JpcDJYMUxvcHhGdndiMFJmMlc5LXNtU2tLOWY2WktNVS05VGk0UE1PNTJ2SGVoRWpzdGU0Q3hmMDdXaXFhZFBkdFh1NEZPN0doNGZnelQ1VldzQ2NndEl4SGJkdVp3cHlzLWgtSDdMZ2xmVnVycy1RU3RBQVoyUjVWYVlTWVA5T19HazZTUEZ2SGtwekh3MW9rTmxyUTlmbmZUSTc0QTF0ZVZGTU13RmFhS1RoY2ZUa3dDdjNlMUVjUXNXelZDejlMZTlwSWc?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 20:22:03 GMT"
+        },
+        {
+          "title": "“No breakthrough” – David Ornstein issues worrying Man United transfer update - caughtoffside.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5NUGJrTWs3dFJyTURoaDJCS3NDMnN5Ujk0LWJnNEZUSGFrWUlkUkt0ZzdzTTFidzNmLTJlLUZic1pYTF9wb001WmZqOGJuQVlidUlYM1RZQUg5TWtPRTdXdlAxV1ZNM04xOGhIaTVSb1E4T2c0ZEItVW1rYUxJUXlic21ncExoSWJLRU9IejdJT21BUC05Y2pn0gGfAUFVX3lxTE5kOVBYTHU4azdqLTlHdmRsYksyekI2OTRXZDQzbHpuRTRDUUYzT3F6UW90UkduZ2stbGhoOXNZTlR6SENLR09TQW1oWmRnWXVDeGVZN0N5UkJiRDVLb21NV3MzMWZpNDdSUHFCUWp0SkxHTHBKSnVmcHBVZXJKUEotR21yUW1EenJBUjdhQy0wMEhDcGo5eFF4cHRBcVJ2MA?oc=5\" target=\"_blank\">“No breakthrough” – David Ornstein issues worrying Man United transfer update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caughtoffside.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOG5NUGJrTWs3dFJyTURoaDJCS3NDMnN5Ujk0LWJnNEZUSGFrWUlkUkt0ZzdzTTFidzNmLTJlLUZic1pYTF9wb001WmZqOGJuQVlidUlYM1RZQUg5TWtPRTdXdlAxV1ZNM04xOGhIaTVSb1E4T2c0ZEItVW1rYUxJUXlic21ncExoSWJLRU9IejdJT21BUC05Y2pn0gGfAUFVX3lxTE5kOVBYTHU4azdqLTlHdmRsYksyekI2OTRXZDQzbHpuRTRDUUYzT3F6UW90UkduZ2stbGhoOXNZTlR6SENLR09TQW1oWmRnWXVDeGVZN0N5UkJiRDVLb21NV3MzMWZpNDdSUHFCUWp0SkxHTHBKSnVmcHBVZXJKUEotR21yUW1EenJBUjdhQy0wMEhDcGo5eFF4cHRBcVJ2MA?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 20:15:37 GMT"
+        },
+        {
+          "title": "“No breakthrough” – David Ornstein issues worrying Man United transfer update",
+          "summary": "<p>Manchester United star Bruno Fernandes is seemingly not that close to agreeing a new contract to commit his future to the Red Devils. The Portugal international is a hugely important player for Man Utd and they&#8217;ll surely want to keep hold of him for as long as possible, even if he&#8217;s not exactly getting any [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/13/bruno-fernandes-not-close-to-new-man-united-contract/\">&#8220;No breakthrough&#8221; &#8211; David Ornstein issues worrying Man United transfer update</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/13/bruno-fernandes-not-close-to-new-man-united-contract/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 13 Sep 2026 20:15:37 +0000"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein",
+        "Caught Offside"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United handed new VAR verdict as ex-referee explains what should have happened vs Man City",
+      "items": [
+        {
+          "title": "Man United handed new VAR verdict as ex-referee explains what should have happened vs Man City",
+          "summary": "Manchester United have been handed a new verdict over the controversial goal conceded from Manchester City in the derby",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-verdict-man-city-34612311",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 14 Sep 2026 05:45:04 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: Alex Scott transfer price tag revealed as young star tipped for the top",
+      "items": [
+        {
+          "title": "Man United latest: Alex Scott transfer price tag revealed as young star tipped for the top",
+          "summary": "Manchester United have been given an update on a summer transfer target as Michael Carrick aims to improve his team",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-alex-scott-34611018",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 14 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rio Ferdinand wades in on Man United offside controversy as 'deluded' VAR slammed",
+      "items": [
+        {
+          "title": "Rio Ferdinand wades in on Man United offside controversy as 'deluded' VAR slammed",
+          "summary": "Manchester United legend Rio Ferdinand took to social media to vent his frustration over the controversial goal conceded by his former club against Manchester City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-man-city-ferdinand-34612186",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 21:25:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick gives sarcastic response over controversial decision in Man United vs Man City",
+      "items": [
+        {
+          "title": "Michael Carrick gives sarcastic response over controversial decision in Man United vs Man City",
+          "summary": "Manchester United were beaten 1-0 by Manchester City at Old Trafford but Michael Carrick was furious at the decision to allow Erling Haaland's controversial goal.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-gives-sarcastic-response-34612003",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:32:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League explain controversial Man City goal vs Man United after offside decision made",
+      "items": [
+        {
+          "title": "Premier League explain controversial Man City goal vs Man United after offside decision made",
+          "summary": "Manchester United controversially conceded to Erling Haaland's opener for Man City in the Manchester derby",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-goal-man-united-34611954",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:18:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville 'lost' after Man United vs Man City offside decision raises eyebrows",
+      "items": [
+        {
+          "title": "Gary Neville 'lost' after Man United vs Man City offside decision raises eyebrows",
+          "summary": "Manchester United conceded a controversial Erling Haaland goal with Gary Neville flabbergasted by the decision from VAR",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/gary-neville-man-united-var-34611903",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 16:58:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United handed new defender blow as transfer plan hatched for £42m star",
+      "items": [
+        {
+          "title": "Man United handed new defender blow as transfer plan hatched for £42m star",
+          "summary": "Having overhauled their attack and midfield in the last two summer transfer windows, Manchester United are expected to focus on their defence",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-premier-league-34611167",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 15:13:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: Alex Scott transfer stance emerges as plan for star prospect made clear",
+      "items": [
+        {
+          "title": "Man Utd news: Alex Scott transfer stance emerges as plan for star prospect made clear",
+          "summary": "Manchester United have received an update on a reported transfer target as Michael Carrick looks to get the best out of his squad",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-alex-scott-37657890",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 14 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "VAR debate is a happy distraction for Michael Carrick who is to blame for ineffectual Man Utd",
+      "items": [
+        {
+          "title": "VAR debate is a happy distraction for Michael Carrick who is to blame for ineffectual Man Utd",
+          "summary": "Phil Foden's early red card threw Manchester United's game plan out of the window and Michael Carrick was unable to adapt, with Manchester City the better side despite being down to 10 men",
+          "url": "https://www.mirror.co.uk/sport/football/man-utd-michael-carrick-var-37658702",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 20:19:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes' lamentable behaviour in Phil Foden incident not befitting of Man Utd captain",
+      "items": [
+        {
+          "title": "Bruno Fernandes' lamentable behaviour in Phil Foden incident not befitting of Man Utd captain",
+          "summary": "Bruno Fernandes' behaviour made sure Phil Foden was shown the red card in the Manchester derby and the United captain then went missing against City's 10 men",
+          "url": "https://www.mirror.co.uk/sport/football/bruno-fernandes-phil-foden-red-37658634",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:40:02 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Gary Neville calls for officials to apologise over Erling Haaland's controversial goal",
+      "items": [
+        {
+          "title": "Gary Neville calls for officials to apologise over Erling Haaland's controversial goal",
+          "summary": "Erling Haaland's goal settled the Manchester Derby for City, but Enzo Fernandez's offside position and attempt to play the ball has sparked fury among the pundits",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-erling-haaland-goal-37658569",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:07:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Fuming Lisandro Martinez hits out at 'injustice' after controversial Man Utd decision",
+      "items": [
+        {
+          "title": "Fuming Lisandro Martinez hits out at 'injustice' after controversial Man Utd decision",
+          "summary": "The Manchester United defender made his feelings clear when addressing Erling Haaland's winning goal, which was allowed to stand after initially being flagged for offside",
+          "url": "https://www.mirror.co.uk/sport/football/news/lisandro-martinez-man-united-city-37658588",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 18:02:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Erling Haaland fires 10-man Man City to controversial Man Utd win - 5 talking points",
+      "items": [
+        {
+          "title": "Erling Haaland fires 10-man Man City to controversial Man Utd win - 5 talking points",
+          "summary": "MANCHESTER UNITED 0-1 MANCHESTER CITY: Erling Haaland's goal, following a long VAR check for offside, is enough for City to win at Old Trafford following Phil Foden's red card",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-man-city-haaland-37658200",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 17:24:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Jose Mourinho has his say on Michael Carrick's Man United job with 10-word verdict",
+      "items": [
+        {
+          "title": "Jose Mourinho has his say on Michael Carrick's Man United job with 10-word verdict",
+          "summary": "Jose Mourinho was recently asked about Michael Carrick and how he has been faring at the Special One's former club Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/jose-mourinho-carrick-man-utd-37658160",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 16:42:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd fans target Glazers and Sir Jim Ratcliffe in furious protest before Man City derby",
+      "items": [
+        {
+          "title": "Man Utd fans target Glazers and Sir Jim Ratcliffe in furious protest before Man City derby",
+          "summary": "Manchester United supporters made their feelings towards their owners clear through a passionate protest outside Old Trafford before Sunday's derby against Manchester City",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fans-protest-glazers-37658055",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 14:55:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Furious Man Utd fans plan derby protest against owners over 'disgraceful' treatment",
+      "items": [
+        {
+          "title": "Furious Man Utd fans plan derby protest against owners over 'disgraceful' treatment",
+          "summary": "Manchester United will take on Manchester City in the first instalment of the Manchester derby on Sunday but Old Trafford could look very different to normal during the game",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fans-ticket-protest-37657768",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 13:27:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Borussia Dortmund chief issues Jadon Sancho transfer statement as decision made",
+      "items": [
+        {
+          "title": "Borussia Dortmund chief issues Jadon Sancho transfer statement as decision made",
+          "summary": "Former England star Jadon Sancho is without a club after leaving Manchester United and now Borussia Dortmund have had their say on his potential return to the Bundesliga",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/jadon-sancho-transfer-borussia-dortmund-37657575",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 12:36:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What TV channel is Man Utd vs Man City on? How to watch, kick-off and live stream details",
+      "items": [
+        {
+          "title": "What TV channel is Man Utd vs Man City on? How to watch, kick-off and live stream details",
+          "summary": "It's the first Manchester derby of the season as Enzo Maresca takes on Michael Carrick at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-city-tv-channel-37647742",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 12:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mikel Arteta was hit in the head with a bottle in dressing room fight that got out of hand",
+      "items": [
+        {
+          "title": "Mikel Arteta was hit in the head with a bottle in dressing room fight that got out of hand",
+          "summary": "The Premier League winning manager was at the centre of a much-publicised fallout following a derby clash",
+          "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-hit-bottle-cut-37652923",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 10:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Eight Man Utd players Sir Jim Ratcliffe was 'willing to offload' to sign £100m Man City star",
+      "items": [
+        {
+          "title": "Eight Man Utd players Sir Jim Ratcliffe was 'willing to offload' to sign £100m Man City star",
+          "summary": "Manchester United bosses were willing to offload eight players to sign a Manchester City midfielder, who they'll face in the Premier League on Sunday",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jim-ratcliffe-city-37650909",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "6 pundits predict Man Utd vs Man City with Michael Carrick backed to 'hurt' rivals",
+      "items": [
+        {
+          "title": "6 pundits predict Man Utd vs Man City with Michael Carrick backed to 'hurt' rivals",
+          "summary": "The first Manchester derby is almost upon us, and some of the Premier League's biggest pundits have had their say",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-city-predictions-carrick-37651324",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville tipped for Premier League manager role in another possible Sky Sports blow",
+      "items": [
+        {
+          "title": "Gary Neville tipped for Premier League manager role in another possible Sky Sports blow",
+          "summary": "Gary Neville has worked in management previously but never in the Premier League",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-premier-league-sky-37638422",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "‘An error of judgement’: Pro Ref admits mistake in awarding Haaland’s derby winner",
+      "items": [
+        {
+          "title": "‘An error of judgement’: Pro Ref admits mistake in awarding Haaland’s derby winner",
+          "summary": "<ul><li><p>Officiating body announces it will review the incident</p></li><li><p>Unhappy Carrick says error was ‘as obvious as it gets’</p></li></ul><p>Pro Ref admitted Erling Haaland’s winner in Sunday’s Manchester derby should not have been allowed after the video assistant referee ruled Enzo Fernández was not interfering with play in the build-up. The elite officiating body will review the decision and has contacted Manchester United.</p><p>Haaland’s 60th minute goal for Manchester City at Old Trafford was initially ruled offside before the VAR’s intervention. It came after Josko Gvardiol’s cross hit Patrick Dorgu’s boot, passed Fernández and the United defender Lisandro Martínez, and was finished by the City No 9. VAR decided Fernández was not interfering despite Martínez marking the midfielder.</p> <a href=\"https://www.theguardian.com/football/2026/sep/13/michael-carrick-var-erling-haaland-manchester-derby\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/13/michael-carrick-var-erling-haaland-manchester-derby",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 21:31:19 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+      "items": [
+        {
+          "title": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+          "summary": "<p>Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders after Phil Foden’s red card</p><p>Enzo Maresca does not pay the bills at Manchester City but he is ecstatic that those who do <a href=\"https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city\">spent £125m</a> for him to be reunited with Enzo Fernández. The manager and the midfielder were together at Chelsea, forming a strong bond over a relatively short time, one the Italian knew could provide the final piece within his master plan.</p><p>The Argentinian was equally eager to work under Maresca once more and made it abundantly clear to his previous employers where he saw his future. Questions were immediately raised about the fee for the 25-year-old who had spent the summer winding up opponents on the way to losing the World Cup final against Spain. Some pondered his attitude and quality but Maresca was adamant he knew what he was doing and City agreed with a deadline-day move.</p> <a href=\"https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 20:21:16 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League schedule today: How to watch, TV channels & live stream",
+      "items": [
+        {
+          "title": "Premier League schedule today: How to watch, TV channels & live stream",
+          "summary": "<p>How will Manchester United and Manchester City fare today? Here is what to know, including kick-off time, TV channels and live stream options</p><p>The first Manchester Derby of the season comes at an interesting time for both clubs. City are building momentum under new manager Enzo Maresca while United are attempting to move on from a summer that raised questions about their transfer market strategy.</p><p>After conceding two goals in each of their three league games so far, Manchester United have made their worst defensive start to a season since 1972. Meanwhile, Manchester City would win their opening four Premier League games for a record seventh time with victory at Old Trafford.</p> <a href=\"https://www.theguardian.com/football/2026/sep/13/how-to-watch-premier-league-manchester-united-manchester-city\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/13/how-to-watch-premier-league-manchester-united-manchester-city",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 11:00:04 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals one Man Utd transfer was “very advanced” until Michael Carrick intervention - caughtoffside.com",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals one Man Utd transfer was “very advanced” until Michael Carrick intervention - caughtoffside.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNM1VBZjVycy12MXpjcmF1ZXp3eXI3dWsweWNnQVRJRGp3VWxLeFFVWlhoTy14VDFHaHhrNGNuYWdDUW9qcEpvLUFDVVUyaEFBeDhleGFGMW11NmZfU2FVMHlyR2tMdTRMRzhXVnR4T2tnbGtKZGtEaWR2ZlQ3U3ppb0RLMlBHekhqVHBjeGZOYjNJMVgxQS02VDVSX0sxZ9IBowFBVV95cUxQV2Z6OV90cVVkM3JtcU5vckFUNDVZbVZQUEVsZWFrR0ZEZ2FUOUtxUGZSbkQxd3ZBMDFzMzM3VWJxakY0Nm9mUEtRWE9palVOZ2d3Ql90R2lPbmpxT0NPR3BzOFpfdXFRQllQaGwwaEVPT1pHMF9mTUN6azdoaGNhNDZLY3N4MHlZdFRxMkFVSWxVTUJLU2lOWkpxeDlUQ09PczRN?oc=5\" target=\"_blank\">Fabrizio Romano reveals one Man Utd transfer was “very advanced” until Michael Carrick intervention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caughtoffside.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM1VBZjVycy12MXpjcmF1ZXp3eXI3dWsweWNnQVRJRGp3VWxLeFFVWlhoTy14VDFHaHhrNGNuYWdDUW9qcEpvLUFDVVUyaEFBeDhleGFGMW11NmZfU2FVMHlyR2tMdTRMRzhXVnR4T2tnbGtKZGtEaWR2ZlQ3U3ppb0RLMlBHekhqVHBjeGZOYjNJMVgxQS02VDVSX0sxZ9IBowFBVV95cUxQV2Z6OV90cVVkM3JtcU5vckFUNDVZbVZQUEVsZWFrR0ZEZ2FUOUtxUGZSbkQxd3ZBMDFzMzM3VWJxakY0Nm9mUEtRWE9palVOZ2d3Ql90R2lPbmpxT0NPR3BzOFpfdXFRQllQaGwwaEVPT1pHMF9mTUN6azdoaGNhNDZLY3N4MHlZdFRxMkFVSWxVTUJLU2lOWkpxeDlUQ09PczRN?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 16:52:32 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein delivers alarming Bruno Fernandes contract update to complete a miserable day for Man United - The Peoples Person",
+      "items": [
+        {
+          "title": "David Ornstein delivers alarming Bruno Fernandes contract update to complete a miserable day for Man United - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN05wZk44YkJzUS00MXVPRWpJMDJuZ3ZLSUNuOFQyWlBHaXdtOE1wY2ZpUnJuRlVwTVgzNnNaSDFubnpwVHhZeWhFN1JkUXhGNEZaVzJlN2g0Sm5uR0NiM3J1cWpKNFZFdHdHekFpLWdvYmpCUHlobmtQenN0VWdxdGlVcmhHZkhXM0t0aXAzNExzajJyd1FscjNXdE5vVkZBZXRYOWhDN0l5MVlQeFltb1FhRk45QjZJN05KT2hRQTRoenIwem43aU9IanRlc09pdTFLaklhZ05YdEZSc0REeGRqRjFINzlRMXpB?oc=5\" target=\"_blank\">David Ornstein delivers alarming Bruno Fernandes contract update to complete a miserable day for Man United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN05wZk44YkJzUS00MXVPRWpJMDJuZ3ZLSUNuOFQyWlBHaXdtOE1wY2ZpUnJuRlVwTVgzNnNaSDFubnpwVHhZeWhFN1JkUXhGNEZaVzJlN2g0Sm5uR0NiM3J1cWpKNFZFdHdHekFpLWdvYmpCUHlobmtQenN0VWdxdGlVcmhHZkhXM0t0aXAzNExzajJyd1FscjNXdE5vVkZBZXRYOWhDN0l5MVlQeFltb1FhRk45QjZJN05KT2hRQTRoenIwem43aU9IanRlc09pdTFLaklhZ05YdEZSc0REeGRqRjFINzlRMXpB?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Sun, 13 Sep 2026 21:45:02 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report: Man United missed €40 million opportunity to sign highly-rated left-back",
+      "items": [
+        {
+          "title": "Report: Man United missed €40 million opportunity to sign highly-rated left-back",
+          "summary": "<p>Manchester United explored a summer move for Barcelona left-back Alejandro Balde as Michael Carrick searched for a long-term solution on the left side of his defence, but the two clubs wanted very different deals. United were interested in taking the 22-year-old on loan, potentially with a future purchase mechanism, while Barcelona were only prepared to [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/14/man-united-missed-opportunity-highly-rated-left-back/\">Report: Man United missed €40 million opportunity to sign highly-rated left-back</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/14/man-united-missed-opportunity-highly-rated-left-back/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 14 Sep 2026 05:11:01 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Gary Neville admits he disagrees with one thing Bruno Fernandes did during Man City defeat as Roy Keane hits back",
+      "items": [
+        {
+          "title": "Gary Neville admits he disagrees with one thing Bruno Fernandes did during Man City defeat as Roy Keane hits back",
+          "summary": "<p>Gary Neville admitted he does not agree with one thing Bruno Fernandes did during Manchester United&#8217;s controversial 1-0 defeat to Manchester City, sparking a heated post-match debate with Roy Keane. The Manchester derby was overshadowed by Phil Foden&#8217;s first-half red card after the City midfielder kicked out at Fernandes. Fernandes appeared to exaggerate the contact [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/13/gary-neville-bruno-fernandes-manchester-derby/\">Gary Neville admits he disagrees with one thing Bruno Fernandes did during Man City defeat as Roy Keane hits back</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/13/gary-neville-bruno-fernandes-manchester-derby/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 13 Sep 2026 22:19:58 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League refereeing body admits “error of judgement” on Haaland goal vs Man United",
+      "items": [
+        {
+          "title": "Premier League refereeing body admits “error of judgement” on Haaland goal vs Man United",
+          "summary": "<p>Premier League refereeing body Pro Ref have reached out to Manchester United as they acknowledged an &#8220;error of judgement&#8221; on Erling Haaland&#8217;s winning goal for Manchester City. The Red Devils suffered a disappointing 1-0 defeat in the Manchester Derby, with Haaland snatching a winner in the second half despite Man City playing so much of [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/13/pro-ref-admit-erling-haaland-error-for-goal-vs-united/\">Premier League refereeing body admits &#8220;error of judgement&#8221; on Haaland goal vs Man United</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/13/pro-ref-admit-erling-haaland-error-for-goal-vs-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 13 Sep 2026 21:28:10 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfgfdt/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfgfdt/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfgfdt/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T19:01:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney doesn't hold back in his analysis of Man City's goal at Old Trafford. [BBC MOTD]",
+      "items": [
+        {
+          "title": "Wayne Rooney doesn't hold back in his analysis of Man City's goal at Old Trafford. [BBC MOTD]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfpjlu/wayne_rooney_doesnt_hold_back_in_his_analysis_of/\"> <img alt=\"Wayne Rooney doesn't hold back in his analysis of Man City's goal at Old Trafford. [BBC MOTD]\" src=\"https://external-preview.redd.it/NzFuZHlxZ3IwZXBoMR_jSH7qreQQQrrJKExw8pOml0cfqdPCfVpxA6_otMeF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7cefe06ca9cf29345562d6bb15b94d4f3088807b\" title=\"Wayne Rooney doesn't hold back in his analysis of Man City's goal at Old Trafford. [BBC MOTD]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Total-Fix-8506\"> /u/Total-Fix-8506 </a> <br /> <span><a href=\"https://v.redd.it/p6mboqer0eph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfpjlu/wayne_rooney_doesnt_hold_back_in_his_analysis_of/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfpjlu/wayne_rooney_doesnt_hold_back_in_his_analysis_of/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-14T01:20:50+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Each of those bullet points about an offside player interfering with an opponent apply to Fernandez. Affected Martinez + Lammens. Laughable application of VAR. Also, subjective call, so surely Oliver should have been sent to the screen?",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Each of those bullet points about an offside player interfering with an opponent apply to Fernandez. Affected Martinez + Lammens. Laughable application of VAR. Also, subjective call, so surely Oliver should have been sent to the screen?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfelrp/laurie_whitwell_each_of_those_bullet_points_about/\"> <img alt=\"[Laurie Whitwell] Each of those bullet points about an offside player interfering with an opponent apply to Fernandez. Affected Martinez + Lammens. Laughable application of VAR. Also, subjective call, so surely Oliver should have been sent to the screen?\" src=\"https://preview.redd.it/1on6ja60tbph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0553f3166569ba3a5b8d4129611dbae915fbc0a3\" title=\"[Laurie Whitwell] Each of those bullet points about an offside player interfering with an opponent apply to Fernandez. Affected Martinez + Lammens. Laughable application of VAR. Also, subjective call, so surely Oliver should have been sent to the screen?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/1on6ja60tbph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfelrp/laurie_whitwell_each_of_those_bullet_points_about/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfelrp/laurie_whitwell_each_of_those_bullet_points_about/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T17:54:20+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Shambolic that during a review of more than two minutes no one in the VAR booth thinks to send Michael Oliver to the screen to look at Fernandez’s potential interference. Sure Man United are thrilled with “an acknowledgment of an error of judgement” three hours after full-time. [Rob Dawson]",
+      "items": [
+        {
+          "title": "Shambolic that during a review of more than two minutes no one in the VAR booth thinks to send Michael Oliver to the screen to look at Fernandez’s potential interference. Sure Man United are thrilled with “an acknowledgment of an error of judgement” three hours after full-time. [Rob Dawson]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfjg6q/shambolic_that_during_a_review_of_more_than_two/\"> <img alt=\"Shambolic that during a review of more than two minutes no one in the VAR booth thinks to send Michael Oliver to the screen to look at Fernandez’s potential interference. Sure Man United are thrilled with “an acknowledgment of an error of judgement” three hours after full-time. [Rob Dawson]\" src=\"https://preview.redd.it/r1j4r2zapcph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5033bd5e09090bdead87654c609de1fc74ce1064\" title=\"Shambolic that during a review of more than two minutes no one in the VAR booth thinks to send Michael Oliver to the screen to look at Fernandez’s potential interference. Sure Man United are thrilled with “an acknowledgment of an error of judgement” three hours after full-time. [Rob Dawson]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/r1j4r2zapcph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfjg6q/shambolic_that_during_a_review_of_more_than_two/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfjg6q/shambolic_that_during_a_review_of_more_than_two/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T20:55:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "\"How you can say he's not interfered with the play literally is beyond me... It's staggering.\" Michael Carrick expresses his disbelief that Haaland's goal was allowed to stand after losing to 10-man City.",
+      "items": [
+        {
+          "title": "\"How you can say he's not interfered with the play literally is beyond me... It's staggering.\" Michael Carrick expresses his disbelief that Haaland's goal was allowed to stand after losing to 10-man City.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wffrys/how_you_can_say_hes_not_interfered_with_the_play/\"> <img alt=\"&quot;How you can say he's not interfered with the play literally is beyond me... It's staggering.&quot; Michael Carrick expresses his disbelief that Haaland's goal was allowed to stand after losing to 10-man City.\" src=\"https://external-preview.redd.it/d3cweWZ3Mm4wY3BoMZrEl5_21rQM_wWiv5vwcRKw168or8JkSvUlr_LVyGlq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=30062c44a7f5560d0e17969b8c1ed72f972dade9\" title=\"&quot;How you can say he's not interfered with the play literally is beyond me... It's staggering.&quot; Michael Carrick expresses his disbelief that Haaland's goal was allowed to stand after losing to 10-man City.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/wcdce92n0cph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wffrys/how_you_can_say_hes_not_interfered_with_the_play/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wffrys/how_you_can_say_hes_not_interfered_with_the_play/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T18:37:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lisandro Martinez: “Every season the officials come to our club and spend an hour explaining the rules and they look so confident with that.\" “Then after, five or six people (officials) doing this kind of mistake in the Premier League is unacceptable.”",
+      "items": [
+        {
+          "title": "Lisandro Martinez: “Every season the officials come to our club and spend an hour explaining the rules and they look so confident with that.\" “Then after, five or six people (officials) doing this kind of mistake in the Premier League is unacceptable.”",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Euphoric-Rub9164\"> /u/Euphoric-Rub9164 </a> <br /> <span><a href=\"https://v.redd.it/iu44ki7rvbph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfjv87/lisandro_martinez_every_season_the_officials_come/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfjv87/lisandro_martinez_every_season_the_officials_come/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T21:11:49+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Banner at game",
+      "items": [
+        {
+          "title": "Banner at game",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfan1o/banner_at_game/\"> <img alt=\"Banner at game\" src=\"https://preview.redd.it/uezu1mdj2bph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=74093a2fde7cc3339bb7f5720d847038f7aa1f37\" title=\"Banner at game\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/C41ll3D\"> /u/C41ll3D </a> <br /> <span><a href=\"https://i.redd.it/uezu1mdj2bph1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfan1o/banner_at_game/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfan1o/banner_at_game/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T15:25:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Post Match Quotes] Carrick on the goal: \"I really don’t get it. I can’t understand it. They have so many screens to come up with the right decision. Line where they drew the line was dubious. It is worrying.\" Told sometimes clubs get apologies from PGMO, Carrick says \"I can't wait for that\"",
+      "items": [
+        {
+          "title": "[Post Match Quotes] Carrick on the goal: \"I really don’t get it. I can’t understand it. They have so many screens to come up with the right decision. Line where they drew the line was dubious. It is worrying.\" Told sometimes clubs get apologies from PGMO, Carrick says \"I can't wait for that\"",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Michael Carrick</h1> <p>Michael Carrick on the goal: &quot;I really don’t get it. I can’t understand it. They have so many screens to come up with the right decision. Line where they drew the line was dubious. It is worrying.&quot; [Stone]</p> <p>Told sometimes clubs get apologies from PGMO, Carrick says &quot;I can't wait for that.&quot; [Stone]</p> <p>Michael Carrick on MCFC's goal: &quot;I just don't get it...it's worrying if that's how the game is seen by those who are officiating it.&quot; [Andy Mitten]</p> <p>Carrick: 'We all understand the rules. It's pretty obvious - as obvious as it gets.' [Wheeler]</p> <p>Carrick: &quot;The explanation I have is he wasn't interfering. I don't get it. Six yards out, throwing your body. We try to help referees with layers, screens, offices to try to come up with right decisions. It's worrying if that's how the game is seen by those officiating.&quot; [Laurie Whitwell]</p> <p>Carrick: &quot;I thought we had a fair bit of the initiative. Came out at half-time, we built momentum, hit the post. Game was building in the way we wanted it to at that point. We could have finished the game better, been more creative for sure.&quot; [Laurie Whitwell]</p> <p>Carrick: &quot;I can't be too critical of the players + I won’t be. Today we didn't quite find what we need.&quot; [Laurie Whitwell]</p> <p>Michael Carrick on supporter protests: &quot;I definitely appreciate the supporters. We want to try everything to make them happy. They are a huge part of this football club. I never take them for granted.&quot; [Stone]</p> <p>Carrick on fan protests: ‘I’m not always in line to get to the bottom of it, but I appreciate the supporters. I want to try and make them happy. They are everything for this club and I'm feeling for them today on the back of losing. I’ll never take them for granted.' [Wheeler]</p> <h1>'I'm confused' - Carrick on City winner</h1> <p><strong>Michael Carrick, speaking to Sky Sports about Man City's goal:</strong> &quot;I'm confused. We put things in place in the game now. We have people in offices with all the screens for this decision. It's more worrying about if that's the interpretation of football now. If that's the interpretation of not interfering in the game now, that's really worrying for me. It's a staggering explanation.</p> <p>&quot;The decision isn't going to change the season, but it's had a major impact on the game. That decision wasn't on us today. It's up to us to create and score after that. We had moments. Of course it's up to us to do that, but big moments in games like that have a big impact.</p> <p>&quot;We did a lot of things well, it looked like we were growing well into the game. We looked dangerous. We'll take the positives from the game today and move on well, but we're not moving on lightly.</p> <p>&quot;We could have created more. That's an answer for us, but we could have. That's our second defeat now, since I've been in charge, but we're a good team and we'll get back to wining ways.</p> <h1>'Not enough points'</h1> <p><strong>Manchester United boss Michael Carrick, speaking to BBC Radio 5 Live:</strong> &quot;It was a mixed [performance]. I think we were in good shape for a lot of the game and started teh second half better than we eneded the first half. It looked like something was about to happen and then they scored their goal. I don't really know where to start with that goal to be honest but that was a major part of how the game panned out in the end. For a decision to go like that against us is tough to take, I have to say.</p> <p><strong>On the red card for Manchester City:</strong> &quot;It changes some of the details. We didn't probably get to grips with that well enough in the first half. You have to adapt and adjust. It put us in a good place that we didn't get the most out of.&quot;</p> <p><strong>On Manchester City's goal:</strong> &quot;I've got a big concern if I'm honest because I think we put so many layers behind referees now, screens, more bodies, more offices to get decisions right and the dangerous bit for me is how the rules are being interpreted. I'm really concerned about how the game is seen from that angle. He has thrown himself with a full diving header. From one angle you are thinking if he has touched it or not. [Lisandro] Martinez has to react to that, it has a major impact on the whole action. The line itself I wasn't convinced it was drawn in a great position. I'm staggered and a little bit worried and concerned that if that's how it's interpreted we are in a bit of bother.&quot;</p> <p><strong>On Manchester United's start to the season:</strong> &quot;We will get there, I'm convinced of that. We haven't got as many points as we wanted and we should have. we've got to accept that and take that. There have been a couple of reasons for that and that's it. It doesn't change us moving forward and our hopes for the season and what we can achieve as a team. We've made really good strides over a period of time and we will continue to do that.&quot;</p> <h1>Enzo Maresca</h1> <p><strong>Enzo Maresca said Phil Foden deserved his red card but Bruno Fernandes should have been sent off also.</strong></p> <p>Enzo Maresca says red card made it more difficult for both teams, that Man Utd are good on transition and space behind. Said City dropped off, so no transitions and no space behind.</p> <h1>Erling Haaland</h1> <p><strong>Manchester City forward Erling Haaland, speaking to Sky Sports:</strong> &quot;I thought maybe someone flicked it. When I found out no one flicked it, I took it personally that they thought I was offside because I'm never usually offside. It's always nice to win football games, but especially with 10 men for 60 minutes at Old Trafford, it's such a nice feeling, especially with the fans at the end. To look at all the faces of the supporters at the end is just a great feeling.&quot;</p> <p><strong>Erling Haaland speaking to Sky Sports:</strong> &quot;What a save from Gianluigi Donnarumma at the end as well. He's like a wolf in the goal, he looks like a wolf anyway. He's a madman and to have a guy like that in the goal behind you just makes you feel so much more safe.&quot;</p> <p>Quotes via <a href=\"https://www.bbc.com/sport/football/live/cmdx50vd2v2yt#LiveReporting\">BBC</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfexre/post_match_quotes_carrick_on_the_goal_i_really/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfexre/post_match_quotes_carrick_on_the_goal_i_really/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfexre/post_match_quotes_carrick_on_the_goal_i_really/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T18:06:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Alternate Angle: Phil Foden straight red card vs United",
+      "items": [
+        {
+          "title": "Alternate Angle: Phil Foden straight red card vs United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfbhvc/alternate_angle_phil_foden_straight_red_card_vs/\"> <img alt=\"Alternate Angle: Phil Foden straight red card vs United\" src=\"https://external-preview.redd.it/bjd2Zndzajc4YnBoMes25Qg0z32K9LFTa6DkUCYg55rp_zyHv9t82k26gzK8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc6cf4bf31da9d876101390053faeb551e84ebe6\" title=\"Alternate Angle: Phil Foden straight red card vs United\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/dcp2hcj78bph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfbhvc/alternate_angle_phil_foden_straight_red_card_vs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfbhvc/alternate_angle_phil_foden_straight_red_card_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T15:58:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Diogo Dalot presented with a special commemorative for his 250th Appearance for United",
+      "items": [
+        {
+          "title": "Diogo Dalot presented with a special commemorative for his 250th Appearance for United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfa7he/diogo_dalot_presented_with_a_special/\"> <img alt=\"Diogo Dalot presented with a special commemorative for his 250th Appearance for United\" src=\"https://preview.redd.it/k8rmujs1zaph1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e87cc6d0bf59648e4f87390fb0a599e0cb31b148\" title=\"Diogo Dalot presented with a special commemorative for his 250th Appearance for United\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1wfa7he\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfa7he/diogo_dalot_presented_with_a_special/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfa7he/diogo_dalot_presented_with_a_special/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T15:08:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[PLMatchCentre] VAR checked the referee’s call of no goal for offside – and determined that Haaland was in an onside position and recommended that the goal was awarded.The VAR also deemed that while in an offside position, Fernandez didn’t play the ball.",
+      "items": [
+        {
+          "title": "[PLMatchCentre] VAR checked the referee’s call of no goal for offside – and determined that Haaland was in an onside position and recommended that the goal was awarded.The VAR also deemed that while in an offside position, Fernandez didn’t play the ball.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfdf8p/plmatchcentre_var_checked_the_referees_call_of_no/\"> <img alt=\"[PLMatchCentre] VAR checked the referee’s call of no goal for offside – and determined that Haaland was in an onside position and recommended that the goal was awarded.The VAR also deemed that while in an offside position, Fernandez didn’t play the ball.\" src=\"https://external-preview.redd.it/cWx4OWEwNDdsYnBoMd_l7xyN_Y0Ygk3QPDhkHIaBoPfgPbi_Y4NgmVgJnyu6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c79ae838667e1b2f9bdeade778f848b5ae8bba86\" title=\"[PLMatchCentre] VAR checked the referee’s call of no goal for offside – and determined that Haaland was in an onside position and recommended that the goal was awarded.The VAR also deemed that while in an offside position, Fernandez didn’t play the ball.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/1z4lk227lbph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfdf8p/plmatchcentre_var_checked_the_referees_call_of_no/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfdf8p/plmatchcentre_var_checked_the_referees_call_of_no/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T17:10:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd fans ahead of the derby: \"They treat us like s***, Ratcliffe and the Glazers, they treat us like s***\"",
+      "items": [
+        {
+          "title": "Man Utd fans ahead of the derby: \"They treat us like s***, Ratcliffe and the Glazers, they treat us like s***\"",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/iPaperPlaneZ\"> /u/iPaperPlaneZ </a> <br /> <span><a href=\"https://v.redd.it/oz6squkbpaph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wf8yya/man_utd_fans_ahead_of_the_derby_they_treat_us/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wf8yya/man_utd_fans_ahead_of_the_derby_they_treat_us/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T14:20:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The xG Philosophy: Man Utd (1.12) 0-1 (1.16) Man City",
+      "items": [
+        {
+          "title": "The xG Philosophy: Man Utd (1.12) 0-1 (1.16) Man City",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfdurn/the_xg_philosophy_man_utd_112_01_116_man_city/\"> <img alt=\"The xG Philosophy: Man Utd (1.12) 0-1 (1.16) Man City\" src=\"https://preview.redd.it/qg9kmqf2obph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6eaacffd9bb2976c225fcdb72d18c47a28026782\" title=\"The xG Philosophy: Man Utd (1.12) 0-1 (1.16) Man City\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/qg9kmqf2obph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfdurn/the_xg_philosophy_man_utd_112_01_116_man_city/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfdurn/the_xg_philosophy_man_utd_112_01_116_man_city/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T17:26:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford 45’ Free Kick",
+      "items": [
+        {
+          "title": "Marcus Rashford 45’ Free Kick",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfc791/marcus_rashford_45_free_kick/\"> <img alt=\"Marcus Rashford 45’ Free Kick\" src=\"https://external-preview.redd.it/eTJuMmx1aHVjYnBoMa8KXwAzUVloqFpSw3Q70iYwiBE2EUew2HyT5lClXTDa.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ce507a4b4d158d314ce3273d322ff4f35a0fa5\" title=\"Marcus Rashford 45’ Free Kick\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/w6frteiucbph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfc791/marcus_rashford_45_free_kick/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfc791/marcus_rashford_45_free_kick/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T16:24:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd XI (vs Man City) - : Lammens; Dalot, Maguire, Martinez, Dorgu; Tielemans, Mainoo; Mbeumo, Fernandes (c), Rashford; Cunha [13th September, 2026]",
+      "items": [
+        {
+          "title": "Man Utd XI (vs Man City) - : Lammens; Dalot, Maguire, Martinez, Dorgu; Tielemans, Mainoo; Mbeumo, Fernandes (c), Rashford; Cunha [13th September, 2026]",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Substitutes:</strong> Darlow, Heaven, Mazraoui, Yoro, Mount, Santos, Lacey, Šeško, Zirkzee.</p> <p>Michael Carrick’s side for the derby features just one change to the team that started our last Premier League outing, at Everton last Sunday. That alteration comes at left-back, with Patrick Chinazaekpere Dorgu looking set to replace Luke Shaw there, like he did against Sabah in the Champions League on Thursday night.</p> <p>Diogo Dalot, Harry Maguire and Marcus Rashford were unused substitutes for the meeting with the Azerbaijani champions in midweek and are back in the XI this afternoon, replacing Noussair Mazraoui, Leny Yoro and goalscorer Benjamin Šeško who are named on the bench.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dracogladio1741\"> /u/dracogladio1741 </a> <br /> <span><a href=\"https://www.manutd.com/en/matches/mens-team/manchester-united-v-manchester-city-fc-premier-league-20260913?tab=live\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wf8u1e/man_utd_xi_vs_man_city_lammens_dalot_maguire/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wf8u1e/man_utd_xi_vs_man_city_lammens_dalot_maguire/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T14:15:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Stone] Man Utd striker Sesko fit and ready for derby day",
+      "items": [
+        {
+          "title": "[Stone] Man Utd striker Sesko fit and ready for derby day",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wf16m4/stone_man_utd_striker_sesko_fit_and_ready_for/\"> <img alt=\"[Stone] Man Utd striker Sesko fit and ready for derby day\" src=\"https://external-preview.redd.it/2oP6O2Hvk_7GfiU8ZPNG6FAK-c2SMsjJ6ohhzMT1szs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca846ac5f9505d299829fe11f479b406b0784bda\" title=\"[Stone] Man Utd striker Sesko fit and ready for derby day\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cjrx0jze2weo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wf16m4/stone_man_utd_striker_sesko_fit_and_ready_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wf16m4/stone_man_utd_striker_sesko_fit_and_ready_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T07:38:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Full Time Match Stats - United v City",
+      "items": [
+        {
+          "title": "Full Time Match Stats - United v City",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wfdy87/full_time_match_stats_united_v_city/\"> <img alt=\"Full Time Match Stats - United v City\" src=\"https://preview.redd.it/8a2g9bnmobph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1423b2a006f12c0c2dc887df78f0037930eacd7\" title=\"Full Time Match Stats - United v City\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/8a2g9bnmobph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wfdy87/full_time_match_stats_united_v_city/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wfdy87/full_time_match_stats_united_v_city/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-13T17:30:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 90,
+    "story_count": 52
+  }
+}
