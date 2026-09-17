@@ -1,0 +1,1104 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T05:51:44.750860+00:00",
+  "match_data": {
+    "collected_at": "2026-09-17T05:51:37.768423+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0p9wz01?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 16 Sep 2026 14:51:00 GMT"
+        },
+        {
+          "title": "Shea Lacey provided a small glimmer of hope on a dark night for Manchester United vs Brighton",
+          "summary": "Shea Lacey proved to be a bright spark as Man Utd suffered an awful defeat to Brighton after going two goals ahead.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/shea-lacey-provided-small-glimmer-34628477",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 17 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Michael Carrick opens up on JJ Gabriel conversations at Manchester United",
+          "summary": "Michael Carrick provided an update on JJ Gabriel after Man Utd's defeat to Brighton in the Carabao Cup.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-opens-up-jj-34628834",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 17 Sep 2026 03:00:00 +0000"
+        },
+        {
+          "title": "'Deal with it' - Michael Carrick sends message to Manchester United squad after Brighton collapse",
+          "summary": "Michael Carrick insisted he didn't care if he was under pressure after overseeing a Man Utd defeat at Old Trafford having led 2-0 - the first time that has happened in 50 years.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/deal-it-michael-carrick-sends-34628784",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 22:39:18 +0000"
+        },
+        {
+          "title": "Michael Carrick breaks silence on JJ Gabriel situation at Manchester United",
+          "summary": "It was revealed on Tuesday that JJ Gabriel wants to leave Man United and Michael Carrick was asked to give his thoughts on the situation after the defeat to Brighton.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-breaks-silence-jj-34628814",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:58:00 +0000"
+        },
+        {
+          "title": "Manchester United vs Brighton highlights and reaction after Reds suffer bad defeat at Old Trafford",
+          "summary": "Man Utd lost 3-2 to Brighton in the Carabao Cup on Wednesday night, increasing the pressure on Michael Carrick.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-vs-brighton-live-34627973",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:28:41 +0000"
+        },
+        {
+          "title": "Manchester United players owe Shea Lacey an apology for woeful surrender vs Brighton",
+          "summary": "Shea Lacey provided Man Utd with what should have been the perfect tonic after a tough week, but his more experienced teammates fell apart.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-players-owe-shea-34628488",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:20:20 +0000"
+        },
+        {
+          "title": "Manchester United player ratings vs Brighton as three get 3/10 but Lacey and Rashford good",
+          "summary": "Michael Carrick is under huge pressure as Man Utd head coach after seeing his side dumped out of the Carabao Cup by Brighton in embarrassing fashion.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34628501",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 20:55:28 +0000"
+        },
+        {
+          "title": "Manchester United fear JJ Gabriel could use transfer loophole to leave club next month",
+          "summary": "JJ Gabriel stunned Man Utd by asking to leave the club this week but what happens next in a saga nobody at Old Trafford wanted remains unclear",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-jj-gabriel-transfer-34624314",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 09:48:33 +0000"
+        },
+        {
+          "title": "‘We can’t accept that’: Carrick urges Manchester United to respond after cup collapse",
+          "summary": "<ul><li><p>‘I take responsibility … it doesn’t feel good at the moment’</p></li><li><p>United beaten 3-2 by Brighton after taking two-goal lead</p></li></ul><p>Michael Carrick admitted Manchester United’s <a href=\"https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report\">Carabao Cup capitulation against Brighton</a> that was greeted by boos at Old Trafford was unacceptable and that answers had to be found at Fulham on Sunday.</p><p>United were knocked out 3-2 by Fabian Hürzeler’s visitors after leading 2-0 after 10 minutes through Shea Lacey and Mason Mount. Goals from Charalampos Kostoulas in first‑half added time, Pascal Gross on 65 minutes and Maxim De Cuyper four minutes later eliminated United.</p> <a href=\"https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/16/michael-carrick-manchester-united-carabao-cup-third-round-defeat-brighton",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 22:49:14 GMT"
+        },
+        {
+          "title": "Manchester United 2-3 Brighton, Coventry 1-3 Aston Villa and more: Carabao Cup clockwatch – as it happened",
+          "summary": "<p>Manchester United were dumped out despite taking a two-goal lead in the opening 10 minutes</p><p><strong>Poor Joshua Zirkzee cannot get a game in the Carabao Cup.</strong> I am not sure he will get many minutes in the months to come.</p><p><strong>Max Dowman continues to be good.</strong> Mikel Merino can similarities to a certain Lamine Yamal, which is high praise.</p> <a href=\"https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:34:43 GMT"
+        },
+        {
+          "title": "De Cuyper and Brighton pile on pain for Manchester United with comeback",
+          "summary": "<p>Across four days Manchester United have lost the 199th derby against Manchester City, were told by JJ Gabriel <a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\">that he wants to leave</a>, and now they have been knocked out of the Carabao Cup by Brighton.</p><p>Capitulating after being 2-0 up may be the pick of these dizzying blows, as the prolonged boos at the final whistle suggested, and doing so ends a proud 50-year record: the last time the same lead at Old Trafford ended in defeat was Tottenham’s 3-2 win in September 1976.</p> <a href=\"https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/16/manchester-united-brighton-carabao-cup-third-round-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:18:39 GMT"
+        },
+        {
+          "title": "Manchester United on High Alert Over 15-Year-Old Prodigy's 'Exit Declaration': \"Even the Sporting Director and CEO Are Begging.\" The Cause of Conflict: \"Merely Played for 8 Minutes\"... Already Targeted by Real Madrid and PSG - starnewskorea.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBjejlaek5QOU0xdENQdGFOUFMxVHlUa19RT05jQlFmeXpYM0R2aEtDTE5tNnlnV3BidFFvWHJ0VC1qX1FRNWJNOXpqVEQ2U2ZTTm5jVDMyblB0UXVwQ1ZLUWRwOGhueWEyOVFiVF9HeDQ2WF9VRnpkOGhR?oc=5\" target=\"_blank\">Manchester United on High Alert Over 15-Year-Old Prodigy's 'Exit Declaration': \"Even the Sporting Director and CEO Are Begging.\" The Cause of Conflict: \"Merely Played for 8 Minutes\"... Already Targeted by Real Madrid and PSG</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">starnewskorea.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjejlaek5QOU0xdENQdGFOUFMxVHlUa19RT05jQlFmeXpYM0R2aEtDTE5tNnlnV3BidFFvWHJ0VC1qX1FRNWJNOXpqVEQ2U2ZTTm5jVDMyblB0UXVwQ1ZLUWRwOGhueWEyOVFiVF9HeDQ2WF9VRnpkOGhR?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 06:14:02 GMT"
+        },
+        {
+          "title": "Post Match Thread: Manchester United 2-3 Brighton & Hove Albion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 2-3 Brighton &amp; Hove Albion</h1> <p>Carabao Cup</p> <p>Goal Scorers United: Shea Lacey 8', Mason Mount 10'</p> <p>Goal Scorers Brighton : Kostoulas 45+1', Pascal Gross 65', Maxim De Cuyper 69'</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Venue: Old Trafford</strong></p> <p><sup>\\</sup>___________________________)</p> <p><strong>Manchester United Starting XI:</strong></p> <p>Darlow; Dalot, Yoro, Heaven, Mazraoui; Santos, Tielemans (c); Lacey, Mount, Rashford; Šeško.</p> <p><strong>Brighton Starting XI:</strong></p> <p>Steele; Struijk, Vuskovic, Boscagli, Costinha; Gross, Andres; Hadjam, Yalcouye, O'Riley; Kostoulas.</p> <p><sup>\\</sup>___________________________)</p> <p><strong>NEXT MATCH</strong></p> <p>Fulham vs Man Utd - Premier League</p> <p>September 20, 2026 • 15:30</p> <p>Craven Cottage, London</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi9k0t/post_match_thread_manchester_united_23_brighton/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi9k0t/post_match_thread_manchester_united_23_brighton/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi9k0t/post_match_thread_manchester_united_23_brighton/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T20:55:07+00:00"
+        },
+        {
+          "title": "Manchester United Fans boo their team at the full time whistle against Brighton",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/BBoomerClap\"> /u/BBoomerClap </a> <br /> <span><a href=\"https://v.redd.it/g6k19yx57yph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wifdwo/manchester_united_fans_boo_their_team_at_the_full/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wifdwo/manchester_united_fans_boo_their_team_at_the_full/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-17T00:57:50+00:00"
+        },
+        {
+          "title": "19 - Shea Lacey is the first teenager to score on their first start for Manchester United since 18-year-old Marcus Rashford against FC Midtjylland in February 2016. Carrington. [OptaJoe]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi7xeu/19_shea_lacey_is_the_first_teenager_to_score_on/\"> <img alt=\"19 - Shea Lacey is the first teenager to score on their first start for Manchester United since 18-year-old Marcus Rashford against FC Midtjylland in February 2016. Carrington. [OptaJoe]\" src=\"https://preview.redd.it/5483w9g9txph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=806b3e71833695bf522b354cb33e2ea5079b51bc\" title=\"19 - Shea Lacey is the first teenager to score on their first start for Manchester United since 18-year-old Marcus Rashford against FC Midtjylland in February 2016. Carrington. [OptaJoe]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/5483w9g9txph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi7xeu/19_shea_lacey_is_the_first_teenager_to_score_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi7xeu/19_shea_lacey_is_the_first_teenager_to_score_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T19:55:00+00:00"
+        },
+        {
+          "title": "Manchester United [1] - 0 Brighton - Shea Lacey 8'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamff.pro/v/2d411534\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi6mnq/manchester_united_1_0_brighton_shea_lacey_8/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi6mnq/manchester_united_1_0_brighton_shea_lacey_8/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T19:08:04+00:00"
+        },
+        {
+          "title": "Manchester United and Brighton had 50% possession each. But Brighton had - More touches in the box, More shots, More shots on target, More expected goals, More big chances, More goals. Absolute dominance.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wia68r/manchester_united_and_brighton_had_50_possession/\"> <img alt=\"Manchester United and Brighton had 50% possession each. But Brighton had - More touches in the box, More shots, More shots on target, More expected goals, More big chances, More goals. Absolute dominance.\" src=\"https://preview.redd.it/e8c44w3o7yph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8dd3c9f5c2f86aae9fc1b5de42b06e0e0813bb4\" title=\"Manchester United and Brighton had 50% possession each. But Brighton had - More touches in the box, More shots, More shots on target, More expected goals, More big chances, More goals. Absolute dominance.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/e8c44w3o7yph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wia68r/manchester_united_and_brighton_had_50_possession/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wia68r/manchester_united_and_brighton_had_50_possession/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T21:18:14+00:00"
+        },
+        {
+          "title": "Manchester United [2] - 0 Brighton - Mason Mount 10'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi6ohu/manchester_united_2_0_brighton_mason_mount_10/\"> <img alt=\"Manchester United [2] - 0 Brighton - Mason Mount 10'\" src=\"https://external-preview.redd.it/BBU32JEpbUGO4ETcbZtPAdwQ_vVeb7mAHdMHMthKPmg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e543fc03a7de965a87b081d488356b6a41d71af7\" title=\"Manchester United [2] - 0 Brighton - Mason Mount 10'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamff.pro/v/51522201\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi6ohu/manchester_united_2_0_brighton_mason_mount_10/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi6ohu/manchester_united_2_0_brighton_mason_mount_10/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T19:09:53+00:00"
+        },
+        {
+          "title": "Manchester United Team vs Brighton & Hove Albion, Carabao Cup, 16 September 2026 | Starting XI: Darlow; Dalot, Yoro, Heaven, Mazraoui; Santos, Tielemans (c); Lacey, Mount, Rashford; Šeško.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.manutd.com/en/matches/mens-team/manchester-united-v-brighton-hove-albion-league-cup-20260916?tab=live\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi4a7f/manchester_united_team_vs_brighton_hove_albion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi4a7f/manchester_united_team_vs_brighton_hove_albion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T17:45:18+00:00"
+        },
+        {
+          "title": "Manchester United 2-[3] Brighton - Maxim De Cuyper 69'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://v.redd.it/7318d2lgzxph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi8vbz/manchester_united_23_brighton_maxim_de_cuyper_69/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi8vbz/manchester_united_23_brighton_maxim_de_cuyper_69/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T20:29:33+00:00"
+        },
+        {
+          "title": "Match Thread: Manchester United vs Brighton & Hove Albion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Manchester United 2-3 Brighton &amp; Hove Albion</h1> <p>Carabao Cup</p> <p>Manchester United Goals: Shea Lacey, Mason Mount</p> <p>Brighton Goal: Kostoulas, Pascal Gross, De Cuyper</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Venue: Old Trafford</strong></p> <p><sup>\\</sup>___________________________)</p> <p><strong>Manchester United Starting XI:</strong></p> <p>Darlow; Dalot, Yoro, Heaven, Mazraoui; Santos, Tielemans (c); Lacey, Mount, Rashford; Šeško.</p> <p><strong>Brighton Starting XI:</strong></p> <p>Steele; Struijk, Vuskovic, Boscagli, Costinha; Gross, Andres; Hadjam, Yalcouye, O'Riley; Kostoulas.</p> <p><sup>\\</sup>___________________________)</p> <p><strong>Match Events</strong></p> <p><strong>0' Kick off</strong></p> <p><strong>8' Goal - Manchester United 1-0 Brighton - Shea Lacey.</strong></p> <p>A first ever senior goal for Shea Lacey and it's a lovely one at that.</p> <p>The 19-year-old picks the ball up inside the penalty area on the right and drills one into the bottom corner.</p> <p>Great finish.</p> <p><strong>10' Goal - Manchester United 2-0 Brighton - Mason Mount</strong></p> <p>That is how you respond to a derby day loss!</p> <p>This time Marcus Rashford's shot is blocked and it comes to Mason Mount, whose shot into the ground then finds the back of the net.</p> <p>12' Shot off Target - Rashford right footed shot from outside the box</p> <p>19' Delay - Noussair Mazaroui looks to have picked up a knock</p> <p>21' Mazaroui is able to continue</p> <p>24' Corner Brighton - Cleared</p> <p>33' Brighton Shot off target - Oliver Boscagli</p> <p>36' Brighton Shot off target - Malick Yalcouye should pull one back.</p> <p>He times his run brilliantly to stay onside, he bursts forward then opens his body up but he can't bend his shot into the bottom far corner and it drops wide.</p> <p>40' Brighton Shot off target - Pascal Gross fires high and wide after Ayden Heaven blocked the initial shot.</p> <p><strong>45+1' Goal</strong> - Manchester United 2-1 Brighton (Kostoulas, 45+1)</p> <p>A ball over the top reaches Kostoulas thanks to his smart movement and Darlow failing to come and claim. The striker does the rest.</p> <p><strong>45+3' HT : Manchester United 2-1 Brighton</strong></p> <p><strong>45' Second half is underway</strong></p> <p>51' Manchester United Shot off target - Youri Tielemans shot from outside the box</p> <p>54' Manchester United Shot off target - Mason Mount shot from outside the box</p> <p>64' GOAL - Man Utd 2-2 Brighton Pascal Gross (64 mins)</p> <p>Well you just felt Brighton were still in this and they certainly are now!</p> <p>Manchester United fail to clear the ball and it's headed back into play for Pascal Gross to turn and finish from close range.</p> <p>69' GOAL - Man Utd 2-3 Brighton</p> <p>Maxim de Cuyper (69 mins. Manchester United were 2-0 up and seemed to be cruising but Brighton have taken the lead.</p> <p>Maxim de Cuyper, who has only been on for a matter of minutes, sweeps the ball home by way of a deflection after a pull-back from Charalampos Kostoulas on the right-hand side.</p> <p>Goodness me.</p> <p>84' Goodness me, a big save from Karl Darlow to deny Brighton the goal that would surely put this tie to bed.</p> <p>Diego Gomez fires a shot off but Darlow is equal to it.</p> <p>90' Man Utd 2-3 Brighton</p> <p>Manchester United have less than five minutes plus added time to salvage this.</p> <p>Otherwise they are looking at another early exit from this competition.</p> <p><strong>90+5' FT: Manchester United 2-3 Brighton &amp; Hove Albion.</strong></p> <p><strong>United exit the Carabao Cup.</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi6ewr/match_thread_manchester_united_vs_brighton_hove/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi6ewr/match_thread_manchester_united_vs_brighton_hove/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi6ewr/match_thread_manchester_united_vs_brighton_hove/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T19:00:51+00:00"
+        },
+        {
+          "title": "Jason Steele save against Manchester United 76'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi92c8/jason_steele_save_against_manchester_united_76/\"> <img alt=\"Jason Steele save against Manchester United 76'\" src=\"https://external-preview.redd.it/2JvPSv1GLTG86XVk7Ki-KDJy_F5uvfgDbTUqIK1t4as.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8e0971a969f6013fe259b45d1a43d357a36c107\" title=\"Jason Steele save against Manchester United 76'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamff.pro/v/46c4cff4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi92c8/jason_steele_save_against_manchester_united_76/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi92c8/jason_steele_save_against_manchester_united_76/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T20:36:47+00:00"
+        },
+        {
+          "title": "Manchester United 2 - [2] Brighton - Pascal Groß 65'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamff.pro/v/dfeac3c2\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi8q29/manchester_united_2_2_brighton_pascal_groß_65/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi8q29/manchester_united_2_2_brighton_pascal_groß_65/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T20:24:13+00:00"
+        },
+        {
+          "title": "Manchester United 2 - [1] Brighton - Charalampos Kostoul 45+1'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi7p43/manchester_united_2_1_brighton_charalampos/\"> <img alt=\"Manchester United 2 - [1] Brighton - Charalampos Kostoul 45+1'\" src=\"https://external-preview.redd.it/6xb1SiuYEaYNHnjhd34cOwDDLFrIw2kbBk8WkQunlQk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3fd134bc5b988e577d89574438118b2b83488eb7\" title=\"Manchester United 2 - [1] Brighton - Charalampos Kostoul 45+1'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamff.pro/v/ff34d0d9\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi7p43/manchester_united_2_1_brighton_charalampos/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi7p43/manchester_united_2_1_brighton_charalampos/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T19:46:33+00:00"
+        },
+        {
+          "title": "Half Time Thread: Manchester United 2-1 Brighton & Hove Albion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>HT: Manchester United 2-1 Brighton &amp; Hove Albion</h1> <p>Goal Scorers United: Shea Lacey 8', Mason Mount 10'</p> <p>Goal Scorers Brighton : Kostoulas 45+1'</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi7r12/half_time_thread_manchester_united_21_brighton/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi7r12/half_time_thread_manchester_united_21_brighton/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi7r12/half_time_thread_manchester_united_21_brighton/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T19:48:34+00:00"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United",
+        "Manchester Evening News - MUFC",
+        "r/reddevils",
+        "BBC Sport - Manchester United",
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 5,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: Four clubs 'target' JJ Gabriel transfer as Man United exit fear emerges",
+      "items": [
+        {
+          "title": "Man United latest: Four clubs 'target' JJ Gabriel transfer as Man United exit fear emerges",
+          "summary": "Manchester United starlet JJ Gabriel has sparked a new transfer saga",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-transfer-34627191",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 17 Sep 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: JJ Gabriel exit fear as four transfer options emerge",
+          "summary": "Manchester United academy star JJ Gabriel has been linked with a move away from the club",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-transfer-37669748",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 17 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Is Man United vs Brighton on TV? How to watch, kick-off time, live stream and channel",
+      "items": [
+        {
+          "title": "Is Man United vs Brighton on TV? How to watch, kick-off time, live stream and channel",
+          "summary": "Manchester United will be looking to book their place in the fourth round of the Carabao Cup this Wednesday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-brighton-carabao-cup-34615986",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 16:30:00 +0000"
+        },
+        {
+          "title": "How to watch Man Utd vs Brighton for free: Kick-off time, live stream and TV channel",
+          "summary": "Manchester United host Brighton in the third round of the Carabao Cup on Wednesday night",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-brighton-carabao-cup-37661613",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United face missing out on millions as leaders in JJ Gabriel transfer race emerge",
+      "items": [
+        {
+          "title": "Man United face missing out on millions as leaders in JJ Gabriel transfer race emerge",
+          "summary": "Manchester United were left stunned by 15-year-old JJ Gabriel's decision to inform the club of his desire to leave",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-transfer-34626168",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 13:14:40 +0000"
+        },
+        {
+          "title": "Man Utd could lose millions on JJ Gabriel as favourites to sign youngster emerge",
+          "summary": "JJ Gabriel has reportedly asked to leave Manchester United, with Real Madrid and Barcelona said to be among those interested in the 15-year-old, which could cost United millions in lost transfer fees",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-jj-gabriel-transfer-37669447",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 14:29:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League double down on Man United VAR decision as new verdict revealed",
+      "items": [
+        {
+          "title": "Premier League double down on Man United VAR decision as new verdict revealed",
+          "summary": "Manchester United have been shrouded in VAR controversy since Erling Haaland's controversial goal for Man City at Old Trafford on Sunday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-var-premier-league-34624958",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 11:12:50 +0000"
+        },
+        {
+          "title": "Referee backed over Man Utd VAR decision as Premier League release official verdict",
+          "summary": "Manchester United were at the centre of VAR controversy on Sunday after Erling Haaland's controversial goal for Man City and now the Premier League have had their say on another incident",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-var-premier-league-37668821",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 11:46:38 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Michael Carrick said when asked if he'd been 'sold short' by Man United transfer business",
+      "items": [
+        {
+          "title": "What Michael Carrick said when asked if he'd been 'sold short' by Man United transfer business",
+          "summary": "Man Utd were dumped out of the Carabao Cup in embarrassing fashion as they threw away a two-goal lead to lose to Brighton at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-said-asked-34628788",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 17 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United could still add new signings to squad thanks to little-known Premier League rule",
+      "items": [
+        {
+          "title": "Man United could still add new signings to squad thanks to little-known Premier League rule",
+          "summary": "The summer transfer window has shut and Manchester United have named their Premier League squad but more changes could still happen at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-squad-additions-transfers-34625452",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 17 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Alejandro Garnacho hits new low as former Man United star told he's 'finished'",
+      "items": [
+        {
+          "title": "Alejandro Garnacho hits new low as former Man United star told he's 'finished'",
+          "summary": "The ex-Manchester United star's career really hasn't hit the heights since he left - and things looked very bleak for him on Wednesday night as Aston Villa sailed through in the Carabao Cup",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/alejandro-garnacho-man-united-villa-34628775",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:38:40 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carabao Cup draw in full as Man City handed all-Premier League tie in possible fourth round clash",
+      "items": [
+        {
+          "title": "Carabao Cup draw in full as Man City handed all-Premier League tie in possible fourth round clash",
+          "summary": "Manchester City could book their spot in the fourth round of the League Cup on Thursday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/carabao-cup-draw-live-manchester-34627447",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:38:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "When is the Carabao Cup fourth round draw? Date, TV channel and teams already in the pot",
+      "items": [
+        {
+          "title": "When is the Carabao Cup fourth round draw? Date, TV channel and teams already in the pot",
+          "summary": "The Carabao Cup fourth round draw is coming up with a number of teams already in the hat",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carabao-cup-fourth-round-draw-34618052",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 18:45:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carabao Cup VAR and extra time rules as Man United and Man City enter competition",
+      "items": [
+        {
+          "title": "Carabao Cup VAR and extra time rules as Man United and Man City enter competition",
+          "summary": "Following a controversial Manchester derby, United and City turn their attention to cup action",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carabao-cup-var-extra-time-34625028",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 18:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carabao Cup fourth round ball numbers confirmed as Man Utd and Man City discover fate",
+      "items": [
+        {
+          "title": "Carabao Cup fourth round ball numbers confirmed as Man Utd and Man City discover fate",
+          "summary": "Manchester United and Manchester City will discover who they could face in the Carabao Cup fourth round as the draw grows near",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carabao-cup-draw-ball-numbers-34626825",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 17:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Gary Lineker calls out Michael Carrick's treatment of Man United star and says 'it's odd'",
+      "items": [
+        {
+          "title": "Gary Lineker calls out Michael Carrick's treatment of Man United star and says 'it's odd'",
+          "summary": "Benjamin Sesko came on after the hour mark in the Manchester derby, with Gary Lineker not too pleased at Michael Carrick's decision",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/lineker-carrick-sesko-man-united-34627644",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 17:07:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "I was given false promises at Man United and never even got to say goodbye",
+      "items": [
+        {
+          "title": "I was given false promises at Man United and never even got to say goodbye",
+          "summary": "This former Manchester United midfielder claims the club never came good on their promises to him before he left without saying a proper goodbye",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-brighton-carabao-cup-34628094",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 16:54:32 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United announce three new deals with fourth agreement close",
+      "items": [
+        {
+          "title": "Man United announce three new deals with fourth agreement close",
+          "summary": "Manchester United have announced that three youngsters have signed professional contracts with the club, with a fourth academy talent also reportedly expected to follow suit in the coming days",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-jj-gabriel-deal-34627738",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 16:50:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United handed timely boost after JJ Gabriel quit bombshell",
+      "items": [
+        {
+          "title": "Man United handed timely boost after JJ Gabriel quit bombshell",
+          "summary": "JJ Gabriel has stunned Man United by asking to leave the club and he won't be making his first-team debut against Brighton in the Carabao Cup tonight",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-transfer-34626425",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 13:51:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Who is JJ Gabriel's dad? The ex-Arsenal footballer making the big decisions on Man United ace",
+      "items": [
+        {
+          "title": "Who is JJ Gabriel's dad? The ex-Arsenal footballer making the big decisions on Man United ace",
+          "summary": "Manchester United wonderkid JJ Gabriel has asked to leave the club, with the 15-year-old's future now in doubt after he requested to be released from his contract",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-family-34624774",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 10:26:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Hansi Flick sums up view on Alejandro Balde as Man United target left out of every match",
+      "items": [
+        {
+          "title": "Hansi Flick sums up view on Alejandro Balde as Man United target left out of every match",
+          "summary": "Manchester United were linked with Alejandro Balde during the summer transfer window but a move to Old Trafford never materialsied and he has stayed in Catalonia",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/alejandro-balde-man-utd-transfer-34624551",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 09:42:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carabao Cup draw RECAP: Liverpool and Chelsea in blockbuster tie as Arsenal learn opponents",
+      "items": [
+        {
+          "title": "Carabao Cup draw RECAP: Liverpool and Chelsea in blockbuster tie as Arsenal learn opponents",
+          "summary": "The Carabao Cup has now reached the last-16 stage as Premier League giants battle it out to win the first major honour of the domestic season",
+          "url": "https://www.mirror.co.uk/sport/football/news/carabaocup-round-four-draw-live-37670067",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:55:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick points the blame for 'unacceptable' Man Utd surrender vs Brighton",
+      "items": [
+        {
+          "title": "Michael Carrick points the blame for 'unacceptable' Man Utd surrender vs Brighton",
+          "summary": "Manchester United crashed out of the Carabao Cup after throwing away a two-goal lead at home to Brighton to pile pressure on manager Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-points-blame-unacceptable-37671140",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:51:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd fans turn on Michael Carrick's side as Brighton defeat piles pressure on boss",
+      "items": [
+        {
+          "title": "Man Utd fans turn on Michael Carrick's side as Brighton defeat piles pressure on boss",
+          "summary": "Manchester United were in complete control after establishing an early two-goal lead, but Brighton roared back into the tie and completed the comeback to knock the Red Devils out",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-vs-brighton-highlights-37671029",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 21:11:05 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd crash out of the Carabao Cup after crumbling vs Brighton - 5 talking points",
+      "items": [
+        {
+          "title": "Man Utd crash out of the Carabao Cup after crumbling vs Brighton - 5 talking points",
+          "summary": "MANCHESTER UNITED 2-3 BRIGHTON: Michael Carrick's side threw away a two-goal lead as they were dumped out of the Carabao Cup by the Seagulls, who won yet again at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/man-utd-crash-out-carabao-37670718",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 20:55:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Biggest VAR blunders ranked after Man City's derby winner leads to Enzo Maresca swipe",
+      "items": [
+        {
+          "title": "Biggest VAR blunders ranked after Man City's derby winner leads to Enzo Maresca swipe",
+          "summary": "VAR is again under the microscope after its latest error and subsequent apology from the head of the refs - which isn't their first rodeo as the technology and those using it continue to come unstuck",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-var-biggest-mistakes-37670369",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 17:46:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel snubbed for Man Utd vs Brighton as three decisions 'rile his dad'",
+      "items": [
+        {
+          "title": "JJ Gabriel snubbed for Man Utd vs Brighton as three decisions 'rile his dad'",
+          "summary": "Michael Carrick's Manchester United squad to face Brighton and Hove Albion in the Carabao Cup does not include JJ Gabriel following the teenagers stunning request",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-brighton-37670573",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 17:45:59 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Carabao Cup fourth-round draw ball numbers confirmed - how to watch and live stream",
+      "items": [
+        {
+          "title": "Carabao Cup fourth-round draw ball numbers confirmed - how to watch and live stream",
+          "summary": "The Carabao Cup fourth-round draw will soon take place as a host of top Premier League clubs get ready to discover their next opponents",
+          "url": "https://www.mirror.co.uk/sport/football/news/carabao-cup-draw-ball-numbers-37669052",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Why Arsenal is the best club for Max Dowman as JJ Gabriel threatens Man Utd meltdown",
+      "items": [
+        {
+          "title": "Why Arsenal is the best club for Max Dowman as JJ Gabriel threatens Man Utd meltdown",
+          "summary": "Max Dowman underlined why he has managed to break through into the Arsenal first team at just 16 with his brace at Ipswich while Man Utd wonderkid JJ Gabriel rocks the boat at Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/arsenal-dowman-man-utd-gabriel-37667751",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 08:24:26 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel's ex-Arsenal dad and Man Utd starlet's real name after quit bombshell",
+      "items": [
+        {
+          "title": "JJ Gabriel's ex-Arsenal dad and Man Utd starlet's real name after quit bombshell",
+          "summary": "JJ Gabriel's father was a former professional footballer at Arsenal and played for the Republic of Ireland national team",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-arsenal-37667438",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 06:50:35 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ornstein reveals Carrick wanted Man Utd 'first' priority signing over £70m star - Football365",
+      "items": [
+        {
+          "title": "Ornstein reveals Carrick wanted Man Utd 'first' priority signing over £70m star - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE?oc=5\" target=\"_blank\">Ornstein reveals Carrick wanted Man Utd 'first' priority signing over £70m star</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUQtdHYxbWlUNzgxSUNqODc0dzgyd3RiR1lRc19Wa2dFR0pVUURRMXhxaGI3SzF4TWhNT3lMclBfS0NDc0FYTGtTUWZ3cVJKZnNkVklyM2p6cWJYdEQ5cGtDS0ZKRTQ0bGQ4ZnFTS0VFb2dJSzIxZXQ4ZTdCNlU0MVlPbFdxS0VJX2pScU5veWdmYWFsRnM4ODJKc016OVZHejJlVnBJaVE?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 09:28:24 GMT"
+        },
+        {
+          "title": "David Ornstein reveals Michael Carrick wanted to sign Arsenal star over £70m Man Utd man – ‘I heard’ - teamtalk.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGZrYnE3NW13SnZyQmhUc0tNSlZZU1dZU1R4bEhxV1hRTldXaWFWc2JXalBvcmhWdHVndWFIWlludmppOVBMeXRDTDhlakNqbGZBZ0Y4X1AxUlVNV1IwemFfZk9QWHFCSjYyVm5uU1dSSmNubXRyNllvLUlKbEFORDBlXzl4cHpPZW15bnV1aVMzZm9NWUYzMFdlQTQyR1V1LWpOSS1hTTl6cjVT?oc=5\" target=\"_blank\">David Ornstein reveals Michael Carrick wanted to sign Arsenal star over £70m Man Utd man – ‘I heard’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">teamtalk.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGZrYnE3NW13SnZyQmhUc0tNSlZZU1dZU1R4bEhxV1hRTldXaWFWc2JXalBvcmhWdHVndWFIWlludmppOVBMeXRDTDhlakNqbGZBZ0Y4X1AxUlVNV1IwemFfZk9QWHFCSjYyVm5uU1dSSmNubXRyNllvLUlKbEFORDBlXzl4cHpPZW15bnV1aVMzZm9NWUYzMFdlQTQyR1V1LWpOSS1hTTl6cjVT?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 09:05:05 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein reveals Michael Carrick wanted Arsenal star before Man Utd's 'sudden' Carlos Baleba U-Turn - aftv.co.uk",
+      "items": [
+        {
+          "title": "David Ornstein reveals Michael Carrick wanted Arsenal star before Man Utd's 'sudden' Carlos Baleba U-Turn - aftv.co.uk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMDZra0c3bDQ5Y29LVmNPVjl4VTU0NHlGdFFydjFCWkFJdGZNWUZlNDJoWXU2V195TlpyV3dCTHpMQzVOQklBdFJkRjZFR3JlaTBwMUFoMklBM2JqU25QaDVTdnRIMjVfcjIzVkY0cWg1TmhVWldhSHgwWFFubDBVQ2FldW82ZmI1NjRvREZnOXpNajhaYU53ZHp0T1g0OFJtY01fWWp2LWJabzlZa3JaWVdWbGN3S0pKUS1tdnVSUFoyc1dXS1BSbWUzZkhuODNWbHU3eDA5ZkRDUFNC?oc=5\" target=\"_blank\">David Ornstein reveals Michael Carrick wanted Arsenal star before Man Utd's 'sudden' Carlos Baleba U-Turn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">aftv.co.uk</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMDZra0c3bDQ5Y29LVmNPVjl4VTU0NHlGdFFydjFCWkFJdGZNWUZlNDJoWXU2V195TlpyV3dCTHpMQzVOQklBdFJkRjZFR3JlaTBwMUFoMklBM2JqU25QaDVTdnRIMjVfcjIzVkY0cWg1TmhVWldhSHgwWFFubDBVQ2FldW82ZmI1NjRvREZnOXpNajhaYU53ZHp0T1g0OFJtY01fWWp2LWJabzlZa3JaWVdWbGN3S0pKUS1tdnVSUFoyc1dXS1BSbWUzZkhuODNWbHU3eDA5ZkRDUFNC?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Wed, 16 Sep 2026 14:40:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“The whole situation…” – Michael Carrick breaks silence on major Man United transfer saga",
+      "items": [
+        {
+          "title": "“The whole situation…” – Michael Carrick breaks silence on major Man United transfer saga",
+          "summary": "<p>Manchester United manager Michael Carrick has broken his silence on the JJ Gabriel transfer saga that has been dominating headlines in the last few days. It seems the highly-rated Man Utd wonderkid is determined to leave Old Trafford, and it says a lot about just how big a prospect he is that we&#8217;re hearing this [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/17/man-united-boss-michael-carrick-on-jj-gabriel-transfer-saga/\">&#8220;The whole situation&#8230;&#8221; &#8211; Michael Carrick breaks silence on major Man United transfer saga</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/17/man-united-boss-michael-carrick-on-jj-gabriel-transfer-saga/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 17 Sep 2026 05:51:18 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United close to securing highly rated academy star on first professional deal",
+      "items": [
+        {
+          "title": "Man United close to securing highly rated academy star on first professional deal",
+          "summary": "<p>Manchester United are reportedly close to tying down another highly rated academy player, with 17-year-old Noah Ajayi nearing his first professional contract at Old Trafford. The Hamburg-born attacker has been progressing quickly through United’s youth setup and is already playing above his age group. Want more CaughtOffside coverage? Add us as a preferred source on [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/17/man-united-close-to-securing-highly-rated-academy-star/\">Man United close to securing highly rated academy star on first professional deal</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/17/man-united-close-to-securing-highly-rated-academy-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 17 Sep 2026 05:49:59 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carrick makes ‘doesn’t bother’ claim after historic Man United defeat against Brighton",
+      "items": [
+        {
+          "title": "Carrick makes ‘doesn’t bother’ claim after historic Man United defeat against Brighton",
+          "summary": "<p>Michael Carrick has pushed back against growing speculation over his Manchester United future after a disastrous Carabao Cup defeat to Brighton deepened the club’s poor start to the season. United appeared to be cruising after Shea Lacey and Mason Mount put them 2-0 up inside 10 minutes at Old Trafford. Want more CaughtOffside coverage? Add [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/17/carrick-makes-doesnt-bother-claim-man-united-defeat/\">Carrick makes &#8216;doesn&#8217;t bother&#8217; claim after historic Man United defeat against Brighton</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/17/carrick-makes-doesnt-bother-claim-man-united-defeat/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 17 Sep 2026 05:34:49 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi1c1p/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi1c1p/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi1c1p/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T16:00:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Shea Lacey joined Man Utd at the age of seven, and he's just scored eight minutes into his full debut. What a moment ❤️ [Football on TNT Sports]",
+      "items": [
+        {
+          "title": "Shea Lacey joined Man Utd at the age of seven, and he's just scored eight minutes into his full debut. What a moment ❤️ [Football on TNT Sports]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi6w5d/shea_lacey_joined_man_utd_at_the_age_of_seven_and/\"> <img alt=\"Shea Lacey joined Man Utd at the age of seven, and he's just scored eight minutes into his full debut. What a moment ❤️ [Football on TNT Sports]\" src=\"https://preview.redd.it/xdsoxoljmxph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=75a46a2a008a0121df8a1c1b463d5bfe1f806e30\" title=\"Shea Lacey joined Man Utd at the age of seven, and he's just scored eight minutes into his full debut. What a moment ❤️ [Football on TNT Sports]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/xdsoxoljmxph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi6w5d/shea_lacey_joined_man_utd_at_the_age_of_seven_and/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi6w5d/shea_lacey_joined_man_utd_at_the_age_of_seven_and/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T19:17:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chants of “what the f***ing hell was that” from fans in the Stretford End. [Nathan Salt]",
+      "items": [
+        {
+          "title": "Chants of “what the f***ing hell was that” from fans in the Stretford End. [Nathan Salt]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi9orc/chants_of_what_the_fing_hell_was_that_from_fans/\"> <img alt=\"Chants of “what the f***ing hell was that” from fans in the Stretford End. [Nathan Salt]\" src=\"https://preview.redd.it/kj81lg4t4yph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48312bf1b9b33e80e97a065083b6b7bb84348959\" title=\"Chants of “what the f***ing hell was that” from fans in the Stretford End. [Nathan Salt]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/kj81lg4t4yph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi9orc/chants_of_what_the_fing_hell_was_that_from_fans/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi9orc/chants_of_what_the_fing_hell_was_that_from_fans/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T21:00:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "FT 3-2. @ManUtd beaten at OT despite leading by two goals for first time since 1976. Boos for the home team. [Simon Stone]",
+      "items": [
+        {
+          "title": "FT 3-2. @ManUtd beaten at OT despite leading by two goals for first time since 1976. Boos for the home team. [Simon Stone]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi9ly9/ft_32_manutd_beaten_at_ot_despite_leading_by_two/\"> <img alt=\"FT 3-2. @ManUtd beaten at OT despite leading by two goals for first time since 1976. Boos for the home team. [Simon Stone]\" src=\"https://preview.redd.it/zuhx6ntd4yph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfe65b3f014bf6d22da5086a38f6a6872bbeb3dc\" title=\"FT 3-2. @ManUtd beaten at OT despite leading by two goals for first time since 1976. Boos for the home team. [Simon Stone]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/zuhx6ntd4yph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi9ly9/ft_32_manutd_beaten_at_ot_despite_leading_by_two/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi9ly9/ft_32_manutd_beaten_at_ot_despite_leading_by_two/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T20:57:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Post Match Quotes] Carrick: \"There's a number of things we'll look at and dissect. We can't accept that as a group. I take responsibility for it. The performance towards the end of the second half, that's on me. We all have to get better. We have a big game on Sunday that we have to prepare for.\"",
+      "items": [
+        {
+          "title": "[Post Match Quotes] Carrick: \"There's a number of things we'll look at and dissect. We can't accept that as a group. I take responsibility for it. The performance towards the end of the second half, that's on me. We all have to get better. We have a big game on Sunday that we have to prepare for.\"",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Michael Carrick</h1> <p><strong>'I take responsibility'</strong></p> <p><strong>Manchester United boss Michael Carrick, speaking on Sky Sports:</strong> &quot;The start of the game and the end of the game is completely different. It didn't feel like the same game and certainly the same emotions at all. We had the game exactly where we wanted it and let it get away from us in a big way. That's the story of the game.</p> <p>&quot;There's a number of things we'll look at and dissect. We can't accept that as a group. I take responsibility for it. The performance towards the end of the second half, that's on me. We all have to get better. We have a big game on Sunday that we have to prepare for. We're out of this competition and we've got to get back to winning football matches. It doesn't feel good at the moment but we have to get back to winning football matches and we have to get better.</p> <p>&quot;We want to win and we want to win quickly. The next match is Sunday and that's all I'm thinking about right now.&quot;</p> <p><strong>Michael Carrick, asked if he is under pressure:</strong> &quot;No, I don't feel under pressure. Either way, that doesn't bother me one bit. It generally doesn't bother me one bit. It's about, I understand what goes on outside and how the world works, but it generally doesn't bother me. What bothers me is winning games and having a good feeling around the place, and a good feeling around the group to know we're moving in a good direction. That's ultimately what bothers me.&quot; [Simon Stone]</p> <p><strong>Michael Carrick on JJ Gabriel:</strong> &quot;Yeah, I just think we've got to be really careful of the whole situation, you know. He's a young boy, he's 15, and for me, definitely, and from a club point of view, is looking after our younger players, their welfare, their well-being, their exposure, and I think we've got to be really, all of us, I think we've got to be really conscious of that, really, in this situation.&quot; [Simon Stone]</p> <p><strong>'We have to find the answers for Sunday'</strong></p> <p><strong>Manchester United boss Michael Carrick, speaking to BBC Radio 5 Live:</strong> &quot;It seems a long time ago now but the start of the game was fantastic. It was everything we hoped for, even more really, in some ways in Shea [Lacey] getting his goal. The night's gone in a different direction but I think for Shea for the moment in the academy and everyone who's been connected with his journey, to have a moment like which he should be celebrating and enjoying a little bit more really to have that start of the game. Then we let the game get away from us with the longer the game went.</p> <p>&quot;We ended up with a pretty disappointing night. It's obvious for me to say that. We accept that. We can't be in a position like that and lose the game in that manner. I'll understand the disappointments and frustrations. I accept that. That's on me. It'll need to be better than that.&quot;</p> <p><strong>On whether he's addressed that:</strong> &quot;We can't change that. It's done. We've got to keep evolving as a group. We have to keep learning and dealing with situations. Sometimes they come a bit easier than others. Tonight was a tough one. We didn't find a way out of it. That's up to me and the staff to help the players and guide them through it. I think we all know that in the end tonight feels like a big disappointment.</p> <p>&quot;We've had small, little things that have gone against us in the last week or two and then it accumulates to feel that it's a lot bigger. I think we have to be honest and say that. The late goal against Everton from outside the box. The [Manchester] City goal the other day. It can all of a sudden roll into something a bit greater but I understand the disappointment because we shouldn't finish the game in that manner with the position we were in and we have to be humble and take that.</p> <p>&quot;We have to find the answers for Sunday.&quot;</p> <h1>Fabian Hurzeler</h1> <p><strong>'We won in a deserved way'</strong></p> <p><strong>Brighton boss Fabian Hurzeler, speaking on Sky Sports:</strong> &quot;I think we started the game really well. We conceded two easy goals and then we kept and stuck to our plan. That was a positive thing. Of course, you're 2-0 down, you can go in one direction and say the game is done and not stick to the plan anymore, or you can believe. You have to believe in your teammates. You have to believe in yourself.</p> <p>&quot;The longer the game went, the better we were and in the end I think we won in a deserved way.</p> <p>&quot;I didn't think we started that bad. Of course we conceded goals and the goals changed the momentum but overall we had the right structure. We had good patterns. I think the bad thing at the beginning was we were quite nervous. We made a lot of technical mistakes and then afterwards the players grew into the game.</p> <p>&quot;In the end, we completely controlled the game and we had plenty of chances to score another goal.&quot;</p> <h1>Pascal Gross</h1> <p><strong>'A really good performance'</strong></p> <p><strong>Brighton midfielder Pascal Gross, speaking to Sky Sports about conceding two goals early on:</strong> &quot;It was frustrating because it's not the first time this season, it's the third time this season where we started slow. We have to improve that because we always have to climb a mountain but today we did that.</p> <p>&quot;We played here before last season a similar match that we won and that gives you belief in a stadium where you won before. The experience we try to give it to the lads. It was a really good performance and I have to say [Jason] Steeley's save at the end was unbelievable.&quot;</p> <p>Quotes via <a href=\"https://www.bbc.com/sport/football/live/cj3v4we7q2x2t\">BBC</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wib72r/post_match_quotes_carrick_theres_a_number_of/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wib72r/post_match_quotes_carrick_theres_a_number_of/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wib72r/post_match_quotes_carrick_theres_a_number_of/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T21:58:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Inter Miami [2] - 0 Cruz Azul - Casemiro 81’",
+      "items": [
+        {
+          "title": "Inter Miami [2] - 0 Cruz Azul - Casemiro 81’",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hot_Patience_5962\"> /u/Hot_Patience_5962 </a> <br /> <span><a href=\"https://v.redd.it/uexfkumakzph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wihejs/inter_miami_2_0_cruz_azul_casemiro_81/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wihejs/inter_miami_2_0_cruz_azul_casemiro_81/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-17T02:28:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The xG Philosophy: Man Utd (1.13) 2-3 (2.36) Brighton",
+      "items": [
+        {
+          "title": "The xG Philosophy: Man Utd (1.13) 2-3 (2.36) Brighton",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi9xrx/the_xg_philosophy_man_utd_113_23_236_brighton/\"> <img alt=\"The xG Philosophy: Man Utd (1.13) 2-3 (2.36) Brighton\" src=\"https://preview.redd.it/sswjlh4l6yph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=33b09b1a26528ce901c844a054300b5c86235112\" title=\"The xG Philosophy: Man Utd (1.13) 2-3 (2.36) Brighton\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/sswjlh4l6yph1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi9xrx/the_xg_philosophy_man_utd_113_23_236_brighton/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi9xrx/the_xg_philosophy_man_utd_113_23_236_brighton/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T21:09:19+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Premier League on Twitter] Kobbie Mainoo is calm under pressure 😮‍💨🔴 @ManUtd",
+      "items": [
+        {
+          "title": "[Premier League on Twitter] Kobbie Mainoo is calm under pressure 😮‍💨🔴 @ManUtd",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1whrjra/premier_league_on_twitter_kobbie_mainoo_is_calm/\"> <img alt=\"[Premier League on Twitter] Kobbie Mainoo is calm under pressure 😮‍💨🔴 @ManUtd\" src=\"https://external-preview.redd.it/YW45NzB0aTlodXBoMe4HKwClcmWQz7LmonzAkrJmxx9qXUFe0opIhQt3k374.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=86c1e6e35d1d6475c7e9d919a9c46df71767e9eb\" title=\"[Premier League on Twitter] Kobbie Mainoo is calm under pressure 😮‍💨🔴 @ManUtd\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://v.redd.it/elxkbji9huph1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1whrjra/premier_league_on_twitter_kobbie_mainoo_is_calm/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1whrjra/premier_league_on_twitter_kobbie_mainoo_is_calm/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T08:41:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
+      "items": [
+        {
+          "title": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wi3kr8/lets_go_lets_go_inside_catastrophic_derby_var/\"> <img alt=\"'Let's go, let's go' - inside catastrophic derby VAR mistake\" src=\"https://external-preview.redd.it/DLn_BXqkAYO8lPSKunxln09SgnChsxKjLkVf7pYzbys.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb92c378fb6024e4e9e5fd6264495077f4f64fe3\" title=\"'Let's go, let's go' - inside catastrophic derby VAR mistake\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bainbane\"> /u/bainbane </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/ck4gjr5vly99o\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wi3kr8/lets_go_lets_go_inside_catastrophic_derby_var/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wi3kr8/lets_go_lets_go_inside_catastrophic_derby_var/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T17:20:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Best Midfield Ball Progressors per 90 in the European Top Five Leagues so far this season",
+      "items": [
+        {
+          "title": "Best Midfield Ball Progressors per 90 in the European Top Five Leagues so far this season",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1whv8wg/best_midfield_ball_progressors_per_90_in_the/\"> <img alt=\"Best Midfield Ball Progressors per 90 in the European Top Five Leagues so far this season\" src=\"https://preview.redd.it/14f6sw9zgvph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e986888b0680bc95b05afe3876d393dc85fdc68f\" title=\"Best Midfield Ball Progressors per 90 in the European Top Five Leagues so far this season\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://i.redd.it/14f6sw9zgvph1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1whv8wg/best_midfield_ball_progressors_per_90_in_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1whv8wg/best_midfield_ball_progressors_per_90_in_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T12:01:45+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carrick and Tielemans Post Match",
+      "items": [
+        {
+          "title": "Carrick and Tielemans Post Match",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wibia1/carrick_and_tielemans_post_match/\"> <img alt=\"Carrick and Tielemans Post Match\" src=\"https://external-preview.redd.it/lK6zelmyz3hcvQHbpW9byp2S0oTeS8Odc5A97lzi01U.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=95e3eb7a4ebe8e049b8cb8611b6b46c8d3961b18\" title=\"Carrick and Tielemans Post Match\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lamorna017\"> /u/Lamorna017 </a> <br /> <span><a href=\"https://youtu.be/G7N8ePFT9u8?si=omyuDMUczHPa3Ygq\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wibia1/carrick_and_tielemans_post_match/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wibia1/carrick_and_tielemans_post_match/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T22:10:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Nathan Salt] Expectation is that Noah Ajayi’s pro contract is close to being finalised, too",
+      "items": [
+        {
+          "title": "[Nathan Salt] Expectation is that Noah Ajayi’s pro contract is close to being finalised, too",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1whs0ca/nathan_salt_expectation_is_that_noah_ajayis_pro/\"> <img alt=\"[Nathan Salt] Expectation is that Noah Ajayi’s pro contract is close to being finalised, too\" src=\"https://preview.redd.it/rhjmdln8muph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b726850a99e727e0604382208bc43a0a9d093962\" title=\"[Nathan Salt] Expectation is that Noah Ajayi’s pro contract is close to being finalised, too\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/phant0msinthenight\"> /u/phant0msinthenight </a> <br /> <span><a href=\"https://i.redd.it/rhjmdln8muph1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1whs0ca/nathan_salt_expectation_is_that_noah_ajayis_pro/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1whs0ca/nathan_salt_expectation_is_that_noah_ajayis_pro/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-16T09:09:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 74,
+    "story_count": 44
+  }
+}
