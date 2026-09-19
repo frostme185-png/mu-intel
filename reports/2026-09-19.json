@@ -1,0 +1,822 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T05:32:31.290756+00:00",
+  "match_data": {
+    "collected_at": "2026-09-19T05:32:25.263276+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pbc1cl?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 18 Sep 2026 16:06:00 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "Man Utd head coach Michael Carrick says he hates losing games.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pbb4vf?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 18 Sep 2026 13:56:00 GMT"
+        },
+        {
+          "title": "Carrick's future, Ratcliffe question and JJ Gabriel's Youth League blunder - Manchester United Notebook",
+          "summary": "Michael Carrick's future is suddenly in the spotlight and this week's Man Utd Notebook looks at what could happen next.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/carricks-future-ratcliffe-question-jj-34635968",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Manchester United's academy is 'business as usual' after JJ Gabriel bombshell",
+          "summary": "Man Utd U21s won 3-2 against Brentford on Friday night, but JJ Gabriel was absent from the squad following his request to leave",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-uniteds-academy-business-usual-34638914",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 19:59:51 +0000"
+        },
+        {
+          "title": "Manchester United Under-21s vs Brentford highlights and reaction",
+          "summary": "Man Utd U21s play Brentford in the Premier League 2 on Friday night and we'll bring you live updates from the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-under-21s-vs-34637476",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 19:56:02 +0000"
+        },
+        {
+          "title": "Manchester United REJECT JJ Gabriel request as starlet talks to Barcelona",
+          "summary": "JJ Gabriel is in Barcelona for talks over a move to the Nou Camp after asking for Man Utd to de-register him this week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-reject-jj-gabriel-34639127",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 14:38:04 +0000"
+        },
+        {
+          "title": "Michael Carrick slams 'ridiculous' speculation over his Manchester United future",
+          "summary": "Man Utd have lost three of their first six games of the season and Michael Carrick is under pressure as head coach.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-slams-ridiculous-speculation-34637623",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 12:51:59 +0000"
+        },
+        {
+          "title": "Manchester United waiting on fitness of two players ahead of potential Carlos Baleba debut",
+          "summary": "Man Utd face Fulham in the Premier League this weekend and £70million signing Carlos Baleba could make his debut at Craven Cottage.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-waiting-fitness-two-34637614",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 12:30:00 +0000"
+        },
+        {
+          "title": "Thomas Tuchel admits it hurt him to snub Manchester United star Kobbie Mainoo at the World Cup",
+          "summary": "Man United midfielder Kobbie Mainoo did not play a single minute for England during this summer's World Cup",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/thomas-tuchel-admits-hurt-him-34636740",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 11:08:59 +0000"
+        },
+        {
+          "title": "Arsenal and Manchester United monitor €70m-rated Bundesliga midfield talent",
+          "summary": "<p>Ibrahim Maza has been linked with a move away from Bayer Leverkusen. Arsenal and Manchester United are closely monitoring the 20-year-old midfielder&#8217;s development, and they have been scouting him extensively. The player has attracted significant attention from top clubs since joining Leverkusen in the summer of 2025. Ibrahim Maza attracts Arsenal and Manchester United interest [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/18/arsenal-and-manchester-united-monitor-e70m-rated-bundesliga-midfield-talent/\">Arsenal and Manchester United monitor €70m-rated Bundesliga midfield talent</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/18/arsenal-and-manchester-united-monitor-e70m-rated-bundesliga-midfield-talent/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 18 Sep 2026 16:00:45 +0000"
+        },
+        {
+          "title": "[Former Reds] FC Cincinnati set to sign Tyrell Malacia on free transfer following Manchester United exit (Athletic Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjsonl/former_reds_fc_cincinnati_set_to_sign_tyrell/\"> <img alt=\"[Former Reds] FC Cincinnati set to sign Tyrell Malacia on free transfer following Manchester United exit (Athletic Gift Article)\" src=\"https://external-preview.redd.it/DKbuS0xfyMegbA4LUHG1MUXjJbQhf-Cg7xxzAAhRrpE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e06661e7177979ee76fbd2c0d332115479e1535\" title=\"[Former Reds] FC Cincinnati set to sign Tyrell Malacia on free transfer following Manchester United exit (Athletic Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7607289/2026/09/18/tyrell-malacia-fc-cincinnati-free-transfer/?source=emp_shared_article&amp;unlocked_article_code=1.CFE.Az4z.Yy6XdnLj6PST&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjsonl/former_reds_fc_cincinnati_set_to_sign_tyrell/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjsonl/former_reds_fc_cincinnati_set_to_sign_tyrell/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T15:04:15+00:00"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "r/reddevils",
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 4,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Michael Carrick gets 'exciting' reprieve as JJ Gabriel claim made",
+      "items": [
+        {
+          "title": "Man United latest: Michael Carrick gets 'exciting' reprieve as JJ Gabriel claim made",
+          "summary": "Michael Carrick has had a chaotic start to the season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-carrick-34638025",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: JJ Gabriel demand emerges as Michael Carrick helped by 'exciting' update",
+          "summary": "Chaos continues to shroud the start of Manchester United's season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-carrick-37677183",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel dropped as Man United star snubbed for England youth team call-up",
+      "items": [
+        {
+          "title": "JJ Gabriel dropped as Man United star snubbed for England youth team call-up",
+          "summary": "The England youth sides are set for international duty across September and October, and JJ Gabriel has become one of the most talked‑about names ahead of the squad announcements",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-england-man-utd-34637934",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 14:32:09 +0000"
+        },
+        {
+          "title": "JJ Gabriel snubbed for England youth call-ups days after Man Utd star demanded to quit",
+          "summary": "Young Manchester United star JJ Gabriel will not be playing for England during the international break amid his request to leave Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-england-man-utd-37677168",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 14:29:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick responds to critical Man United chants and hits back at emotion question",
+      "items": [
+        {
+          "title": "Michael Carrick responds to critical Man United chants and hits back at emotion question",
+          "summary": "Manchester United were booed off after defeat to Brighton on Wednesday and the Stretford End were particularly critical.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-responds-critical-man-34638435",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 13:39:14 +0000"
+        },
+        {
+          "title": "Michael Carrick points blame for Man Utd struggles and responds to sack question",
+          "summary": "Manchester United have won just two of their opening six games in all competitions and there's pressure on Michael Carrick ahead of their clash with Fulham on Sunday",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-manchester-united-fulham-37677436",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 13:35:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kobbie Mainoo decision speaks volumes for Man United as pundits' favourite frozen out",
+      "items": [
+        {
+          "title": "Kobbie Mainoo decision speaks volumes for Man United as pundits' favourite frozen out",
+          "summary": "Manchester United have made a slow start to this Premier League season, but Kobbie Mainoo has a case to be their standout performer so far and has been rewarded",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-england-kobbie-mainoo-34640603",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 17:53:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Carlos Baleba, Luke Shaw, Amad - Man United injury news and return dates ahead of Fulham",
+      "items": [
+        {
+          "title": "Carlos Baleba, Luke Shaw, Amad - Man United injury news and return dates ahead of Fulham",
+          "summary": "Manchester United face Fulham in the Premier League this weekend and Michael Carrick says there is a chance that two players could return from injury to feature",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-baleba-luke-shaw-34640017",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 16:19:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "JJ Gabriel would be a huge loss for Man United - but I can understand it if he joins one club",
+      "items": [
+        {
+          "title": "JJ Gabriel would be a huge loss for Man United - but I can understand it if he joins one club",
+          "summary": "JJ Gabriel stunned Manchester United with his request to leave Old Trafford and plenty of clubs are interested in the teenager",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-next-club-united-34638095",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 14:06:33 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Every word from Michael Carrick's press conference as he discusses Man United pressure and injury boost",
+      "items": [
+        {
+          "title": "Every word from Michael Carrick's press conference as he discusses Man United pressure and injury boost",
+          "summary": "Manchester United head coach Michael Carrick spoke to the media ahead of the Premier League trip to Fulham on Sunday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34635528",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 13:27:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Fulham boss said when asked if Michael Carrick is under pressure amid Man United struggles",
+      "items": [
+        {
+          "title": "What Fulham boss said when asked if Michael Carrick is under pressure amid Man United struggles",
+          "summary": "Manchester United are desperate for three points on Sunday when they travel to Fulham in the Premier League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/what-fulham-boss-said-asked-34637468",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 12:03:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Harry Maguire and Kobbie Mainoo learn fate as Man United and Man City stars make England squad",
+      "items": [
+        {
+          "title": "Harry Maguire and Kobbie Mainoo learn fate as Man United and Man City stars make England squad",
+          "summary": "Thomas Tuchel has announced England's squad for the September and October Nations League fixtures after their gut‑wrenching World Cup semi‑final exit to Argentina and third‑place finish",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/england-man-united-man-city-34635696",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 09:01:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Erik ten Hag's first signing at Man Utd finally joins new club after leaving for nothing",
+      "items": [
+        {
+          "title": "Erik ten Hag's first signing at Man Utd finally joins new club after leaving for nothing",
+          "summary": "Manchester United had a summer of change at Old Trafford this summer with a whole host of players leaving the club and one has only just managed to find himself a new club",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-malacia-cincinnati-37679053",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 18:29:01 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Barcelona star reveals how Marcus Rashford got reality check before Man Utd return",
+      "items": [
+        {
+          "title": "Barcelona star reveals how Marcus Rashford got reality check before Man Utd return",
+          "summary": "Marcus Rashford was forced to return to Manchester United after failing to secure a permanent move to Barcelona, and one of his former team-mates at the Camp Nou has been speaking about him",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-barcelona-marcus-rashford-37678864",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 17:36:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd, Liverpool and Chelsea legends to feature in new charity match on free-to-air TV",
+      "items": [
+        {
+          "title": "Man Utd, Liverpool and Chelsea legends to feature in new charity match on free-to-air TV",
+          "summary": "A collection of Premier League icons are set to feature in a charity match that will be shown on TV",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-charity-match-tv-37678582",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 16:30:05 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "JJ Gabriel flies in for transfer talks with Barcelona after Man Utd respond to request",
+      "items": [
+        {
+          "title": "JJ Gabriel flies in for transfer talks with Barcelona after Man Utd respond to request",
+          "summary": "Manchester United academy star JJ Gabriel has been in the spotlight ever since his shock request to leave Old Trafford this week",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-37678321",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 14:59:12 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney lands new job as BBC announce Man Utd legend's return",
+      "items": [
+        {
+          "title": "Wayne Rooney lands new job as BBC announce Man Utd legend's return",
+          "summary": "Wayne Rooney has been on everybody's screens as a pundit over the last year, but it now appears the Manchester United icon will be taking up a different challenge",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-bbc-man-utd-37675483",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 07:48:28 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League news: Carrick brushes aside questions over future, Arteta salutes ‘extraordinary’ Dowman",
+      "items": [
+        {
+          "title": "Premier League news: Carrick brushes aside questions over future, Arteta salutes ‘extraordinary’ Dowman",
+          "summary": "<p>United head coach believes it will take ‘a lot longer than one or two’ setbacks before he is concerned about his job</p> <a href=\"https://www.theguardian.com/football/2026/sep/18/premier-league-news-carrick-brushes-aside-questions-over-future-arteta-salutes-extraordinary-dowman\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/18/premier-league-news-carrick-brushes-aside-questions-over-future-arteta-salutes-extraordinary-dowman",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 21:30:28 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Romano gives huge Man Utd update on JJ Gabriel future as 'most likely destination' revealed - Football365",
+      "items": [
+        {
+          "title": "Romano gives huge Man Utd update on JJ Gabriel future as 'most likely destination' revealed - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWhpZTlVZjRwRzdIRG83MFNoaGtBcGlnaUN1OGQ1YVgxRHVoeW1yTVh6NWt4R3FBZDRKcGpZSUl0blh6S0dydTFLSm53Z2ZUaWFJZ01sUktwR2NQc1FrU0pjZnVYSWxOWUVaNzZ4dVd2ZnRRaFlsYVJsM19PYUt5WFFOVQ?oc=5\" target=\"_blank\">Romano gives huge Man Utd update on JJ Gabriel future as 'most likely destination' revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLWhpZTlVZjRwRzdIRG83MFNoaGtBcGlnaUN1OGQ1YVgxRHVoeW1yTVh6NWt4R3FBZDRKcGpZSUl0blh6S0dydTFLSm53Z2ZUaWFJZ01sUktwR2NQc1FrU0pjZnVYSWxOWUVaNzZ4dVd2ZnRRaFlsYVJsM19PYUt5WFFOVQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 18 Sep 2026 06:38:47 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jamie Carragher picks side in Man Utd vs JJ Gabriel ‘next superstar’ war - Football365",
+      "items": [
+        {
+          "title": "Jamie Carragher picks side in Man Utd vs JJ Gabriel ‘next superstar’ war - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFV1U2ItZktRa1pRd2pMbVFuamphemJwczBnZkV3M2ZSZlRPZ2N3SVNTZllwSkltWlNEUHg5RGNxZFRUUUU4YkJwcWdIeDRMNjRESXZZd1ktSkpQYjhfVnc2ZU4zY19rRGp4UjhjZ3hTNkJVLU1sallSU04zNHl2dGljTQ?oc=5\" target=\"_blank\">Jamie Carragher picks side in Man Utd vs JJ Gabriel ‘next superstar’ war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOFV1U2ItZktRa1pRd2pMbVFuamphemJwczBnZkV3M2ZSZlRPZ2N3SVNTZllwSkltWlNEUHg5RGNxZFRUUUU4YkJwcWdIeDRMNjRESXZZd1ktSkpQYjhfVnc2ZU4zY19rRGp4UjhjZ3hTNkJVLU1sallSU04zNHl2dGljTQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 17 Sep 2026 11:34:28 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Journalist confirms Man United ace has arrived in Barcelona for transfer talks",
+      "items": [
+        {
+          "title": "Journalist confirms Man United ace has arrived in Barcelona for transfer talks",
+          "summary": "<p>Manchester United wonderkid JJ Gabriel has travelled to Barcelona for talks over a potential move, according to the latest reporting from Ben Jacobs. According to the journalist, reporting for GIVEMESPORT, the 15-year-old has arrived in Barcelona to hold direct discussions over a possible move away from Manchester United. The development comes after Gabriel informed United [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/19/jj-gabriel-barcelona-transfer-talks-manchester-united/\">Journalist confirms Man United ace has arrived in Barcelona for transfer talks</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/19/jj-gabriel-barcelona-transfer-talks-manchester-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 18 Sep 2026 23:19:13 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjr1zj/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjr1zj/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjr1zj/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T14:01:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Thomas Tuchel on Kobbie Mainoo: \"I expect him to be on the pitch & it's my duty. (The World Cup) is on me. He didn't put a foot wrong\" [Simon Peach]",
+      "items": [
+        {
+          "title": "Thomas Tuchel on Kobbie Mainoo: \"I expect him to be on the pitch & it's my duty. (The World Cup) is on me. He didn't put a foot wrong\" [Simon Peach]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjme3m/thomas_tuchel_on_kobbie_mainoo_i_expect_him_to_be/\"> <img alt=\"Thomas Tuchel on Kobbie Mainoo: &quot;I expect him to be on the pitch &amp; it's my duty. (The World Cup) is on me. He didn't put a foot wrong&quot; [Simon Peach]\" src=\"https://preview.redd.it/kuhauao889qh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=99f0d107a365f4c37a170171aca1dd9aae072564\" title=\"Thomas Tuchel on Kobbie Mainoo: &quot;I expect him to be on the pitch &amp; it's my duty. (The World Cup) is on me. He didn't put a foot wrong&quot; [Simon Peach]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/kuhauao889qh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjme3m/thomas_tuchel_on_kobbie_mainoo_i_expect_him_to_be/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjme3m/thomas_tuchel_on_kobbie_mainoo_i_expect_him_to_be/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T10:22:50+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "United U21s [1]-1 Brentford U21s - Amir Ibragimov 45+3'",
+      "items": [
+        {
+          "title": "United U21s [1]-1 Brentford U21s - Amir Ibragimov 45+3'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjyswo/united_u21s_11_brentford_u21s_amir_ibragimov_453/\"> <img alt=\"United U21s [1]-1 Brentford U21s - Amir Ibragimov 45+3'\" src=\"https://external-preview.redd.it/aXcwbGFuNWZyYnFoMTbUArSaN1uYl2ZRdnya-TZnV-byy_Q9aCqnBZnOiF2u.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=741c9b519766f347e582fa51d2792b5be35194e6\" title=\"United U21s [1]-1 Brentford U21s - Amir Ibragimov 45+3'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/9xgwrzjerbqh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjyswo/united_u21s_11_brentford_u21s_amir_ibragimov_453/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjyswo/united_u21s_11_brentford_u21s_amir_ibragimov_453/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T18:48:48+00:00"
+        },
+        {
+          "title": "United U21s [3]-1 Brentford U21s - Victor Musa 76'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wk04ij/united_u21s_31_brentford_u21s_victor_musa_76/\"> <img alt=\"United U21s [3]-1 Brentford U21s - Victor Musa 76'\" src=\"https://external-preview.redd.it/OWtxNXl6bTQwY3FoMdkQVKEsqR3laatyVOMDP0EmnXUl35_wPOiAk9mA7xF6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2df966d83ef14be064c613a49b565dca49fe660\" title=\"United U21s [3]-1 Brentford U21s - Victor Musa 76'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/7xr9jev30cqh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wk04ij/united_u21s_31_brentford_u21s_victor_musa_76/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wk04ij/united_u21s_31_brentford_u21s_victor_musa_76/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T19:37:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why Michael Carrick’s Man United ISN’T Working",
+      "items": [
+        {
+          "title": "Why Michael Carrick’s Man United ISN’T Working",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjy6ua/why_michael_carricks_man_united_isnt_working/\"> <img alt=\"Why Michael Carrick’s Man United ISN’T Working\" src=\"https://external-preview.redd.it/GMKtna-RZGKeNj4OQS9A8sb0IWhzYXxc4k-D9_ilrpY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=42d746a344a2ff54d03fe5e36066c7eebcd3a6f8\" title=\"Why Michael Carrick’s Man United ISN’T Working\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/enigmatic_ninja\"> /u/enigmatic_ninja </a> <br /> <span><a href=\"https://youtu.be/3z3i_Nqku28?is=YXVHsNVeiNEZ_QAL\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjy6ua/why_michael_carricks_man_united_isnt_working/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjy6ua/why_michael_carricks_man_united_isnt_working/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T18:26:19+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Press Conference] Michael Carrick has confirmed Luke Shaw and new signing Carlos Baleba could be available this weekend: “There’s kind of chance with both of them. Don’t know totally 100% yet. It’s short-term [with Shaw], we’re just working toward the game.”",
+      "items": [
+        {
+          "title": "[Press Conference] Michael Carrick has confirmed Luke Shaw and new signing Carlos Baleba could be available this weekend: “There’s kind of chance with both of them. Don’t know totally 100% yet. It’s short-term [with Shaw], we’re just working toward the game.”",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick's Pre-Match Press Conference | Fulham vs Manchester United | PL MD5</p> <p><strong>Steven Railston</strong></p> <p>Michael Carrick has confirmed Luke Shaw and new signing Carlos Baleba could be available this weekend: “There’s kind of chance with both of them. Don’t know totally 100% yet. It’s short-term [with Shaw], we’re just working toward the game.”</p> <p>Michael Carrick's response to a question suggesting fans would like to see more emotion from him: &quot;I need to show more emotion? In what way? What do you want me to show?&quot;</p> <p><strong>Rob Dawson</strong></p> <p>Michael Carrick says there's a chance Luke Shaw and Carlos Baleba could feature against Fulham on Sunday.</p> <p>&quot;A chance on both of them. Not totally 100% on either.&quot;</p> <p><strong>Simon Stone</strong></p> <p>Michael Carrick on the pressure ManUtd: &quot;It’s part of coping and being at this great football club. I wouldn’t want to be anywhere else, it’s the best place for me to be.&quot;</p> <p>Michael Carrick: &quot;We’ve got to put things in perspective, it’s not a catastrophe or a disaster, we’ve lost a couple of games recently.&quot;</p> <p>Michael Carrick: &quot;In terms of future and ownership and how long I’ve got, it’s totally nothing, it’s ridiculous to think that way in the position I’m in, it’s just not on the radar.&quot;</p> <p><strong>Chris Wheeler</strong></p> <p>Carrick on whether he’s still enjoying Man Utd job: ‘Yes 100% I wouldn’t want to be anywhere else, it’s the club for me. I was expecting at some point there would be a spell we have to work our way through.’</p> <p>Carrick on questions over future: ‘I know the club, I know what’s expected. In terms of the future and ownership and how long I’ve got in the job, it’s ridiculous to think that way. It’s not on the radar. It’s two or three games – two or three too many cos I hate losing.’</p> <p>Carrick on fans’ booing him and the players after Brighton defeat: ‘We don’t like losing football matches, but it doesn’t affect about how I think about what we need to do next.’</p> <p>Carrick on Shaw and Baleba possibly being fit for Fulham on Sunday: 'There's a kind of a chance on both of them, really. Not totally 100% yet, but there's half a chance. It's really short term (with Shaw) and it's just working towards the game, so we'll see how he is.'</p> <p>Carrick on JJ Gabriel: 'He's a young boy, JJ. The exposure and the scrutiny and everything, you've got to be careful and be sensible and think of him as much as anything. The situation will work itself out, whatever way it's going to work itself out.'</p> <h1>Detailed Quiotes</h1> <h1>Carrick on what he has learnt about the squad</h1> <blockquote> <p>Always learning as a group, individually. It is not always going to be perfect or to plan. History tells you that you have to work through it. We have had a small period where it hasn't been what we want it to be. I was expecting it at some point. There is going to be a time where you don't get everything out of it. It is about staying focused and doing the right things. It is a week or two of results not going our way. Tiny margins. It can feel a lot bigger than it actually is. Winning games is the answer. Yeah [I'm confident we can get through this].</p> </blockquote> <h1>Carrick on Pressure</h1> <blockquote> <p>That’s my role as well, take care of myself but a lot of other people that I can influence as well, it’s the beauty of being here at this football club. There are great times, things you can achieve and great feelings and there’s disappointments as well. It’s part of coping and being at this great football club.</p> </blockquote> <h1>Carrick on whether it always feels like a great football club</h1> <blockquote> <p>100% it does. I wouldn’t want to be anywhere else, it’s the best place for me to be. Sometimes when it’s not going to plan it’s the best way to work through it and come out stronger. It’s a period of time where small things can become big things for other people. The key for us it to stay focused, stay on track, it can happen, as much as we don't like it. The fact it’s happened in the first cluster of the season, if it happened in November it’s maybe seen a little bit different. But I was expecting a spell we had to work through.</p> </blockquote> <h1>Carrick on feeling around the team</h1> <blockquote> <p>It wasn’t a feeling around the team, it was around everywhere else. It’s the general feeling we just spoke about that can create, that can’t knock us off track or refocus or think about things we don’t control. It’s about trusting what we do and what we’re good at and keep doing those things. It’s fine, fine margins. Everything escalates from there. We live in a world of instant reaction and judgement, which is fine, it is what it is, but it’s not in my world. Being realistic and understanding this would come, learning about each other is reality important.</p> </blockquote> <h1>Carrick on Stretford End chant after last match</h1> <blockquote> <p>We don’t like losing matches, it’s not like I don’t feel the emotion, but it doesn’t affect what we do next. I need to show more emotion? In what way? What do you want me to show?</p> </blockquote> <h1>Carrick on keeping belief</h1> <blockquote> <p>We’ve got to put things in perspective, it’s not a catastrophe or a disaster, it's not the end of the world, we’ve lost a couple of games recently. We feel we’ve started and been in all the games we’ve played, if not being the better team at the start of games, we’re not having a real struggle all the time. We’ve done a lot of good things, the belief comes from that. The good things we’ve done get lose in the surrounding feeling but they don’t get lost by us.</p> </blockquote> <h1>Carrick on Shaw and Baleba</h1> <blockquote> <p>A chance on both of them. Not totally 100% on either. It is really short term [with Shaw] but it is just working towards the game.</p> </blockquote> <h1>Carrick on owners judgement</h1> <blockquote> <p>I think it will be a lot longer than one or two games of results. Taking away all of that, it’s irrelevant for me, I know the club, I know the role, I know what’s expected here in terms of playing at a certain standard. In terms of future and ownership and how long I’ve got, it’s totally nothing or thinking about it, it’s ridiculous to think that way in the position I’m in, it’s just not on the radar. I understand where we need to be and what the owners expect. I get all that. It is just two or three games. It’s two or three games we haven’t had certain results. We’ve got to perform and we’ve got a lot of games to plan for.</p> </blockquote> <h1>Carrick on his responsibility</h1> <blockquote> <p>That’s why I’m here. It’s my responsibility, I’m fine with that. It’s not a blame game. We always search for things to look at and find the blame, sometimes it gets too much of wanting to find the blame. Blame me, it’s no problem, but it’s not about blaming people. It’s about finding solutions. It’s a whole collective thing. It’s about what you focus on really. I’m totally happy taking responsibility - no problem with that. I know where we want to get to and we want to get there fast.</p> </blockquote> <h1>JJ Gabriel</h1> <blockquote> <p>I’ll just repeat what I said. He’s a young boy, it’s important we don’t put anything out here, the exposure and scrutiny we have to be careful. We have to be sensible and think about him. The situation will work itself out.</p> </blockquote> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjoyqy/press_conference_michael_carrick_has_confirmed/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjoyqy/press_conference_michael_carrick_has_confirmed/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjoyqy/press_conference_michael_carrick_has_confirmed/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T12:34:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "United U21s [2]-1 Brentford U21s - Yuel Helafu 63'",
+      "items": [
+        {
+          "title": "United U21s [2]-1 Brentford U21s - Yuel Helafu 63'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjzs5f/united_u21s_21_brentford_u21s_yuel_helafu_63/\"> <img alt=\"United U21s [2]-1 Brentford U21s - Yuel Helafu 63'\" src=\"https://external-preview.redd.it/czhramNreHN4YnFoMaO9EF3OxjfF9D1t19mqzahIMCWZ_CyzBoBZMrZp1iP3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ffb45f5eb32dbbab8b197e331b943c3ed8f5c7a0\" title=\"United U21s [2]-1 Brentford U21s - Yuel Helafu 63'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/qp5t1x5sxbqh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjzs5f/united_u21s_21_brentford_u21s_yuel_helafu_63/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjzs5f/united_u21s_21_brentford_u21s_yuel_helafu_63/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T19:24:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd 3-2 Brentford | U21s | Academy Highlights",
+      "items": [
+        {
+          "title": "Man Utd 3-2 Brentford | U21s | Academy Highlights",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wk3cbb/man_utd_32_brentford_u21s_academy_highlights/\"> <img alt=\"Man Utd 3-2 Brentford | U21s | Academy Highlights\" src=\"https://external-preview.redd.it/X81lkW_HSrT0V6PMKuMeOPSkMhFsW5ZC_lnX0EPWHj8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cdf1468a61b649d217dc2ee4d2af80d713604717\" title=\"Man Utd 3-2 Brentford | U21s | Academy Highlights\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=oIjbvjASpHw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wk3cbb/man_utd_32_brentford_u21s_academy_highlights/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wk3cbb/man_utd_32_brentford_u21s_academy_highlights/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T21:41:09+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Harry Amass, Ayden Heaven, Jack Fletcher, Jim Thwaites & Shea Lacey have all been called up to the England U20s Squad",
+      "items": [
+        {
+          "title": "Harry Amass, Ayden Heaven, Jack Fletcher, Jim Thwaites & Shea Lacey have all been called up to the England U20s Squad",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjppzl/harry_amass_ayden_heaven_jack_fletcher_jim/\"> <img alt=\"Harry Amass, Ayden Heaven, Jack Fletcher, Jim Thwaites &amp; Shea Lacey have all been called up to the England U20s Squad\" src=\"https://preview.redd.it/u7pr2vxg2aqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=07c8d8329057e62c3e66e02c5791d0ba226fc1cb\" title=\"Harry Amass, Ayden Heaven, Jack Fletcher, Jim Thwaites &amp; Shea Lacey have all been called up to the England U20s Squad\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pingbread\"> /u/pingbread </a> <br /> <span><a href=\"https://i.redd.it/u7pr2vxg2aqh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjppzl/harry_amass_ayden_heaven_jack_fletcher_jim/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjppzl/harry_amass_ayden_heaven_jack_fletcher_jim/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T13:07:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kobbie Mainoo & Marcus Rashford called up in England squad",
+      "items": [
+        {
+          "title": "Kobbie Mainoo & Marcus Rashford called up in England squad",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjl13m/kobbie_mainoo_marcus_rashford_called_up_in/\"> <img alt=\"Kobbie Mainoo &amp; Marcus Rashford called up in England squad\" src=\"https://preview.redd.it/fd74ge9zu8qh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=64f7bbb5b424984613882542d7561970af9edc67\" title=\"Kobbie Mainoo &amp; Marcus Rashford called up in England squad\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/fd74ge9zu8qh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjl13m/kobbie_mainoo_marcus_rashford_called_up_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjl13m/kobbie_mainoo_marcus_rashford_called_up_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T09:04:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The United Press",
+      "items": [
+        {
+          "title": "The United Press",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjppfj/the_united_press/\"> <img alt=\"The United Press\" src=\"https://preview.redd.it/elsamisc2aqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31fb3bbf0675c5debd7b361bf61620d467f132ed\" title=\"The United Press\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Charts the last three seasons. </p> <p>Data via EPL - Analytics </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Not_tim_duncan\"> /u/Not_tim_duncan </a> <br /> <span><a href=\"https://i.redd.it/elsamisc2aqh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjppfj/the_united_press/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjppfj/the_united_press/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T13:06:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sam O’Brien and David Eze called up for the England U17s",
+      "items": [
+        {
+          "title": "Sam O’Brien and David Eze called up for the England U17s",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjvjq8/sam_obrien_and_david_eze_called_up_for_the/\"> <img alt=\"Sam O’Brien and David Eze called up for the England U17s\" src=\"https://preview.redd.it/f9kdztow5bqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfb730a814543236f1612d9e8f6f79352ca28a28\" title=\"Sam O’Brien and David Eze called up for the England U17s\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Aadiunited7\"> /u/Aadiunited7 </a> <br /> <span><a href=\"https://i.redd.it/f9kdztow5bqh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjvjq8/sam_obrien_and_david_eze_called_up_for_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjvjq8/sam_obrien_and_david_eze_called_up_for_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T16:49:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Michael Carrick’s position at Man Utd is secure for now, but like everyone, he’s under scrutiny (Gift Article)",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Michael Carrick’s position at Man Utd is secure for now, but like everyone, he’s under scrutiny (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjj0ad/laurie_whitwell_michael_carricks_position_at_man/\"> <img alt=\"[Laurie Whitwell] Michael Carrick’s position at Man Utd is secure for now, but like everyone, he’s under scrutiny (Gift Article)\" src=\"https://external-preview.redd.it/wm6i5f8ScN4wcS6D5rgvdYJU6K_ltvZzlvYZrrNLxko.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9057eef9ae4bdf0f03e4476a3668671ae2e7b7d\" title=\"[Laurie Whitwell] Michael Carrick’s position at Man Utd is secure for now, but like everyone, he’s under scrutiny (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7605546/2026/09/18/man-utd-michael-carrick-future-analysis/?unlocked_article_code=1.CFE.GZpI.ECzfW7FwmUJi&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjj0ad/laurie_whitwell_michael_carricks_position_at_man/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjj0ad/laurie_whitwell_michael_carricks_position_at_man/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T07:02:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "U21 XI vs Brentford: Byrne-Hughes; Helafu, Armer, Mills, Amass; T. Fletcher, Thwaites; Musa, J. Fletcher, Lusale; Ibragimov",
+      "items": [
+        {
+          "title": "U21 XI vs Brentford: Byrne-Hughes; Helafu, Armer, Mills, Amass; T. Fletcher, Thwaites; Musa, J. Fletcher, Lusale; Ibragimov",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Bench</strong>: Heath (GK), Leon, Munro, Orozco, Thompson, Mantato, Kana-Biyik </p> <p>19:00 kick-off on MUTV</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjwig7/u21_xi_vs_brentford_byrnehughes_helafu_armer/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjwig7/u21_xi_vs_brentford_byrnehughes_helafu_armer/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjwig7/u21_xi_vs_brentford_byrnehughes_helafu_armer/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T17:24:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "PL Watch Thread",
+      "items": [
+        {
+          "title": "PL Watch Thread",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Brentford vs Chelsea</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Careful-Snow\"> /u/Careful-Snow </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjzgsi/pl_watch_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjzgsi/pl_watch_thread/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjzgsi/pl_watch_thread/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T19:12:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes and Diogo Dalot have been called up by Portugal for the upcoming International Matches.",
+      "items": [
+        {
+          "title": "Bruno Fernandes and Diogo Dalot have been called up by Portugal for the upcoming International Matches.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjndko/bruno_fernandes_and_diogo_dalot_have_been_called/\"> <img alt=\"Bruno Fernandes and Diogo Dalot have been called up by Portugal for the upcoming International Matches.\" src=\"https://preview.redd.it/czswmt8oi9qh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d89c0b12783e81ab8e1c47a43bc614ae47a97718\" title=\"Bruno Fernandes and Diogo Dalot have been called up by Portugal for the upcoming International Matches.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/revolutionary_leg17\"> /u/revolutionary_leg17 </a> <br /> <span><a href=\"https://i.redd.it/czswmt8oi9qh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjndko/bruno_fernandes_and_diogo_dalot_have_been_called/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjndko/bruno_fernandes_and_diogo_dalot_have_been_called/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T11:16:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bendito Mantato, Albert Mills & Tynan Thompson called up for the England U19s",
+      "items": [
+        {
+          "title": "Bendito Mantato, Albert Mills & Tynan Thompson called up for the England U19s",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjq4am/bendito_mantato_albert_mills_tynan_thompson/\"> <img alt=\"Bendito Mantato, Albert Mills &amp; Tynan Thompson called up for the England U19s\" src=\"https://preview.redd.it/m615yiat4aqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e29a50bc172b968405d4ff722513da13d423f79\" title=\"Bendito Mantato, Albert Mills &amp; Tynan Thompson called up for the England U19s\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/m615yiat4aqh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjq4am/bendito_mantato_albert_mills_tynan_thompson/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjq4am/bendito_mantato_albert_mills_tynan_thompson/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T13:23:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lammens and Tielemans included in the Belgium NT squad for upcoming Nations League games.",
+      "items": [
+        {
+          "title": "Lammens and Tielemans included in the Belgium NT squad for upcoming Nations League games.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wjm6s2/lammens_and_tielemans_included_in_the_belgium_nt/\"> <img alt=\"Lammens and Tielemans included in the Belgium NT squad for upcoming Nations League games.\" src=\"https://preview.redd.it/4dky28a079qh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0d9c79311f5b636ee0a621f31a4d9a86b4494c7\" title=\"Lammens and Tielemans included in the Belgium NT squad for upcoming Nations League games.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MrLead69\"> /u/MrLead69 </a> <br /> <span><a href=\"https://i.redd.it/4dky28a079qh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wjm6s2/lammens_and_tielemans_included_in_the_belgium_nt/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wjm6s2/lammens_and_tielemans_included_in_the_belgium_nt/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-18T10:11:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 50,
+    "story_count": 36
+  }
+}
