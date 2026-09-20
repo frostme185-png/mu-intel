@@ -1,0 +1,805 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T05:50:01.494302+00:00",
+  "match_data": {
+    "collected_at": "2026-09-20T05:49:54.663102+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Man Utd boss Michael Carrick says the goal given against Man City was tough to take.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pbghm1?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 19 Sep 2026 21:30:00 GMT"
+        },
+        {
+          "title": "Manchester United line-up vs Fulham predicted as Michael Carrick responds to setbacks",
+          "summary": "Manchester United travel to Craven Cottage this afternoon looking to head into the international break on a high",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-vs-34642389",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 04:30:00 +0000"
+        },
+        {
+          "title": "How Manchester United should line up vs Fulham in crucial Premier League clash",
+          "summary": "Man United travel to Fulham this afternoon looking to pick up only their second Premier League victory of the season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/how-manchester-united-should-line-34641987",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "How Michael Carrick is addressing Manchester United's leaky defence - 'Need to improve'",
+          "summary": "Man Utd have kept just one clean sheet this season, and Michael Carrick has admitted they must improve defensively.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-michael-carrick-addressing-manchester-34638043",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 03:30:00 +0000"
+        },
+        {
+          "title": "Michael Carrick reacts to Pro Ref apology for Man City goal vs Manchester United",
+          "summary": "Michael Carrick was asked about Pro Ref's apology following VAR's mistake in the Manchester derby last weekend.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-reacts-pro-ref-34638062",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 03:00:00 +0000"
+        },
+        {
+          "title": "Sir Jim Ratcliffe calls out Andy Burnham and says he needs to be 'tough like I was at Manchester United'",
+          "summary": "Sir Jim Ratcliffe said he did not know if 'nice bloke' Andy Burnham was tough enough",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/sir-jim-ratcliffe-calls-out-34643500",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 20:14:20 +0000"
+        },
+        {
+          "title": "Manchester United 23-man squad vs Fulham confirmed with huge triple injury boost",
+          "summary": "Man Utd are travelling by train to London to face Fulham in the Premier League on Sunday afternoon.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-22-man-squad-34642770",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 15:14:19 +0000"
+        },
+        {
+          "title": "Thomas Tuchel 'didn't like' what Manchester United star did as England snub explained",
+          "summary": "England head coach Thomas Tuchel has named Manchester United duo Kobbie Mainoo and Marcus Rashford in his squad for the extended international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/thomas-tuchel-didnt-like-what-34642492",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 14:00:56 +0000"
+        },
+        {
+          "title": "Sesko plan, Baleba impact, Carrick's future - Manchester United questions answered",
+          "summary": "Man Utd face Fulham on Sunday ahead of a three-week break when several questions around the club could be answered.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/sesko-plan-baleba-impact-carricks-34639215",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Manchester United boss Michael Carrick sends indirect JJ Gabriel message after exit request rejected",
+          "summary": "Manchester United winger JJ Gabriel missed the Reds' 3-2 victory over Brentford U21s on Friday night in the Premier League 2",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-boss-michael-carrick-34641645",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Manchester United co-owner Sir Jim Ratcliffe says he has 'no confidence in the UK' and country is 'on the slide'",
+          "summary": "'The risk you've got this winter is that we run out of gas'",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-united-co-owner-sir-34641561",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 09:14:43 +0000"
+        },
+        {
+          "title": "Manchester United co-owner Sir Jim Ratcliffe claims the UK is 'on the slide'",
+          "summary": "The Ineos founder has spoken just months after apologising for comments suggesting that the UK had been 'colonised by immigrants'",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-co-owner-sir-34641513",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 09:06:37 +0000"
+        },
+        {
+          "title": "Michael Carrick issues Carlos Baleba injury update before Manchester United vs Fulham",
+          "summary": "Carlos Baleba is yet to play a single minute for Manchester United since joining from Brighton in a big-money deal during the summer transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-carlos-baleba-injury-34641415",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 08:31:39 +0000"
+        },
+        {
+          "title": "Heat is on Carrick but Wilcox must share blame for Manchester United’s woes",
+          "summary": "<p>Recruitment is under scrutiny after £155m was spent on three midfielders while other positions were neglected</p><p>There was a mix of boos and apathy as Manchester United slumped out of the Carabao Cup on Wednesday in their latest depressing act in domestic cup competitions. A solemn Michael Carrick and his players were the target for the jeers. The director of football, Jason Wilcox, looked unamused on his way out of the directors’ box but he and the hierarchy need to accept responsibility for their actions.</p><p>This is the natural course of football, where supporters know what is good or bad and give a rapid opinion to those whose wages they deem they pay. Carrick and his charges are the face of the club, the ones put up to speak with journalists and sent to promote the wares of sponsors.</p> <a href=\"https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/19/michael-carrick-jason-wilcox-blame-manchester-united-woes",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 07:00:41 GMT"
+        },
+        {
+          "title": "Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit",
+          "summary": "<p>Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and empire</p><p>Manchester United’s Muslim supporters’ Club (MUMSC) has called for the Premier League side’s co-owner to step down after he made “completely unacceptable” comments during a BBC interview.</p><p>Sir Jim Ratcliffe described the UK as being a country “on the slide” from the days when it had “the greatest empire in the world”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 17:44:32 GMT"
+        },
+        {
+          "title": "[Pre Match Thread] Premier League Game 5 | Fulham vs Manchester United",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1><strong><a href=\"https://www.reddit.com/r/reddevils/.rss#Fulham\"></a> Fulham vs Manchester United<a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a></strong></h1> <hr /> <p><strong>Competition:</strong> <a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League | <strong>Date:</strong> 20th September</p> <p><strong>Kick off:</strong> 16:30 BST | <strong>Venue:</strong> Craven Cottage</p> <p><strong>Referee:</strong> Peter Bankes | <strong>TV:</strong> Sky Sports</p> <hr /> <h1><strong>Team News:</strong></h1> <p><strong>Possible starting XI</strong>:</p> <pre><code>-----------Lammens--------- -Dalot-Maguire-Martinez-Shaw- ------Mainoo---Tielemans----- --Mbeumo--Fernandes--Rashford-- ------------Cunha------------- </code></pre> <p><strong>Possible bench:</strong> Darlow, Mazraoui, Yoro, Heaven, Dorgu, Santos, Baleba, Mount, Zirkzee</p> <hr /> <ul> <li><p>Carlos Baleba, Luke Shaw and Matthijs de Ligt HAVE travelled to London. Currently the squad size is too big to accommodate all first team players, so someone is going to be left out. </p></li> <li><p>Benjamin Sesko was not spotted in the travelling squad. </p></li> </ul> <hr /> <p><strong>Injuries/Suspensions:</strong></p> <table><thead> <tr> <th align=\"center\">Player</th> <th align=\"center\">Injury/Ban</th> <th align=\"center\">Position</th> <th align=\"center\">Return Date</th> </tr> </thead><tbody> <tr> <td align=\"center\">Luke Shaw</td> <td align=\"center\">TBC</td> <td align=\"center\">LB</td> <td align=\"center\">20th September</td> </tr> <tr> <td align=\"center\">Carlos Baleba</td> <td align=\"center\">Ankle</td> <td align=\"center\">DM</td> <td align=\"center\">20th September</td> </tr> <tr> <td align=\"center\">Amad Diallo</td> <td align=\"center\">Knock</td> <td align=\"center\">RW</td> <td align=\"center\">10th October</td> </tr> <tr> <td align=\"center\">Tom Heaton</td> <td align=\"center\">Hamstring</td> <td align=\"center\">GK</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Manuel Ugarte</td> <td align=\"center\">ACL</td> <td align=\"center\">DM</td> <td align=\"center\">January</td> </tr> <tr> <td align=\"center\">Matthijs de Ligt</td> <td align=\"center\">Back</td> <td align=\"center\">CB</td> <td align=\"center\">20th September</td> </tr> </tbody></table> <hr /> <h1><strong>Form guide:</strong></h1> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#Fulham\"></a> Fulham: <strong>L W L L D W</strong> | Home form: <strong>L W L</strong></p> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> United: <strong>L W D W L L</strong> | Away form: <strong>L D</strong></p> <hr /> <h1><strong>Last 3 meetings:</strong></h1> <table><thead> <tr> <th align=\"center\">Result</th> <th align=\"center\">Comp</th> <th align=\"center\">Venue</th> <th align=\"center\">Season</th> </tr> </thead><tbody> <tr> <td align=\"center\">3-2 W</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Old Trafford</td> <td align=\"center\">25/26</td> </tr> <tr> <td align=\"center\">1-1 D</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Craven Cottage</td> <td align=\"center\">25/26</td> </tr> <tr> <td align=\"center\">1-1 (3-4 L)</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#FA\"></a> FA Cup 5th Round</td> <td align=\"center\">Old Trafford</td> <td align=\"center\">24/25</td> </tr> </tbody></table> <hr /> <h1><strong>Opposition News</strong></h1> <p>Sessegnon, Tete and Cairney are doubts.</p> <hr /> <p><strong>YOU WILL BE ABLE TO SEE FULL MATCH HIGHLIGHTS AFTER THE GAME ON <a href=\"https://www.reddit.com/r/footballhighlights\">/r/footballhighlights</a>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkpv5t/pre_match_thread_premier_league_game_5_fulham_vs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkpv5t/pre_match_thread_premier_league_game_5_fulham_vs/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkpv5t/pre_match_thread_premier_league_game_5_fulham_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T15:58:23+00:00"
+        },
+        {
+          "title": "Arsenal 0 - [1] Manchester United - Julia Zigiotti 67'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wksx28/arsenal_0_1_manchester_united_julia_zigiotti_67/\"> <img alt=\"Arsenal 0 - [1] Manchester United - Julia Zigiotti 67'\" src=\"https://external-preview.redd.it/ZG53bmV2ZThuaXFoMUC6pX1sXiMdkLV9Lxc9imbuhMSjpApulo-Wftkr9lsU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=be5841541449e63ae38497bd71dad4bb6a89c044\" title=\"Arsenal 0 - [1] Manchester United - Julia Zigiotti 67'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/eb45n7e8niqh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wksx28/arsenal_0_1_manchester_united_julia_zigiotti_67/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wksx28/arsenal_0_1_manchester_united_julia_zigiotti_67/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T17:59:54+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "r/reddevils",
+        "BBC Sport - Manchester United",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 4,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: JJ Gabriel warning issued as Michael Carrick sends indirect message",
+      "items": [
+        {
+          "title": "Man United latest: JJ Gabriel warning issued as Michael Carrick sends indirect message",
+          "summary": "Manchester United have endured a difficult start to the season, with the Red Devils winning just one of their opening five matches as academy youngster JJ Gabriel pushes to leave the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-carrick-34642540",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Michael Carrick sends JJ Gabriel message as Steven Gerrard weighs in",
+          "summary": "With Manchester United dealing with problems on and off the pitch, we're rounding up the latest headlines from Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-jj-gabriel-37680211",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Steven Gerrard fires clear warning to JJ Gabriel over Man United decision",
+      "items": [
+        {
+          "title": "Steven Gerrard fires clear warning to JJ Gabriel over Man United decision",
+          "summary": "Steven Gerrard has fired a clear warning to Manchester United youngster JJ Gabriel",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-manchester-united-gerrard-34643036",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 16:53:02 +0000"
+        },
+        {
+          "title": "'It stinks' - Steven Gerrard fires JJ Gabriel warning as clubs circle for Man Utd youngster",
+          "summary": "JJ Gabriel has informed Manchester United he wants to leave the club, but Steven Gerrard has issued a stark warning to the youngster",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-gerrard-37680949",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 19:10:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd Muslim supporters group demand Jim Ratcliffe exit after statement on UK decline",
+      "items": [
+        {
+          "title": "Man Utd Muslim supporters group demand Jim Ratcliffe exit after statement on UK decline",
+          "summary": "Manchester United minority co-owner Sir Jim Ratcliffe has landed himself in hot water once again with comments on immigration and welfare",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-sir-jim-ratcliffe-37680528",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 14:53:33 +0000"
+        },
+        {
+          "title": "Ratcliffe 'must go' says Man Utd Muslim fan group",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wkrcx7/ratcliffe_must_go_says_man_utd_muslim_fan_group/\"> <img alt=\"Ratcliffe 'must go' says Man Utd Muslim fan group\" src=\"https://external-preview.redd.it/Pl0YlqoDyi6MeP0jFhTFzqjdlS5uv4onhCWgGxGo_hU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ea60b8c4ea430a9237187a58f0ea7a947292a06\" title=\"Ratcliffe 'must go' says Man Utd Muslim fan group\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/da_gee01\"> /u/da_gee01 </a> <br /> <span><a href=\"https://www.bbc.co.uk/sport/football/articles/cm9dw4663j9zo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkrcx7/ratcliffe_must_go_says_man_utd_muslim_fan_group/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkrcx7/ratcliffe_must_go_says_man_utd_muslim_fan_group/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T16:57:56+00:00"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "r/reddevils"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I don't regret leaving Man United - I didn't want to speak to manager and avoided him",
+      "items": [
+        {
+          "title": "I don't regret leaving Man United - I didn't want to speak to manager and avoided him",
+          "summary": "The Manchester United academy graduate sought to avoid his manager",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-fulham-premier-league-34634996",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sesko, Baleba, De Ligt - Man United injury news and return dates for Fulham",
+      "items": [
+        {
+          "title": "Sesko, Baleba, De Ligt - Man United injury news and return dates for Fulham",
+          "summary": "Manchester United face Fulham in the Premier League with a squad of 23 players travelling down to west London from Stockport railway station on Saturday afternoon",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/premier-league-man-utd-fulham-34643739",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "10 players to miss Fulham vs Man United as Michael Carrick waits on availability of two stars",
+      "items": [
+        {
+          "title": "10 players to miss Fulham vs Man United as Michael Carrick waits on availability of two stars",
+          "summary": "Manchester United have a number of injury issues heading into their Premier League clash with Fulham this weekend and Michael Carrick has not ruled out the return of two players",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/fulham-man-united-team-news-34642351",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Wayne Rooney's candid 12-word piece of advice says it all as son Kai chases Man United dream",
+      "items": [
+        {
+          "title": "Wayne Rooney's candid 12-word piece of advice says it all as son Kai chases Man United dream",
+          "summary": "Kai Rooney is following his father's path and knocking on the door of men's football but Wayne has some clear advice for the youngster",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/wayne-rooney-kai-man-united-34641315",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Jim Ratcliffe told to resign from Man United by supporters group after UK 'decline' comments",
+      "items": [
+        {
+          "title": "Sir Jim Ratcliffe told to resign from Man United by supporters group after UK 'decline' comments",
+          "summary": "Manchester United's Muslim Supporters' Club have issued a statement of no confidence in chairman Sir Jim Ratcliffe",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/sir-jim-ratcliffe-manchester-united-34642975",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 15:53:40 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fulham 'respect' claim speaks volumes for Man United as Michael Carrick pressure builds",
+      "items": [
+        {
+          "title": "Fulham 'respect' claim speaks volumes for Man United as Michael Carrick pressure builds",
+          "summary": "Manchester United face a crucial fixture away at Fulham as they look to fix their recent slide under Michael Carrick before the international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-fulham-34641694",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 10:46:29 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Forgotten Man United flop signs for new club as move confirmed",
+      "items": [
+        {
+          "title": "Forgotten Man United flop signs for new club as move confirmed",
+          "summary": "Tyrell Malacia has found a new club after becoming a free agent in the summer following his departure from Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-tyrell-malacia-transfer-34641334",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 07:31:27 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'Michael Carrick sack talk is nonsense – Man Utd's players simply aren't doing enough'",
+      "items": [
+        {
+          "title": "'Michael Carrick sack talk is nonsense – Man Utd's players simply aren't doing enough'",
+          "summary": "Back-to-back defeats have prompted questions about the future of Manchester United manager Michael Carrick but not everyone is convinced",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-man-utd-sack-future-37680075",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "10 players could miss Man Utd vs Fulham as three stars face race against time",
+      "items": [
+        {
+          "title": "10 players could miss Man Utd vs Fulham as three stars face race against time",
+          "summary": "Manchester United are set to be without a number of players for their Premier League clash with Fulham on Sunday, with Michael Carrick hopeful that Luke Shaw and Carlos Baleba can return in time for the game",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fulham-sesko-baleba-37680733",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "I came close to joining Liverpool and Man Utd – it took me six years to finally make the move",
+      "items": [
+        {
+          "title": "I came close to joining Liverpool and Man Utd – it took me six years to finally make the move",
+          "summary": "The Premier League icon could have gone down a very different path after meeting with one of the club's managers",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-transfer-fulham-37669420",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 20 Sep 2026 03:45:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Wayne Rooney set for 'I'm A Celeb stint' after Coleen's success as he becomes 'biggest-ever signing'",
+      "items": [
+        {
+          "title": "Wayne Rooney set for 'I'm A Celeb stint' after Coleen's success as he becomes 'biggest-ever signing'",
+          "summary": "Wayne Rooney is reportedly in 'advanced talks' to enter the I'm A Celebrity jungle later this year, with sources claiming the former Manchester United legend will be the biggest signing in the show's history",
+          "url": "https://www.mirror.co.uk/tv/tv-news/wayne-rooney-im-a-celebrity-37681229",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 20:39:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd travelling squad reveals two boosts for Michael Carrick and one new worry",
+      "items": [
+        {
+          "title": "Man Utd travelling squad reveals two boosts for Michael Carrick and one new worry",
+          "summary": "Manchester United face a must-win against Fulham on Sunday, and Michael Carrick has been dealt some mixed news over his squad",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-injury-news-fulham-37680966",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 19:43:11 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Steven Gerrard gives honest take on Man Utd's JJ Gabriel saga - 'It scares me'",
+      "items": [
+        {
+          "title": "Steven Gerrard gives honest take on Man Utd's JJ Gabriel saga - 'It scares me'",
+          "summary": "JJ Gabriel has requested to leave Manchester United with immediate effect and flown to Barcelona for talks with potential suitors, and Liverpool icon Steven Gerrard has spoken out",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-gerrard-37680988",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 18:34:13 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd chief Jim Ratcliffe brings back vile migration rhetoric after grim 'colonised by immigrants' row",
+      "items": [
+        {
+          "title": "Man Utd chief Jim Ratcliffe brings back vile migration rhetoric after grim 'colonised by immigrants' row",
+          "summary": "Sir Jim Ratcliffe said he 'has no confidence in the UK' and that immigration was 'clearly' a problem - months after he controversially claimed the country had been 'colonised'",
+          "url": "https://www.mirror.co.uk/news/uk-news/man-utd-jim-ratcliffe-immigration-37679987",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 13:28:43 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick sends pointed message after 'amazing' Shea Lacey moment amid JJ Gabriel saga",
+      "items": [
+        {
+          "title": "Michael Carrick sends pointed message after 'amazing' Shea Lacey moment amid JJ Gabriel saga",
+          "summary": "Two Manchester United youngsters have been on divergent paths this week, with Shea Lacey scoring against Brighton shortly after JJ Gabriel requested to leave Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-shea-lacey-jj-gabriel-37680121",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 11:56:20 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick provides Carlos Baleba injury update before Man Utd's trip to Fulham",
+      "items": [
+        {
+          "title": "Michael Carrick provides Carlos Baleba injury update before Man Utd's trip to Fulham",
+          "summary": "Manchester United midfielder Carlos Baleba is yet to make his debut for the Red Devils after suffering an ankle ligament injury during pre-season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carlos-baleba-injury-37679823",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 09:15:35 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Wayne Rooney's son brutally picks who is more famous between his mum and dad",
+      "items": [
+        {
+          "title": "Wayne Rooney's son brutally picks who is more famous between his mum and dad",
+          "summary": "Wayne Rooney is releasing a brand new documentary surrounding his family life, called The Real Rooneys",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-coleen-klay-fame-37675716",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Fabrizio Romano debunks JJ Gabriel, Man Utd claims in lengthy update - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano debunks JJ Gabriel, Man Utd claims in lengthy update - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYUcyRzZtTDhoS25IY21ZdFFZeUZQekRyeXp1M2RNVEtmZUNxc1pOX1l1cmJHWkd1bWp2RlFwQ1YzeDBzdVZpQTY5UFQ3SEhpdGFCVzdjQi1lMzR2MDBJRHFqcjRkbUc2djN0SXNqWWFiakJZZWpCcGhBbWF5Wll0bnRlbmdzeVlSdGdITmpDLVpRMDRHOC1YcFZiMnBPQQ?oc=5\" target=\"_blank\">Fabrizio Romano debunks JJ Gabriel, Man Utd claims in lengthy update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYUcyRzZtTDhoS25IY21ZdFFZeUZQekRyeXp1M2RNVEtmZUNxc1pOX1l1cmJHWkd1bWp2RlFwQ1YzeDBzdVZpQTY5UFQ3SEhpdGFCVzdjQi1lMzR2MDBJRHFqcjRkbUc2djN0SXNqWWFiakJZZWpCcGhBbWF5Wll0bnRlbmdzeVlSdGdITmpDLVpRMDRHOC1YcFZiMnBPQQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 19 Sep 2026 19:32:51 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wklnyv/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wklnyv/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wklnyv/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T13:01:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "There was no sign of Benjamin Sesko with the squad as they arrived for the train to London this afternoon. Looks like he’s a doubt for tomorrow [Steven Railston]",
+      "items": [
+        {
+          "title": "There was no sign of Benjamin Sesko with the squad as they arrived for the train to London this afternoon. Looks like he’s a doubt for tomorrow [Steven Railston]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wko3sc/there_was_no_sign_of_benjamin_sesko_with_the/\"> <img alt=\"There was no sign of Benjamin Sesko with the squad as they arrived for the train to London this afternoon. Looks like he’s a doubt for tomorrow [Steven Railston]\" src=\"https://preview.redd.it/raok51luohqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d737d93e68e06fe212494f07680065312466a08\" title=\"There was no sign of Benjamin Sesko with the squad as they arrived for the train to London this afternoon. Looks like he’s a doubt for tomorrow [Steven Railston]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/raok51luohqh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wko3sc/there_was_no_sign_of_benjamin_sesko_with_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wko3sc/there_was_no_sign_of_benjamin_sesko_with_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T14:45:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Press Conference Part 2] Carrick on defensive issues: “it's certainly not the start that we wanted. We need to improve, no doubt, as a team collectively. It's not just a backline or a goalkeeper, it’s a collective thing. We definitely need to improve that.”",
+      "items": [
+        {
+          "title": "[Press Conference Part 2] Carrick on defensive issues: “it's certainly not the start that we wanted. We need to improve, no doubt, as a team collectively. It's not just a backline or a goalkeeper, it’s a collective thing. We definitely need to improve that.”",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick's Pre-Match Press Conference Part 2 - Fulham vs United</p> <h1>Every Word from Press Conference Part 2</h1> <p><a href=\"https://www.manutd.com/en/news/carrick-says-yoro-has-got-a-big-future-at-man-utd-sept-2026\">https://www.manutd.com/en/news/carrick-says-yoro-has-got-a-big-future-at-man-utd-sept-2026</a></p> <p><strong>Hi Michael, the defence has obviously struggled this season, 10 goals in six games. Can you bring your finger on that and maybe explain why that has happened? It's obviously not the start you would have hoped for.</strong></p> <p>“Yeah, it's certainly not the start, in that respect, we wanted. Yeah, we need to improve, no doubt. As a team, collectively, it's not just a backline or a goalkeeper, it's a collective thing. So yeah, we definitely need to improve that.”</p> <p><strong>I know you said you don't want to pick out individuals there, but [Leny] Yoro and Ayden [Heaven] looked like they struggled a bit on Wednesday. Is that just part of a young player's journey, to go through those peaks and troughs?</strong></p> <p>“I thought they started really well actually in the game. I thought we started really well, so it's not about them. I think they'll learn from different experiences and they've done particularly well as well. They're in a good spot, two younger players that have got really good futures. So unfortunately, you go through times in football and you have some good spells and sometimes you learn a lot from the things that didn't go so well. But I wouldn't isolate them at all, by all means, of anything from the other night.”</p> <p><strong>On your last two results: You lost to City after they went down to 10 men. On [Wednesday], you lost a two-goal lead. Is it fair to look at that and analyse that your team lacks the ability to, within a game, sense what's needed? So again, City down to 10 men, ‘Let's go for it a bit’. [Brighton], you know, we've got a two-goal lead, ‘Let's just keep our foot on the ball’. Is that a fair enough analysis? Is that something you could look at?</strong></p> <p>“I think it's quite instant really in terms of the last week or so, which certain things have thrown up in games and it doesn't all of a sudden mean there's a big huge problem and that's obviously the balance for me to judge. It's very easy to just because it's happened recently to all of a sudden think that's a thing that's been coming for a long time and that's part of us understanding as a team moving forward actually what we do need to, what can happen in football in certain games and what we need to put right for moving forward.”</p> <p><strong>Just related to that, do you feel your team at the moment plays with enough of the United way of freedom, excitement, front-foot joy?</strong></p> <p>“We've scored a fair few goals recently.”</p> <p><strong>Well, you have, but you've also, as I say, let slip a two-goal lead. It looks like you froze in that game and that isn't really the United way. You know, you were obviously part of amazing teams and just went for it.</strong></p> <p>“Yeah, I was lucky enough to be part of good teams, yeah. But that's it's very different though, that. We've played some really good football, exciting football, scored a lot of goals. That's very different to all of a sudden, then conceding goals, it's a different thing, you know, you almost have to have two sides to you. I'm not downplaying, we need to stop conceding as many goals, that's really obvious to say, but we have scored a lot as well, so there's a balance to that.”</p> <p><strong>Just going back to the point about Leny, this is his third season at the club now. Has this got to be the season where – I understand that he's obviously still at a young age – but there has to be a cut-off point where he steps up and starts performing?</strong></p> <p>“No, he's 20, Leny, you know? And again, in context, he's got a fantastic future ahead of him and a lot of potential, and he's learning, he's developing. To be at this club in place as a centre-back at such a young age, it's a challenging position. It's one that he can do for sure, it's one that Ayden can do for sure, but there's no cut-off point. Some players progress and find when they're 18, they're at that level where they can really perform. Some players, like Leny, showed he can perform. I've got no worries for Leny. I think he does a lot of really good things and it’s part of learning. Sometimes it might be 20, sometimes you see players 22, 23, 24 where they start developing. So there's definitely no cut-off point. He's just got to keep progressing and moving in the right direction, wanting to learn, keep improving, getting more opportunities. He's doing a lot of good things, and I think we've got to be careful again, and I certainly won't [be] making knee-jerk decisions on certain players just because of one game or one half or one moment in a game, and we've got a lot of belief in Leny for sure.”</p> <p><strong>Is it helpful for him that he's got Jonny [Evans] and Jonathan [Woodgate] to learn from, given that Jonny had Rio [Ferdinand], Nemanja [Vidic], Wes Brown, Gary Neville? Jonathan had Lucas Radebe. It felt like they could be eased into a team that had some very proven defenders, but it doesn't feel like this defence has. There's a lot of experience there, but maybe not the same stability.</strong></p> <p>“Yeah, there's a lot of experience. Listen, Leny's fortunate, he's got some really good coaches that have lived it and understand his position. Leny's got a big future ahead of him and learning, and sometimes learning live, in the moment. Sometimes it's tough, other times he's done particularly well. So, he'll keep developing. He'll keep developing, he'll keep learning. He's in a good place. He's got a big future.”</p> <p><strong>You mentioned earlier the goal that shouldn't have been [against Manchester City]. I don't I’ve had chance to speak to you since ProRef came out and said that they got it wrong. We mentioned last week after the game whether an apology would help and you were quite dismissive about that at the time. Now that has been forthcoming, they've got it wrong. Is there any consolation to you whatsoever? And as you move forward into your next game and the rest of the season, do you have faith in the system, that it does work?</strong></p> <p>“Yeah, listen, one-off things can happen at the time. It was a pretty big one, we know that. I don't think I need to go over that, but yeah, I've got faith in it, of course. It's the system that we work towards and that's been used. So, the apology doesn't mean an awful lot. I can appreciate and I respect it for them putting their hands up and saying we got that wrong. I think it happens, it does happen, but moving forward, yeah, we just have to deal with it, what's thrown in front of us. And maybe we get one or two decisions on the back of how it balances out percentages or law of averages or whatever that may be, but that was a pretty big one to take and had a huge impact on that game and that's why it was particularly tough.”</p> <p><strong>It is a big one and we've been talking over the past few days about how quickly things can catch fire here. That late goal at Everton takes it in a whole different direction. That call in City, suddenly you're on the back foot, things like that can have a massive impact on your season.</strong></p> <p>“It can have, in the moment in time, it can have a big impact. We can't let it have an impact on the rest of the season. That's for us to get back to winning ways as soon as possible.”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkyj0h/press_conference_part_2_carrick_on_defensive/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkyj0h/press_conference_part_2_carrick_on_defensive/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkyj0h/press_conference_part_2_carrick_on_defensive/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T21:43:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Long read: The waiting game for Carlos Baleba",
+      "items": [
+        {
+          "title": "Long read: The waiting game for Carlos Baleba",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/seviliyorsun\"> /u/seviliyorsun </a> <br /> <span><a href=\"https://www.manutd.com/en/news/long-read-the-waiting-game-for-carlos-baleba\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wl3fc8/long_read_the_waiting_game_for_carlos_baleba/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wl3fc8/long_read_the_waiting_game_for_carlos_baleba/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-20T01:24:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Andy Mitten] The mood among Man United fans is on the floor. The INEOS honeymoon period is well and truly over",
+      "items": [
+        {
+          "title": "[Andy Mitten] The mood among Man United fans is on the floor. The INEOS honeymoon period is well and truly over",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wke9h2/andy_mitten_the_mood_among_man_united_fans_is_on/\"> <img alt=\"[Andy Mitten] The mood among Man United fans is on the floor. The INEOS honeymoon period is well and truly over\" src=\"https://external-preview.redd.it/9Qh9xwihkONHBptGUPx2ouiu6TcqsU3I5fcs7ypgp0w.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=23b243f6b00965365d50b1bc5860d00fbc02a59c\" title=\"[Andy Mitten] The mood among Man United fans is on the floor. The INEOS honeymoon period is well and truly over\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The mood among Manchester United is on the floor right now.</p> <p>It is not just poor results. Trust levels are low between match-going fans and the club, the Glazers continue to be vilified and now the INEOS honeymoon period is well and truly over.</p> <p>Then there is the question of Michael Carrick's ability to turn things around.</p> <p>Andy Mitten explains why the pre-season promise has evaporated so quickly and analyses just how bad the situation is.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7607096/2026/09/19/manchester-united-fans-unhappy-ineos/?unlocked_article_code=1.CVE.nUK6.66J37Y-9X9Uz&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wke9h2/andy_mitten_the_mood_among_man_united_fans_is_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wke9h2/andy_mitten_the_mood_among_man_united_fans_is_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T06:14:03+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd 6-0 Wolves | U18s | Academy Highlights",
+      "items": [
+        {
+          "title": "Man Utd 6-0 Wolves | U18s | Academy Highlights",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wkp5yk/man_utd_60_wolves_u18s_academy_highlights/\"> <img alt=\"Man Utd 6-0 Wolves | U18s | Academy Highlights\" src=\"https://external-preview.redd.it/PFqkJY1u9ueyxrpny-SGwVhtdqTZoPX5h5TP_d3bqtU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6e5a12e7d62947ad50adc0a6cc0d53109a96aa7d\" title=\"Man Utd 6-0 Wolves | U18s | Academy Highlights\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=GQcM2E4upJY\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkp5yk/man_utd_60_wolves_u18s_academy_highlights/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkp5yk/man_utd_60_wolves_u18s_academy_highlights/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T15:29:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd Women Starting XI vs Arsenal - WSL Match 3 | Tullis-Joyce; Sandberg, Le Tissier(C), Lundkvist, Medina, Park, Terland, Awujo, Zigiotti, Janssen, Hinata.",
+      "items": [
+        {
+          "title": "Man Utd Women Starting XI vs Arsenal - WSL Match 3 | Tullis-Joyce; Sandberg, Le Tissier(C), Lundkvist, Medina, Park, Terland, Awujo, Zigiotti, Janssen, Hinata.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wkpb89/man_utd_women_starting_xi_vs_arsenal_wsl_match_3/\"> <img alt=\"Man Utd Women Starting XI vs Arsenal - WSL Match 3 | Tullis-Joyce; Sandberg, Le Tissier(C), Lundkvist, Medina, Park, Terland, Awujo, Zigiotti, Janssen, Hinata.\" src=\"https://preview.redd.it/zzz0nz6axhqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce8b0e23ad4373f279106cd7daa68ef08e842b76\" title=\"Man Utd Women Starting XI vs Arsenal - WSL Match 3 | Tullis-Joyce; Sandberg, Le Tissier(C), Lundkvist, Medina, Park, Terland, Awujo, Zigiotti, Janssen, Hinata.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/zzz0nz6axhqh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkpb89/man_utd_women_starting_xi_vs_arsenal_wsl_match_3/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkpb89/man_utd_women_starting_xi_vs_arsenal_wsl_match_3/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T15:35:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Carrick: Baleba is 'bouncing around the place'",
+      "items": [
+        {
+          "title": "Carrick: Baleba is 'bouncing around the place'",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick has revealed more details on our latest signing's recovery from injury.</p> <p>During an exclusive interview with MUTV's Mark Sullivan at Carrington, our head coach emphasised how much energy the former Brighton &amp; Hove Albion midfielder has brought to the group.</p> <p>Baleba is clearly champing at the bit as he looks to show what he can do in a United shirt.</p> <p><strong>&quot;Yeah, he's desperate to get started,&quot;</strong> admitted Carrick. <strong>&quot;He's bouncing around the place!</strong> It's not always easy, I think, when you come into a new club and you're not right fully in with the group, with the training.</p> <p>&quot;But <strong>he's dealt with that ever so well, I have to say. He's got great personality and he's full of enthusiasm around [the place] and pushing to get back as quickly as possible. So it's great to have him back.&quot;</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/baleba-is-bouncing-around-the-place\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkhf29/carrick_baleba_is_bouncing_around_the_place/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkhf29/carrick_baleba_is_bouncing_around_the_place/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T09:15:45+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "United U18s [2]-0 Wolves - Jariyah Shah (Great Goal)",
+      "items": [
+        {
+          "title": "United U18s [2]-0 Wolves - Jariyah Shah (Great Goal)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wkk7is/united_u18s_20_wolves_jariyah_shah_great_goal/\"> <img alt=\"United U18s [2]-0 Wolves - Jariyah Shah (Great Goal)\" src=\"https://external-preview.redd.it/M2ZodDhpMzJ0Z3FoMa1v-ON3v5ypkZZoTegNLsMwZJuSEfK_cjz0Gad87XGq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5e76e3b120afc73a4b4a5ea1c0672c973931822\" title=\"United U18s [2]-0 Wolves - Jariyah Shah (Great Goal)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/gmth1i32tgqh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkk7is/united_u18s_20_wolves_jariyah_shah_great_goal/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkk7is/united_u18s_20_wolves_jariyah_shah_great_goal/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T11:52:44+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "EPL WatchThread Matchday 5 Saturday",
+      "items": [
+        {
+          "title": "EPL WatchThread Matchday 5 Saturday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Spurs - Villa</p> <p>2-3</p> <p>Brighton- Arsenal</p> <p>3-0</p> <p>Everton - Ipswich</p> <p>1-0</p> <p>Newcastle - Hull</p> <p>2-1</p> <p>Foreest - Coventry</p> <p>mods, pls sort by new</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MrLead69\"> /u/MrLead69 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkk3jk/epl_watchthread_matchday_5_saturday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkk3jk/epl_watchthread_matchday_5_saturday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkk3jk/epl_watchthread_matchday_5_saturday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T11:46:57+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick Pre-Fulham | Press Conference: Part Two",
+      "items": [
+        {
+          "title": "Michael Carrick Pre-Fulham | Press Conference: Part Two",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wkykrt/michael_carrick_prefulham_press_conference_part/\"> <img alt=\"Michael Carrick Pre-Fulham | Press Conference: Part Two\" src=\"https://external-preview.redd.it/SshYuUFPbVfC2-zMKRikVIuwD79RClKr3FNQ2qGLm_w.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cc3f4b28467d48ee17637d829965a0e83791a607\" title=\"Michael Carrick Pre-Fulham | Press Conference: Part Two\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=Sb4UY9MLSig\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wkykrt/michael_carrick_prefulham_press_conference_part/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wkykrt/michael_carrick_prefulham_press_conference_part/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-19T21:45:54+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 52,
+    "story_count": 33
+  }
+}
