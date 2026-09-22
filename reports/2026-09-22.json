@@ -1,0 +1,962 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T05:55:10.549705+00:00",
+  "match_data": {
+    "collected_at": "2026-09-22T05:55:04.754004+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pbs3gs?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 21 Sep 2026 15:38:00 GMT"
+        },
+        {
+          "title": "Manchester United",
+          "summary": "Joe and Gaz reflect on United's draw at Fulham and their League Cup exit in midweek.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pbqmwr?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 21 Sep 2026 12:03:00 GMT"
+        },
+        {
+          "title": "Michael Carrick has four games to prove Manchester United haven't made a mistake",
+          "summary": "Man Utd have endured a desperately disappointing start to the season and the challenge gets a lot harder now.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-four-games-prove-34649900",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Manchester United devise Benjamin Sesko plan after latest injury blow",
+          "summary": "Man Utd striker Benjamin Sesko has pulled out of international duty with Slovenia after suffering a setback with his shin injury.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-devise-benjamin-sesko-34651077",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 16:04:38 +0000"
+        },
+        {
+          "title": "Michael Carrick's response to Manchester United fans won't sit well - here's why",
+          "summary": "Man United rounded off their first five Premier League fixtures of the season with a late 1-1 draw against Fulham at Craven Cottage",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carricks-response-manchester-united-34647219",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 15:59:00 +0000"
+        },
+        {
+          "title": "Matheus Cunha explains what Manchester United must improve after 'crazy moments'",
+          "summary": "Man Utd forward Matheus Cunha reacted after the 1-1 draw against Fulham in the Premier League on Sunday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/matheus-cunha-explains-what-manchester-34646185",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "Matheus Cunha responds to Manchester United critics - 'We finished third'",
+          "summary": "Man Utd have made a poor start to the season, but Matheus Cunha believes the Reds can turn it around.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/matheus-cunha-responds-manchester-united-34646171",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "[The Athletic] Manchester United’s Benjamin Sesko to ‘undergo tests’ after withdrawing from Slovenia squad",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmi56k/the_athletic_manchester_uniteds_benjamin_sesko_to/\"> <img alt=\"[The Athletic] Manchester United’s Benjamin Sesko to ‘undergo tests’ after withdrawing from Slovenia squad\" src=\"https://external-preview.redd.it/X8BZ4sS2ZLR10v2gslkrTA_6dRetZpsF5ic8bzec0tc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=11609ff14ae71c727b2f467810a96d09f39d9900\" title=\"[The Athletic] Manchester United’s Benjamin Sesko to ‘undergo tests’ after withdrawing from Slovenia squad\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hot_Patience_5962\"> /u/Hot_Patience_5962 </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7617551/2026/09/21/benjamin-sesko-injury-man-utd-slovenia/?unlocked_article_code%3D1.C1E.ZkUo.sbTbwRnAs39Q%26source%3Dtwitteruk\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmi56k/the_athletic_manchester_uniteds_benjamin_sesko_to/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmi56k/the_athletic_manchester_uniteds_benjamin_sesko_to/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T16:44:36+00:00"
+        },
+        {
+          "title": "[Opta Analyst] Manchester United have the most players involved in attacking sequences that lead to a shot and the most touches in the opposition box in the Premier League (182)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmbou2/opta_analyst_manchester_united_have_the_most/\"> <img alt=\"[Opta Analyst] Manchester United have the most players involved in attacking sequences that lead to a shot and the most touches in the opposition box in the Premier League (182)\" src=\"https://preview.redd.it/3thvyz2ocvqh1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=e29915ea795614ef0c768a1045b0d004dce3c227\" title=\"[Opta Analyst] Manchester United have the most players involved in attacking sequences that lead to a shot and the most touches in the opposition box in the Premier League (182)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>They’ve also allowed the fewest touches inside their own box (92)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1wmbou2\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmbou2/opta_analyst_manchester_united_have_the_most/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmbou2/opta_analyst_manchester_united_have_the_most/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T12:41:43+00:00"
+        },
+        {
+          "title": "The confirmed dates and kick-off times for Manchester United's three Premier League games in November have been announced.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wme1mm/the_confirmed_dates_and_kickoff_times_for/\"> <img alt=\"The confirmed dates and kick-off times for Manchester United's three Premier League games in November have been announced.\" src=\"https://preview.redd.it/yrbd7b05tvqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=06d1bfdc9c54c65766c999355e0e70f9430e3008\" title=\"The confirmed dates and kick-off times for Manchester United's three Premier League games in November have been announced.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.manutd.com/en/news/november-2026-clashes-with-villa-and-liverpool-moved\">https://www.manutd.com/en/news/november-2026-clashes-with-villa-and-liverpool-moved</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/yrbd7b05tvqh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wme1mm/the_confirmed_dates_and_kickoff_times_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wme1mm/the_confirmed_dates_and_kickoff_times_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T14:15:52+00:00"
+        },
+        {
+          "title": "[Michael Cox] Is Manchester United’s lack of running an issue?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wm5k11/michael_cox_is_manchester_uniteds_lack_of_running/\"> <img alt=\"[Michael Cox] Is Manchester United’s lack of running an issue?\" src=\"https://external-preview.redd.it/TIX4I1JL_xtHaMoxNzRJhEPdj9swCyR71KY4bEOw2LA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=607e97282b3b9c0b9ecb1c19ec747aa96a2cc8ce\" title=\"[Michael Cox] Is Manchester United’s lack of running an issue?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Manchester United run less and sprint less than the majority of the clubs in the Premier League.</p> <p>But it's very difficult to find an overall link between these metrics and the probability of winning matches. There’s no evidence that winning teams cover more distance, or sprint more, than their opponents. These metrics are more a measure of style than quality.</p> <p>So, is United's lack of running under Michael Carrick an issue? Or is this just how he wants his team to play?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7615090/2026/09/21/manchester-united-running-sprints-intensity-carrick/?unlocked_article_code=1.C1E.cHb0.VwjnXdPGFkI_&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wm5k11/michael_cox_is_manchester_uniteds_lack_of_running/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wm5k11/michael_cox_is_manchester_uniteds_lack_of_running/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T07:08:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 3,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United told how Max Dowman and Wayne Rooney claim explains JJ Gabriel's transfer request",
+      "items": [
+        {
+          "title": "Man United told how Max Dowman and Wayne Rooney claim explains JJ Gabriel's transfer request",
+          "summary": "Manchester United starlet, JJ Gabriel, has been in talks with Real Madrid over a potential La Liga transfer, and a fresh claim could explain the forward's behaviour",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/dowman-rooney-gabriel-transfer-united-34651899",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 21:14:26 +0000"
+        },
+        {
+          "title": "JJ Gabriel's Man Utd transfer request explained by Wayne Rooney and Max Dowman comparison",
+          "summary": "Manchester United's JJ Gabriel has been in talks with Real Madrid over a potential move to the Bernabeu, despite a promising future at Old Trafford ahead of him",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-manchester-united-transfer-37687274",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 21:39:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United line up JJ Gabriel replacement as transfer request handed in",
+      "items": [
+        {
+          "title": "Man United line up JJ Gabriel replacement as transfer request handed in",
+          "summary": "Manchester United have been scouting around for a potential JJ Gabriel replacement after the 15-year-old sensation made it clear he wanted to quit Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-jj-gabriel-transfer-34651523",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 19:09:27 +0000"
+        },
+        {
+          "title": "Man Utd line up 'next JJ Gabriel' as replacement after transfer request made",
+          "summary": "Manchester United have lined up a potential replacement for JJ Gabriel should the 15-year-old leave Old Trafford after expressing his desire to quit the club",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-jj-gabriel-replacement-37686990",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 20:14:52 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Liverpool vs Man United and Arsenal vs Man City given new dates as Premier League TV picks confirmed",
+      "items": [
+        {
+          "title": "Liverpool vs Man United and Arsenal vs Man City given new dates as Premier League TV picks confirmed",
+          "summary": "The Premier League has confirmed their TV selections for November with Manchester United and Manchester City affected by changes",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-vs-man-united-arsenal-34650279",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 14:53:01 +0000"
+        },
+        {
+          "title": "Premier League TV fixtures announced including Man Utd vs Liverpool and Arsenal vs Man City",
+          "summary": "November's TV schedule includes the season's first Merseyside derby, Manchester United's visit to Liverpool and a potential Premier League title clash between Arsenal and Manchester City",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-fixtures-tv-november-37685990",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 15:12:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: JJ Gabriel new agent update and club makes Michael Carrick judgement",
+      "items": [
+        {
+          "title": "Man United latest: JJ Gabriel new agent update and club makes Michael Carrick judgement",
+          "summary": "Manchester United enter the international break in a difficult position as Michael Carrick's job comes into question",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-transfer-news-gabriel-34651245",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The truth behind Man United’s awful running statistics and what’s to blame for their sluggish start",
+      "items": [
+        {
+          "title": "The truth behind Man United’s awful running statistics and what’s to blame for their sluggish start",
+          "summary": "Manchester United have a problem with running that a lot of people are talking about. But the damning data being used to beat manager Michael Carrick and his side’s sluggish start to the season is only part of the full story.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/truth-behind-man-uniteds-awful-34647880",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 18:51:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'Glum-faced' Man Utd forward labelled Michael Carrick's weak link by former teammate",
+      "items": [
+        {
+          "title": "'Glum-faced' Man Utd forward labelled Michael Carrick's weak link by former teammate",
+          "summary": "Marcus Rashford has failed to register a single goal or assist since his return to Manchester United - and he has now been labelled as the 'weak-link' in the attack",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-rashford-34651137",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 18:36:44 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Forgotten ex-Man United star set for Russia move after turning down £13m contract offer",
+      "items": [
+        {
+          "title": "Forgotten ex-Man United star set for Russia move after turning down £13m contract offer",
+          "summary": "Manchester United's former number nine is reportedly in contract with multiple Russian clubs before deciding his new career move during this international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/united-man-utd-anthony-martial-34651482",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 18:19:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ruben Amorim makes AC Milan promise after honest verdict on Man United mistake",
+      "items": [
+        {
+          "title": "Ruben Amorim makes AC Milan promise after honest verdict on Man United mistake",
+          "summary": "Former Manchester United manager Ruben Amorim has made a promise to AC Milan after admitting to making mistakes during his time at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ruben-amorim-milan-man-united-34650478",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 16:18:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United 'face competition' for Antonio Conte as Michael Carrick replacement",
+      "items": [
+        {
+          "title": "Man United 'face competition' for Antonio Conte as Michael Carrick replacement",
+          "summary": "Manchester United are being linked with Antonio Conte as a potential replacement for Michael Carrick after their underwhelming start to the Premier League season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-man-utd-michael-carrick-34651039",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 16:07:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "POLL: Are you convinced Michael Carrick is the right man for Man United after late rescue act vs Fulham?",
+      "items": [
+        {
+          "title": "POLL: Are you convinced Michael Carrick is the right man for Man United after late rescue act vs Fulham?",
+          "summary": "Manchester United left it late on Sunday to rescue a point against Fulham in the Premier League but the performance left a lot to be desired",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-you-convinced-michael-carrick-34649549",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 15:31:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "JJ Gabriel sent clear Real Madrid transfer message as super agent enters Man United saga",
+      "items": [
+        {
+          "title": "JJ Gabriel sent clear Real Madrid transfer message as super agent enters Man United saga",
+          "summary": "Manchester United teenager JJ Gabriel has been in talks with Spanish giants Real Madrid and Barcelona over a potential move to La Liga",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-jj-gabriel-34649934",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 15:16:33 +0000"
+        },
+        {
+          "title": "JJ Gabriel in talks with Real Madrid and Bayern Munich with super agent involved in Man United saga",
+          "summary": "Man Utd are in the dark over JJ Gabriel's future but don't expect the 15-year-old to return to the club after he asked to leave last week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/jj-gabriel-talks-real-madrid-34648172",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United and Slovenia on potential Benjamin Sekso collision course amid fresh injury concern",
+      "items": [
+        {
+          "title": "Man United and Slovenia on potential Benjamin Sekso collision course amid fresh injury concern",
+          "summary": "Benjamin Sesko is experiencing pain in his shin again and he is being tested by Man Utd this morning ahead of a decision on whether he misses the international break.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-slovenia-potential-benjamin-34647577",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 09:46:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel's 'reasons' for Man United exit emerge with dad's plan clear",
+      "items": [
+        {
+          "title": "JJ Gabriel's 'reasons' for Man United exit emerge with dad's plan clear",
+          "summary": "After JJ Gabriel requested to depart Manchester United as soon as possible, his reasoning for wanting to leave the club has emerged",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-transfer-34646828",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 09:16:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rashford, Sesko, De Ligt - Latest Man United injury news as new worry emerges",
+      "items": [
+        {
+          "title": "Rashford, Sesko, De Ligt - Latest Man United injury news as new worry emerges",
+          "summary": "Manchester United have several injury concerns to deal with heading into the international break after drawing 1-1 at Fulham on Sunday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-injury-news-rashford-34646986",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 09:13:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "England set to confirm decision on two Man United stars after new injury worry",
+      "items": [
+        {
+          "title": "England set to confirm decision on two Man United stars after new injury worry",
+          "summary": "The Manchester United duo Marcus Rashford and Kobbie Mainoo are now doubts to join the England squad after fresh injury concerns",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mainoo-rashford-man-united-england-34646606",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 06:52:14 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Andy Burnham hits back at Man Utd owner Sir Jim Ratcliffe's 'Britain is on the slide' comment",
+      "items": [
+        {
+          "title": "Andy Burnham hits back at Man Utd owner Sir Jim Ratcliffe's 'Britain is on the slide' comment",
+          "summary": "Manchester United owner Sir Jim Ratcliffe said at the weekend that the UK was in decline as he complained the UK's attitude to wealth was driving the mega-rich to leave the country",
+          "url": "https://www.mirror.co.uk/news/politics/andy-burnham-hits-back-man-37687453",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 05:04:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: Michael Carrick replacement 'verdict reached' and fresh JJ Gabriel transfer update",
+      "items": [
+        {
+          "title": "Man Utd news: Michael Carrick replacement 'verdict reached' and fresh JJ Gabriel transfer update",
+          "summary": "Manchester United boss Michael Carrick is under growing pressure to turn form around at Old Trafford as speculation swirls regarding JJ Gabriel's future",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-carrick-jj-gabriel-37685462",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ex-Man Utd star in talks over Russia move after rejecting crazy offer from Libya",
+      "items": [
+        {
+          "title": "Ex-Man Utd star in talks over Russia move after rejecting crazy offer from Libya",
+          "summary": "Manchester United paid £36 million for a player who is now fielding wild contract offers from Libya and Russia as a free agent after being offered around Europe",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/united-man-utd-anthony-martial-37687002",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 20:06:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Gary Lineker tears into Man Utd co-owner Sir Jim Ratcliffe - 'Unpleasant human being'",
+      "items": [
+        {
+          "title": "Gary Lineker tears into Man Utd co-owner Sir Jim Ratcliffe - 'Unpleasant human being'",
+          "summary": "Sir Jim Ratcliffe was back in the headlines last week after criticising the UK Government's approach to immigration - before Manchester United slipped to another poor result",
+          "url": "https://www.mirror.co.uk/sport/football/news/lineker-jim-ratcliffe-manchester-united-37686790",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 18:44:29 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Owen singles out Man Utd star as 'weak link' after summer transfer blow",
+      "items": [
+        {
+          "title": "Michael Owen singles out Man Utd star as 'weak link' after summer transfer blow",
+          "summary": "Manchester United's struggles continued on Sunday and Marcus Rashford has been singled out for particular criticism as the team's attack fails to fire",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-owen-man-utd-rashford-37686803",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 18:42:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "4 Man Utd displays that could top Gary Neville's 'worst 15 minutes ever' remark",
+      "items": [
+        {
+          "title": "4 Man Utd displays that could top Gary Neville's 'worst 15 minutes ever' remark",
+          "summary": "Manchester United escaped Fulham with a point as Gary Neville let rip at his former team, causing debate over which of their performances saw them hit rock bottom",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-manchester-united-fulham-37686513",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 17:14:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Jose Mourinho's wildest moments as Real Madrid boss goes full Jose in latest outburst",
+      "items": [
+        {
+          "title": "Jose Mourinho's wildest moments as Real Madrid boss goes full Jose in latest outburst",
+          "summary": "Real Madrid boss Jose Mourinho has added to the list of memorable moments from his managerial career",
+          "url": "https://www.mirror.co.uk/sport/football/news/jose-mourinho-outburst-real-madrid-37685843",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 14:52:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd striker Benjamin Sesko set to undergo MRI for possible injury issue",
+      "items": [
+        {
+          "title": "Man Utd striker Benjamin Sesko set to undergo MRI for possible injury issue",
+          "summary": "Benjamin Sesko missed Manchester United’s Premier League draw with Fulham on Sunday and there appears to be fear that his injury could see him miss a chunk of the season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-benjamin-sesko-injury-37685574",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 14:11:34 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Ruben Amorim makes drastic Man Utd U-turn after claiming he wouldn't change for the POPE",
+      "items": [
+        {
+          "title": "Ruben Amorim makes drastic Man Utd U-turn after claiming he wouldn't change for the POPE",
+          "summary": "Former Manchester United boss Ruben Amorim was wedded to his coaching philosophy at Old Trafford but he appears to have changed his mind with new employers AC Milan",
+          "url": "https://www.mirror.co.uk/sport/football/news/ruben-amorim-man-utd-milan-37685276",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 13:01:07 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Enzo Maresca's Man City hailed as damning verdict issued on Roberto De Zerbi's hopeless Spurs",
+      "items": [
+        {
+          "title": "Enzo Maresca's Man City hailed as damning verdict issued on Roberto De Zerbi's hopeless Spurs",
+          "summary": "BIG DEBATE: Mirror Football writers give their verdicts on the most and least impressive Premier League sides following a turbulent start to the 2026/27 season",
+          "url": "https://www.mirror.co.uk/sport/football/premier-league-man-city-spurs-37684021",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 12:26:03 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd's running stats vs Prem rivals revealed as they trail Arsenal by 7km PER MATCH",
+      "items": [
+        {
+          "title": "Man Utd's running stats vs Prem rivals revealed as they trail Arsenal by 7km PER MATCH",
+          "summary": "Manchester United's lack of running in their draw with Fulham was widely condemned - and it wasn't just a one-off for Michael Carrick's side this season",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-arsenal-premier-league-37684317",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 12:25:09 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "The damning Man Utd stat that proves Gary Neville RIGHT after Fulham draw",
+      "items": [
+        {
+          "title": "The damning Man Utd stat that proves Gary Neville RIGHT after Fulham draw",
+          "summary": "Manchester United’s woeful start to the season continued against Fulham on Craven Cottage with Gary Neville and Matheus Cunha having made some worrying comments about the Red Devils",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fulham-neville-carrick-37683740",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 08:33:11 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Reason behind JJ Gabriel's decision to leave Man Utd revealed in damning indictment",
+      "items": [
+        {
+          "title": "Reason behind JJ Gabriel's decision to leave Man Utd revealed in damning indictment",
+          "summary": "European heavyweights are competing for the attention of 15-year-old Manchester United wonderkid JJ Gabriel, who has shocked the club by telling them he wants to leave",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-reason-37683580",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 07:52:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick gives Marcus Rashford injury update after Man Utd star hobbles off at Fulham",
+      "items": [
+        {
+          "title": "Michael Carrick gives Marcus Rashford injury update after Man Utd star hobbles off at Fulham",
+          "summary": "Marcus Rashford was substituted in the second half of Manchester United's 1-1 draw against Fulham in the Premier League on Sunday and appeared to be holding his groin as he left the pitch",
+          "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-injury-man-utd-37683450",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 06:19:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League: 10 talking points from the weekend’s action",
+      "items": [
+        {
+          "title": "Premier League: 10 talking points from the weekend’s action",
+          "summary": "<p>Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with Leeds</p><ul><li><p><a href=\"https://www.theguardian.com/football/premierleague/table\">Premier League table</a> | <a href=\"https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot\">Top scorers</a></p></li></ul><p>In the week that 16-year-old Max Dowman has been <a href=\"https://www.theguardian.com/football/2026/sep/18/max-dowman-arsenal-young-players\">thrust into the spotlight</a>, it was another teenager who gave us a glimpse of the future in Brighton’s impressive win over Arsenal. Charalampos Kostoulas – nicknamed ‘Babis’ in his homeland, in homage to former Argentina striker Gabriel Batistuta – has already started twice as many Premier League games as he did in his first season in English football, when he was a backup for Danny Welbeck. The 19-year-old repaid Fabian Hürzeler’s faith in him against the reigning champions. Despite his tender years, Kostoulas already possesses the physical attributes to mix it with the best. He caused Gabriel Magalhães and company problems all afternoon, capping it off with a brilliant goal from 25 yards, his third in eight days. “We always knew that he’s capable of scoring goals out of nowhere,” said Hürzeler. “He just has this intrinsic motivation of really improving every day. He gets more and more professional, he understands the demands from the Premier League more, he understands our demands.” <strong>Ed Aarons</strong></p><p><em>Match report: <a href=\"https://www.theguardian.com/football/2026/sep/19/brighton-arsenal-premier-league-match-report\">Brighton 3-0 Arsenal</a></em></p><p><em>Match report: <a href=\"https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report\">Bournemouth 0-1 Liverpool</a></em></p><p><em>Match report: <a href=\"https://www.theguardian.com/football/2026/sep/20/fulham-manchester-united-premier-league-match-report\">Fulham 1-1 Manchester United</a></em></p><p><em>Match report: <a href=\"https://www.theguardian.com/football/2026/sep/20/leeds-crystal-palace-premier-league-match-report\">Leeds 0-0 Crystal Palace</a></em></p> <a href=\"https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Mon, 21 Sep 2026 07:00:37 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Harry Kane makes transfer priority clear amid interest from Man United",
+      "items": [
+        {
+          "title": "Harry Kane makes transfer priority clear amid interest from Man United",
+          "summary": "<p>Manchester United’s long-running interest in Harry Kane appears increasingly unlikely to lead to a deal, with the England captain prioritising his future at Bayern Munich. United have monitored Kane for years and remain attentive to his situation, particularly as Michael Carrick looks for more proven quality in attack. Want more CaughtOffside coverage? Add us as [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/22/harry-kane-makes-transfer-priority-man-united/\">Harry Kane makes transfer priority clear amid interest from Man United</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/22/harry-kane-makes-transfer-priority-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 22 Sep 2026 05:25:57 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Real Madrid looking to raid Man United for ‘generational talent’ after transfer development",
+      "items": [
+        {
+          "title": "Real Madrid looking to raid Man United for ‘generational talent’ after transfer development",
+          "summary": "<p>Manchester United are facing a growing battle over the future of JJ Gabriel, with Real Madrid now studying whether they can legally and practically move for the highly rated 15-year-old. Gabriel has informed United that he wants to leave Old Trafford, turning what was already a sensitive academy situation into a major transfer story. Want [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/22/real-madrid-looking-raid-man-united-generational-talent/\">Real Madrid looking to raid Man United for &#8216;generational talent&#8217; after transfer development</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/22/real-madrid-looking-raid-man-united-generational-talent/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 22 Sep 2026 05:18:19 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd consider defensive addition as rivals work to secure 27-year-old’s future",
+      "items": [
+        {
+          "title": "Man Utd consider defensive addition as rivals work to secure 27-year-old’s future",
+          "summary": "<p>Crystal Palace are reportedly stepping up their efforts to retain Tyrick Mitchell, while Manchester United keep a close eye on the defender ahead of a potential move. According to Football Insider, the Eagles are doing everything possible to secure Mitchell’s future as interest from the Old Trafford outfit grows. The situation could become one to [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/21/man-utd-consider-defensive-addition-as-rivals-work-to-secure-27-year-olds-future/\">Man Utd consider defensive addition as rivals work to secure 27-year-old&#8217;s future</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/21/man-utd-consider-defensive-addition-as-rivals-work-to-secure-27-year-olds-future/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 21 Sep 2026 20:45:49 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Tottenham and Aston Villa consider €30m move for Bayern Munich ace",
+      "items": [
+        {
+          "title": "Tottenham and Aston Villa consider €30m move for Bayern Munich ace",
+          "summary": "<p>Tottenham Hotspur and Aston Villa are reportedly considering a move for Bayern Munich defender Kim Min-jae. The South Korean international has attracted attention from several European clubs, with Juventus and AC Milan also reportedly monitoring his situation in Germany, according to Fussball News. Min-jae has also attracted the attention of Manchester United. Kim Min-jae emerges [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/21/tottenham-and-aston-villa-consider-e30m-move-for-bayern-munich-ace/\">Tottenham and Aston Villa consider €30m move for Bayern Munich ace</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/21/tottenham-and-aston-villa-consider-e30m-move-for-bayern-munich-ace/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 21 Sep 2026 18:40:27 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wm9m13/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wm9m13/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wm9m13/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T11:02:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[StatmanDave] 11 of Matheus Cunha’s last 12 Premier League goals have either put his side ahead or equalised the score.",
+      "items": [
+        {
+          "title": "[StatmanDave] 11 of Matheus Cunha’s last 12 Premier League goals have either put his side ahead or equalised the score.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmfbt3/statmandave_11_of_matheus_cunhas_last_12_premier/\"> <img alt=\"[StatmanDave] 11 of Matheus Cunha’s last 12 Premier League goals have either put his side ahead or equalised the score.\" src=\"https://preview.redd.it/mlybu19y1wqh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=02afd55ae22c02275a1b94b6464730b307a7d607\" title=\"[StatmanDave] 11 of Matheus Cunha’s last 12 Premier League goals have either put his side ahead or equalised the score.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/mlybu19y1wqh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmfbt3/statmandave_11_of_matheus_cunhas_last_12_premier/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmfbt3/statmandave_11_of_matheus_cunhas_last_12_premier/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T15:03:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Opta: Man Utd have had the most touches in opposition's box and fewest in their own box",
+      "items": [
+        {
+          "title": "Opta: Man Utd have had the most touches in opposition's box and fewest in their own box",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wn0p5g/opta_man_utd_have_had_the_most_touches_in/\"> <img alt=\"Opta: Man Utd have had the most touches in opposition's box and fewest in their own box\" src=\"https://preview.redd.it/5qmwj0zxc0rh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=955135e08c26facd8b64daa39aa900ae2e19df11\" title=\"Opta: Man Utd have had the most touches in opposition's box and fewest in their own box\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JoeDiego\"> /u/JoeDiego </a> <br /> <span><a href=\"https://i.redd.it/5qmwj0zxc0rh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wn0p5g/opta_man_utd_have_had_the_most_touches_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wn0p5g/opta_man_utd_have_had_the_most_touches_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-22T05:32:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Benjamin Sesko pulls out of Slovenia squad with recurrence of shin injury. Man Utd teammates Marcus Rashford, Kobbie Mainoo and Karl Darlow have already withdrawn from international duty [Chris Wheeler]",
+      "items": [
+        {
+          "title": "Benjamin Sesko pulls out of Slovenia squad with recurrence of shin injury. Man Utd teammates Marcus Rashford, Kobbie Mainoo and Karl Darlow have already withdrawn from international duty [Chris Wheeler]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmemzb/benjamin_sesko_pulls_out_of_slovenia_squad_with/\"> <img alt=\"Benjamin Sesko pulls out of Slovenia squad with recurrence of shin injury. Man Utd teammates Marcus Rashford, Kobbie Mainoo and Karl Darlow have already withdrawn from international duty [Chris Wheeler]\" src=\"https://preview.redd.it/j3f7eqscxvqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=625214efbeade50550b22ab4bbe296bdb810b76e\" title=\"Benjamin Sesko pulls out of Slovenia squad with recurrence of shin injury. Man Utd teammates Marcus Rashford, Kobbie Mainoo and Karl Darlow have already withdrawn from international duty [Chris Wheeler]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/j3f7eqscxvqh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmemzb/benjamin_sesko_pulls_out_of_slovenia_squad_with/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmemzb/benjamin_sesko_pulls_out_of_slovenia_squad_with/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T14:38:05+00:00"
+        },
+        {
+          "title": "BBC: Karl Darlow pulls out of Wales squad",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmb3t2/bbc_karl_darlow_pulls_out_of_wales_squad/\"> <img alt=\"BBC: Karl Darlow pulls out of Wales squad\" src=\"https://external-preview.redd.it/nV3NjxnBtF18PsQh5gKq9b6Yah_S4Stwok4ciTZT4wA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e63a7837673acf083aac0b472486a3d19795c4e\" title=\"BBC: Karl Darlow pulls out of Wales squad\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cw8r68mv415lo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmb3t2/bbc_karl_darlow_pulls_out_of_wales_squad/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmb3t2/bbc_karl_darlow_pulls_out_of_wales_squad/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T12:16:00+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[England] Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice have all been ruled of our forthcoming UEFA Nations League fixtures. James Garner and Morgan Gibbs-White have subsequently been called up and will join up with the rest of the squad on Tuesday.",
+      "items": [
+        {
+          "title": "[England] Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice have all been ruled of our forthcoming UEFA Nations League fixtures. James Garner and Morgan Gibbs-White have subsequently been called up and will join up with the rest of the squad on Tuesday.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmbifp/england_tino_livramento_kobbie_mainoo_cole_palmer/\"> <img alt=\"[England] Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice have all been ruled of our forthcoming UEFA Nations League fixtures. James Garner and Morgan Gibbs-White have subsequently been called up and will join up with the rest of the squad on Tuesday.\" src=\"https://preview.redd.it/ph9d2pz2bvqh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c1dddb4e1f441d364818a403cfa6c2421d316c2\" title=\"[England] Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice have all been ruled of our forthcoming UEFA Nations League fixtures. James Garner and Morgan Gibbs-White have subsequently been called up and will join up with the rest of the squad on Tuesday.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/ph9d2pz2bvqh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmbifp/england_tino_livramento_kobbie_mainoo_cole_palmer/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmbifp/england_tino_livramento_kobbie_mainoo_cole_palmer/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T12:33:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[David Ornstein]🚨Marcus Rashford will be assessed for hip issue handled by Man Utd since World Cup but expected to pull out [of England squad]. Kobbie Mainoo also among likely absentees through injury",
+      "items": [
+        {
+          "title": "[David Ornstein]🚨Marcus Rashford will be assessed for hip issue handled by Man Utd since World Cup but expected to pull out [of England squad]. Kobbie Mainoo also among likely absentees through injury",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wm4y6g/david_ornsteinmarcus_rashford_will_be_assessed/\"> <img alt=\"[David Ornstein]🚨Marcus Rashford will be assessed for hip issue handled by Man Utd since World Cup but expected to pull out [of England squad]. Kobbie Mainoo also among likely absentees through injury\" src=\"https://preview.redd.it/2kwrc4jpitqh1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c4a362a5d58b322f39273202844463a22da004c3\" title=\"[David Ornstein]🚨Marcus Rashford will be assessed for hip issue handled by Man Utd since World Cup but expected to pull out [of England squad]. Kobbie Mainoo also among likely absentees through injury\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/molewart\"> /u/molewart </a> <br /> <span><a href=\"https://i.redd.it/2kwrc4jpitqh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wm4y6g/david_ornsteinmarcus_rashford_will_be_assessed/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wm4y6g/david_ornsteinmarcus_rashford_will_be_assessed/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T06:33:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Talk of the Devils - Can Man United's players do more?",
+      "items": [
+        {
+          "title": "Talk of the Devils - Can Man United's players do more?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmfrt8/talk_of_the_devils_can_man_uniteds_players_do_more/\"> <img alt=\"Talk of the Devils - Can Man United's players do more?\" src=\"https://external-preview.redd.it/ULvFChw7X3FVJebUsGbzu6yOJmzR1CkWjOKMHbKeMxU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=069201b60cf581dbffeeed5625f3bcb56bcc956b\" title=\"Talk of the Devils - Can Man United's players do more?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rhonh\"> /u/rhonh </a> <br /> <span><a href=\"https://open.spotify.com/episode/0OWVnGyIVcMtB12NpHEKVd?si=ThR576qVRdmXrrbadDd7BQ&amp;utm_source=copy-link\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmfrt8/talk_of_the_devils_can_man_uniteds_players_do_more/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmfrt8/talk_of_the_devils_can_man_uniteds_players_do_more/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T15:19:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Chances against Fulham",
+      "items": [
+        {
+          "title": "Chances against Fulham",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wmeaz5/chances_against_fulham/\"> <img alt=\"Chances against Fulham\" src=\"https://external-preview.redd.it/azg3YTRxYzF2dnFoMTwQcg8RWK2MOfl531pc1tD4zvvT2aBcf-AL6BozBL8G.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=859d3bf4b769de0ec17e643457aee26facee77f8\" title=\"Chances against Fulham\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/maszhanan\"> /u/maszhanan </a> <br /> <span><a href=\"https://v.redd.it/5y3x59c1vvqh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wmeaz5/chances_against_fulham/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wmeaz5/chances_against_fulham/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-21T14:25:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 58,
+    "story_count": 43
+  }
+}
