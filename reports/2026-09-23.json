@@ -1,0 +1,822 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T05:36:00.832281+00:00",
+  "match_data": {
+    "collected_at": "2026-09-23T05:35:53.878697+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pbxhff?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 22 Sep 2026 15:38:00 GMT"
+        },
+        {
+          "title": "No confidence in Ratcliffe and a lost message - Manchester United Muslim Supporters' Club set record straight",
+          "summary": "Distrust in Sir Jim Ratcliffe's co-ownership of Manchester United bubbled over at the weekend following a statement from the Manchester United Muslim Supporters' Club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/no-confidence-ratcliffe-lost-message-34654594",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Manchester United co-owner Sir Jim Ratcliffe's firm Ineos halts production at three UK plants",
+          "summary": "The firm's billionaire founder and chairman has blamed 'ridiculously high' UK gas prices for the move",
+          "url": "https://www.manchestereveningnews.co.uk/news/uk-news/manchester-united-co-owner-sir-34655671",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 15:09:28 +0000"
+        },
+        {
+          "title": "Three things Michael Carrick must do to fix Manchester United",
+          "summary": "Man Utd have had a disappointing start to the season and Michael Carrick is beginning to come under pressure, so what can he do to turn things around?",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/three-things-michael-carrick-must-34653618",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Why Shea Lacey should be Manchester United answer to Benjamin Sesko setback",
+          "summary": "Benjamin Sesko is back on the treatment table after suffering a recurrence of a shin injury, and it leaves Michael Carrick with a tactical dilemma at Man Utd.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/shea-lacey-should-manchester-united-34652298",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 11:00:00 +0000"
+        },
+        {
+          "title": "The 15 Manchester United players set for extra work after poor start to the season",
+          "summary": "Man United sit 12th in the Premier League heading into a whopping three-week international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/15-manchester-united-players-set-34653425",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 10:50:24 +0000"
+        },
+        {
+          "title": "Benjamin Sesko releases statement amid Manchester United injury concern",
+          "summary": "Manchester United confirmed on Monday that Benjamin Sesko had withdrawn from the Slovenia squad for the upcoming international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/benjamin-sesko-releases-statement-amid-34653237",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 09:49:12 +0000"
+        },
+        {
+          "title": "Three free agents Manchester United could sign to solve major transfer problem",
+          "summary": "Man United's summer transfer window ended with a whimper but there are still options to provide a short-term fix for Michael Carrick",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/three-free-agents-manchester-united-34652492",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 09:16:35 +0000"
+        },
+        {
+          "title": "Matheus Cunha saved Manchester United at Fulham - but his position emphasises problem",
+          "summary": "Matheus Cunha produced the goal that saved Manchester United from three straight defeats, but the problems for the Reds' forward are glaringly obvious",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/matheus-cunha-saved-manchester-united-34649643",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 08:51:47 +0000"
+        },
+        {
+          "title": "Manchester United send scouts to watch highly rated attacking prodigy",
+          "summary": "<p>Manchester United are keeping a close eye on teenage sensation Gabriel Rajkovic as the Norwegian youngster continues to attract attention from some of Europe&#8217;s biggest clubs. The 15-year-old has enjoyed a remarkable breakthrough at Vålerenga and is already being viewed as one of the most exciting young prospects to emerge from Norwegian football in recent [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/22/manchester-united-send-scouts-to-watch-highly-rated-attacking-prodigy/\">Manchester United send scouts to watch highly rated attacking prodigy</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/22/manchester-united-send-scouts-to-watch-highly-rated-attacking-prodigy/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 22 Sep 2026 17:00:22 +0000"
+        },
+        {
+          "title": "[The Times] Premier League tells clubs: Manchester derby VAR error was ‘significant’ | Letter sent to clubs before shareholders’ meeting this week suggests there may be further repercussions after blunder that allowed Erling Haaland’s winner to stand",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.thetimes.com/sport/football/article/premier-league-tells-clubs-manchester-derby-var-error-was-significant-vlhdwfwf5\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wn4hkz/the_times_premier_league_tells_clubs_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wn4hkz/the_times_premier_league_tells_clubs_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-22T09:16:44+00:00"
+        },
+        {
+          "title": "[Andy Mitten] At Manchester United, belief is battered and magic is missing. It goes beyond a poor run of form",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wn81ew/andy_mitten_at_manchester_united_belief_is/\"> <img alt=\"[Andy Mitten] At Manchester United, belief is battered and magic is missing. It goes beyond a poor run of form\" src=\"https://external-preview.redd.it/kctwg2qSV2Q_qWT5kbto_e9wmvUYOox0Br9EcDiFgmI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a7fecc8bd26bcbd280c3169d825edcff2216527\" title=\"[Andy Mitten] At Manchester United, belief is battered and magic is missing. It goes beyond a poor run of form\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>After the promise of Michael Carrick's interim period in charge of Manchester United last season, optimism was high.</p> <p>But one win in five league games has left belief among the fanbase battered. The magic of those early months is missing.</p> <p>Big players must rise to the fore and justify their status, while the manager needs to win back confidence from doubtful fans.</p> <p>Beneath it all, though, there are far deeper reasons why it feels like Groundhog Day at Old Trafford.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7619491/2026/09/22/manchester-united-premier-league-carrick/?unlocked_article_code=1.DFE.ZyGu.9TXPm74Dc2pV&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wn81ew/andy_mitten_at_manchester_united_belief_is/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wn81ew/andy_mitten_at_manchester_united_belief_is/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-22T12:24:27+00:00"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "r/reddevils",
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 4,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United handed JJ Gabriel transfer deadline as European giants circle for move",
+      "items": [
+        {
+          "title": "Man United handed JJ Gabriel transfer deadline as European giants circle for move",
+          "summary": "Manchester United youngster JJ Gabriel has made it clear he wants to leave the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-manchester-united-timeline-34657334",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick 'killing' Man United star with current tactic as four teammates dubbed 'average'",
+      "items": [
+        {
+          "title": "Michael Carrick 'killing' Man United star with current tactic as four teammates dubbed 'average'",
+          "summary": "Michael Carrick has endured a difficult start to his first full season in charge of Manchester United with just five points to the Reds' name so far",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-cunha-34657181",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd latest: Statement released after update and JJ Gabriel 'agreement reached'",
+      "items": [
+        {
+          "title": "Man Utd latest: Statement released after update and JJ Gabriel 'agreement reached'",
+          "summary": "Manchester United head into the first international break of the season with plenty to sort out, with poor form, injury problems, and the JJ Gabriel saga to contend with",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-agreement-34655509",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United player and manager ratings for season so far with a 3/10, five 4/10s but one star man",
+      "items": [
+        {
+          "title": "Man United player and manager ratings for season so far with a 3/10, five 4/10s but one star man",
+          "summary": "Man Utd are taking stock in the first international break of the season after a disappointing start to the campaign.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-player-manager-ratings-34654696",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United urged to revive transfer interest in striker who'd 'make them title contenders'",
+      "items": [
+        {
+          "title": "Man United urged to revive transfer interest in striker who'd 'make them title contenders'",
+          "summary": "The striker has been linked with a Manchester United move in the past and continued to score goals year after year",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-news-striker-34652576",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Lewis Hall makes Man United transfer claim after Newcastle decision",
+      "items": [
+        {
+          "title": "Lewis Hall makes Man United transfer claim after Newcastle decision",
+          "summary": "Newcastle United defender Lewis Hall has opened up on Man United's interest in him in the summer transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/lewis-hall-man-united-transfer-34656899",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 18:51:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes concern raised as Man United handed 'alarming' verdict",
+      "items": [
+        {
+          "title": "Bruno Fernandes concern raised as Man United handed 'alarming' verdict",
+          "summary": "Bruno Fernandes is widely regarded as Manchester United's best signing since Sir Alex Ferguson retired but there are concerns this season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-bruno-fernandes-carrick-34656461",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 17:27:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney reveals inside view on JJ Gabriel Man United exit - 'everyone knew'",
+      "items": [
+        {
+          "title": "Wayne Rooney reveals inside view on JJ Gabriel Man United exit - 'everyone knew'",
+          "summary": "The highly-rated teeneager has asked to leave the club and has held talks with Barcelona",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/wayne-rooney-jj-gabriel-transfer-34656323",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 15:56:40 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I know JJ Gabriel's parents personally – this is exactly what they want for Man United wonderkid",
+      "items": [
+        {
+          "title": "I know JJ Gabriel's parents personally – this is exactly what they want for Man United wonderkid",
+          "summary": "JJ Gabriel is at the centre of a tug of war after requesting to be freed by Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-parents-34654203",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 11:43:14 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Xavi reaches out to 'important' Man United ace who is going through 'tough time'",
+      "items": [
+        {
+          "title": "Xavi reaches out to 'important' Man United ace who is going through 'tough time'",
+          "summary": "Man United and Xavi are in contact regarding a player who has been struggling since before Michael Carrick took over from Ruben Amorim.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-man-utd-manchester-xavi-34653925",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 11:19:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel reaches 'first major agreement' on next club after Man United quit bombshell",
+      "items": [
+        {
+          "title": "JJ Gabriel reaches 'first major agreement' on next club after Man United quit bombshell",
+          "summary": "JJ Gabriel expressed a desire to leave Manchester United last week and is already being linked with several clubs",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-transfer-34653197",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 10:58:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sesko, Rashford, Mainoo - Man United injury latest and return dates after squad withdrawals",
+      "items": [
+        {
+          "title": "Sesko, Rashford, Mainoo - Man United injury latest and return dates after squad withdrawals",
+          "summary": "The latest Manchester United injury news and return dates after a number of Michael Carrick's players withdrew from their national side squads",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-injury-news-sesko-34652712",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 09:57:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney's three-word response when asked if all of his kids could become footballers",
+      "items": [
+        {
+          "title": "Wayne Rooney's three-word response when asked if all of his kids could become footballers",
+          "summary": "Manchester United and England legend Wayne Rooney has four sons who could all follow in his iconic footsteps",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/wayne-rooney-family-kids-career-34651136",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 08:41:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Who really owns your club? Every Premier League team's ownership structure explained",
+      "items": [
+        {
+          "title": "Who really owns your club? Every Premier League team's ownership structure explained",
+          "summary": "The landscape of Premier League ownership is far from simple and some fans may not even know who is pulling the strings at their club",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-clubs-ownership-billionaires-37688433",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Who is JJ Gabriel's agent? Meet man behind wantaway Man Utd wonderkid's transfer talks",
+      "items": [
+        {
+          "title": "Who is JJ Gabriel's agent? Meet man behind wantaway Man Utd wonderkid's transfer talks",
+          "summary": "JJ Gabriel is set to team up with a super agent to clinch his desired exit from Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-agent-37688608",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "No Liverpool players and one Man Utd star - AI picks Premier League Team of Season so far",
+      "items": [
+        {
+          "title": "No Liverpool players and one Man Utd star - AI picks Premier League Team of Season so far",
+          "summary": "AI has picked the Premier League team of the season so far, and you might be surprised by some of the names that have named in the starting line-up",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-liverpool-man-utd-37690263",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel agreement 'reached' as statement released after major blow",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel agreement 'reached' as statement released after major blow",
+          "summary": "Manchester United head into the first international break of the season with plenty to sort out after making a slow start to their Premier League campaign",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-agreement-37689407",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 03:30:00 +0000"
+        },
+        {
+          "title": "JJ Gabriel 'reaches first major agreement' as Man Utd star tells four clubs his preference",
+          "summary": "Manchester United starlet JJ Gabriel expressed a desire to leave Old Trafford last week and has since been linked with some of the biggest clubs in the world",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfer-jj-gabriel-37689052",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 12:18:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney makes Man Utd transfer claim on JJ Gabriel's next club decision",
+      "items": [
+        {
+          "title": "Wayne Rooney makes Man Utd transfer claim on JJ Gabriel's next club decision",
+          "summary": "There is a lot of talk over where JJ Gabriel's future could lie after he asked to leave Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/rooney-jj-gabriel-man-united-37690803",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 17:04:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Alejandro Garnacho given fresh escape route after nightmare Aston Villa start",
+      "items": [
+        {
+          "title": "Alejandro Garnacho given fresh escape route after nightmare Aston Villa start",
+          "summary": "Former Manchester United star Alejandro Garnacho only joined Aston Villa from Chelsea in the summer but the forward could potentially be on the move once again, with clubs already eyeing him",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/alejandro-garnacho-villa-transfer-chelsea-37690807",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 16:40:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lewis Hall says it was a 'no-brainer' to snub Man Utd despite transfer interest",
+      "items": [
+        {
+          "title": "Lewis Hall says it was a 'no-brainer' to snub Man Utd despite transfer interest",
+          "summary": "Lewis Hall has chosen to extend his contract with Newcastle despite being heavily linked with Manchester United in the summer, explaining the reasons for his decision",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-lewis-hall-newcastle-37689149",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 12:40:22 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Roy Keane refuses to apologise as Andy Robertson tells Man Utd icon he went too far",
+      "items": [
+        {
+          "title": "Roy Keane refuses to apologise as Andy Robertson tells Man Utd icon he went too far",
+          "summary": "Roy Keane and Andy Robertson have reflected on the incident that saw the ex-Liverpool defender elbowed by an assistant referee and branded as a &quot;big baby&quot;",
+          "url": "https://www.mirror.co.uk/sport/football/news/keane-robertson-manutd-premier-league-37688552",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 11:14:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Benjamin Sesko makes statement after Man United injury as striker apologises to fans",
+      "items": [
+        {
+          "title": "Benjamin Sesko makes statement after Man United injury as striker apologises to fans",
+          "summary": "Benjamin Sesko has issued an apology after the Manchester United striker withdrew from the Slovenia squad due to injury",
+          "url": "https://www.mirror.co.uk/sport/football/news/benjamin-sesko-man-utd-injury-37688820",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 11:08:29 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "DARREN LEWIS: 'Ratcliffe rant in elite league of wild hypocrisy'",
+      "items": [
+        {
+          "title": "DARREN LEWIS: 'Ratcliffe rant in elite league of wild hypocrisy'",
+          "summary": "Hypocrisy doesn’t come more blatant than Man United's majority shareholder Sir Jim Ratcliffe. He grew up in a council house, now lives as a tax exile abroad. Yet he has the nerve to target immigrants...",
+          "url": "https://www.mirror.co.uk/news/politics/jim-ratcliffe-immigrants-tax-rant-37688767",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 10:47:32 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "7 outrageous Sir Jim Ratcliffe statements after Gary Lineker's attack on Man Utd owner",
+      "items": [
+        {
+          "title": "7 outrageous Sir Jim Ratcliffe statements after Gary Lineker's attack on Man Utd owner",
+          "summary": "Manchester United owner Sir Jim Ratcliffe is no stranger to making headlines, and his unapologetic and outspoken personality has often sparked controversy",
+          "url": "https://www.mirror.co.uk/sport/football/news/jim-ratcliffe-statements-gary-lineker-37687652",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 09:45:50 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney 'to demand retraction' from England team-mate's book over drinking claim",
+      "items": [
+        {
+          "title": "Wayne Rooney 'to demand retraction' from England team-mate's book over drinking claim",
+          "summary": "Wayne Rooney has been less than impressed with a story which was shared in a new book from one of his former England team-mates",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-andy-carroll-book-37687483",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 09:09:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick's private Man Utd feelings explained by former team-mate",
+      "items": [
+        {
+          "title": "Michael Carrick's private Man Utd feelings explained by former team-mate",
+          "summary": "Michael Carrick is coming under pressure at Manchester United as their slow start to the season continues with Paul Scholes blaming their recruitment decisions",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carricks-private-man-utd-37687651",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 08:05:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Five Premier League questions that need answers as Man Utd flop and Arsenal defeated",
+      "items": [
+        {
+          "title": "Five Premier League questions that need answers as Man Utd flop and Arsenal defeated",
+          "summary": "At the first international break Manchester City sit top of the Premier League after a shock loss for Arsenal whilst Manchester United and Tottenham have been massive disappointments",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-arsenal-manchester-united-37687123",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Keeping billionaires and the taxman happy | Letters",
+      "items": [
+        {
+          "title": "Keeping billionaires and the taxman happy | Letters",
+          "summary": "<p><strong>Stephen Gillian</strong> says the super-rich could help guarantee a decent wage for low-paid people in return for some tax benefits. Plus letters from <strong>Les Bright</strong> and <strong>Steve Brown</strong></p><p>I have a simple solution to help keep the super-rich happy with their tax bills while keeping their enormous wealth safely stored offshore and allowing them possibly to spend more time in the UK (<a href=\"https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos\">Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit, 19 September</a>). They could insist that any company they earn their wealth from commits to paying all UK staff a decent living wage.</p><p>For this small compromise from the billionaires (who will still play the money markets and profit from others’ hard labour), the government could offer to reduce employers’ taxation costs by increasing the point at which low-paid people pay tax. Perhaps it could reduce national insurance payments for low-paid people, both employee and employer, thereby stopping the farce of the government paying income support to those on low incomes and then increasing taxation to fund it.</p> <a href=\"https://www.theguardian.com/news/2026/sep/22/keeping-billionaires-and-the-taxman-happy\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/news/2026/sep/22/keeping-billionaires-and-the-taxman-happy",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 16:58:08 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "David Ornstein’s The Athletic FC Q&A: Brentford blueprint? Spurs’ January plans? Pressure on Man Utd hierarchy? - The New York Times",
+      "items": [
+        {
+          "title": "David Ornstein’s The Athletic FC Q&A: Brentford blueprint? Spurs’ January plans? Pressure on Man Utd hierarchy? - The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTZDdlJVNml3Ym9sdUVtaDR4ZHhuNmFKVlFjcXpsWUxBMWUwekxod3FWSE5WcXdrTWpqZEVBaF9mZ3p0VlNRdUxMb0xVT2ZyRTZTLWM5aS10NVA5dGg3Z002TzBRX09XY2EtcHRxYU9DRnlrcjZfeXJfYmRRSk8tRG00cE8tcGtYcEc3RUY4STNZa1RDX3hhTmQ5UEZzeEE?oc=5\" target=\"_blank\">David Ornstein’s The Athletic FC Q&amp;A: Brentford blueprint? Spurs’ January plans? Pressure on Man Utd hierarchy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTZDdlJVNml3Ym9sdUVtaDR4ZHhuNmFKVlFjcXpsWUxBMWUwekxod3FWSE5WcXdrTWpqZEVBaF9mZ3p0VlNRdUxMb0xVT2ZyRTZTLWM5aS10NVA5dGg3Z002TzBRX09XY2EtcHRxYU9DRnlrcjZfeXJfYmRRSk8tRG00cE8tcGtYcEc3RUY4STNZa1RDX3hhTmQ5UEZzeEE?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Tue, 22 Sep 2026 15:48:41 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United, Liverpool & Chelsea monitor 27-year-old wide man ahead of January window",
+      "items": [
+        {
+          "title": "Man United, Liverpool & Chelsea monitor 27-year-old wide man ahead of January window",
+          "summary": "<p>Manchester United are reportedly keeping a close eye on Crystal Palace left-back Tyrick Mitchell ahead of a potential move during the January transfer window. The 27-year-old has entered the final year of his contract at Selhurst Park, putting several Premier League clubs on alert. Liverpool and Chelsea are also understood to be monitoring the England [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/22/man-united-liverpool-chelsea-monitor-27-year-old-wide-man-ahead-of-january-window/\">Man United, Liverpool &#038; Chelsea monitor 27-year-old wide man ahead of January window</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/22/man-united-liverpool-chelsea-monitor-27-year-old-wide-man-ahead-of-january-window/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 22 Sep 2026 18:00:34 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Liverpool, Arsenal and Man United urged to consider move for £50m forward",
+      "items": [
+        {
+          "title": "Liverpool, Arsenal and Man United urged to consider move for £50m forward",
+          "summary": "<p>Liverpool have been encouraged to consider a move for Sunderland striker Brian Brobbey, with the Netherlands international attracting attention after making a strong impact in the Premier League. The 24-year-old has emerged as a potential target for several major English clubs, with Manchester United and Arsenal also believed to be monitoring his situation. Sunderland could [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/22/liverpool-arsenal-and-man-united-urged-to-consider-move-for-50m-forward/\">Liverpool, Arsenal and Man United urged to consider move for £50m forward</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/22/liverpool-arsenal-and-man-united-urged-to-consider-move-for-50m-forward/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 22 Sep 2026 15:35:10 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Barcelona and Real Madrid step up interest as Man Utd ace considers Spain move",
+      "items": [
+        {
+          "title": "Barcelona and Real Madrid step up interest as Man Utd ace considers Spain move",
+          "summary": "<p>Manchester United teenager JJ Gabriel appears increasingly likely to leave Old Trafford, with the highly rated youngster reportedly having reached an important agreement on his preferred next step. According to SPORT, Gabriel and his representatives have reached a first major agreement that moving to Spain would represent the best option for his development. Barcelona are [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/22/barcelona-and-real-madrid-step-up-interest-as-man-utd-ace-considers-spain-move/\">Barcelona and Real Madrid step up interest as Man Utd ace considers Spain move</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/22/barcelona-and-real-madrid-step-up-interest-as-man-utd-ace-considers-spain-move/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 22 Sep 2026 14:00:23 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wn58ev/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wn58ev/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wn58ev/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-22T10:00:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Who Scored] Marcus Rashford has created more chances from open play (13) than any other player in the Premier League this season. 🪄",
+      "items": [
+        {
+          "title": "[Who Scored] Marcus Rashford has created more chances from open play (13) than any other player in the Premier League this season. 🪄",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wnm7x5/who_scored_marcus_rashford_has_created_more/\"> <img alt=\"[Who Scored] Marcus Rashford has created more chances from open play (13) than any other player in the Premier League this season. 🪄\" src=\"https://preview.redd.it/5bz3hb1v05rh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c55a50e4c1c7b562628c36f5a8c1a7e5965d4f8f\" title=\"[Who Scored] Marcus Rashford has created more chances from open play (13) than any other player in the Premier League this season. 🪄\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/whoscored/status/2102383663254229280?s=46\">https://x.com/whoscored/status/2102383663254229280?s=46</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Empty-Sound-\"> /u/Empty-Sound- </a> <br /> <span><a href=\"https://i.redd.it/5bz3hb1v05rh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wnm7x5/who_scored_marcus_rashford_has_created_more/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wnm7x5/who_scored_marcus_rashford_has_created_more/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-22T21:13:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Opta Analyst] Man Utd according to Opta's Expected Points table: Actual position: 12th, Expected position: 4th. They lead the Premier League for shots (113) and opposition-box touches (182), but have converted just 7.1% of their attempts.",
+      "items": [
+        {
+          "title": "[Opta Analyst] Man Utd according to Opta's Expected Points table: Actual position: 12th, Expected position: 4th. They lead the Premier League for shots (113) and opposition-box touches (182), but have converted just 7.1% of their attempts.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wna742/opta_analyst_man_utd_according_to_optas_expected/\"> <img alt=\"[Opta Analyst] Man Utd according to Opta's Expected Points table: Actual position: 12th, Expected position: 4th. They lead the Premier League for shots (113) and opposition-box touches (182), but have converted just 7.1% of their attempts.\" src=\"https://preview.redd.it/mn9wgxoru2rh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bd049a0b9e2d9cc98940c9d1caf7568298334f9\" title=\"[Opta Analyst] Man Utd according to Opta's Expected Points table: Actual position: 12th, Expected position: 4th. They lead the Premier League for shots (113) and opposition-box touches (182), but have converted just 7.1% of their attempts.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/killerdrama\"> /u/killerdrama </a> <br /> <span><a href=\"https://i.redd.it/mn9wgxoru2rh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wna742/opta_analyst_man_utd_according_to_optas_expected/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wna742/opta_analyst_man_utd_according_to_optas_expected/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-22T13:55:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Šeško dedicated to his recovery: Benjamin Šeško says he is working hard to get back to fitness, while being frustrated to miss Slovenia's upcoming internationals.",
+      "items": [
+        {
+          "title": "Šeško dedicated to his recovery: Benjamin Šeško says he is working hard to get back to fitness, while being frustrated to miss Slovenia's upcoming internationals.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/sesko-dedicated-to-his-recovery\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wn5mkq/šeško_dedicated_to_his_recovery_benjamin_šeško/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wn5mkq/šeško_dedicated_to_his_recovery_benjamin_šeško/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-22T10:22:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 49,
+    "story_count": 37
+  }
+}
