@@ -1,0 +1,774 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T05:55:17.706047+00:00",
+  "match_data": {
+    "collected_at": "2026-09-24T05:55:13.393224+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pc2gsq?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 23 Sep 2026 15:03:00 GMT"
+        },
+        {
+          "title": "Omar Berrada may have to make a public Manchester United U-turn",
+          "summary": "The Ineos regime set an ambitious target for Man United to finally win the Premier League title again in 2028.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/omar-berrada-make-public-manchester-34660922",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "'A handbrake on Manchester United' - Why financial results aren't as rosy as they look",
+          "summary": "Man Utd posted record revenues for the 2025/26 season and are already expecting to better those figures this term, but issues still remain.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/a-handbrake-manchester-united-financial-34661188",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Manchester United reveal the cost of acquiring land for 100,000-seater stadium",
+          "summary": "Man Utd acquired a new plot of land to build a new stadium earlier this year, and the cost has now been revealed.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-reveal-cost-acquiring-34658050",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 12:15:00 +0000"
+        },
+        {
+          "title": "Manchester United confirm cost of sacking Ruben Amorim and his staff",
+          "summary": "Man Utd announced their end-of-year financial results on Wednesday, which confirmed the cost of Ruben Amorim's sacking.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-confirm-cost-sacking-34658045",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 11:40:05 +0000"
+        },
+        {
+          "title": "Omar Berrada sends Manchester United warning after latest financial results",
+          "summary": "Man Utd have released their latest financial results and chief executive Omar Berrada released a statement to accompany them.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/omar-berrada-sends-manchester-united-34657961",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 11:29:21 +0000"
+        },
+        {
+          "title": "Manchester United announce record revenues but debt continues to rise",
+          "summary": "Man Utd have released their latest financial results covering the final three months of last season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-announce-record-revenues-34657955",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 11:17:17 +0000"
+        },
+        {
+          "title": "Manchester United's plan for international break as players report to Carrington",
+          "summary": "A handful of Man Utd players are still reporting to Carrington this week, despite it being the international break.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-plan-international-break-34658014",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 10:33:09 +0000"
+        },
+        {
+          "title": "Manchester United's most obvious transfer blunder of the summer is already hurting them",
+          "summary": "Man Utd have had injury issues this season and they are coming in areas that are hurting Michael Carrick's team.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-most-obvious-transfer-34657622",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 09:17:28 +0000"
+        },
+        {
+          "title": "Harry Maguire demands Manchester United to 'ignore the noise' after poor start",
+          "summary": "Harry Maguire reacted following Man Utd's disappointing 1-1 draw against Fulham in the Premier League last weekend.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/harry-maguire-demands-manchester-united-34647871",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 08:35:04 +0000"
+        },
+        {
+          "title": "Manchester United report seventh straight annual loss and sell fans £125 grass clumps",
+          "summary": "<ul><li><p>Net loss of £43m for year ended 30 June 2026</p></li><li><p>Revenue hits record £677.6m and forecast to grow</p></li></ul><p>Manchester United have reported an annual loss for the seventh ­successive year, taking the club’s combined losses to £444m since 2019.</p><p>The financial results were released as it emerged United are raising revenue by selling small clumps of grass from the Old Trafford pitch to supporters. United relaid the playing surface for the first time in 14 years this summer<strong>,</strong> and an email to fans has offered them the chance to buy 7cm x 7cm clumps of turf for £125.</p> <a href=\"https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/23/manchester-united-seventh-straight-annual-loss-record-revenue-financial-results",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 13:41:16 GMT"
+        },
+        {
+          "title": "Manchester United [10] - 1 Sheffield United - Mared Griffiths 81’ (Hattrick)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wog80m/manchester_united_10_1_sheffield_united_mared/\"> <img alt=\"Manchester United [10] - 1 Sheffield United - Mared Griffiths 81’ (Hattrick)\" src=\"https://external-preview.redd.it/bGZpaHJwYWJxYnJoMWW2AU8qsZDFVp7g97UdNbDRKEcqRS3DjN767AFMfGAg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20223ed32ebc1218110cb22d3564b467694bb20f\" title=\"Manchester United [10] - 1 Sheffield United - Mared Griffiths 81’ (Hattrick)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/2m0gabjbqbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wog80m/manchester_united_10_1_sheffield_united_mared/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wog80m/manchester_united_10_1_sheffield_united_mared/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T19:48:10+00:00"
+        },
+        {
+          "title": "[James Ducker, Analysis] Manchester United’s seven years of losses total £444m | Latest figures show annual pre-tax loss of £47m as cost of financing debt swallows up profit from improved operating performance",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wo7g8i/james_ducker_analysis_manchester_uniteds_seven/\"> <img alt=\"[James Ducker, Analysis] Manchester United’s seven years of losses total £444m | Latest figures show annual pre-tax loss of £47m as cost of financing debt swallows up profit from improved operating performance\" src=\"https://external-preview.redd.it/8a8bMwYaqMHhd6zgR6j3R18L2SLZIfvPphEjcCrB-nk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=76bbf39dc134997733fa4f9bccadff908e6fac25\" title=\"[James Ducker, Analysis] Manchester United’s seven years of losses total £444m | Latest figures show annual pre-tax loss of £47m as cost of financing debt swallows up profit from improved operating performance\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/09/23/manchester-uniteds-seven-years-of-losses-total-444m/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo7g8i/james_ducker_analysis_manchester_uniteds_seven/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wo7g8i/james_ducker_analysis_manchester_uniteds_seven/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T14:24:17+00:00"
+        },
+        {
+          "title": "Manchester United [9] - 0 Sheffield United - Mared Griffiths 60’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wofora/manchester_united_9_0_sheffield_united_mared/\"> <img alt=\"Manchester United [9] - 0 Sheffield United - Mared Griffiths 60’\" src=\"https://external-preview.redd.it/NWIyd3llNHVtYnJoMY4ne2OZpxfznS6L7Q9TJUhkGnWqPsBnXmElyeQIRWUF.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=999af53af10603c8551149156321852870246e9c\" title=\"Manchester United [9] - 0 Sheffield United - Mared Griffiths 60’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/hg1mgt9umbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wofora/manchester_united_9_0_sheffield_united_mared/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wofora/manchester_united_9_0_sheffield_united_mared/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T19:28:01+00:00"
+        },
+        {
+          "title": "Manchester United [5] - 0 Sheffield United - Ella Toone 42’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1woejy3/manchester_united_5_0_sheffield_united_ella_toone/\"> <img alt=\"Manchester United [5] - 0 Sheffield United - Ella Toone 42’\" src=\"https://external-preview.redd.it/Y2Q5eGJqMGhmYnJoMYkyGP6-C2UausU5hbKctkGBwCN7qJhCQ4H-I31w2Ztc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69eedcf8947c780bfd0b75497f71e5dc9bb5c176\" title=\"Manchester United [5] - 0 Sheffield United - Ella Toone 42’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/aqoe236hfbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1woejy3/manchester_united_5_0_sheffield_united_ella_toone/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1woejy3/manchester_united_5_0_sheffield_united_ella_toone/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T18:46:42+00:00"
+        },
+        {
+          "title": "Manchester United announce record annual revenues of £677.6m for year ending June 30. Omar Berrada: \"We are pleased to have secured record revenues and adjusted EBITDA which demonstrates the underlying strength of our business, particularly in a season without European football.\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wo2xz9/manchester_united_announce_record_annual_revenues/\"> <img alt=\"Manchester United announce record annual revenues of £677.6m for year ending June 30. Omar Berrada: &quot;We are pleased to have secured record revenues and adjusted EBITDA which demonstrates the underlying strength of our business, particularly in a season without European football.&quot;\" src=\"https://preview.redd.it/xcca16ee59rh1.png?width=140&amp;height=115&amp;auto=webp&amp;s=cff1f4c203221672895d3b0999d0c5f96faebcb5\" title=\"Manchester United announce record annual revenues of £677.6m for year ending June 30. Omar Berrada: &quot;We are pleased to have secured record revenues and adjusted EBITDA which demonstrates the underlying strength of our business, particularly in a season without European football.&quot;\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Paul Hirst</strong></p> <p>Manchester United announce record annual revenues of £677.6m for year ending June 30. Omar Berrada: &quot;We are pleased to have secured record revenues and adjusted EBITDA which demonstrates the underlying strength of our business, particularly in a season without European football.&quot;</p> <p><strong>Simon Stone</strong></p> <p>Man Utd: &quot;<strong>Exceptional items for the year were a cost of £8.2 million, primarily comprising costs associated with the departure of former men’s first team head coach Ruben Amorim and final costs in relation to the Club’s restructuring programs.</strong>&quot;</p> <p>Man Utd: &quot;<strong>The current year expenditure includes £63.5 million of spend on the acquisition of land required as part of our ambition to build a new 100,000 seater stadium.</strong>&quot;</p> <p><strong>Laurie Whitwell</strong></p> <p>Broadcasting revenue 25/26 was £206.8m, an increase of £33.9m, or 19.6%, over 24/25, primarily due to Michael Carrick's team finishing third in Premier League, compared to 15th season before. </p> <p>Accounts also reveal land acquired around stadium cost £63.5m. More </p> <p><strong>Chris Wheeler</strong></p> <p>MAN UTD FINANCIALS</p> <p><strong>🔺 Operating profit of £22.6m, compared to £18.4m loss last year</strong></p> <p><strong>🔺 Total revenue of £677.6m, up £11.1m</strong></p> <p><strong>🔺 Commercial revenue of £317.3m, down £16m</strong></p> <p><strong>🔺 Sponsorship revenue of £160.5m, down £27.9m</strong></p> <p><strong>🔺 Retail &amp; merchandising revenue of £156.8m, up £11.9m</strong></p> <p>mufc release latest financial results. Club achieved record full yea<strong>r revenue of £677.6m - up from previous record of £666.5m in the prior year. Generated operating profit for the full year of £22.6m</strong></p> <p><strong>Utd's net losses are up to £43m from £33m last year, and borrowing up £95m to £583m</strong></p> <p>mufc CEO Omar Berrada: 'We are pleased to have secured record revenues which demonstrates the underlying strength of our business, particularly in a season without European football. This shows the direct impact of the work we have been doing over the past two years.'</p> <p>Berrada: 'It also proves Manchester United’s enduring popularity and commercial strength. While these results confirm that we are on the right trajectory, we will continue to take a disciplined approach to ensure our finances remain sustainable.'</p> <p>Berrada: 'Our other main area of focus is our plan to develop a new 100,000 seater stadium. We have now completed the major milestone of securing the land which will form part of the proposed location of the new stadium.'</p> <h1>Manchester United PLC Reports Fourth Quarter and Full Year Fiscal 2026 Results</h1> <p><a href=\"https://ir.manutd.com/press-releases.aspx\">https://ir.manutd.com/press-releases.aspx</a></p> <p>Released : 09/23/2026</p> <p><strong>Key Points</strong></p> <ul> <li><strong>Achieved record full year revenue of £677.6 million, despite not participating in UEFA competition, up from previous record of £666.5 million in the prior year;</strong></li> <li><strong>Generated operating profit for the full year of £22.6 million, compared to an operating loss of £18.4 million in the prior year, as the Club continues to see the benefits of operating cost and headcount reductions previously implemented, combined with improved Premier League performance;</strong></li> <li><strong>Full year adjusted EBITDA at record level of £216.4 million, up £33.6 million, or 18.4%, from fiscal 2025;</strong></li> <li><strong>4Q total revenue of £157.5 million and adjusted EBITDA of £28.9 million, down slightly on 4Q fiscal 2025 comparatives of £164.1 million total revenue and £37.5 million adjusted EBITDA, due to phasing of Premier League matches and the prior year quarter containing a post-season tour and the UEFA Europa League final;</strong></li> <li><strong>Loss for the year was £43.0 million, compared to a loss of £33.0 million in the prior year. The Club continues on its journey to improve operational efficiency and financial sustainability;</strong></li> <li>**The Men’s first team finished the 2025/26 season in 3******<strong><sup>rd</sup></strong> <strong>position in the Premier League and has returned to the UEFA Champions League in the 2026/27 season;</strong></li> <li><strong>The Women’s team finished the 2025/26 Women’s Super League season in 4th place and reached the Quarter-Finals of the Women’s Champions League for the first time in our history;</strong></li> <li><strong>Secured land required to build a new 100,000-seater stadium, marking a major milestone in the long-term vision to transform the Old Trafford area;</strong></li> <li><strong>Announced a multi-year partnership with Betway as the Club’s Official Training Kit Partner, representing Betway’s biggest sponsorship investment to date across a portfolio including football, Formula 1 and tennis;</strong></li> <li><strong>Announced a multi-year partnership with SumUp as the Club’s Official Sleeve Partner;</strong></li> <li><strong>The Men’s first team was strengthened by the additions of Andrey Santos, Youri Tielemans, Karl Darlow and Carlos Baleba; The Women’s first team was strengthened with the new signings of Andrea Medina, Janina Leitzig, Monica Jusu Bah and Rebeca Bernal;</strong></li> <li><strong>The Men’s first team successfully undertook a pre-season tour, including matches in Scandinavia and theRepublic of Ireland, in preparation for the 2026/27 season;</strong></li> <li><strong>Eva Olid was appointed as the new Head Coach of our Women’s team, as the team embarks on a clear vision for long-term, sustainable growth and success;</strong></li> <li><strong>For full year fiscal 2027, the Company introduces revenue guidance of £740 million to £760 million and adjusted EBITDA guidance of £205 million to £225 million</strong></li> </ul> <p>MANCHESTER, England--(BUSINESS WIRE)-- Manchester United (NYSE: MANU; the “Company”, the “Group” and the “Club”) today announced financial results for the 2026 fiscal fourth quarter and twelve months ended 30 June 2026.</p> <p><strong>Management Commentary</strong></p> <p>Omar Berrada, Chief Executive Officer, commented, &quot;We are pleased to have secured record revenues and adjusted EBITDA which demonstrates the underlying strength of our business, particularly in a season without European football. This shows the direct impact of the work we have been doing over the past two years. It also proves Manchester United’s enduring popularity and commercial strength. While these results confirm that we are on the right trajectory, we will continue to take a disciplined approach to ensure our finances remain sustainable.</p> <p>With that financial sustainability in mind, we have strengthened both our men’s and women’s teams during the summer window and our men’s team has seen the return of Champions League football to Old Trafford.</p> <p>We have also strengthened commercially and have welcomed Betway as our new Training Kit partner and SumUp as our new Sleeve partner; two excellent organisations which we are delighted to be working with, alongside our kit supplier, adidas and front of shirt partner, Snapdragon.</p> <p>Our other main area of focus is our plan to develop a new 100,000 seater stadium. We have now completed the major milestone of securing the land which will form part of the proposed location of the new stadium.&quot;</p> <p><a href=\"https://preview.redd.it/xcca16ee59rh1.png?width=1935&amp;format=png&amp;auto=webp&amp;s=950e0ede39e621762b2e06cc997a28b4b0f8de40\">https://preview.redd.it/xcca16ee59rh1.png?width=1935&amp;format=png&amp;auto=webp&amp;s=950e0ede39e621762b2e06cc997a28b4b0f8de40</a></p> <p><sup>(1</sup>) Adjusted EBITDA, adjusted loss for the period and adjusted basic loss per share are non-IFRS measures. See “Non-IFRS Measures: Definitions and Use” on page 8 and the accompanying Supplemental Notes for the definitions and reconciliations for these non-IFRS measures and the reasons we believe these measures provide useful information to investors regarding the Group’s financial condition and results of operations.</p> <p><sup>(2</sup>) In addition to non-current borrowings, the Group maintains a revolving credit facility which varies based on seasonal flow of funds. The outstanding balance of the revolving credit facility as of 30 June 2026 was £110.0 million and total current borrowings including accrued interest payable was £111.4 million.</p> <p><strong>Revenue Analysis</strong></p> <p>Total revenue for the year ended 30 June 2026 was £677.6 million, an increase of £11.1 million, or 1.7%, compared to the year ended 30 June 2025, as a result of an increase in revenue in our Broadcasting sector, partially offset by decreases in revenue in our Commercial and Matchday sectors, as described below.</p> <p><strong><em>Commercial</em></strong></p> <p>Commercial revenue for the year was £317.3 million, a decrease of £16.0 million, or 4.8%, over the prior year.</p> <ul> <li><em>Sponsorship</em> revenue was £160.5 million, a decrease of £27.9 million, or 14.8%, over the prior year, primarily due to the Club’s training kit sponsorship agreement with Tezos in the prior year, which ended before the start of the 2025/26 season.</li> <li><em>Retail, Merchandising, Apparel &amp; Product Licensing</em> revenue was £156.8 million, an increase of £11.9 million, or 8.2%, over the prior year, due to the current year including a full year of our in-house e-commerce model in partnership with SCAYLE, compared to only 10 months in the prior year, combined with a one-off credit relating to amended terms of this model.</li> </ul> <p>For the quarter, commercial revenue was £72.2 million, a decrease of £16.0 million, or 18.1%, over the prior year quarter.</p> <ul> <li><em>Sponsorship</em> revenue was £37.8 million, a decrease of £13.4 million, or 26.2% over the prior year quarter, primarily due to the prior year quarter including revenue from our men’s first team undertaking a post-season tour toMalaysiaandHong Kong. No such tour was possible in the current year quarter due to the FIFA Men’s World Cup taking place; and</li> <li><em>Retail, Merchandising, Apparel &amp; Product Licensing</em> revenue was £34.4 million, a decrease of £2.6 million, or 7.0%, over the prior year quarter.</li> </ul> <p><strong><em>Broadcasting</em></strong></p> <p>Broadcasting revenue for the year was £206.8 million, an increase of £33.9 million, or 19.6%, over the prior year, primarily due to the men’s first team finishing 3<sup>rd</sup> in the Premier League, compared to 15<sup>th</sup> in the prior year, partially offset by the men’s first team not participating in UEFA competition in the current year, compared to reaching the UEFA Europa League final in the prior year.</p> <p>Broadcasting revenue for the quarter was £49.7 million, an increase of £11.0 million, or 28.4%, over the prior year quarter, primarily due to the men’s first team’s improved performance in the Premier League, partially offset by not participating in UEFA competition, as discussed above.</p> <p><strong><em>Matchday</em></strong></p> <p>Matchday revenue for the year was £153.5 million, a decrease of £6.8 million, or 4.2%, over the prior year, due to the men’s first team playing 10 fewer home matches in the current year compared to the prior year, partially offset by strong demand for our general admission and hospitality offerings.</p> <p>Matchday revenue for the quarter was £35.6 million, a decrease of £1.6 million, or 4.3%, over the prior year quarter.</p> <p><strong>Other Financial Information</strong></p> <p><strong><em>Operating expenses</em></strong></p> <p>Total operating expenses for the year were £701.9 million, a decrease of £31.8 million, or 4.3%, over the prior year. This decrease is explained by category below.</p> <p><strong><em>Employee benefit expenses</em></strong></p> <p>Employee benefit expenses for the year were £302.0 million, a decrease of £11.3 million, or 3.6%, over the prior year. This is primarily due to changes in the make-up of the men’s first team squad, combined with savings associated with headcount reduction programs implemented over the previous two fiscal years.</p> <p><strong><em>Other operating expenses</em></strong></p> <p>Other operating expenses for the year were £159.2 million, a decrease of £11.2 million, or 6.6%, over the prior year. This is primarily due to savings associated with the club’s continued focus on improving operating efficiency, combined with reduced matchday costs as a result of hosting 10 fewer home matches in the current season compared to the prior year.</p> <p><strong><em>Depreciation, impairment and amortization</em></strong></p> <p>Depreciation and impairment for the year was £20.6 million, an increase of £3.6 million, or 21.2%, over the prior year. Amortization for the year was £211.8 million, an increase of £15.4 million, or 7.8%, over the prior year, due to continued investment in the first team playing squad. The unamortized balance of registrations at 30 June 2026 was £452.3 million.</p> <p><strong><em>Exceptional items</em></strong></p> <p>Exceptional items for the year were a cost of £8.2 million, primarily comprising costs associated with the departure of former men’s first team head coach Ruben Amorim and final costs in relation to the Club’s restructuring programs. The charge also includes additional contributions we expect to pay towards the Football League pension scheme deficit.</p> <p>Exceptional items for the prior year were a cost of £36.6 million, as a result of compensation for loss of office costs incurred in relation to the restructuring of the club’s operations, as well as costs associated with the departure of former men’s first team head coach Erik ten Hag and various members of football staff.</p> <p><strong><em>Profit on disposal of intangible assets</em></strong></p> <p>Profit on disposal of intangible assets for the year was £46.9 million, compared to £48.7 million for the prior year.</p> <p><strong><em>Net finance costs</em></strong></p> <p>Net finance costs for the year were £69.6 million, compared to net finance costs of £21.2 million for the prior year, an increase of £48.4 million, or 228.3%. This is primarily due to a large unrealized foreign exchange loss on unhedged USD borrowings of £10.0 million in the current year, compared to a large unrealized foreign exchange gain of £22.9 million in the prior year.</p> <p><strong><em>Income tax</em></strong></p> <p>The income tax credit for the year was £4.0 million, compared to a credit of £6.6 million in the prior year. In both years the credit arises primarily as a result of deferred tax assets recognised in respect of losses arising in the year.</p> <p><strong><em>Cash flows</em></strong></p> <p>Overall cash and cash equivalents (including the effects of exchange rate movements) decreased by £18.9 million in the year, compared to an increase of £12.6 million in the prior year.</p> <p>Net cash inflow from operating activities for the year was £178.7 million, an increase of £106.0 million compared to a net cash inflow of £72.7 million for the prior year. This is explained further in the Statement of Cash Flows on page 13 and Cash Generated from Operations note on page 16.</p> <p>Net capital expenditure on property, plant and equipment for the year was £85.9 million, an increase of £41.2 million over the prior year. The current year expenditure includes £63.5 million of spend on the acquisition of land required as part of our ambition to build a new 100,000 seater stadium. The prior year expenditure primarily relates to the upgrade of facilities at our Carrington Training Centre which was completed in August 2025.</p> <p>Net capital expenditure on intangible assets for the year was £143.7 million, a decrease of £86.3 million over the prior year, primarily due to proceeds raised from the sale of future dated transfer fee receivables due from other football clubs, combined with stronger contractual player receivable cash flows received.</p> <p>Net cash inflow from financing activities for the year was £35.3 million. This is due to net proceeds, including issue costs, of £89.5 million arising from the refinancing of our Senior Secured Notes, partially offset by net repayments on our revolving credit facility of £50.0 million. Net cash inflow from financing activities in the prior year was £209.6 million, due to net drawdowns on our revolving credit facility of £130.0 million, in addition to £80.0 million of proceeds from the issue of shares as part of the transaction agreement with Trawlers Limited (later INEOS Services Limited).</p> <p><strong><em>Balance sheet</em></strong></p> <p>Our USD non-current borrowings as of 30 June 2026 were$775 million, an increase of$125.0 millionfrom 30 June 2025, as a result of the refinanced Senior Secured Notes discussed above. As a result of the year-on-year change in the USD/GBP exchange rate from 1.3709 at 30 June 2025 to 1.3272 at 30 June 2026, our non-current borrowings when converted to GBP were £577.6 million, compared to £471.9 million at the prior year end.</p> <p>In addition to non-current borrowings, the Group maintains a revolving credit facility which varies based on seasonal flow of funds. Current borrowings, including accrued interest, at 30 June 2026 were £111.4 million compared to £165.1 million at 30 June 2025.</p> <p>As of 30 June 2026, cash and cash equivalents were £67.2 million compared to £86.1 million at 30 June 2025. This movement is detailed further in the Statement of Cash Flows on page 13 of this report.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo2xz9/manchester_united_announce_record_annual_revenues/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo2xz9/manchester_united_announce_record_annual_revenues/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wo2xz9/manchester_united_announce_record_annual_revenues/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T11:07:55+00:00"
+        },
+        {
+          "title": "Manchester United [7] - 0 Sheffield United - Rebeca Bernal 55’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wofhts/manchester_united_7_0_sheffield_united_rebeca/\"> <img alt=\"Manchester United [7] - 0 Sheffield United - Rebeca Bernal 55’\" src=\"https://external-preview.redd.it/OHR4b3J2emtsYnJoMcfFrMJuTwokYDXG5BIUWxK64qotFbg78gCgM8Oa4fEr.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1738a5e900fb9222924d133d382ad0cb6354dd07\" title=\"Manchester United [7] - 0 Sheffield United - Rebeca Bernal 55’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/a5t7u47llbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wofhts/manchester_united_7_0_sheffield_united_rebeca/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wofhts/manchester_united_7_0_sheffield_united_rebeca/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T19:20:42+00:00"
+        },
+        {
+          "title": "[The Athletic, Analysis] Manchester United 2025-26 finances: Wage bill drop and record revenues but seventh annual loss (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1woc5us/the_athletic_analysis_manchester_united_202526/\"> <img alt=\"[The Athletic, Analysis] Manchester United 2025-26 finances: Wage bill drop and record revenues but seventh annual loss (Gift Article)\" src=\"https://external-preview.redd.it/jh1cyh0O6EObIuBc6zAwMJDu05enEM1F2obi8ifZAA4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ea551ba6e433b81b9de1a18fa449ea7ef7d440a\" title=\"[The Athletic, Analysis] Manchester United 2025-26 finances: Wage bill drop and record revenues but seventh annual loss (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7623076/2026/09/23/manchester-united-finances-wages-revenues-loss/?unlocked_article_code=1.DVE.dLoV.Xxj7fPfEkSX5\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1woc5us/the_athletic_analysis_manchester_united_202526/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1woc5us/the_athletic_analysis_manchester_united_202526/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T17:17:57+00:00"
+        },
+        {
+          "title": "Manchester United [8] - 0 Sheffield United - Jessica Simpson 58’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wofkus/manchester_united_8_0_sheffield_united_jessica/\"> <img alt=\"Manchester United [8] - 0 Sheffield United - Jessica Simpson 58’\" src=\"https://external-preview.redd.it/cW5pbHh1aDRtYnJoMTgjxrrPp7V8ipF36XaWAzE448g5gZB2coN2AnwubCmO.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c07b3963b0699a0da0792d365ebd8b805811a93\" title=\"Manchester United [8] - 0 Sheffield United - Jessica Simpson 58’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/bzq3gkm4mbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wofkus/manchester_united_8_0_sheffield_united_jessica/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wofkus/manchester_united_8_0_sheffield_united_jessica/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T19:23:55+00:00"
+        },
+        {
+          "title": "[Paul Hirst] Manchester United selling chunks of Old Trafford turf for £125 | Season-ticket holders given ‘exclusive early access’ to buy a tiny clump of grass cast in plastic after the club relaid the pitch for the first time in 14 years",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.thetimes.com/sport/football/article/manchester-united-finances-selling-old-trafford-turf-rw8lb58gj\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo1xwd/paul_hirst_manchester_united_selling_chunks_of/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wo1xwd/paul_hirst_manchester_united_selling_chunks_of/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T10:14:29+00:00"
+        },
+        {
+          "title": "Manchester United [2] - 0 Sheffield United - Rebeca Bernal - 19’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wodwmd/manchester_united_2_0_sheffield_united_rebeca/\"> <img alt=\"Manchester United [2] - 0 Sheffield United - Rebeca Bernal - 19’\" src=\"https://external-preview.redd.it/OXBxbmJ3bDRiYnJoMQgThDYSTPV9IqqN0s_9dCOmT925NKWhjuT7mC4qBW7I.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=79a8f93c448e04b74775f451fa7cdd44f2377259\" title=\"Manchester United [2] - 0 Sheffield United - Rebeca Bernal - 19’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/q3rblvv4bbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wodwmd/manchester_united_2_0_sheffield_united_rebeca/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wodwmd/manchester_united_2_0_sheffield_united_rebeca/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T18:22:45+00:00"
+        },
+        {
+          "title": "Manchester United [3] - 0 Sheffield United - Mared Griffiths - 22’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1woe3d2/manchester_united_3_0_sheffield_united_mared/\"> <img alt=\"Manchester United [3] - 0 Sheffield United - Mared Griffiths - 22’\" src=\"https://external-preview.redd.it/djh1YmFxdGVjYnJoMbtFwlJcLEGrXhugHqHmLWnCDH2tJ3LC5PNUvErL5xiK.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb473eb8fb2fdd84dda306a7315f541c7ece5893\" title=\"Manchester United [3] - 0 Sheffield United - Mared Griffiths - 22’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/zxmx96yecbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1woe3d2/manchester_united_3_0_sheffield_united_mared/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1woe3d2/manchester_united_3_0_sheffield_united_mared/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T18:29:44+00:00"
+        },
+        {
+          "title": "Manchester United [6] - 0 Sheffield United - Lea Schüller 53’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wofeac/manchester_united_6_0_sheffield_united_lea/\"> <img alt=\"Manchester United [6] - 0 Sheffield United - Lea Schüller 53’\" src=\"https://external-preview.redd.it/bjh0cDR4dnNrYnJoMXgB9Y7gl6DqczVLrLZXLpUtDIF2eaq-9lK_5SIqGWm6.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=edf46a8d78ec720c7ecad036b2248366d3f8f12d\" title=\"Manchester United [6] - 0 Sheffield United - Lea Schüller 53’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/jqr45d3tkbrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wofeac/manchester_united_6_0_sheffield_united_lea/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wofeac/manchester_united_6_0_sheffield_united_lea/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T19:17:03+00:00"
+        },
+        {
+          "title": "Manchester United [1] - 0 Sheffield United - Maya Le Tissier 14’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wodshj/manchester_united_1_0_sheffield_united_maya_le/\"> <img alt=\"Manchester United [1] - 0 Sheffield United - Maya Le Tissier 14’\" src=\"https://external-preview.redd.it/cDB5Z2ZoNWJhYnJoMZZUhJiKjtrfcH55qtBgFneen56QxNYnH2BYkkXdOJ4A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a9fadbc6de269f377de63eff6b6ded1c9f3a4e0\" title=\"Manchester United [1] - 0 Sheffield United - Maya Le Tissier 14’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/sfnuplibabrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wodshj/manchester_united_1_0_sheffield_united_maya_le/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wodshj/manchester_united_1_0_sheffield_united_maya_le/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T18:18:25+00:00"
+        },
+        {
+          "title": "Manchester United [4] - 0 Sheffield United - Lea Schüller - 34’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1woedqr/manchester_united_4_0_sheffield_united_lea/\"> <img alt=\"Manchester United [4] - 0 Sheffield United - Lea Schüller - 34’\" src=\"https://external-preview.redd.it/cms1Z2RoOTRlYnJoMYikFZEUUr1grF1rAkCrx9O_8PLkPFj4yfjRAxfA4Vv-.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=94b980263395369f295b01c7ef7c794382a6ec6f\" title=\"Manchester United [4] - 0 Sheffield United - Lea Schüller - 34’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/ldybayi4ebrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1woedqr/manchester_united_4_0_sheffield_united_lea/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1woedqr/manchester_united_4_0_sheffield_united_lea/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T18:40:20+00:00"
+        },
+        {
+          "title": "Manchester United's plan for international break as players report to Carrington",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wo8f48/manchester_uniteds_plan_for_international_break/\"> <img alt=\"Manchester United's plan for international break as players report to Carrington\" src=\"https://external-preview.redd.it/ABeBhnDlhgoR2VNa7OE7ELgAZASo7atjtQ6d62lSMC8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4373a2b07c047fb9678853552ec38c772ae715d8\" title=\"Manchester United's plan for international break as players report to Carrington\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Redwinevino\"> /u/Redwinevino </a> <br /> <span><a href=\"https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-plan-international-break-34658014\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo8f48/manchester_uniteds_plan_for_international_break/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wo8f48/manchester_uniteds_plan_for_international_break/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T15:01:15+00:00"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United",
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 4,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Club debt increases and Eric Cantona takes swipe at Sir Jim Ratcliffe",
+      "items": [
+        {
+          "title": "Man United latest: Club debt increases and Eric Cantona takes swipe at Sir Jim Ratcliffe",
+          "summary": "Manchester United co-owner Sir Jim Ratcliffe has attracted attention during the international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-debt-jim-ratcliffe-34661476",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ex-Man United star Casemiro haemorrhaging money as his business venture loses nearly £1m",
+      "items": [
+        {
+          "title": "Ex-Man United star Casemiro haemorrhaging money as his business venture loses nearly £1m",
+          "summary": "Casemiro, who left Manchester United in the summer, is in the red with his business venture",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/casemiro-business-money-man-united-34660541",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 15:54:32 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "JJ Gabriel receives Barcelona 'guarantee' after three Man United decisions riled his dad",
+      "items": [
+        {
+          "title": "JJ Gabriel receives Barcelona 'guarantee' after three Man United decisions riled his dad",
+          "summary": "JJ Gabriel has received a lucractive offer and 'guarantees' to sign for Barcelona with Real Madrid among the others chasing a move for the Manchester United talent",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-transfer-34661037",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 15:05:28 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Benjamin Sesko row takes new twist as Man United star told what to do after brutal injury swipe",
+      "items": [
+        {
+          "title": "Benjamin Sesko row takes new twist as Man United star told what to do after brutal injury swipe",
+          "summary": "Benjamin Sesko has been mocked by a former Manchester United duo in a brutal swipe, but his Slovenia team-mate has jumped to his defence",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-benjamin-sesko-injury-34660741",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 14:20:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United cut football costs as debt repayments soar - is it any wonder fans have had enough?",
+      "items": [
+        {
+          "title": "Man United cut football costs as debt repayments soar - is it any wonder fans have had enough?",
+          "summary": "Man Utd are continuing to slash their wage bill but those savings are being eaten up by debt repayments.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-cut-football-costs-34660042",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 13:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United debt figures explained as club announce record revenue",
+      "items": [
+        {
+          "title": "Man United debt figures explained as club announce record revenue",
+          "summary": "Manchester United have released their latest accounting figures",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-debt-profit-accounts-34659957",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 12:10:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Final Bruno Fernandes verdict as Premier League panel speak out on Man United incident",
+      "items": [
+        {
+          "title": "Final Bruno Fernandes verdict as Premier League panel speak out on Man United incident",
+          "summary": "The Premier League's key match incidents panel have provided an independent assessment on the Manchester derby incident involving Bruno Fernandes and Phil Foden",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-bruno-fernandes-foden-34659109",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 10:46:58 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United ownership explained with the Glazers and Sir Jim Ratcliffe's shares detailed",
+      "items": [
+        {
+          "title": "Man United ownership explained with the Glazers and Sir Jim Ratcliffe's shares detailed",
+          "summary": "Manchester United are one of the biggest sporting institutions in the world - but who actually owns and runs the club is a surprisingly complex story",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ownerships-glazers-ratcliffe-34658308",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 10:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Alejandro Garnacho offered new escape route as £43m blow dents Man United scheme",
+      "items": [
+        {
+          "title": "Alejandro Garnacho offered new escape route as £43m blow dents Man United scheme",
+          "summary": "Alejandro Garnacho's future hasn't gone in the trajectory he would've liked after forcing a move away from Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/garnacho-man-united-chelsea-villa-34658473",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 09:35:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney exposes Man United over 'certain things' as Michael Carrick wish revealed",
+      "items": [
+        {
+          "title": "Wayne Rooney exposes Man United over 'certain things' as Michael Carrick wish revealed",
+          "summary": "Manchester United have made an indifferent start to the 2026/27 season with pressure beginning to mount on Michael Carrick",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-news-rooney-34657702",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 08:06:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United legend Eric Cantona slams Sir Jim Ratcliffe comments - 'I cannot accept this'",
+      "items": [
+        {
+          "title": "Man United legend Eric Cantona slams Sir Jim Ratcliffe comments - 'I cannot accept this'",
+          "summary": "Man Utd co-owner Sir Jim Ratcliffe made headlines last week after making another comment on immigration.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-eric-cantona-ratcliffe-34657707",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 07:59:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ranking the worst 15-minute Man United collapses and how Fulham display compares",
+      "items": [
+        {
+          "title": "Ranking the worst 15-minute Man United collapses and how Fulham display compares",
+          "summary": "Gary Neville made a highly questionable claim about Manchester United's performance at Fulham",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-gary-neville-fulham-34653157",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news LIVE: JJ Gabriel latest as new deadline set after 'agreement reached'",
+      "items": [
+        {
+          "title": "Man Utd news LIVE: JJ Gabriel latest as new deadline set after 'agreement reached'",
+          "summary": "Plenty is going on at Manchester United during the first international break of the season, with the club facing a number of issues after a disappointing start to their Premier League campaign, including uncertainty surrounding the future of JJ Gabriel",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-news-live-gabriel-37692528",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 05:21:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd news: Sir Jim Ratcliffe's controversial remarks slammed and club debt rises",
+      "items": [
+        {
+          "title": "Man Utd news: Sir Jim Ratcliffe's controversial remarks slammed and club debt rises",
+          "summary": "Manchester United co-owner Sir Jim Ratcliffe has come under scrutiny while the club are out of action during the international break",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-debt-jim-ratcliffe-37694677",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Benjamin Sesko row erupts as Premier League star hits out at Man Utd legends",
+      "items": [
+        {
+          "title": "Benjamin Sesko row erupts as Premier League star hits out at Man Utd legends",
+          "summary": "Benjamin Sesko has withdrawn from the Slovenia squad for the international break with a shin injury, with Paul Scholes and Nicky Butt questioning the seriousness of the issue",
+          "url": "https://www.mirror.co.uk/sport/football/news/benjamin-sesko-injury-news-scholes-37694935",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 15:27:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Christian Eriksen cancels Wolfsburg contract three months after collapsing on pitch",
+      "items": [
+        {
+          "title": "Christian Eriksen cancels Wolfsburg contract three months after collapsing on pitch",
+          "summary": "Former Tottenham Hotspur and Manchester United midfielder Christian Eriksen was involved in another terrifying incident when he collapsed on the pitch when in action for Denmark",
+          "url": "https://www.mirror.co.uk/sport/football/news/christian-eriksen-wolfsburg-contract-collapse-37694827",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 14:59:47 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ruben Amorim's final sack pay-out revealed - and why Man Utd saved huge sum",
+      "items": [
+        {
+          "title": "Ruben Amorim's final sack pay-out revealed - and why Man Utd saved huge sum",
+          "summary": "Manchester United have confirmed their financial results for the 2025/26 campaign with those numbers having included the millions that they were forced to pay Ruben Amorim",
+          "url": "https://www.mirror.co.uk/sport/football/news/ruben-amorim-man-utd-sacking-37694356",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 13:54:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Eric Cantona teams up with Gary Lineker as Man Utd chief Sir Jim Ratcliffe slammed again",
+      "items": [
+        {
+          "title": "Eric Cantona teams up with Gary Lineker as Man Utd chief Sir Jim Ratcliffe slammed again",
+          "summary": "Gary Lineker and Eric Cantona have both slammed Manchester United co-owner Sir Jim Ratcliffe over recent days, following his latest comments bemoaning immigration",
+          "url": "https://www.mirror.co.uk/sport/football/news/jim-ratcliffe-eric-cantona-lineker-37693615",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 12:04:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd announce record revenues but debt rises as Old Trafford grass goes on sale for £125!",
+      "items": [
+        {
+          "title": "Man Utd announce record revenues but debt rises as Old Trafford grass goes on sale for £125!",
+          "summary": "Manchester United have announced their fourth quarter and full year fiscal 2026 results with the Reds recording record revenues after Sir Jim Ratcliffe's cost-cutting measures",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-financials-results-fiscal-37692887",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 11:10:36 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney takes aim at Man Utd board for 'weak' decision and reveals manager hope",
+      "items": [
+        {
+          "title": "Wayne Rooney takes aim at Man Utd board for 'weak' decision and reveals manager hope",
+          "summary": "Wayne Rooney hopes Michael Carrick can turn Manchester United's fortunes around but says the squad is 'a bit weak' following the transfer window",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-man-utd-carrick-37692908",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 10:51:22 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Benjamin Sesko injury mocked as Michael Carrick accused of 'killing' Man Utd teammate",
+      "items": [
+        {
+          "title": "Benjamin Sesko injury mocked as Michael Carrick accused of 'killing' Man Utd teammate",
+          "summary": "Michael Carrick is being accused of ‘killing’ a Manchester United player, with Benjamin Sesko also the subject of mocking now for having sustained a shin injury",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-benjamin-sesko-carrick-37691839",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 07:34:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Slip sliding away: football season-ticket holders fear falling down pecking order",
+      "items": [
+        {
+          "title": "Slip sliding away: football season-ticket holders fear falling down pecking order",
+          "summary": "<p>It is a symbol of the connection between the fanbase and club, but there is a growing fear executives would prefer stadiums full of one-off tourists</p><p>The document known as “the oldest football season ticket in the world” promises its bearer access to every Burnley home game of the 1884-85 season. It is a ticket that predates the Football League by four years, with all the fixtures played against east Lancashire neighbours. All the same, the legend on the ticket carries a stern warning: “This card is not transferable. Any member violating this rule will be at once expelled from the club.”</p><p>For Burnley 1884 read Manchester United 2026. While the oldest remaining season ticket is preserved safely at Turf Moor, at Old Trafford 685 season tickets <a href=\"https://www.theguardian.com/football/live/2026/sep/11/football-news-live-champions-league-review-weekend-preview?page=with%3Ablock-6aa3eade8f081c4c84515279#block-6aa3eade8f081c4c84515279\">were voided this summer</a> after a club investigation found evidence of their having been resold on the secondary market. United said such practices “undermine fair access to tickets for genuine supporters and have no place at Manchester United”. United fan groups again protested against the actions of the club’s ownership, claiming: “The way you treat us is a disgrace.”</p> <a href=\"https://www.theguardian.com/football/2026/sep/23/premier-league-season-ticket-holders-pecking-order-new-fans-football-tourists\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/sep/23/premier-league-season-ticket-holders-pecking-order-new-fans-football-tourists",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 23 Sep 2026 11:00:47 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United star expected to leave, 27-year-old identified as replacement",
+      "items": [
+        {
+          "title": "Man United star expected to leave, 27-year-old identified as replacement",
+          "summary": "<p>Manchester United left-back Luke Shaw is reportedly looking increasingly likely to leave, with Tyrick Mitchell identified as a target to replace him. The Red Devils looked at left-backs during the summer transfer window but failed to bring anyone in, though the January transfer window will give them another opportunity. It seems clear that the time [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/24/man-united-tyrick-mitchell-transfer-luke-shaw/\">Man United star expected to leave, 27-year-old identified as replacement</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/24/man-united-tyrick-mitchell-transfer-luke-shaw/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 24 Sep 2026 05:20:54 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo0ofm/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo0ofm/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wo0ofm/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T09:00:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Cunha on Instagram: “Let’s grow together. we will do it.”",
+      "items": [
+        {
+          "title": "Cunha on Instagram: “Let’s grow together. we will do it.”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1woih0s/cunha_on_instagram_lets_grow_together_we_will_do/\"> <img alt=\"Cunha on Instagram: “Let’s grow together. we will do it.”\" src=\"https://preview.redd.it/2ht6x4uw5crh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=696adb258f0e0651ce764a15ba3789ee0f7d4737\" title=\"Cunha on Instagram: “Let’s grow together. we will do it.”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/2ht6x4uw5crh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1woih0s/cunha_on_instagram_lets_grow_together_we_will_do/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1woih0s/cunha_on_instagram_lets_grow_together_we_will_do/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T21:14:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd Women 10-1 Sheffield Utd | Highlights | WSL Subway Players Cup",
+      "items": [
+        {
+          "title": "Man Utd Women 10-1 Sheffield Utd | Highlights | WSL Subway Players Cup",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wojgb5/man_utd_women_101_sheffield_utd_highlights_wsl/\"> <img alt=\"Man Utd Women 10-1 Sheffield Utd | Highlights | WSL Subway Players Cup\" src=\"https://external-preview.redd.it/bBZX2KqIolpnBg1-nYDKf9djZiZbkJA137aqGwA65Pc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=661facefee72e023d2ca96a5baadd821f4376d97\" title=\"Man Utd Women 10-1 Sheffield Utd | Highlights | WSL Subway Players Cup\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=taaQxTQa6aI\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wojgb5/man_utd_women_101_sheffield_utd_highlights_wsl/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wojgb5/man_utd_women_101_sheffield_utd_highlights_wsl/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T21:53:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United XI vs Sheffield United | Women’s League Cup | Leitzig; Lundkvist, (C) Le Tissier, Janssen, Simpson; Bernal, Griffiths; Awujo, Toone, M.J Bah; Schüller",
+      "items": [
+        {
+          "title": "Man United XI vs Sheffield United | Women’s League Cup | Leitzig; Lundkvist, (C) Le Tissier, Janssen, Simpson; Bernal, Griffiths; Awujo, Toone, M.J Bah; Schüller",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wocaxe/man_united_xi_vs_sheffield_united_womens_league/\"> <img alt=\"Man United XI vs Sheffield United | Women’s League Cup | Leitzig; Lundkvist, (C) Le Tissier, Janssen, Simpson; Bernal, Griffiths; Awujo, Toone, M.J Bah; Schüller\" src=\"https://preview.redd.it/fc3ndsbo0brh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f253cdb1b262a9b81662ab6262f7b0a45a3703be\" title=\"Man United XI vs Sheffield United | Women’s League Cup | Leitzig; Lundkvist, (C) Le Tissier, Janssen, Simpson; Bernal, Griffiths; Awujo, Toone, M.J Bah; Schüller\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/fc3ndsbo0brh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wocaxe/man_united_xi_vs_sheffield_united_womens_league/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wocaxe/man_united_xi_vs_sheffield_united_womens_league/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T17:23:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League Match Round 4 - Key Match Incidents Panel outcomes",
+      "items": [
+        {
+          "title": "Premier League Match Round 4 - Key Match Incidents Panel outcomes",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wo1cop/premier_league_match_round_4_key_match_incidents/\"> <img alt=\"Premier League Match Round 4 - Key Match Incidents Panel outcomes\" src=\"https://external-preview.redd.it/1Iden8C7--riByt2BpPUB8f-7ihvG47TpNR7DUyTNgI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=543c77eb885c6fd11321656debefbfca786ea49d\" title=\"Premier League Match Round 4 - Key Match Incidents Panel outcomes\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FragMasterMat117\"> /u/FragMasterMat117 </a> <br /> <span><a href=\"https://www.premierleague.com/en/news/4725955/premier-league-match-round-1-key-match-incidents-panel-outcomes\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wo1cop/premier_league_match_round_4_key_match_incidents/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wo1cop/premier_league_match_round_4_key_match_incidents/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-23T09:40:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 54,
+    "story_count": 29
+  }
+}
