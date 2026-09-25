@@ -1,0 +1,836 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T05:56:05.906339+00:00",
+  "match_data": {
+    "collected_at": "2026-09-25T05:55:59.569473+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United sign Liverpool youngster as clubs in talks over transfer fee after Man City deal",
+      "items": [
+        {
+          "title": "Man United sign Liverpool youngster as clubs in talks over transfer fee after Man City deal",
+          "summary": "Manchester United are looking to recruit some of the best young talents in England",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-transfer-liverpool-konde-34668898",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 19:53:42 +0000"
+        },
+        {
+          "title": "Man Utd complete Liverpool transfer coup after swooping for Man City youngster",
+          "summary": "Manchester United are continuing to recruit some of the best young talent in England",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-liverpool-transfer-konde-37699857",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 19:00:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Scott McTominay makes training return two weeks after successful heart surgery",
+      "items": [
+        {
+          "title": "Scott McTominay makes training return two weeks after successful heart surgery",
+          "summary": "The former Manchester United midfielder has missed the last four games in all competitions",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/scott-mctominay-training-heart-surgery-34667711",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 15:36:41 +0000"
+        },
+        {
+          "title": "Scott McTominay makes Napoli return just two weeks after undergoing heart surgery",
+          "summary": "Scott McTominay is closing in on a comeback after undergoing a heart procedure",
+          "url": "https://www.mirror.co.uk/sport/football/news/scott-mctominay-heart-surgery-napoli-37699566",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 16:49:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Wayne Rooney aims dig at forward as JJ Gabriel's transfer fate emerges",
+      "items": [
+        {
+          "title": "Man United latest: Wayne Rooney aims dig at forward as JJ Gabriel's transfer fate emerges",
+          "summary": "Manchester United will hope to resolve some glaring issues over the international break, one of which concerns the future of young gem JJ Gabriel",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-latest-wayne-rooney-34666937",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United scrutiny is a world away from Man City after £136m signings",
+      "items": [
+        {
+          "title": "Manchester United scrutiny is a world away from Man City after £136m signings",
+          "summary": "Man Utd spent £50m on Andrey Santos in the summer, but the signing of the midfielder has already been questioned by some.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-scrutiny-world-away-34666542",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United handed updates on two left-back targets after double transfer decision",
+      "items": [
+        {
+          "title": "Man United handed updates on two left-back targets after double transfer decision",
+          "summary": "Manchester United are expected to continue their search for a left-back when the transfer window reopens in January",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-left-back-transfer-34668669",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 21:12:38 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United handed JJ Gabriel transfer update as Barcelona chief breaks silence on move",
+      "items": [
+        {
+          "title": "Man United handed JJ Gabriel transfer update as Barcelona chief breaks silence on move",
+          "summary": "JJ Gabriel's Manchester United future has been plunged into major doubt after he requested to leave the club, with several European clubs now monitoring his situation",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-barcelona-man-united-34668564",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 17:58:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carlos Baleba makes three 'deliberate' Man United decisions as Bryan Mbeumo takes action",
+      "items": [
+        {
+          "title": "Carlos Baleba makes three 'deliberate' Man United decisions as Bryan Mbeumo takes action",
+          "summary": "Carlos Baleba is yet to make his Manchester United debut after joining from Brighton in a £70million move, with an injury delaying his start at the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carlos-baleba-man-united-mbeumo-34667675",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 15:50:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Alejandro Garnacho Chelsea clause truth with Man United's £43m transfer hope clear",
+      "items": [
+        {
+          "title": "Alejandro Garnacho Chelsea clause truth with Man United's £43m transfer hope clear",
+          "summary": "Former Manchester United forward Alejandro Garnacho has had a rough few seasons and has got off to a bad start at Aston Villa",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-news-garnacho-34665737",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 13:13:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United reveal new addition to Michael Carrick's backroom staff",
+      "items": [
+        {
+          "title": "Manchester United reveal new addition to Michael Carrick's backroom staff",
+          "summary": "Michael Carrick has made an addition to his Man Utd backroom staff, bringing in another goalkeeper coach.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-reveal-new-addition-34665929",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 12:36:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Scott McTominay's incredible fortune soars as he banks huge paydays off the pitch",
+      "items": [
+        {
+          "title": "Scott McTominay's incredible fortune soars as he banks huge paydays off the pitch",
+          "summary": "Former Manchester United star Scott McTominay has made some savvy decisions off the pitch",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mctominay-net-worth-34665459",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 12:27:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kai Rooney's golden contract rule imposed by dad Wayne emerges in new documentary",
+      "items": [
+        {
+          "title": "Kai Rooney's golden contract rule imposed by dad Wayne emerges in new documentary",
+          "summary": "Wayne Rooney didn't want to be the reason for Kai's progression at Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/kai-wayne-rooney-man-united-34664752",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 12:02:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Shea Lacey shows his class and injury update - Manchester United Academy Notebook",
+      "items": [
+        {
+          "title": "Shea Lacey shows his class and injury update - Manchester United Academy Notebook",
+          "summary": "This week's Man Utd Academy Notebook provides an injury update and highlights a kind gesture from Shea Lacey.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/shea-lacey-shows-class-injury-34658476",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I wasn't as strong' - Man United 'target' endorsed by two legends with over 200 career goals",
+      "items": [
+        {
+          "title": "'I wasn't as strong' - Man United 'target' endorsed by two legends with over 200 career goals",
+          "summary": "A Manchester United transfer target has been praised by two legends after an impressive start to the season and links with some of the biggest European clubs",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/pio-esposito-man-utd-transfer-34663441",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 10:37:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United selling pieces of Old Trafford turf for a staggering £125",
+      "items": [
+        {
+          "title": "Manchester United selling pieces of Old Trafford turf for a staggering £125",
+          "summary": "Man Utd are raising funds by offering fans the chance to own a small piece of Old Trafford's former pitch.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-selling-pieces-old-34664254",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 09:36:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United announce exciting midfielder signing from Man City",
+      "items": [
+        {
+          "title": "Manchester United announce exciting midfielder signing from Man City",
+          "summary": "Man Utd have announced the signing of talented youngster Karim Cassim for their rivals Man City.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-announce-exciting-midfielder-34663982",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 09:13:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United fans launch online campaign against the club's sponsors",
+      "items": [
+        {
+          "title": "Manchester United fans launch online campaign against the club's sponsors",
+          "summary": "Man Utd fans continue to protest against the club's ownership, hoping to remove the Glazers and Sir Jim Ratcliffe.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-fans-launch-online-34663422",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 08:08:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Benjamin Sesko at centre of row as Wayne Rooney sides with Man United legends",
+      "items": [
+        {
+          "title": "Benjamin Sesko at centre of row as Wayne Rooney sides with Man United legends",
+          "summary": "Manchester United striker Benjamin Sesko missed the draw at Fulham on Sunday with a shin issue, and now Wayne Rooney has had his say on the Slovenian",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-benjamin-sesko-rooney-34663091",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 05:57:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel 'will definitely leave' as Wayne Rooney mocks problematic forward",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel 'will definitely leave' as Wayne Rooney mocks problematic forward",
+          "summary": "Manchester United have some concerning developments in attack as speculation continues to swirl around JJ Gabriel's future",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37698220",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ex-Man Utd star says he might not have made England debut if he stayed at Old Trafford",
+      "items": [
+        {
+          "title": "Ex-Man Utd star says he might not have made England debut if he stayed at Old Trafford",
+          "summary": "James Garner quit Manchester United for Everton permanently in 2022 and the midfielder has thrived away from Old Trafford - and could potentially play for England this weekend",
+          "url": "https://www.mirror.co.uk/sport/football/news/england-man-utd-everton-garner-37700292",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 21:44:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Barcelona chief Deco makes JJ Gabriel transfer admission as Man Utd deadline approaches",
+      "items": [
+        {
+          "title": "Barcelona chief Deco makes JJ Gabriel transfer admission as Man Utd deadline approaches",
+          "summary": "Barcelona sporting director Deco has addressed links with JJ Gabriel after the 15-year-old Manchester United academy prospect asked to leave",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-barcelona-37699844",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 19:20:22 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick given fresh Man Utd headache as star makes feelings clear on position switch",
+      "items": [
+        {
+          "title": "Michael Carrick given fresh Man Utd headache as star makes feelings clear on position switch",
+          "summary": "Manchester United have endured a difficult start to the new season, with injuries causing havoc at Old Trafford and one of Michael Carrick’s stars have given him a fresh issue",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-patrick-dorgu-37699850",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 18:50:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The Day Alex Ferguson Changed Football: Celebrate 27 Years of United Greatness",
+      "items": [
+        {
+          "title": "The Day Alex Ferguson Changed Football: Celebrate 27 Years of United Greatness",
+          "summary": "On November 6, 1986, Manchester United appointed a manager who would redefine the club’s history. This stunning special edition celebrates Ferguson’s 27-year reign and record-breaking success",
+          "url": "https://www.mirror.co.uk/sport/football/day-alex-ferguson-changed-football-37699284",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 14:48:59 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney makes 'money' confession as Man Utd icon admits management career could be over",
+      "items": [
+        {
+          "title": "Wayne Rooney makes 'money' confession as Man Utd icon admits management career could be over",
+          "summary": "Former Manchester United and England star Wayne Rooney now stars on Match of the Day and has gone almost two years without a job in management",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-bbc-man-utd-37697973",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 12:21:01 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League sack race: Every manager rated and slated by our experts as 2/10 boss clings on to job",
+      "items": [
+        {
+          "title": "Premier League sack race: Every manager rated and slated by our experts as 2/10 boss clings on to job",
+          "summary": "With five games gone of the Premier League season, some managers are already under pressure including Tottenham boss Roberto De Zerbi - our club writers give their verdicts.",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-sack-race-every-37695352",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 11:37:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Wayne Rooney slams Benjamin Sesko for missing Man Utd clash with shin injury",
+      "items": [
+        {
+          "title": "Wayne Rooney slams Benjamin Sesko for missing Man Utd clash with shin injury",
+          "summary": "Benjamin Sesko sat out of Manchester United's draw at Fulham, which has copped criticism from Wayne Rooney as the striker continues to deal with a shin injury",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rooney-sesko-injury-37696270",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 06:20:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United complete surprise raid on Liverpool for teenage talent",
+      "items": [
+        {
+          "title": "Manchester United complete surprise raid on Liverpool for teenage talent",
+          "summary": "<p>Manchester United have completed the signing of Liverpool youngster Isaac Konde as they continue to strengthen their academy ranks with highly rated young talent. The 16-year-old has now committed his future to the Red Devils after leaving Liverpool, with the Premier League clubs discussing a compensation package for the academy prospect. Isaac Konde makes Manchester [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/24/manchester-united-complete-surprise-raid-on-liverpool-for-teenage-talent/\">Manchester United complete surprise raid on Liverpool for teenage talent</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/24/manchester-united-complete-surprise-raid-on-liverpool-for-teenage-talent/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 24 Sep 2026 20:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal, Chelsea and Manchester United join Barcelona in €60m transfer battle",
+      "items": [
+        {
+          "title": "Arsenal, Chelsea and Manchester United join Barcelona in €60m transfer battle",
+          "summary": "<p>Castello Lukeba has attracted interest from several European heavyweights, with RB Leipzig reportedly prepared to consider offers for the highly-rated French defender. The 23-year-old centre-back has established himself as an important player for the Bundesliga side since joining from Lyon, and his performances have continued to attract attention from clubs looking to strengthen their defensive [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/24/arsenal-chelsea-and-manchester-united-join-barcelona-in-e60m-transfer-battle/\">Arsenal, Chelsea and Manchester United join Barcelona in €60m transfer battle</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/24/arsenal-chelsea-and-manchester-united-join-barcelona-in-e60m-transfer-battle/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 24 Sep 2026 20:00:14 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United make early move for highly rated midfield prospect",
+      "items": [
+        {
+          "title": "Manchester United make early move for highly rated midfield prospect",
+          "summary": "<p>Manchester United have reportedly made contact over a potential deal for Gambian midfielder Omar Marong as they continue to strengthen their recruitment of promising young players. The 16-year-old has emerged as one of Gambia&#8217;s most highly regarded prospects after making a strong impression at the WAFU Zone A Under-17 tournament in Senegal earlier this month. [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/24/manchester-united-make-early-move-for-highly-rated-midfield-prospect/\">Manchester United make early move for highly rated midfield prospect</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/24/manchester-united-make-early-move-for-highly-rated-midfield-prospect/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 24 Sep 2026 19:40:29 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Free Talk Friday",
+      "items": [
+        {
+          "title": "Free Talk Friday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>What's the craic? </p> <p><strong>Looking for memes? Head over to</strong> <a href=\"https://www.reddit.com/r/memechesterunited\">/r/memechesterunited</a><strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhelansShorts\"> /u/PhelansShorts </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpniah/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpniah/free_talk_friday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpniah/free_talk_friday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T05:00:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bryan Mbeumo’s goal for Cameroon against Comoros",
+      "items": [
+        {
+          "title": "Bryan Mbeumo’s goal for Cameroon against Comoros",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpcsw5/bryan_mbeumos_goal_for_cameroon_against_comoros/\"> <img alt=\"Bryan Mbeumo’s goal for Cameroon against Comoros\" src=\"https://external-preview.redd.it/NnludTNia2YzanJoMa7vB7wkKvFSdi9uzd_S7rIf1ge8dqrqsTNB4ldbi7QP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d8337727e2e756705a6f4b3966b1a34c4f8653e\" title=\"Bryan Mbeumo’s goal for Cameroon against Comoros\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/9vlsmwjf3jrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpcsw5/bryan_mbeumos_goal_for_cameroon_against_comoros/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpcsw5/bryan_mbeumos_goal_for_cameroon_against_comoros/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T20:33:09+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Stone] Confirmed by ManUtd that since 30 June, they have spent £191.73m on new players - payments due over the next five years. They have also borrowed an additional £120m - in three chunks, two in July, one in August - roughly coincided with when they bought players - & paid £30m back in September",
+      "items": [
+        {
+          "title": "[Stone] Confirmed by ManUtd that since 30 June, they have spent £191.73m on new players - payments due over the next five years. They have also borrowed an additional £120m - in three chunks, two in July, one in August - roughly coincided with when they bought players - & paid £30m back in September",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpe915/stone_confirmed_by_manutd_that_since_30_june_they/\"> <img alt=\"[Stone] Confirmed by ManUtd that since 30 June, they have spent £191.73m on new players - payments due over the next five years. They have also borrowed an additional £120m - in three chunks, two in July, one in August - roughly coincided with when they bought players - &amp; paid £30m back in September\" src=\"https://preview.redd.it/gwczu9mscjrh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c5ea78562defd3d19c78260d042eba2452c5f37\" title=\"[Stone] Confirmed by ManUtd that since 30 June, they have spent £191.73m on new players - payments due over the next five years. They have also borrowed an additional £120m - in three chunks, two in July, one in August - roughly coincided with when they bought players - &amp; paid £30m back in September\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/gwczu9mscjrh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpe915/stone_confirmed_by_manutd_that_since_30_june_they/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpe915/stone_confirmed_by_manutd_that_since_30_june_they/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T21:31:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Patrick Dorgu heatmap as RW. He created the most chances (3) for Denmark vs Norway. [Fotmob]",
+      "items": [
+        {
+          "title": "Patrick Dorgu heatmap as RW. He created the most chances (3) for Denmark vs Norway. [Fotmob]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpdu5j/patrick_dorgu_heatmap_as_rw_he_created_the_most/\"> <img alt=\"Patrick Dorgu heatmap as RW. He created the most chances (3) for Denmark vs Norway. [Fotmob]\" src=\"https://preview.redd.it/ho1j5sheajrh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=babf27100fa2bd84b84f88974baea69ac264fa5b\" title=\"Patrick Dorgu heatmap as RW. He created the most chances (3) for Denmark vs Norway. [Fotmob]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/ho1j5sheajrh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpdu5j/patrick_dorgu_heatmap_as_rw_he_created_the_most/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpdu5j/patrick_dorgu_heatmap_as_rw_he_created_the_most/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T21:14:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Andy Mitten] Manchester United sign youth winger Isaac Konde, 16, from Liverpool",
+      "items": [
+        {
+          "title": "[Andy Mitten] Manchester United sign youth winger Isaac Konde, 16, from Liverpool",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wp7drd/andy_mitten_manchester_united_sign_youth_winger/\"> <img alt=\"[Andy Mitten] Manchester United sign youth winger Isaac Konde, 16, from Liverpool\" src=\"https://external-preview.redd.it/CeSHl4cJNDE1UJdiZhoANJiVeGw-FPMv5RghyR28i8U.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=13c3241e0909faa5e2bf7a09db80f121f7ff6761\" title=\"[Andy Mitten] Manchester United sign youth winger Isaac Konde, 16, from Liverpool\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7626026/2026/09/24/isaac-konde-manchester-united-liverpool-youth-transfer/?unlocked_article_code=1.DlE.sagI.p9PgladtUPN8&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wp7drd/andy_mitten_manchester_united_sign_youth_winger/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wp7drd/andy_mitten_manchester_united_sign_youth_winger/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T17:07:47+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Karim Cassim, 17, completes Manchester United move from Manchester City",
+      "items": [
+        {
+          "title": "Karim Cassim, 17, completes Manchester United move from Manchester City",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wowbdr/karim_cassim_17_completes_manchester_united_move/\"> <img alt=\"Karim Cassim, 17, completes Manchester United move from Manchester City\" src=\"https://external-preview.redd.it/rymCfYy0R2Y5Fy_iNZVu9zfmk6yIgRrH-Hqt9XC09iw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d1db7ca99bf3865a7ff7325a1991ee9e46ac7ca\" title=\"Karim Cassim, 17, completes Manchester United move from Manchester City\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Karim Cassim, the 17-year-old midfielder, has completed his move to Manchester United from Manchester City.</p> <p>United have been awaiting Premier League ratification, which has now arrived, and he can begin playing academy games for the club.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7625367/2026/09/24/karim-cassim-manchester-united-city-transfer/?unlocked_article_code=1.DlE.tLvk.nrvybI7hG1cH&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wowbdr/karim_cassim_17_completes_manchester_united_move/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wowbdr/karim_cassim_17_completes_manchester_united_move/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T08:43:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[L'Équipe] Konaté injured, first call up for Leny Yoro with the french NT",
+      "items": [
+        {
+          "title": "[L'Équipe] Konaté injured, first call up for Leny Yoro with the french NT",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Poux3\"> /u/Poux3 </a> <br /> <span><a href=\"https://www.lequipe.fr/Football/Actualites/Ibrahima-konate-blesse-au-genou-droit-et-forfait-avec-les-bleus-premiere-convocation-pour-leny-yoro/1720845\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wouo78/léquipe_konaté_injured_first_call_up_for_leny/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wouo78/léquipe_konaté_injured_first_call_up_for_leny/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T07:00:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes starts for Portugal against Wales",
+      "items": [
+        {
+          "title": "Bruno Fernandes starts for Portugal against Wales",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wp8t11/bruno_fernandes_starts_for_portugal_against_wales/\"> <img alt=\"Bruno Fernandes starts for Portugal against Wales\" src=\"https://preview.redd.it/8fgx5uxzbirh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=043e0e48230ebad8a73054e015f8ae0e0d6acc6c\" title=\"Bruno Fernandes starts for Portugal against Wales\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/8fgx5uxzbirh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wp8t11/bruno_fernandes_starts_for_portugal_against_wales/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wp8t11/bruno_fernandes_starts_for_portugal_against_wales/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T18:00:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bryan Mbeumo’s goal vs Everton nominated for the PL Goal of the Month",
+      "items": [
+        {
+          "title": "Bryan Mbeumo’s goal vs Everton nominated for the PL Goal of the Month",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wozy2h/bryan_mbeumos_goal_vs_everton_nominated_for_the/\"> <img alt=\"Bryan Mbeumo’s goal vs Everton nominated for the PL Goal of the Month\" src=\"https://external-preview.redd.it/aWh4dGJsdXFsZ3JoMSr6i4VInfWrFa6z8AtyUXpvpBdyaMrrS08ou-LYeDd4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aeaab99c85106edc2a9c5ebf4ec0fa3117b75333\" title=\"Bryan Mbeumo’s goal vs Everton nominated for the PL Goal of the Month\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/id4m4ntqlgrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wozy2h/bryan_mbeumos_goal_vs_everton_nominated_for_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wozy2h/bryan_mbeumos_goal_vs_everton_nominated_for_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T12:11:09+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[ManUtd] Cassim signs for United",
+      "items": [
+        {
+          "title": "[ManUtd] Cassim signs for United",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/karim-cassim-signs-for-united\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wown6b/manutd_cassim_signs_for_united/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wown6b/manutd_cassim_signs_for_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T09:04:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[ManUtd] Connor King joins as assistant goalkeeping coach",
+      "items": [
+        {
+          "title": "[ManUtd] Connor King joins as assistant goalkeeping coach",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/connor-king-joins-as-assistant-goalkeeping-coach\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1woynuy/manutd_connor_king_joins_as_assistant_goalkeeping/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1woynuy/manutd_connor_king_joins_as_assistant_goalkeeping/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T11:05:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Could Manchester United have spent more in the summer transfer window?",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Could Manchester United have spent more in the summer transfer window?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wout03/laurie_whitwell_could_manchester_united_have/\"> <img alt=\"[Laurie Whitwell] Could Manchester United have spent more in the summer transfer window?\" src=\"https://external-preview.redd.it/W6nkcdx4C4op6s3AfBywkSczfXxwdtVIAwyoTTQp4Go.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=424b57a276395c9bf3da323bcea5dbcca253b07f\" title=\"[Laurie Whitwell] Could Manchester United have spent more in the summer transfer window?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Manchester United paid less for players during the summer transfer window than Ipswich Town and about the same amount as Hull City. </p> <p>Michael Carrick's squad needed work but United’s financial picture is precarious.</p> <p>Could they have been more ambitious in a bid to build on last season's third-place finish?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7624631/2026/09/24/manchester-united-summer-transfer-spending/?unlocked_article_code=1.DlE.d1Zc.V1clKrSLqrWv&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wout03/laurie_whitwell_could_manchester_united_have/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wout03/laurie_whitwell_could_manchester_united_have/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T07:08:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Are Man United's finances holding them back? (TOTD)",
+      "items": [
+        {
+          "title": "Are Man United's finances holding them back? (TOTD)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wox4k3/are_man_uniteds_finances_holding_them_back_totd/\"> <img alt=\"Are Man United's finances holding them back? (TOTD)\" src=\"https://external-preview.redd.it/7Rng7pxEPtoqvYQnTaxfRDRoecRWqkcx4J4Dm1p1EpU.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e0c6ebe5a0333d43f590306a1468d0d8b40d7dea\" title=\"Are Man United's finances holding them back? (TOTD)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&#x200b;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Sheikhabusosa\"> /u/Sheikhabusosa </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=j0ksdwVuWMM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wox4k3/are_man_uniteds_finances_holding_them_back_totd/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wox4k3/are_man_uniteds_finances_holding_them_back_totd/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T09:35:49+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wovnpx/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wovnpx/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wovnpx/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-24T08:00:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 44,
+    "story_count": 42
+  }
+}
