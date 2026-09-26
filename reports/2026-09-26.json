@@ -1,0 +1,664 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T05:56:23.630382+00:00",
+  "match_data": {
+    "collected_at": "2026-09-26T05:56:18.857865+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United latest: Academy star signs first contract as Barcelona make JJ Gabriel stance clear",
+      "items": [
+        {
+          "title": "Man United latest: Academy star signs first contract as Barcelona make JJ Gabriel stance clear",
+          "summary": "Michael Carrick's Manchester United are not in action for a another fortnight as the extended international break rolls on",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-ajayi-34673759",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Barcelona make position clear on JJ Gabriel and academy star signs pro contract",
+          "summary": "Manchester United won't be in action for another two weeks with the international break in full flow but there's still plenty going on behind the scenes",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-contract-37703414",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United star Joshua Zirkzee given late international duty update after injury blow",
+      "items": [
+        {
+          "title": "Man United star Joshua Zirkzee given late international duty update after injury blow",
+          "summary": "Manchester United's Joshua Zirkzee has been given a late international call-up after Netherlands head coach Xavi Hernandez was handed a huge injury blow",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-joshua-zirkzee-netherlands-34672150",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 16:13:01 +0000"
+        },
+        {
+          "title": "Man Utd star handed late international call-up after 'unfortunate' injury blow",
+          "summary": "A Manchester United star has been called up for the Nations League as a result of an international team-mate sustaining an injury",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-joshua-zirkzee-netherlands-37704106",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 17:02:13 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United announce professional contract for exciting winger",
+      "items": [
+        {
+          "title": "Manchester United announce professional contract for exciting winger",
+          "summary": "Man Utd have secured the future of talented winger Noah Ajayi, who was outstanding in youth games last season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-announce-professional-contract-34670811",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 10:25:20 +0000"
+        },
+        {
+          "title": "Noah Ajayi signs professional contract",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JMatty01\"> /u/JMatty01 </a> <br /> <span><a href=\"https://www.manutd.com/en/news/noah-ajayi-signs-united-contract\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpstc5/noah_ajayi_signs_professional_contract/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpstc5/noah_ajayi_signs_professional_contract/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T10:31:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jamie Carragher calls out 'ludicrous' Michael Carrick Man United sack verdict",
+      "items": [
+        {
+          "title": "Jamie Carragher calls out 'ludicrous' Michael Carrick Man United sack verdict",
+          "summary": "Manchester United boss Michael Carrick has struggled so far this season and now Jamie Carragher has had his say on the Reds boss",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-carragher-34669520",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 08:59:17 +0000"
+        },
+        {
+          "title": "Jamie Carragher gives verdict on Michael Carrick sacking after backlash to Man Utd opinion",
+          "summary": "Michael Carrick has made a poor start to the season with Manchester United, winning just one of their five Premier League matches, and Jamie Carragher has explained his stance",
+          "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-michael-carrick-sacking-37700806",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 08:30:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "I came through Man United's academy but left too early – now I'm out of football and run a shop",
+      "items": [
+        {
+          "title": "I came through Man United's academy but left too early – now I'm out of football and run a shop",
+          "summary": "A former Manchester United academy star reflected on his decision to leave Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-academy-transfer-decision-34653704",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 05:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United's academy after JJ Gabriel bombshell - Liverpool and Man City signings",
+      "items": [
+        {
+          "title": "Manchester United's academy after JJ Gabriel bombshell - Liverpool and Man City signings",
+          "summary": "Man Utd's academy was rocked by the news of JJ Gabriel's request to leave, but the hard work continues at Carrington.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-academy-after-jj-34666314",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rio Ferdinand makes Man United point after Man City 115 charges verdict",
+      "items": [
+        {
+          "title": "Rio Ferdinand makes Man United point after Man City 115 charges verdict",
+          "summary": "Rio Ferdinand has taken a cheeky swipe at Manchester City after reports emerged that the club had been found guilty on the vast majority of the 115 financial charges",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/rio-ferdinand-man-united-city-34673805",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 15:18:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Slovenia coach responds to Benjamin Sesko's 'difficult period' after injury setback",
+      "items": [
+        {
+          "title": "Slovenia coach responds to Benjamin Sesko's 'difficult period' after injury setback",
+          "summary": "Manchester United star Benjamin Sesko was forced to withdraw from the Slovenia national team squad after a recurrence of a shin injury suffered in May",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/slovenia-coach-responds-benjamin-seskos-34672842",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 13:49:20 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United youngster Shea Lacey sends message with wondergoal",
+      "items": [
+        {
+          "title": "Manchester United youngster Shea Lacey sends message with wondergoal",
+          "summary": "Man Utd youngster Shea Lacey was called up to England's U20 squad for the September international break.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/shea-lacey-man-united-goal-34672545",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 13:28:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bryan Mbeumo and Patrick Dorgu send Michael Carrick message as Man United boss looks for quick fix",
+      "items": [
+        {
+          "title": "Bryan Mbeumo and Patrick Dorgu send Michael Carrick message as Man United boss looks for quick fix",
+          "summary": "Bryan Mbeumo and Patrick Dorgu have given Michael Carrick something to think about ahead of Manchester United's return to Premier League action",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-dorgu-mbeumo-goal-34671277",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 11:32:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes brutally criticised by Portugal boss after being forced to play unusual position",
+      "items": [
+        {
+          "title": "Bruno Fernandes brutally criticised by Portugal boss after being forced to play unusual position",
+          "summary": "Manchester United star Bruno Fernandes was made to play in a different position as Portugal beat Wales 1-0 and his manager has taken a swipe",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-portugal-man-united-34669730",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 08:21:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United reveal unexpected hidden cost after summer transfers",
+      "items": [
+        {
+          "title": "Manchester United reveal unexpected hidden cost after summer transfers",
+          "summary": "Man Utd's end of year financials were published on Wednesday, which was followed by additional exchange filings.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-reveal-unexpected-hidden-34669481",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 08:02:32 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel transfer update, Glazers stake decision, INEOS boycott plan latest",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel transfer update, Glazers stake decision, INEOS boycott plan latest",
+          "summary": "Manchester United still have more than two weeks to go until they are next back in action against Tottenham with the extended international break in full swing",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-news-live-jj-37700592",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 22:07:03 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League clubs consider legal action as Man Utd react to Man City guilty verdict",
+      "items": [
+        {
+          "title": "Premier League clubs consider legal action as Man Utd react to Man City guilty verdict",
+          "summary": "Manchester City's ongoing legal battle against the Premier League has already seen Manchester United and other clubs consider taking action over potentially losing millions",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-city-premier-league-37704365",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 19:36:34 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Rio Ferdinand issues brutal response as Man City found GUILTY of Premier League charges",
+      "items": [
+        {
+          "title": "Rio Ferdinand issues brutal response as Man City found GUILTY of Premier League charges",
+          "summary": "Manchester United icon Rio Ferdinand has not pulled any punches with his response to Manchester City being found guilty of 114 of the 115 charges brought against them",
+          "url": "https://www.mirror.co.uk/sport/football/news/rio-ferdinand-man-city-guilty-37703667",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 15:43:59 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd 'offered' Barcelona star for January as Romano confirms new signing 'set to be announced' - Football365",
+      "items": [
+        {
+          "title": "Man Utd 'offered' Barcelona star for January as Romano confirms new signing 'set to be announced' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9Oa3ZDY2RxZzFHangxLTh0c3dfcUhNQUJ0MVZSdXV5cnVia090OXFwbDhnWEJlb1cyUXIxQ1lTWFg3em43c1FCRm5DMWNVc01yam9vRXI4a05LRVBKc3VXQWZuRXUwWV9zbnoxVVFKUTlMSFA5Y00wd2Z4RWRHak1oQ18xd1dhMUJMa2xDRWZEbFctYTNxZVBoZ2s4ZHFoVW5FaWFqWWdCcXFOdlow?oc=5\" target=\"_blank\">Man Utd 'offered' Barcelona star for January as Romano confirms new signing 'set to be announced'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZV9Oa3ZDY2RxZzFHangxLTh0c3dfcUhNQUJ0MVZSdXV5cnVia090OXFwbDhnWEJlb1cyUXIxQ1lTWFg3em43c1FCRm5DMWNVc01yam9vRXI4a05LRVBKc3VXQWZuRXUwWV9zbnoxVVFKUTlMSFA5Y00wd2Z4RWRHak1oQ18xd1dhMUJMa2xDRWZEbFctYTNxZVBoZ2s4ZHFoVW5FaWFqWWdCcXFOdlow?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 09:23:37 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United complete deal for “fast, direct and very exciting prospect” from Liverpool - Yahoo Sports",
+      "items": [
+        {
+          "title": "Man United complete deal for “fast, direct and very exciting prospect” from Liverpool - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbk1mTWp4MW9SUUJ5UkxRa191VkFRN0xjNUdNRWZLd0E2bnRyWkRKQjFmd2JEN0lfSE1mM2gtMUJPNU93ZTIxLTc4cllxSE15bG96WUZFU1Y1c1Joc3lfTWJZb2ZCMXF5Zmw1YjZJcFE1dHczbVc5UlNxYUZYaUFKODF0Q1c?oc=5\" target=\"_blank\">Man United complete deal for “fast, direct and very exciting prospect” from Liverpool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbk1mTWp4MW9SUUJ5UkxRa191VkFRN0xjNUdNRWZLd0E2bnRyWkRKQjFmd2JEN0lfSE1mM2gtMUJPNU93ZTIxLTc4cllxSE15bG96WUZFU1Y1c1Joc3lfTWJZb2ZCMXF5Zmw1YjZJcFE1dHczbVc5UlNxYUZYaUFKODF0Q1c?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 24 Sep 2026 20:00:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United set to officially confirm rare Liverpool transfer blow - The Empire of The Kop",
+      "items": [
+        {
+          "title": "Manchester United set to officially confirm rare Liverpool transfer blow - The Empire of The Kop",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUhVWU9SU3lzV1VldTYtaVBnMHlQQ3Nvazh3SkhBZ1dMajlvbjkyXzZqV0VncDFLaDE0azU1bFdqNHpNdU5uWFd1U1NiMkxXbmhhbDBmeTdyOGtLLUZ5TTZfVmI0dkFUYkZLVE9QbDlBOE5aMDBNbnhpSVFqVGhhLWE1dHJzeDE1bnNieWtTd0NVYzA3a3hBT1pxSm1QMXV3YUVPeFNaRFBTUWs1ZVdMa056Mk5lQdIBuwFBVV95cUxQU0YwVXlXYUVCVUtJekpXVFREUHZ3Tm5tNWVEQWdfc0lWWVNPbVlEQ1haX3J4NHZ2R3JKZDlTbXY2UWloV3I0QmlrMmp4SHdvTHZuNHlyQ1hBMTlfeHdBZHp3b25ZNlR4M3NIRlNJR1VjV3dFRnNUZXFHVE5MZzNpZFBZZC1zTVhqbDVyRjlORWNkRWpqRjNlMzR2ZmJXRWd5M294bVRmMHM4TXdmRDZBZURWWXgtMnhaN2NB?oc=5\" target=\"_blank\">Manchester United set to officially confirm rare Liverpool transfer blow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Empire of The Kop</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUhVWU9SU3lzV1VldTYtaVBnMHlQQ3Nvazh3SkhBZ1dMajlvbjkyXzZqV0VncDFLaDE0azU1bFdqNHpNdU5uWFd1U1NiMkxXbmhhbDBmeTdyOGtLLUZ5TTZfVmI0dkFUYkZLVE9QbDlBOE5aMDBNbnhpSVFqVGhhLWE1dHJzeDE1bnNieWtTd0NVYzA3a3hBT1pxSm1QMXV3YUVPeFNaRFBTUWs1ZVdMa056Mk5lQdIBuwFBVV95cUxQU0YwVXlXYUVCVUtJekpXVFREUHZ3Tm5tNWVEQWdfc0lWWVNPbVlEQ1haX3J4NHZ2R3JKZDlTbXY2UWloV3I0QmlrMmp4SHdvTHZuNHlyQ1hBMTlfeHdBZHp3b25ZNlR4M3NIRlNJR1VjV3dFRnNUZXFHVE5MZzNpZFBZZC1zTVhqbDVyRjlORWNkRWpqRjNlMzR2ZmJXRWd5M294bVRmMHM4TXdmRDZBZURWWXgtMnhaN2NB?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 25 Sep 2026 09:44:29 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rio Ferdinand sends cheeky message after Man City found guilty on 114 financial charges",
+      "items": [
+        {
+          "title": "Rio Ferdinand sends cheeky message after Man City found guilty on 114 financial charges",
+          "summary": "<p>Manchester United legend Rio Ferdinand couldn’t help but make a cheeky comment after Manchester City were found guilty of grave financial breaches by an independent Premier League commission. The landmark ruling, which found City guilty on 114 counts regarding financial fair play rules, has sent shockwaves through English football and sparked immediate reactions from former [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/25/rio-ferdinand-man-city-verdict-premier-league-medal/\">Rio Ferdinand sends cheeky message after Man City found guilty on 114 financial charges</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/25/rio-ferdinand-man-city-verdict-premier-league-medal/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 25 Sep 2026 20:22:15 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "“Fantastic player” from La Liga told to join Liverpool or Man United",
+      "items": [
+        {
+          "title": "“Fantastic player” from La Liga told to join Liverpool or Man United",
+          "summary": "<p>Liverpool have been linked with a move for Frenkie de Jong, with the Barcelona midfielder&#8217;s future becoming a talking point ahead of the January transfer window. The Reds have been linked with a move for the Netherlands international as they look to strengthen their midfield options, although any potential deal could depend on Barcelona&#8217;s valuation [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/25/fantastic-player-from-la-liga-told-to-join-liverpool-or-man-united/\">&#8220;Fantastic player&#8221; from La Liga told to join Liverpool or Man United</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/25/fantastic-player-from-la-liga-told-to-join-liverpool-or-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 25 Sep 2026 20:00:26 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United dealt blow as 24-year-old target commits to rival PL club",
+      "items": [
+        {
+          "title": "Manchester United dealt blow as 24-year-old target commits to rival PL club",
+          "summary": "<p>Cole Palmer has reportedly made a firm decision on his Chelsea future amid growing speculation linking him with a move to Manchester United. The England international has attracted considerable transfer interest in recent months, with the Red Devils understood to be keen to bring the attacking midfielder to Old Trafford. However, despite the speculation, Palmer [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/25/manchester-united-dealt-blow-as-24-year-old-target-commits-to-rival-pl-club/\">Manchester United dealt blow as 24-year-old target commits to rival PL club</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/25/manchester-united-dealt-blow-as-24-year-old-target-commits-to-rival-pl-club/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 25 Sep 2026 19:00:26 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wppj2a/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wppj2a/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wppj2a/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T07:00:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "David de Gea on Twitter: \"So...... Let's talk. How many Premier League titles have I won then?\"",
+      "items": [
+        {
+          "title": "David de Gea on Twitter: \"So...... Let's talk. How many Premier League titles have I won then?\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wq5m3t/david_de_gea_on_twitter_so_lets_talk_how_many/\"> <img alt=\"David de Gea on Twitter: &quot;So...... Let's talk. How many Premier League titles have I won then?&quot;\" src=\"https://preview.redd.it/na90kidexprh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=548809b1d0218be44207f0516ba14aedb532bc16\" title=\"David de Gea on Twitter: &quot;So...... Let's talk. How many Premier League titles have I won then?&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheGhostOfBabyOscar\"> /u/TheGhostOfBabyOscar </a> <br /> <span><a href=\"https://i.redd.it/na90kidexprh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wq5m3t/david_de_gea_on_twitter_so_lets_talk_how_many/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wq5m3t/david_de_gea_on_twitter_so_lets_talk_how_many/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T19:33:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[PL Watch] Manchester City found guilty on almost all Premier League charges relating to financial breaches (Ornstein)",
+      "items": [
+        {
+          "title": "[PL Watch] Manchester City found guilty on almost all Premier League charges relating to financial breaches (Ornstein)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpwqle/pl_watch_manchester_city_found_guilty_on_almost/\"> <img alt=\"[PL Watch] Manchester City found guilty on almost all Premier League charges relating to financial breaches (Ornstein)\" src=\"https://external-preview.redd.it/APEI2TngsTx4twyAwyAO0XIIbRVXevGKuMvMmlVpqJY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d6e152a4db0d9b328bd995466e71ff0a7551439b\" title=\"[PL Watch] Manchester City found guilty on almost all Premier League charges relating to financial breaches (Ornstein)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7049721/2026/09/25/manchester-city-charges-verdict-premier-league/?unlocked_article_code=1.D1E.mQ79.C511ejTTQj3j&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpwqle/pl_watch_manchester_city_found_guilty_on_almost/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpwqle/pl_watch_manchester_city_found_guilty_on_almost/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T13:44:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Adam Crafton] Manchester United assessing how City’s breaches could have impacted their own losses",
+      "items": [
+        {
+          "title": "[Adam Crafton] Manchester United assessing how City’s breaches could have impacted their own losses",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wq3lf7/adam_crafton_manchester_united_assessing_how/\"> <img alt=\"[Adam Crafton] Manchester United assessing how City’s breaches could have impacted their own losses\" src=\"https://external-preview.redd.it/7Airs04SsYYMfhEpqWME3gAqI7xhBTYfz8gf-2GA_O0.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=78883af62eb2544d509bc051ca97d2b1413d078a\" title=\"[Adam Crafton] Manchester United assessing how City’s breaches could have impacted their own losses\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7630254/2026/09/25/manchester-united-city-charges-losses/?source=emp_shared_article&amp;unlocked_article_code=1.D1E.oYca.r9sz_a_a-hor\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wq3lf7/adam_crafton_manchester_united_assessing_how/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wq3lf7/adam_crafton_manchester_united_assessing_how/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T18:14:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Noussair Mazraoui’s goal for Morocco against Gabon",
+      "items": [
+        {
+          "title": "Noussair Mazraoui’s goal for Morocco against Gabon",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wq5ump/noussair_mazraouis_goal_for_morocco_against_gabon/\"> <img alt=\"Noussair Mazraoui’s goal for Morocco against Gabon\" src=\"https://external-preview.redd.it/cm9uaXZrMGF6cHJoMadDDI-ls5b1tBD6EN26dLxMvUYxvgInMKdfPDqdYx4q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=30f6e2499fec9d5b160d196d16b1edd0ea58eab6\" title=\"Noussair Mazraoui’s goal for Morocco against Gabon\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/awvpuxz9zprh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wq5ump/noussair_mazraouis_goal_for_morocco_against_gabon/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wq5ump/noussair_mazraouis_goal_for_morocco_against_gabon/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T19:42:50+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Mike McGrath] James Garner is one who got away from Manchester United – now England calls",
+      "items": [
+        {
+          "title": "[Mike McGrath] James Garner is one who got away from Manchester United – now England calls",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wqh0h1/mike_mcgrath_james_garner_is_one_who_got_away/\"> <img alt=\"[Mike McGrath] James Garner is one who got away from Manchester United – now England calls\" src=\"https://external-preview.redd.it/dbZcc6sWIvOCeEH4kPecVvov5A8W0E0vKI3jASoJbmw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ae107423ce51afbc9cb1a6710ee04184d87fb57\" title=\"[Mike McGrath] James Garner is one who got away from Manchester United – now England calls\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/09/24/james-garner-man-utd-academy-protege-england-mini-valverde/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wqh0h1/mike_mcgrath_james_garner_is_one_who_got_away/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wqh0h1/mike_mcgrath_james_garner_is_one_who_got_away/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-26T04:19:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Shea Lacey goal for England U20s vs Italy",
+      "items": [
+        {
+          "title": "Shea Lacey goal for England U20s vs Italy",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpua32/shea_lacey_goal_for_england_u20s_vs_italy/\"> <img alt=\"Shea Lacey goal for England U20s vs Italy\" src=\"https://external-preview.redd.it/ajR0c2UwYXNtbnJoMUnv9s_jzHpQupkSlKWT4oq8xU34JaP_YkQlE7zWdGX9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d67ff8fbcfbab9be919c3e5f22af86c30a5fb2bf\" title=\"Shea Lacey goal for England U20s vs Italy\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/degsyj9smnrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpua32/shea_lacey_goal_for_england_u20s_vs_italy/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpua32/shea_lacey_goal_for_england_u20s_vs_italy/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T11:51:39+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[James Ducker] Manchester United have cut 322 jobs under Sir Jim Ratcliffe | Club have shed almost 30 per cent of workforce in cost-cutting drive as debt rises above £1.1bn",
+      "items": [
+        {
+          "title": "[James Ducker] Manchester United have cut 322 jobs under Sir Jim Ratcliffe | Club have shed almost 30 per cent of workforce in cost-cutting drive as debt rises above £1.1bn",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpvjx3/james_ducker_manchester_united_have_cut_322_jobs/\"> <img alt=\"[James Ducker] Manchester United have cut 322 jobs under Sir Jim Ratcliffe | Club have shed almost 30 per cent of workforce in cost-cutting drive as debt rises above £1.1bn\" src=\"https://external-preview.redd.it/JPEBrkDBh0DPxH4fB9Ey59foN2RNMijeJnYtjvni2F0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=da300e2dcbb4d0c9b9784ac2201fb88397d6539c\" title=\"[James Ducker] Manchester United have cut 322 jobs under Sir Jim Ratcliffe | Club have shed almost 30 per cent of workforce in cost-cutting drive as debt rises above £1.1bn\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/09/25/manchester-united-have-cut-jobs-under-sir-jim-ratcliffe/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpvjx3/james_ducker_manchester_united_have_cut_322_jobs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpvjx3/james_ducker_manchester_united_have_cut_322_jobs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T12:52:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Senne Lammens & Youri Tielemans both start for Belgium vs Italy",
+      "items": [
+        {
+          "title": "Senne Lammens & Youri Tielemans both start for Belgium vs Italy",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wq2zho/senne_lammens_youri_tielemans_both_start_for/\"> <img alt=\"Senne Lammens &amp; Youri Tielemans both start for Belgium vs Italy\" src=\"https://preview.redd.it/wd5kcglwcprh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6214640a41cb6aa278d141057ea2977aa396586a\" title=\"Senne Lammens &amp; Youri Tielemans both start for Belgium vs Italy\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/wd5kcglwcprh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wq2zho/senne_lammens_youri_tielemans_both_start_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wq2zho/senne_lammens_youri_tielemans_both_start_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T17:50:37+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Railston] Slovenia manager Bostjan Cesar has spoken about Benjamin Sesko's injury.",
+      "items": [
+        {
+          "title": "[Railston] Slovenia manager Bostjan Cesar has spoken about Benjamin Sesko's injury.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpw346/railston_slovenia_manager_bostjan_cesar_has/\"> <img alt=\"[Railston] Slovenia manager Bostjan Cesar has spoken about Benjamin Sesko's injury.\" src=\"https://preview.redd.it/z3inuywf2orh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3140fd74a547b045d2d1d1a6edafbcc8919851fb\" title=\"[Railston] Slovenia manager Bostjan Cesar has spoken about Benjamin Sesko's injury.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/z3inuywf2orh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpw346/railston_slovenia_manager_bostjan_cesar_has/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpw346/railston_slovenia_manager_bostjan_cesar_has/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T13:16:03+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Joshua Zirkzee has been called up to the Netherlands squad as Brian Brobbey’s replacement",
+      "items": [
+        {
+          "title": "Joshua Zirkzee has been called up to the Netherlands squad as Brian Brobbey’s replacement",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wpt61u/joshua_zirkzee_has_been_called_up_to_the/\"> <img alt=\"Joshua Zirkzee has been called up to the Netherlands squad as Brian Brobbey’s replacement\" src=\"https://external-preview.redd.it/jrOyqhjPd6k1hN1CqOClp464Wp0Y-IaYDy8DZ720ejQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=740e7742195e2b1818382acf2b53cfe5f48c1999\" title=\"Joshua Zirkzee has been called up to the Netherlands squad as Brian Brobbey’s replacement\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/pingbread\"> /u/pingbread </a> <br /> <span><a href=\"https://www.espn.nl/voetbal/artikel/_/id/17300483/zirkzee-vervangt-brobbey-bij-oranje?referrer=scribe\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wpt61u/joshua_zirkzee_has_been_called_up_to_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wpt61u/joshua_zirkzee_has_been_called_up_to_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-25T10:51:54+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 36,
+    "story_count": 32
+  }
+}
