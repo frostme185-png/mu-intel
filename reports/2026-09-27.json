@@ -1,0 +1,358 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T06:22:19.331959+00:00",
+  "match_data": {
+    "collected_at": "2026-09-27T06:22:14.643784+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Jose Mourinho's dig at Pep Guardiola and Man City 115 charges",
+      "items": [
+        {
+          "title": "Jose Mourinho's dig at Pep Guardiola and Man City 115 charges",
+          "summary": "Jose Mourinho and Pep Guardiola have crossed paths on plenty of occasions over the years including at Manchester United and Man City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-jose-mourinho-34676387",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 14:54:38 +0000"
+        },
+        {
+          "title": "Jose Mourinho's dig at Pep Guardiola on Man City charges with Man Utd bonus claim",
+          "summary": "Jose Mourinho's dig at Pep Guardiola is revisited after a panel found Manchester City breached Premier League rules 114 times, following the original 115 charges",
+          "url": "https://www.mirror.co.uk/sport/football/news/jose-mourinho-guardiola-man-city-37705767",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 16:46:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "David de Gea puts Premier League on the spot with response to Man City 115 charges verdict",
+      "items": [
+        {
+          "title": "David de Gea puts Premier League on the spot with response to Man City 115 charges verdict",
+          "summary": "David de Gea won numerous trophies during his time at Manchester United but his team were also denied several more by City",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-manchester-united-34675775",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 10:37:12 +0000"
+        },
+        {
+          "title": "'Send me the medal' - Premier League stars past and present speak out at Man City 115 charges verdict",
+          "summary": "Manchester City have been found guilty of 114 of the 115 charges of breaching financial rules although an official statement and confirmation of punishment have yet to be received",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/send-medal-premier-league-stars-34675624",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 10:00:00 +0000"
+        },
+        {
+          "title": "Man Utd news: David de Gea responds to 115 charges verdict as starlet signs from Man City",
+          "summary": "Manchester United icon David de Gea has reacted to the verdict of Manchester City's 115 charges",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-city-de-gea-37705599",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Starlet joins from Man City and David De Gea makes 115 charges point",
+      "items": [
+        {
+          "title": "Man United latest: Starlet joins from Man City and David De Gea makes 115 charges point",
+          "summary": "Former Manchester United star David de Gea has responded to the verdict of Manchester City's 115 charges",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-city-de-gea-34676525",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Alejandro Garnacho finally makes Aston Villa impact as ex-Man Utd star avoids nightmare scenario",
+      "items": [
+        {
+          "title": "Alejandro Garnacho finally makes Aston Villa impact as ex-Man Utd star avoids nightmare scenario",
+          "summary": "Alejandro Garnacho's loan move to Aston Villa has yet to get off the ground, though the club could be obligated to sign him permanently if certain conditions are met",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/alejandro-garnacho-man-united-villa-34677602",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 21:02:20 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'I've never won the title - or have I?' - Juan Mata asks Man United question after 115 charges",
+      "items": [
+        {
+          "title": "'I've never won the title - or have I?' - Juan Mata asks Man United question after 115 charges",
+          "summary": "Juan Mata has become the latest high-profile figure to react to Manchester City's financial charges verdict",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/juan-mata-man-city-charges-34677536",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 19:02:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why is Marcus Rashford not playing for England? Everything we know",
+      "items": [
+        {
+          "title": "Why is Marcus Rashford not playing for England? Everything we know",
+          "summary": "Marcus Rashford won't add to his 78 caps for England during the international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/marcus-rashford-england-man-united-34657479",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 15:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United confirm another talented signing from Man City",
+      "items": [
+        {
+          "title": "Manchester United confirm another talented signing from Man City",
+          "summary": "Man Utd have announced the signing of youngster David Eze, the second player to be unveiled from Man City this week",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-confirm-another-talented-34670960",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 09:09:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ruben Amorim finally responds to viral Man United fan who refuses to cut his hair",
+      "items": [
+        {
+          "title": "Ruben Amorim finally responds to viral Man United fan who refuses to cut his hair",
+          "summary": "Former Manchester United boss Ruben Amorim was aware of a supporter's viral haircut challenge",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-strand-ruben-amorim-34675409",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 26 Sep 2026 08:03:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United face major hurdle in January pursuit of £50m-rated Premier League star",
+      "items": [
+        {
+          "title": "Man United face major hurdle in January pursuit of £50m-rated Premier League star",
+          "summary": "<p>Sunderland have a clear stance on the future of their star striker, Brian Brobbey, amid interest from giants Manchester United. While Manchester United&#8217;s priority was to revamp their midfield, they were also in the market for another number nine. However, things didn&#8217;t go quite as planned. Brian Brobbey was one of the names on their [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/27/man-united-face-major-hurdle-in-january-pursuit-of-50m-rated-premier-league-star/\">Man United face major hurdle in January pursuit of £50m-rated Premier League star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/27/man-united-face-major-hurdle-in-january-pursuit-of-50m-rated-premier-league-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 27 Sep 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“Complicated problem” – National team manager reveals Manchester United injury concern",
+      "items": [
+        {
+          "title": "“Complicated problem” – National team manager reveals Manchester United injury concern",
+          "summary": "<p>Manchester United seem to have been dealt some worrying injury news regarding star player Bruno Fernandes. The Portugal international, currently away with his national team, has seemingly been playing through pain recently, and then went off in his country&#8217;s game against Wales. Portugal manager Jorge Jesus has admitted that it looks like Fernandes has a [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/26/man-united-given-worrying-bruno-fernandes-injury-news/\">&#8220;Complicated problem&#8221; &#8211; National team manager reveals Manchester United injury concern</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/26/man-united-given-worrying-bruno-fernandes-injury-news/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 26 Sep 2026 18:08:20 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United rival Arsenal & Liverpool for transfer of Premier League star",
+      "items": [
+        {
+          "title": "Manchester United rival Arsenal & Liverpool for transfer of Premier League star",
+          "summary": "<p>Manchester United could about to get involved in the Kevin Schade transfer saga amid growing uncertainty over his Brentford future. There’s been talk of Brentford trying to convince star player Kevin Schade to sign a new contract after his fine start to the season, but my understanding is that initial contacts earlier in the season [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/26/manchester-united-rival-arsenal-liverpool-for-transfer-of-premier-league-star/\">Manchester United rival Arsenal &#038; Liverpool for transfer of Premier League star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/26/manchester-united-rival-arsenal-liverpool-for-transfer-of-premier-league-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 26 Sep 2026 17:47:01 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrbanw/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrbanw/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrbanw/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T05:00:32+00:00"
+        },
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wqitrv/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wqitrv/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wqitrv/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-26T06:00:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Andy Mitten] Sir Alex Ferguson 2012, Brendan Rodgers '14, Jose Mourinho '18, Jurgen Klopp '19 & '22, Ole Gunnar Solskjaer '21 & Mikel Arteta '23 all finished second in the PL without systematic cheating. Then there's cup finals.They, their players and staff deserve justice and recognition.",
+      "items": [
+        {
+          "title": "[Andy Mitten] Sir Alex Ferguson 2012, Brendan Rodgers '14, Jose Mourinho '18, Jurgen Klopp '19 & '22, Ole Gunnar Solskjaer '21 & Mikel Arteta '23 all finished second in the PL without systematic cheating. Then there's cup finals.They, their players and staff deserve justice and recognition.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wqlh1j/andy_mitten_sir_alex_ferguson_2012_brendan/\"> <img alt=\"[Andy Mitten] Sir Alex Ferguson 2012, Brendan Rodgers '14, Jose Mourinho '18, Jurgen Klopp '19 &amp; '22, Ole Gunnar Solskjaer '21 &amp; Mikel Arteta '23 all finished second in the PL without systematic cheating. Then there's cup finals.They, their players and staff deserve justice and recognition.\" src=\"https://preview.redd.it/bkgsixq9utrh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=42d5d7eb115ece1b344bd09d771629ddc2eae0f6\" title=\"[Andy Mitten] Sir Alex Ferguson 2012, Brendan Rodgers '14, Jose Mourinho '18, Jurgen Klopp '19 &amp; '22, Ole Gunnar Solskjaer '21 &amp; Mikel Arteta '23 all finished second in the PL without systematic cheating. Then there's cup finals.They, their players and staff deserve justice and recognition.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/bkgsixq9utrh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wqlh1j/andy_mitten_sir_alex_ferguson_2012_brendan/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wqlh1j/andy_mitten_sir_alex_ferguson_2012_brendan/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-26T08:41:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[ManUtd] Shea Lacey's first United goal has been voted our September Goal of the Month",
+      "items": [
+        {
+          "title": "[ManUtd] Shea Lacey's first United goal has been voted our September Goal of the Month",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wqq01i/manutd_shea_laceys_first_united_goal_has_been/\"> <img alt=\"[ManUtd] Shea Lacey's first United goal has been voted our September Goal of the Month\" src=\"https://external-preview.redd.it/OTV0Y3liOHI0dnJoMYW3tpZZ9k-R26eIVy4N6G_b6dHdohkd2mVh9-v00PsP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=16784a103b37e0ed2c3025b1e0f018064beb91f4\" title=\"[ManUtd] Shea Lacey's first United goal has been voted our September Goal of the Month\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/7ypzld7r4vrh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wqq01i/manutd_shea_laceys_first_united_goal_has_been/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wqq01i/manutd_shea_laceys_first_united_goal_has_been/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-26T13:01:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[ManUtd] Kobbie Mainoo is our Player of the Month for September 👑👏",
+      "items": [
+        {
+          "title": "[ManUtd] Kobbie Mainoo is our Player of the Month for September 👑👏",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wqnp7i/manutd_kobbie_mainoo_is_our_player_of_the_month/\"> <img alt=\"[ManUtd] Kobbie Mainoo is our Player of the Month for September 👑👏\" src=\"https://preview.redd.it/your3rz8jurh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c36ba3c8a7f94379c59706a30d5fa797b4fe606e\" title=\"[ManUtd] Kobbie Mainoo is our Player of the Month for September 👑👏\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/your3rz8jurh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wqnp7i/manutd_kobbie_mainoo_is_our_player_of_the_month/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wqnp7i/manutd_kobbie_mainoo_is_our_player_of_the_month/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-26T11:01:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Talented youngster David Eze has joined Manchester United. The central midfielder has joined the club after leaving Manchester City.",
+      "items": [
+        {
+          "title": "Talented youngster David Eze has joined Manchester United. The central midfielder has joined the club after leaving Manchester City.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/david-eze-joins-united-academy\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wqlu3p/talented_youngster_david_eze_has_joined/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wqlu3p/talented_youngster_david_eze_has_joined/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-26T09:05:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 20,
+    "story_count": 16
+  }
+}
