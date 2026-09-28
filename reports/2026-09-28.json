@@ -1,0 +1,443 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T06:24:39.480424+00:00",
+  "match_data": {
+    "collected_at": "2026-09-28T06:24:32.488851+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "Eva Olid after winning her first WSL game as Man Utd boss.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pcr7vv?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 27 Sep 2026 14:33:00 GMT"
+        },
+        {
+          "title": "Three Manchester United stars of future that prove there is life after JJ Gabriel",
+          "summary": "JJ Gabriel seems certain to leave Manchester United but the Reds still have plenty of talent in their academy",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/three-manchester-united-stars-future-34678889",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Manchester United miss transfer chance as £86m decision made",
+          "summary": "Manchester United were linked with a move for Roma star Manu Kone during the summer transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/manu-kone-man-utd-transfer-34679357",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 16:02:14 +0000"
+        },
+        {
+          "title": "Manchester United [2] - 0 West Ham - Andrea Medina 72’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrki3z/manchester_united_2_0_west_ham_andrea_medina_72/\"> <img alt=\"Manchester United [2] - 0 West Ham - Andrea Medina 72’\" src=\"https://external-preview.redd.it/aTJ0ZDN4eGVnMnNoMeTtO6f2jUtMbwZA1Nd-iFyd8QetbsmD5T2GVmWcQxX6.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0db5ee4227587cb1bd1508d41aed756f1b78c6e6\" title=\"Manchester United [2] - 0 West Ham - Andrea Medina 72’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/hx5ziz4fg2sh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrki3z/manchester_united_2_0_west_ham_andrea_medina_72/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrki3z/manchester_united_2_0_west_ham_andrea_medina_72/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T13:40:09+00:00"
+        },
+        {
+          "title": "Manchester United [1] - 0 West ham - Elisabeth Terland 9’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrisgp/manchester_united_1_0_west_ham_elisabeth_terland_9/\"> <img alt=\"Manchester United [1] - 0 West ham - Elisabeth Terland 9’\" src=\"https://external-preview.redd.it/NmNuNmJvZ3cxMnNoMaVVz1dyBILeXNpULjy9w25eI_vKIPWpL4ZNGWwrS1tu.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e2ae2b041242b0e186e3b900db24cb4eb237642c\" title=\"Manchester United [1] - 0 West ham - Elisabeth Terland 9’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/m1bvxflw12sh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrisgp/manchester_united_1_0_west_ham_elisabeth_terland_9/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrisgp/manchester_united_1_0_west_ham_elisabeth_terland_9/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T12:18:17+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "r/reddevils",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 3,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sir Jim Ratcliffe in talks to settle £180m dispute after Man United co-owner's falling out",
+      "items": [
+        {
+          "title": "Sir Jim Ratcliffe in talks to settle £180m dispute after Man United co-owner's falling out",
+          "summary": "Manchester United minority shareholder Sir Jim Ratcliffe is reportedly in settlement talks over a £180million dispute, which has now been going on for 18 months",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-ineos-jim-ratcliffe-34679894",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 20:10:55 +0000"
+        },
+        {
+          "title": "Man Utd chief Sir Jim Ratcliffe to settle £180m dispute after 'months of heated arguments'",
+          "summary": "Manchester United co-owner Sir Jim Ratcliffe reportedly wants to resolve a £180million legal dispute involving Ineos after what are said to have been 18 months of heated arguments",
+          "url": "https://www.mirror.co.uk/sport/football/man-utd-ineos-jim-ratcliffe-37708275",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 21:34:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: JJ Gabriel 'damages relationships' and January transfer back on the cards",
+      "items": [
+        {
+          "title": "Man United latest: JJ Gabriel 'damages relationships' and January transfer back on the cards",
+          "summary": "Manchester United could revive their pursuit of one summer target in the January transfer window, while questions continue to be raised over JJ Gabriel's future at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-latest-jj-gabriel-34679108",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Roy Keane could quit ITV and Sky Sports as Man United icon waiting for imminent call",
+      "items": [
+        {
+          "title": "Roy Keane could quit ITV and Sky Sports as Man United icon waiting for imminent call",
+          "summary": "Manchester United legend Roy Keane looks to be teetering on the brink of a career change away from the world of punditry, despite holding commitments with Sky Sports and ITV",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/roy-keane-sky-itv-exit-34679530",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 17:01:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United handed major injury blow as Patrick Dorgu limps out of Denmark match",
+      "items": [
+        {
+          "title": "Man United handed major injury blow as Patrick Dorgu limps out of Denmark match",
+          "summary": "Manchester United player Patrick Dorgu limped off less than half an hour into Denmark's Nations League match against Wales with a suspected hamstring injury",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/breaking-man-united-patrick-dorgu-34679531",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 16:41:45 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Portugal issue new Bruno Fernandes injury statement as Man United handed update",
+      "items": [
+        {
+          "title": "Portugal issue new Bruno Fernandes injury statement as Man United handed update",
+          "summary": "Manchester United captain Bruno Fernandes has emerged as an injury doubt during his time with the Portugal squad",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-injury-man-utd-34679093",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 14:54:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Alejandro Garnacho transfer thrown into major doubt as ex-Man United star's struggles continue",
+      "items": [
+        {
+          "title": "Alejandro Garnacho transfer thrown into major doubt as ex-Man United star's struggles continue",
+          "summary": "The former Manchester United winger has struggled to make an impact since his £40 million move from Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/alejandro-garnacho-transfer-villa-chelsea-34678771",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 12:25:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: Barcelona transfer to be revived in January as JJ Gabriel behaviour questioned",
+      "items": [
+        {
+          "title": "Man Utd news: Barcelona transfer to be revived in January as JJ Gabriel behaviour questioned",
+          "summary": "Manchester United have an extended international break to get things right following a faltering start to the new season",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-balde-37707226",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd dealt second injury blow as star limps off after Bruno Fernandes issue",
+      "items": [
+        {
+          "title": "Man Utd dealt second injury blow as star limps off after Bruno Fernandes issue",
+          "summary": "Manchester United have been hit with further injury concerns just days after Bruno Fernandes suffered a 'complicated problem' against Wales in the Nations League",
+          "url": "https://www.mirror.co.uk/sport/football/news/patrick-dorgu-manchester-united-injury-37707780",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 16:51:20 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes cut from Portugal squad due to UEFA rules and 'complicated' issue",
+      "items": [
+        {
+          "title": "Bruno Fernandes cut from Portugal squad due to UEFA rules and 'complicated' issue",
+          "summary": "Manchester United captain Bruno Fernandes has been dealing with an injury issue and will not be included in Portugal's squad to face Norway in Oslo on Sunday night",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-cut-portugal-squad-37706703",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 08:41:34 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What happened to Man Utd team slapped 7-0 by Liverpool and the eerie resemblance in current squad",
+      "items": [
+        {
+          "title": "What happened to Man Utd team slapped 7-0 by Liverpool and the eerie resemblance in current squad",
+          "summary": "Manchester United and Liverpool have shared a tough rivalry over the years and it will continue this season as Anfield hosts the pair in November",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-premier-league-37693206",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Romano confirms Man Utd’s stance on sacking Carrick as ‘important’ difference with Amorim & Ten Hag revealed - utdreport.co.uk",
+      "items": [
+        {
+          "title": "Romano confirms Man Utd’s stance on sacking Carrick as ‘important’ difference with Amorim & Ten Hag revealed - utdreport.co.uk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOeU5mWWlwUVowS1k2S19Fck5iUkc4OXhFcFJWMzlrNk03VGVkWDY5czBSeGFBTjZObzBEYXJXWXpQeXI0dFEtUlJIX0R1Tm8tZ042am41aFpJc1RUSTBBbUotMHpPdUVJQ1JxVUM3WkFqYThQdHItZ0x4MkNGNWtnbtIBhgFBVV95cUxNTm1CM0xEeGR1VFhELWtjeGgwYjZoS0dFdEdKQ24yZGR0TWJValRCaWFMSWk3NnhIV2VCSUt4bWZZZk5Qd1k2OERsNjF0YU5ocWZTYTlVeGdFRnR4alJFaVl2OS1DX0tYeGUzYW9oVlVzYmsxVU5WSHU5V3doZU5aa01nVzNKQQ?oc=5\" target=\"_blank\">Romano confirms Man Utd’s stance on sacking Carrick as ‘important’ difference with Amorim & Ten Hag revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport.co.uk</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeU5mWWlwUVowS1k2S19Fck5iUkc4OXhFcFJWMzlrNk03VGVkWDY5czBSeGFBTjZObzBEYXJXWXpQeXI0dFEtUlJIX0R1Tm8tZ042am41aFpJc1RUSTBBbUotMHpPdUVJQ1JxVUM3WkFqYThQdHItZ0x4MkNGNWtnbtIBhgFBVV95cUxNTm1CM0xEeGR1VFhELWtjeGgwYjZoS0dFdEdKQ24yZGR0TWJValRCaWFMSWk3NnhIV2VCSUt4bWZZZk5Qd1k2OERsNjF0YU5ocWZTYTlVeGdFRnR4alJFaVl2OS1DX0tYeGUzYW9oVlVzYmsxVU5WSHU5V3doZU5aa01nVzNKQQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 16:36:41 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United and Liverpool target is being pushed to sign new deal at London club",
+      "items": [
+        {
+          "title": "Man United and Liverpool target is being pushed to sign new deal at London club",
+          "summary": "<p>Crystal Palace are moving quickly to secure Tyrick Mitchell’s future, with Manchester United and Liverpool among the clubs watching closely in case talks fail. The 27-year-old has entered the final year of his current deal, although Palace can extend it by another 12 months. Want more CaughtOffside coverage? Add us as a preferred source on [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/28/man-united-and-liverpool-target-is-being-pushed-to-sign-new-deal-at-london-club/\">Man United and Liverpool target is being pushed to sign new deal at London club</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/28/man-united-and-liverpool-target-is-being-pushed-to-sign-new-deal-at-london-club/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 28 Sep 2026 05:28:28 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1ws4g8l/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1ws4g8l/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1ws4g8l/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T04:01:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The sequence of play after which Patrick Dorgu was substituted at around 30' vs Wales",
+      "items": [
+        {
+          "title": "The sequence of play after which Patrick Dorgu was substituted at around 30' vs Wales",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrpqa6/the_sequence_of_play_after_which_patrick_dorgu/\"> <img alt=\"The sequence of play after which Patrick Dorgu was substituted at around 30' vs Wales\" src=\"https://external-preview.redd.it/YnR1bjVzNnRoM3NoMZhNgOoraVkTfzGLev1gZ3s5ldAQvxZCxfry0h4I7ohQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a40495db645d78261610013d834a5cc1a4aecf2a\" title=\"The sequence of play after which Patrick Dorgu was substituted at around 30' vs Wales\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/ikvcwe6th3sh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrpqa6/the_sequence_of_play_after_which_patrick_dorgu/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrpqa6/the_sequence_of_play_after_which_patrick_dorgu/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T17:13:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "United's U15s/U16s were crowned winners of the Craig Brown Memorial Trophy in Aberdeen today, beating Preston 4-1 in the final.",
+      "items": [
+        {
+          "title": "United's U15s/U16s were crowned winners of the Craig Brown Memorial Trophy in Aberdeen today, beating Preston 4-1 in the final.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrpezw/uniteds_u15su16s_were_crowned_winners_of_the/\"> <img alt=\"United's U15s/U16s were crowned winners of the Craig Brown Memorial Trophy in Aberdeen today, beating Preston 4-1 in the final.\" src=\"https://preview.redd.it/rvex4306g3sh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b43981842b4705b101b65fce083ee37cbcf57ea1\" title=\"United's U15s/U16s were crowned winners of the Craig Brown Memorial Trophy in Aberdeen today, beating Preston 4-1 in the final.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://i.redd.it/rvex4306g3sh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrpezw/uniteds_u15su16s_were_crowned_winners_of_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrpezw/uniteds_u15su16s_were_crowned_winners_of_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T17:00:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes will miss the match against Norway on Sunday through injury",
+      "items": [
+        {
+          "title": "Bruno Fernandes will miss the match against Norway on Sunday through injury",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrehni/bruno_fernandes_will_miss_the_match_against/\"> <img alt=\"Bruno Fernandes will miss the match against Norway on Sunday through injury\" src=\"https://external-preview.redd.it/EDXct4EGAu3fbjQEmlx01ShY1Gpaj83C0c-S9sGBWrQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=80a41fa98c391a9c3749f701873c4432695841f5\" title=\"Bruno Fernandes will miss the match against Norway on Sunday through injury\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Heimebane\"> /u/Heimebane </a> <br /> <span><a href=\"https://www.vg.no/sport/i/k0lMaa/norge-portugal-bruno-fernandes-er-ute-av-portugal-troppen\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrehni/bruno_fernandes_will_miss_the_match_against/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrehni/bruno_fernandes_will_miss_the_match_against/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T08:07:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd 2-1 West Ham | Highlights",
+      "items": [
+        {
+          "title": "Man Utd 2-1 West Ham | Highlights",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrtpts/man_utd_21_west_ham_highlights/\"> <img alt=\"Man Utd 2-1 West Ham | Highlights\" src=\"https://external-preview.redd.it/2YPgdj_E1QQaFXOlThzqnOCHY9Jz62oSOs9FfUeKxS0.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5ccee4f61e9f1ad28ee136fd0720bdd688669a00\" title=\"Man Utd 2-1 West Ham | Highlights\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=YapdlGb_x8M\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrtpts/man_utd_21_west_ham_highlights/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrtpts/man_utd_21_west_ham_highlights/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T19:49:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Patrick Dorgu starts for Denmark against Wales",
+      "items": [
+        {
+          "title": "Patrick Dorgu starts for Denmark against Wales",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrnqcj/patrick_dorgu_starts_for_denmark_against_wales/\"> <img alt=\"Patrick Dorgu starts for Denmark against Wales\" src=\"https://preview.redd.it/dp7wrltx33sh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7949828a871d14f2e494dea0eba8790660775ed7\" title=\"Patrick Dorgu starts for Denmark against Wales\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/dp7wrltx33sh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrnqcj/patrick_dorgu_starts_for_denmark_against_wales/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrnqcj/patrick_dorgu_starts_for_denmark_against_wales/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T15:54:31+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United XI vs West Ham United | Women's Super League | Tulis-Joice; Sandberg, (C) Le Tissier, Lundkvist, Medina, Toone, Park, Terland, Zigiotti Olme, Janssen, Hinata",
+      "items": [
+        {
+          "title": "Man United XI vs West Ham United | Women's Super League | Tulis-Joice; Sandberg, (C) Le Tissier, Lundkvist, Medina, Toone, Park, Terland, Zigiotti Olme, Janssen, Hinata",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wrhsz0/man_united_xi_vs_west_ham_united_womens_super/\"> <img alt=\"Man United XI vs West Ham United | Women's Super League | Tulis-Joice; Sandberg, (C) Le Tissier, Lundkvist, Medina, Toone, Park, Terland, Zigiotti Olme, Janssen, Hinata\" src=\"https://external-preview.redd.it/YnT4QgVCchFNv7lUL4ogr1uYGD__W7o5dzaSC8EwdMQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3d08251ad1cbc1fa065c75df35e1749d938561c\" title=\"Man United XI vs West Ham United | Women's Super League | Tulis-Joice; Sandberg, (C) Le Tissier, Lundkvist, Medina, Toone, Park, Terland, Zigiotti Olme, Janssen, Hinata\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Geeeeks420666\"> /u/Geeeeks420666 </a> <br /> <span><a href=\"https://imgur.com/i6QYiMw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wrhsz0/man_united_xi_vs_west_ham_united_womens_super/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wrhsz0/man_united_xi_vs_west_ham_united_womens_super/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-27T11:25:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 25,
+    "story_count": 20
+  }
+}
