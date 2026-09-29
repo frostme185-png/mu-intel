@@ -1,0 +1,635 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T06:38:57.510596+00:00",
+  "match_data": {
+    "collected_at": "2026-09-29T06:38:49.795393+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Manchester United",
+      "items": [
+        {
+          "title": "Manchester United",
+          "summary": "News and views on the Red Devils in two minutes. Weekdays, 5pm.",
+          "url": "https://www.bbc.co.uk/sounds/play/p0pcx75q?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 28 Sep 2026 16:02:00 GMT"
+        },
+        {
+          "title": "Michael Carrick must be true to his Manchester United history when asked Man City question",
+          "summary": "Michael Carrick has a unique perspective on Man City's financial misdemeanours and the Man Utd head coach will be asked about it next week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-must-true-manchester-34683886",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Manchester United are ready to unleash 'dominant' Carlos Baleba in 11 days",
+          "summary": "Man Utd midfielder Carlos Baleba is ready to make a big impact after the September international break concludes.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-ready-unleash-dominant-34680457",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Manchester United might have to deal with their worst nightmare next month",
+          "summary": "Bruno Fernandes is already playing through the pain barrier for Man Utd and the playmaker has been below his best form in the last couple of weeks.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-might-deal-worst-34682639",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 15:00:00 +0000"
+        },
+        {
+          "title": "Manchester United plan revealed as exciting forward arrives from Liverpool",
+          "summary": "Man Utd have strengthened their academy ranks with another talented youth signing from a Premier League rival.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-plan-revealed-exciting-34683878",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 14:39:36 +0000"
+        },
+        {
+          "title": "Bruno Fernandes injury decision made and defender returns to Manchester United for tests",
+          "summary": "Bruno Fernandes missed Portugal's Nations League win on Norway and he has been managing a fitness issue for Man Utd this season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-injury-decision-made-34681961",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 11:07:07 +0000"
+        },
+        {
+          "title": "Manchester United Supporters' Trust respond to Man City 115 charges verdict  - 'Cheating'",
+          "summary": "MUST have responded following the bombshell update of Man City being found guilty of 114 financial charges.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-supporters-trust-respond-34680481",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 08:49:44 +0000"
+        },
+        {
+          "title": "On This Day in 2004: Wayne Rooney scored a hat-trick on his Manchester United debut vs Fenerbahçe",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wsczfo/on_this_day_in_2004_wayne_rooney_scored_a/\"> <img alt=\"On This Day in 2004: Wayne Rooney scored a hat-trick on his Manchester United debut vs Fenerbahçe\" src=\"https://external-preview.redd.it/d21haDUxdG41OXNoMVLhg-ZfTp16QgHCuWJq-H-X4WWHqDxrQ-RMMRplvGbo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=efc97aebae1e6ca289180dd546ccdb4fe1fdb55d\" title=\"On This Day in 2004: Wayne Rooney scored a hat-trick on his Manchester United debut vs Fenerbahçe\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/x7xsr7sn59sh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wsczfo/on_this_day_in_2004_wayne_rooney_scored_a/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wsczfo/on_this_day_in_2004_wayne_rooney_scored_a/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T12:15:46+00:00"
+        },
+        {
+          "title": "Manchester United have agreed the signing of winger Isaac Konde. The talented youngster has joined after leaving Liverpool.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/isaac-konde-joins-united\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wse480/manchester_united_have_agreed_the_signing_of/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wse480/manchester_united_have_agreed_the_signing_of/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T13:06:09+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 3,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Romano issues update on Man United players and what they feel about Carrick - LiveScore",
+      "items": [
+        {
+          "title": "Romano issues update on Man United players and what they feel about Carrick - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVjA5Y1pHVGtzN1dIYjhyajM5bHhETTNNTWo0UmViVE54UExFSjVkeDh0QzVHUVBDdFFHTk5kNEE0V0d6X1Q3YjNuRTZ3UkhzYW4tYTNRellzTGxPNVpaLW11azY5WEJXeHNsQVBzckk1aFFSaVdOb2I1S3JZUTh5YURPU0pSTE85VjJrS2xfOWU1WjhEbWNiWWZYMjFJMWpEeGVuVG9MYzRYdE9qRkxKSlBhb0JRMDN3MVA3QWxiSS12T0VzSTJxLWxmU29QTXNCb2tmVw?oc=5\" target=\"_blank\">Romano issues update on Man United players and what they feel about Carrick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVjA5Y1pHVGtzN1dIYjhyajM5bHhETTNNTWo0UmViVE54UExFSjVkeDh0QzVHUVBDdFFHTk5kNEE0V0d6X1Q3YjNuRTZ3UkhzYW4tYTNRellzTGxPNVpaLW11azY5WEJXeHNsQVBzckk1aFFSaVdOb2I1S3JZUTh5YURPU0pSTE85VjJrS2xfOWU1WjhEbWNiWWZYMjFJMWpEeGVuVG9MYzRYdE9qRkxKSlBhb0JRMDN3MVA3QWxiSS12T0VzSTJxLWxmU29QTXNCb2tmVw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 05:27:53 GMT"
+        },
+        {
+          "title": "Romano issues update on Man United players and what they feel about Carrick",
+          "summary": "<p>Manchester United are resisting calls for a managerial change despite a poor start to the season, with Michael Carrick retaining the backing of both the club hierarchy and the majority of his players. United have collected just five points from five Premier League matches and exited the Carabao Cup after surrendering a 2-0 lead in [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/29/romano-issues-update-man-united-players-carrick/\">Romano issues update on Man United players and what they feel about Carrick</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/29/romano-issues-update-man-united-players-carrick/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 29 Sep 2026 05:42:26 +0000"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano",
+        "Caught Offside"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Michael Carrick put on alert for City raid as Liverpool transfer complete",
+      "items": [
+        {
+          "title": "Man United latest: Michael Carrick put on alert for City raid as Liverpool transfer complete",
+          "summary": "Manchester United have confirmed their latest signing while the majority of the squad is away on international duty",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-news-city-34685905",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rasmus Hojlund left stunned in TV interview as ex-Man United striker says 'that has to change'",
+      "items": [
+        {
+          "title": "Rasmus Hojlund left stunned in TV interview as ex-Man United striker says 'that has to change'",
+          "summary": "Rasmus Hojlund was left stunned by a question after the former Manchester United star helped Denmark beat Wales in the Nations League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/hojlund-man-utd-denmark-wales-34682898",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 13:45:55 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Patrick Dorgu injury latest as decision made on Man United defender after new blow",
+      "items": [
+        {
+          "title": "Patrick Dorgu injury latest as decision made on Man United defender after new blow",
+          "summary": "Patrick Dorgu has suffered an injury with Denmark and an update has emerged for the Manchester United star",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/dorgu-injury-update-man-utd-34680172",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 06:59:44 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The cost of every Premier League club's mascot packages including eye-watering £13,000 auction",
+      "items": [
+        {
+          "title": "The cost of every Premier League club's mascot packages including eye-watering £13,000 auction",
+          "summary": "Every Premier League side walk out accompanied by beaming mascots during home matches, but how much does each club charge?",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-clubs-mascot-cost-37710347",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "How Man Utd squad could look in 2027 as new contracts decided and five stars exit",
+      "items": [
+        {
+          "title": "How Man Utd squad could look in 2027 as new contracts decided and five stars exit",
+          "summary": "Manchester United are set to face several dilemmas next year as manager Michael Carrick aims to prepare for the future",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-new-contracts-exits-37709322",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd 'arrange secret friendly' with Sir Jim Ratcliffe's other club who are bottom",
+      "items": [
+        {
+          "title": "Man Utd 'arrange secret friendly' with Sir Jim Ratcliffe's other club who are bottom",
+          "summary": "Manchester United are looking to build some form and confidence during the international break after a dismal start to the season under Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-lausanne-jim-ratcliffe-37712239",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd news: Transfer confirmed as Michael Carrick urged to raid rivals for £142m duo",
+      "items": [
+        {
+          "title": "Man Utd news: Transfer confirmed as Michael Carrick urged to raid rivals for £142m duo",
+          "summary": "Manchester United have got one over bitter rivals Liverpool in the transfer market and have been instructed to raid another nemesis",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-liverpool-city-37711193",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 29 Sep 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rio Ferdinand takes firm stance over Man Utd and JJ Gabriel - 'Can't be bullied by a young kid!'",
+      "items": [
+        {
+          "title": "Rio Ferdinand takes firm stance over Man Utd and JJ Gabriel - 'Can't be bullied by a young kid!'",
+          "summary": "JJ Gabriel has informed Manchester United that he wants to leave, with several European giants keen to sign him, and Rio Ferdinand has given his old club some advice",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-ferdinand-37712320",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 21:29:45 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd fan group call for Man City to be EXPELLED from football after guilty verdict",
+      "items": [
+        {
+          "title": "Man Utd fan group call for Man City to be EXPELLED from football after guilty verdict",
+          "summary": "Manchester City have been found guilty of 114 of the 115 charges put towards them by the Premier League and supporters of their cross-city rivals have now spoken out",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-city-united-guilty-statement-37709531",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 10:19:58 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd injury blow confirmed as Patrick Dorgu immediately leaves Denmark camp",
+      "items": [
+        {
+          "title": "Man Utd injury blow confirmed as Patrick Dorgu immediately leaves Denmark camp",
+          "summary": "Manchester United have endured a miserable international break with a number of players having been forced back to Old Trafford with injuries, with Patrick Dorgu among those affected",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-dorgu-injury-update-37709200",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 09:29:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel warned about harsh reality of his Man Utd decision - 'I made a mistake leaving'",
+      "items": [
+        {
+          "title": "JJ Gabriel warned about harsh reality of his Man Utd decision - 'I made a mistake leaving'",
+          "summary": "Teenage prodigy JJ Gabriel wants to leave Manchester United but history shows the grass is rarely greener elsewhere",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-request-37708774",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 09:17:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Portugal boss gives Cristiano Ronaldo update after snubbed star ignores supporters",
+      "items": [
+        {
+          "title": "Portugal boss gives Cristiano Ronaldo update after snubbed star ignores supporters",
+          "summary": "Cristiano Ronaldo was left out of the Portugal side as they took on Norway in the Nations League and boss Jorge Jesus has discussed a controversial moment involving the former Man United star",
+          "url": "https://www.mirror.co.uk/sport/football/news/portugal-cristiano-ronaldo-norway-jesus-37708861",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 08:23:50 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Gary Neville reveals Man Utd's worst signing since Sir Alex left - 'That was a bad one'",
+      "items": [
+        {
+          "title": "Gary Neville reveals Man Utd's worst signing since Sir Alex left - 'That was a bad one'",
+          "summary": "Manchester United have made a host of errors in the transfer market since Sir Alex Ferguson chose to retire and Gary Neville is clear on the worst of those",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/gary-neville-man-utd-transfers-37708671",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 07:42:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd reach verdict on paying £8.8m to sack Carrick as Romano reveals internal feelings on head coach - Football365",
+      "items": [
+        {
+          "title": "Man Utd reach verdict on paying £8.8m to sack Carrick as Romano reveals internal feelings on head coach - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWRHSF8tWnFWTHQ2R2tDVGhHSjNod2NBckw4Y3BqRFlYSTJ6WXM5QUVBQlZrRVRYcmUxQ2NoQ1g1RUx2bHlCeEg5aHNYNm02dHd5M1AyaE9yamxsdFY2d2JqSTNHT3BjVS1NdlVkaGdZejdPaDVuUDJfQkdxMXVPMXZiTTFvOVFfQUlKWHFZb3VGTFhJbkpJTlRuTUk?oc=5\" target=\"_blank\">Man Utd reach verdict on paying £8.8m to sack Carrick as Romano reveals internal feelings on head coach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWRHSF8tWnFWTHQ2R2tDVGhHSjNod2NBckw4Y3BqRFlYSTJ6WXM5QUVBQlZrRVRYcmUxQ2NoQ1g1RUx2bHlCeEg5aHNYNm02dHd5M1AyaE9yamxsdFY2d2JqSTNHT3BjVS1NdlVkaGdZejdPaDVuUDJfQkdxMXVPMXZiTTFvOVFfQUlKWHFZb3VGTFhJbkpJTlRuTUk?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 10:22:59 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals what Man Utd players think of Carrick after sack decision reached - TEAMtalk",
+      "items": [
+        {
+          "title": "Romano reveals what Man Utd players think of Carrick after sack decision reached - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2phTXFTV3JBQWhoVk8weTlsN0RJRGVHWXd0V0RiTXQ4Nkp4aklDS2pLcHRCRVR6cnFfQWloNGlTWldfeVp4R2d6ZnJtU3dRbnNOQThYcnRFMENRWlpNVW5EcUtFYlJqTl9LQVFBREVEcUJLV3VXWFphWDNrdGxJNkNVakNmb1hURlJFUDZFUVJWODRTMVBmdjQwU25YV2lOamNqb201OHM0bXNqbDRSM1lpZFRDamNiOFhXV0hhUTZNTGlo?oc=5\" target=\"_blank\">Romano reveals what Man Utd players think of Carrick after sack decision reached</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2phTXFTV3JBQWhoVk8weTlsN0RJRGVHWXd0V0RiTXQ4Nkp4aklDS2pLcHRCRVR6cnFfQWloNGlTWldfeVp4R2d6ZnJtU3dRbnNOQThYcnRFMENRWlpNVW5EcUtFYlJqTl9LQVFBREVEcUJLV3VXWFphWDNrdGxJNkNVakNmb1hURlJFUDZFUVJWODRTMVBmdjQwU25YV2lOamNqb201OHM0bXNqbDRSM1lpZFRDamNiOFhXV0hhUTZNTGlo?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 15:53:45 GMT"
+        },
+        {
+          "title": "Fabrizio Romano reveals whether Man Utd players want Michael Carrick sacked - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWNOTnRlYmZtblpjbGRUTHFLaDZYcGdpTzhTS1N6cDJUaE9rMGptU2JQY09ZREtYb0RncUx0TG41Q3Q0NTQ5V1JHNzd4TVZtTGpRUC1PZjFtWWljdHk1dTIzWVRLdGdiNElXVzBweHFUb3BpUHNuaHJjRmV4ZkxjVGFkRTJSNVRoS2Z3bklTSzZCYzNFY2NBSF9MY1FXMDRXRjZPMWRqUTRzUTY2?oc=5\" target=\"_blank\">Fabrizio Romano reveals whether Man Utd players want Michael Carrick sacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWNOTnRlYmZtblpjbGRUTHFLaDZYcGdpTzhTS1N6cDJUaE9rMGptU2JQY09ZREtYb0RncUx0TG41Q3Q0NTQ5V1JHNzd4TVZtTGpRUC1PZjFtWWljdHk1dTIzWVRLdGdiNElXVzBweHFUb3BpUHNuaHJjRmV4ZkxjVGFkRTJSNVRoS2Z3bklTSzZCYzNFY2NBSF9MY1FXMDRXRjZPMWRqUTRzUTY2?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 06:47:32 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Drops Update on Carrick's Future at Man Utd - givemesport.com",
+      "items": [
+        {
+          "title": "Fabrizio Romano Drops Update on Carrick's Future at Man Utd - givemesport.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWN0ZEF1UFJtdktpYVgtQmZQV2Jwczk5ZmVaVFVPaFVyck1FeExDaXVvN19lX2VmLWJoQnlzamRQdldGM0VuNFY1YUlSUGtDNmlKakw3OWIzVzhISjV6RldNTFZvVVg1bXlDOWRRT2lVZWpBSTdXVTVNQVZOdnBUVWN1RjRCQ0hEQWJV?oc=5\" target=\"_blank\">Fabrizio Romano Drops Update on Carrick's Future at Man Utd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">givemesport.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWN0ZEF1UFJtdktpYVgtQmZQV2Jwczk5ZmVaVFVPaFVyck1FeExDaXVvN19lX2VmLWJoQnlzamRQdldGM0VuNFY1YUlSUGtDNmlKakw3OWIzVzhISjV6RldNTFZvVVg1bXlDOWRRT2lVZWpBSTdXVTVNQVZOdnBUVWN1RjRCQ0hEQWJV?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 27 Sep 2026 15:12:51 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd announce signing of Liverpool winger as Romano confirms what’s next - TEAMtalk",
+      "items": [
+        {
+          "title": "Man Utd announce signing of Liverpool winger as Romano confirms what’s next - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1VKLXZaQ1FnTmNrSG5wcVpIMGc2VjQtQmd5QjNuSkU0c05ZdHpqY1pFRmlydkFKQjdYby1kblNYVUpwVFlOaXVJSHJ5RkZkVEdjNjQ2ckR4SmF5WVIxYTkyMWRJU3hDS0RHSzVQUlhoWURRRlowZk9WdlhzcWx3SFhGTGxvVkdCSFM4OUdlOXhxRXR1OFl1UUY5S3RqMGRGYnlZb0p2TnpCTDdIVmt0NVNXc0kzY01UbFhPZg?oc=5\" target=\"_blank\">Man Utd announce signing of Liverpool winger as Romano confirms what’s next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1VKLXZaQ1FnTmNrSG5wcVpIMGc2VjQtQmd5QjNuSkU0c05ZdHpqY1pFRmlydkFKQjdYby1kblNYVUpwVFlOaXVJSHJ5RkZkVEdjNjQ2ckR4SmF5WVIxYTkyMWRJU3hDS0RHSzVQUlhoWURRRlowZk9WdlhzcWx3SFhGTGxvVkdCSFM4OUdlOXhxRXR1OFl1UUY5S3RqMGRGYnlZb0p2TnpCTDdIVmt0NVNXc0kzY01UbFhPZg?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 28 Sep 2026 14:45:21 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Pierre Sage ‘fed up’ with Crystal Palace star as January exit threat emerges",
+      "items": [
+        {
+          "title": "Pierre Sage ‘fed up’ with Crystal Palace star as January exit threat emerges",
+          "summary": "<p>Crystal Palace manager Pierre Sage is growing increasingly frustrated with Evann Guessand, according to former Manchester United chief scout Mick Brown. The forward is facing an uncertain future at Selhurst Park having struggled to secure regular first-team minutes under manager Pierre Sage. Mick Brown claims Pierre Sage is ‘fed up’ with Evann Guessand (Photo by [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/09/28/pierre-sage-evann-guessand-crystal-palace-future/\">Pierre Sage &#8216;fed up&#8217; with Crystal Palace star as January exit threat emerges</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/09/28/pierre-sage-evann-guessand-crystal-palace-future/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 28 Sep 2026 22:00:31 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United 27-year-old should be ready for position change after Bruno Fernandes blow",
+      "items": [
+        {
+          "title": "Man United 27-year-old should be ready for position change after Bruno Fernandes blow",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/man-united-27-year-old-should-be-ready-for-position-change-after-bruno-fernandes-blow",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Tue, 29 Sep 2026 05:50:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wsyvof/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wsyvof/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wsyvof/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-29T03:00:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Rob Dawson] Bruno Fernandes has been playing with an injury for close to three weeks. Nearly missed the games against Man City and Fulham before passing late fitness tests.",
+      "items": [
+        {
+          "title": "[Rob Dawson] Bruno Fernandes has been playing with an injury for close to three weeks. Nearly missed the games against Man City and Fulham before passing late fitness tests.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wsg11j/rob_dawson_bruno_fernandes_has_been_playing_with/\"> <img alt=\"[Rob Dawson] Bruno Fernandes has been playing with an injury for close to three weeks. Nearly missed the games against Man City and Fulham before passing late fitness tests.\" src=\"https://external-preview.redd.it/izXG2yNEHl4BLqO0yTMxlpiB2shsY33GZYEdAzAklSE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb0d85c854efc16dcdc30a36dad38a50531877af\" title=\"[Rob Dawson] Bruno Fernandes has been playing with an injury for close to three weeks. Nearly missed the games against Man City and Fulham before passing late fitness tests.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.espn.co.uk/football/story/_/id/50051711/patrick-dorgu-man-united-hamstring-injury-denmark\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wsg11j/rob_dawson_bruno_fernandes_has_been_playing_with/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wsg11j/rob_dawson_bruno_fernandes_has_been_playing_with/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T14:24:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens & Youri Tielemans start for Belgium, Leny Yoro on bench for France",
+      "items": [
+        {
+          "title": "Senne Lammens & Youri Tielemans start for Belgium, Leny Yoro on bench for France",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wsmfpx/senne_lammens_youri_tielemans_start_for_belgium/\"> <img alt=\"Senne Lammens &amp; Youri Tielemans start for Belgium, Leny Yoro on bench for France\" src=\"https://preview.redd.it/uvyzqsq0zash1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f8340b14e5e8cb2bd8b2d97356147cba96d9f6a9\" title=\"Senne Lammens &amp; Youri Tielemans start for Belgium, Leny Yoro on bench for France\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1wsmfpx\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wsmfpx/senne_lammens_youri_tielemans_start_for_belgium/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wsmfpx/senne_lammens_youri_tielemans_start_for_belgium/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T18:21:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Denmark head coach Brian Riemer on Patrick Dorgu: “He’s suffered an injury and has to go home. We’ll have to call up a replacement.”",
+      "items": [
+        {
+          "title": "Denmark head coach Brian Riemer on Patrick Dorgu: “He’s suffered an injury and has to go home. We’ll have to call up a replacement.”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1ws9lhq/denmark_head_coach_brian_riemer_on_patrick_dorgu/\"> <img alt=\"Denmark head coach Brian Riemer on Patrick Dorgu: “He’s suffered an injury and has to go home. We’ll have to call up a replacement.”\" src=\"https://external-preview.redd.it/70B1YWrZpmtvJMcOZb4yo0BeLAJsjWwzJfsBz1FR1rs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5092beba5b70b72b05c35de213dbe5f67c49943e\" title=\"Denmark head coach Brian Riemer on Patrick Dorgu: “He’s suffered an injury and has to go home. We’ll have to call up a replacement.”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.tipsbladet.dk/nyhed/landshold/riemer-han-skal-hjem-vi-skal-kalde-en-ny-ind\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1ws9lhq/denmark_head_coach_brian_riemer_on_patrick_dorgu/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1ws9lhq/denmark_head_coach_brian_riemer_on_patrick_dorgu/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T09:06:03+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[ManUtd] Latest on Dorgu and Fernandes fitness :- Portugal head coach Jorge Jesus hopes Bruno Fernandes can be back to full fitness for Portugal's Nations League clash with Denmark on Thursday; Patrick Dorgu is now set to return to the club.",
+      "items": [
+        {
+          "title": "[ManUtd] Latest on Dorgu and Fernandes fitness :- Portugal head coach Jorge Jesus hopes Bruno Fernandes can be back to full fitness for Portugal's Nations League clash with Denmark on Thursday; Patrick Dorgu is now set to return to the club.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/latest-on-dorgu-and-fernandes-fitness-28-sep-2026\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wsaw2n/manutd_latest_on_dorgu_and_fernandes_fitness/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wsaw2n/manutd_latest_on_dorgu_and_fernandes_fitness/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T10:24:02+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Academy Signings | Eze, Cassim & Konde",
+      "items": [
+        {
+          "title": "Academy Signings | Eze, Cassim & Konde",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wshb2h/academy_signings_eze_cassim_konde/\"> <img alt=\"Academy Signings | Eze, Cassim &amp; Konde\" src=\"https://external-preview.redd.it/TrKFt5jxga85xtoF4LRLjMpGsFGDf7l7XNtAy_Nz0f0.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8b8c81b3b2e2a9b7c8d51b682e25a86d5b7e6857\" title=\"Academy Signings | Eze, Cassim &amp; Konde\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=rmK39zSZvZQ\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wshb2h/academy_signings_eze_cassim_konde/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wshb2h/academy_signings_eze_cassim_konde/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T15:14:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Talk of the Devils - Man United’s all-time Top 25 Players: Part One, 25-11",
+      "items": [
+        {
+          "title": "Talk of the Devils - Man United’s all-time Top 25 Players: Part One, 25-11",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wsj7yb/talk_of_the_devils_man_uniteds_alltime_top_25/\"> <img alt=\"Talk of the Devils - Man United’s all-time Top 25 Players: Part One, 25-11\" src=\"https://external-preview.redd.it/ULvFChw7X3FVJebUsGbzu6yOJmzR1CkWjOKMHbKeMxU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=069201b60cf581dbffeeed5625f3bcb56bcc956b\" title=\"Talk of the Devils - Man United’s all-time Top 25 Players: Part One, 25-11\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rhonh\"> /u/rhonh </a> <br /> <span><a href=\"https://open.spotify.com/episode/2jy58hY9NwytNUurTF1vwx?si=dXRO2QJuQFCEF63h3cLCWQ&amp;utm_source=copy-link\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wsj7yb/talk_of_the_devils_man_uniteds_alltime_top_25/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wsj7yb/talk_of_the_devils_man_uniteds_alltime_top_25/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-09-28T16:24:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 38,
+    "story_count": 28
+  }
+}
