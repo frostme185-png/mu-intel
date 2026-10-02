@@ -1,0 +1,633 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T06:47:15.256093+00:00",
+  "match_data": {
+    "collected_at": "2026-10-02T06:47:10.879675+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Ferguson on brain haemorrhage and games that shaped his life",
+      "items": [
+        {
+          "title": "Ferguson on brain haemorrhage and games that shaped his life",
+          "summary": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 02 Oct 2026 05:25:13 GMT"
+        },
+        {
+          "title": "Sir Alex Ferguson opens up on 'frightening' brain haemorrhage effects and Man United return",
+          "summary": "The legendary Manchester United boss has shared his frightening experience",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/sir-alex-ferguson-manchester-united-34704703",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 06:08:23 +0000"
+        },
+        {
+          "title": "'I was terrified' - Sir Alex Ferguson opens up on brain haemorrhage and Man Utd return",
+          "summary": "Manchester United icon Sir Alex Ferguson has broken his silence on a terrifying experience after emergency surgery in 2018",
+          "url": "https://www.mirror.co.uk/sport/football/news/alex-ferguson-man-united-surgery-37725968",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 06:05:37 +0000"
+        },
+        {
+          "title": "Ferguson on brain haemorrhage and games that shaped his life",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wvm0g9/ferguson_on_brain_haemorrhage_and_games_that/\"> <img alt=\"Ferguson on brain haemorrhage and games that shaped his life\" src=\"https://external-preview.redd.it/K-hLqTc6ahIk6a8hE1qN5unDGTDK4sxpbVhxXfRmjhM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=64d64c7a75f66cbe84e50639c02c615f634dbb17\" title=\"Ferguson on brain haemorrhage and games that shaped his life\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cvwyz0jx3znyo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvm0g9/ferguson_on_brain_haemorrhage_and_games_that/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvm0g9/ferguson_on_brain_haemorrhage_and_games_that/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T05:54:19+00:00"
+        },
+        {
+          "title": "Ferguson on brain haemorrhage and games that shaped his life",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.bbc.com/sport/football/articles/cvwyz0jx3znyo\">https://www.bbc.com/sport/football/articles/cvwyz0jx3znyo</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fsociety_1990\"> /u/fsociety_1990 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvmn32/ferguson_on_brain_haemorrhage_and_games_that/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvmn32/ferguson_on_brain_haemorrhage_and_games_that/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvmn32/ferguson_on_brain_haemorrhage_and_games_that/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T06:32:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "BBC Sport - Manchester United",
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 4,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How should Man City be punished? Fans have their say!",
+      "items": [
+        {
+          "title": "How should Man City be punished? Fans have their say!",
+          "summary": "Arsenal, Manchester City, Manchester United, Aston Villa and Liverpool fans have their say on how the Citizens should be punished after the club was found guilty of all charges related to breaches of Premier League financial rules between the 2009-10 and 2017-18 seasons.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cwg7k7d5101ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 01 Oct 2026 12:16:14 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: Marcus Rashford 'issue' emerges as free agent told he could solve problem",
+      "items": [
+        {
+          "title": "Man United latest: Marcus Rashford 'issue' emerges as free agent told he could solve problem",
+          "summary": "Marcus Rashford has starred for Manchester United this season and the club has received a transfer instruction",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-marcus-rashford-34702589",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I swore at Man United chief when he blocked my exit - my wife wanted me to leave",
+      "items": [
+        {
+          "title": "I swore at Man United chief when he blocked my exit - my wife wanted me to leave",
+          "summary": "The ex-Manchester United star left the club in contentious circumstances",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-exit-france-34692795",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'Listening to history' - Sir Alex Ferguson as he's never been heard before at Manchester United",
+      "items": [
+        {
+          "title": "'Listening to history' - Sir Alex Ferguson as he's never been heard before at Manchester United",
+          "summary": "A new book shares unheard interviews from Sir Alex Ferguson as it reflects on his time in charge at Man Utd.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/listening-history-sir-alex-ferguson-34702155",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United have four contract decisions to make before the end of the season",
+      "items": [
+        {
+          "title": "Manchester United have four contract decisions to make before the end of the season",
+          "summary": "Man Utd have a few contract decisions to make with senior players before the end of the 2026/2027 season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-four-contract-decisions-34701723",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 14:00:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Cristian Ronaldo risks six-month ban as sister erupts after Man United icon storms out",
+      "items": [
+        {
+          "title": "Cristian Ronaldo risks six-month ban as sister erupts after Man United icon storms out",
+          "summary": "Cristiano Ronaldo could face a sixth-month ban after his latest antics, with the Manchester United legend's sister furious with his situation",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/cristiano-ronaldo-manchester-united-sister-34701375",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 13:49:35 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man City verdict confirms what Man United fans knew all along about Ferguson and Guardiola",
+      "items": [
+        {
+          "title": "Man City verdict confirms what Man United fans knew all along about Ferguson and Guardiola",
+          "summary": "Sir Alex Ferguson and Pep Guardiola are arguably the greatest managers in football history, but recent events showed the Man Utd legend sits top of the list.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-city-verdict-confirms-what-34701261",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 13:41:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane has already made stance on Celtic job clear after teasing managerial return",
+      "items": [
+        {
+          "title": "Roy Keane has already made stance on Celtic job clear after teasing managerial return",
+          "summary": "Roy Keane has been linked with the Celtic job after turning up to watch Martin O'Neill's side",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-keane-celtic-job-34701781",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 13:40:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney's son let go by Prem club as he and Coleen open up about 'hardest thing'",
+      "items": [
+        {
+          "title": "Wayne Rooney's son let go by Prem club as he and Coleen open up about 'hardest thing'",
+          "summary": "Wayne and Coleen Rooney have discussed telling one of their sons that he had been released",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-wayne-rooney-sons-34699022",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 13:39:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Add Manchester Evening News to your Google preferred sources to see more of your favourite Man United content",
+      "items": [
+        {
+          "title": "Add Manchester Evening News to your Google preferred sources to see more of your favourite Man United content",
+          "summary": "Beat the algorithms and ensure you get your favourite Manchester United content from the Manchester Evening News at the top of your Google news feed by selecting us as a preferred source",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/google-preferred-source-manchester-united-34701802",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 13:30:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "JJ Gabriel trains in Barcelona as exit looms - Manchester United Academy Notebook",
+      "items": [
+        {
+          "title": "JJ Gabriel trains in Barcelona as exit looms - Manchester United Academy Notebook",
+          "summary": "This week's Academy Notebook includes an update on JJ Gabriel, a cruel injury blow and a milestone on international duty.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/jj-gabriel-trains-barcelona-exit-34692850",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The mood has changed at Manchester United after Man City guilty verdict",
+      "items": [
+        {
+          "title": "The mood has changed at Manchester United after Man City guilty verdict",
+          "summary": "Man Utd were the focus of Premier League chat and gossip a week ago, but Manchester City have done them a favour.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mood-changed-manchester-united-after-34699433",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 09:22:29 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd news: Marcus Rashford 'issue' raised as fresh transfer instruction sent",
+      "items": [
+        {
+          "title": "Man Utd news: Marcus Rashford 'issue' raised as fresh transfer instruction sent",
+          "summary": "Manchester United star Marcus Rashford's form has been discussed and a club legend has sent the club a transfer instruction",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-marcus-rashford-37724457",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man City facing £800m-plus bill as Arsenal, Man Utd, Liverpool and Spurs to SUE rivals",
+      "items": [
+        {
+          "title": "Man City facing £800m-plus bill as Arsenal, Man Utd, Liverpool and Spurs to SUE rivals",
+          "summary": "Manchester City are already set to face sanctions from the Premier League pending an appeal, but it appears that a number of rival clubs are readying legal action against them",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-city-premier-league-damages-37724291",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 14:29:07 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd wonderkid JJ Gabriel trains in Barcelona after latest twist in transfer saga",
+      "items": [
+        {
+          "title": "Man Utd wonderkid JJ Gabriel trains in Barcelona after latest twist in transfer saga",
+          "summary": "JJ Gabriel has still not managed to seal a move away from Manchester United despite his request to leave and the youngster remains in Spain as he plans his next move",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-barcelona-37723902",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 13:58:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Cristiano Ronaldo: Why Portugal star's international career looks set to end in chaos",
+      "items": [
+        {
+          "title": "Cristiano Ronaldo: Why Portugal star's international career looks set to end in chaos",
+          "summary": "Cristiano Ronaldo should be riding off into the horizon following a stunning career but the former Manchester United and Real Madrid star looks set to fade into obscurity",
+          "url": "https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-portugal-row-jesus-37723466",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 13:18:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I regret how quickly I left Man Utd after making my debut - now I work in a shop'",
+      "items": [
+        {
+          "title": "'I regret how quickly I left Man Utd after making my debut - now I work in a shop'",
+          "summary": "The former Manchester United academy graduate has opened up about his decision to depart Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/richard-eckersley-man-utd-debut-37723046",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 11:57:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man City's Premier League punishment draft: Which player YOUR club lands as 19 stars leave",
+      "items": [
+        {
+          "title": "Man City's Premier League punishment draft: Which player YOUR club lands as 19 stars leave",
+          "summary": "Premier League clubs are waiting to learn what punishment will come Manchester City's way after a verdict was reached on their 115 charges",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-city-punishment-draft-transfers-37722102",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 1 Oct 2026 11:00:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United could land £30m La Liga star after dramatic change",
+      "items": [
+        {
+          "title": "Manchester United could land £30m La Liga star after dramatic change",
+          "summary": "<p>Manchester United have been handed a boost in their hopes of signing Barcelona left-back Alejandro Balde during the January transfer window. According to a report from Football Insider, United now have an “improved” chance of securing the 22-year-old after his lack of playing time at Barcelona has changed the situation. Alejandro Balde attracts Manchester United [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/02/manchester-united-could-land-30m-la-liga-star-after-dramatic-change/\">Manchester United could land £30m La Liga star after dramatic change</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/02/manchester-united-could-land-30m-la-liga-star-after-dramatic-change/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 02 Oct 2026 05:20:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Free Talk Friday",
+      "items": [
+        {
+          "title": "Free Talk Friday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>What's the craic? </p> <p><strong>Looking for memes? Head over to</strong> <a href=\"https://www.reddit.com/r/memechesterunited\">/r/memechesterunited</a><strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhelansShorts\"> /u/PhelansShorts </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvl3p3/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvl3p3/free_talk_friday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvl3p3/free_talk_friday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T05:00:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes with the Player of the Match award for Portugal v Denmark",
+      "items": [
+        {
+          "title": "Bruno Fernandes with the Player of the Match award for Portugal v Denmark",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wvdjg0/bruno_fernandes_with_the_player_of_the_match/\"> <img alt=\"Bruno Fernandes with the Player of the Match award for Portugal v Denmark\" src=\"https://preview.redd.it/4sx7wvswoxsh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=743bbc7410a1dcde4adc3802e116df920c2ce178\" title=\"Bruno Fernandes with the Player of the Match award for Portugal v Denmark\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://i.redd.it/4sx7wvswoxsh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvdjg0/bruno_fernandes_with_the_player_of_the_match/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvdjg0/bruno_fernandes_with_the_player_of_the_match/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T22:42:10+00:00"
+        },
+        {
+          "title": "Bruno Fernandes starts for Portugal against Denmark",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wv6c54/bruno_fernandes_starts_for_portugal_against/\"> <img alt=\"Bruno Fernandes starts for Portugal against Denmark\" src=\"https://preview.redd.it/fmvivfy19wsh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=92034b2b529c15055d6fe7e4938caf8354f0c0b0\" title=\"Bruno Fernandes starts for Portugal against Denmark\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/fmvivfy19wsh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wv6c54/bruno_fernandes_starts_for_portugal_against/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wv6c54/bruno_fernandes_starts_for_portugal_against/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T17:54:47+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes vs Denmark: 2 assists (most) 2 accurate crosses 3 big chances created (most) 3 accurate long balls 5 chances created (most) 7 passes into final third. His first multi-assist game this season. [StatMuse FC]",
+      "items": [
+        {
+          "title": "Bruno Fernandes vs Denmark: 2 assists (most) 2 accurate crosses 3 big chances created (most) 3 accurate long balls 5 chances created (most) 7 passes into final third. His first multi-assist game this season. [StatMuse FC]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wvba9y/bruno_fernandes_vs_denmark_2_assists_most_2/\"> <img alt=\"Bruno Fernandes vs Denmark: 2 assists (most) 2 accurate crosses 3 big chances created (most) 3 accurate long balls 5 chances created (most) 7 passes into final third. His first multi-assist game this season. [StatMuse FC]\" src=\"https://preview.redd.it/zojuf7cc7xsh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=54cd843714c80565434b155a04734da990d23c97\" title=\"Bruno Fernandes vs Denmark: 2 assists (most) 2 accurate crosses 3 big chances created (most) 3 accurate long balls 5 chances created (most) 7 passes into final third. His first multi-assist game this season. [StatMuse FC]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/zojuf7cc7xsh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvba9y/bruno_fernandes_vs_denmark_2_assists_most_2/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvba9y/bruno_fernandes_vs_denmark_2_assists_most_2/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T21:05:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Squawka] Most possession won per 90, Kobbie 1st with 10.1",
+      "items": [
+        {
+          "title": "[Squawka] Most possession won per 90, Kobbie 1st with 10.1",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wv1ui5/squawka_most_possession_won_per_90_kobbie_1st/\"> <img alt=\"[Squawka] Most possession won per 90, Kobbie 1st with 10.1\" src=\"https://preview.redd.it/9hamrjv4fvsh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3777f38b87395e5dfe693a49da64183ae2029495\" title=\"[Squawka] Most possession won per 90, Kobbie 1st with 10.1\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Aadiunited7\"> /u/Aadiunited7 </a> <br /> <span><a href=\"https://i.redd.it/9hamrjv4fvsh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wv1ui5/squawka_most_possession_won_per_90_kobbie_1st/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wv1ui5/squawka_most_possession_won_per_90_kobbie_1st/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T15:04:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Denmark 2 - [3] Portugal - Vitinha 67‎'‎ (Bruno great assist)",
+      "items": [
+        {
+          "title": "Denmark 2 - [3] Portugal - Vitinha 67‎'‎ (Bruno great assist)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wva1xj/denmark_2_3_portugal_vitinha_67_bruno_great_assist/\"> <img alt=\"Denmark 2 - [3] Portugal - Vitinha 67‎'‎ (Bruno great assist)\" src=\"https://external-preview.redd.it/458f6mEZj4K-Q6EwpVtyst8dygTb9zT0doSx2eeLxB8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce136aba9df4acb7a862be0f0714547ea9c14bfe\" title=\"Denmark 2 - [3] Portugal - Vitinha 67‎'‎ (Bruno great assist)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rbascb\"> /u/rbascb </a> <br /> <span><a href=\"https://www.reddit.com/r/soccer/comments/1wv9zvs/denmark_2_3_portugal_vitinha_67/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wva1xj/denmark_2_3_portugal_vitinha_67_bruno_great_assist/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wva1xj/denmark_2_3_portugal_vitinha_67_bruno_great_assist/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T20:15:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Denmark 2 - [4] Portugal - Joao Felix 87‎'‎ [Diogo Dalot assist]",
+      "items": [
+        {
+          "title": "Denmark 2 - [4] Portugal - Joao Felix 87‎'‎ [Diogo Dalot assist]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wvajaa/denmark_2_4_portugal_joao_felix_87_diogo_dalot/\"> <img alt=\"Denmark 2 - [4] Portugal - Joao Felix 87‎'‎ [Diogo Dalot assist]\" src=\"https://external-preview.redd.it/qU0a2893Xyt-C7ddHE2KbvZzDnT1CFKMUgldAdJKuTA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=099f8e3fee0d4e7c09ce5ebdd50d83b9e9fa22c1\" title=\"Denmark 2 - [4] Portugal - Joao Felix 87‎'‎ [Diogo Dalot assist]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/brownbilal\"> /u/brownbilal </a> <br /> <span><a href=\"https://streamin.link/v/7a140aa0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvajaa/denmark_2_4_portugal_joao_felix_87_diogo_dalot/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvajaa/denmark_2_4_portugal_joao_felix_87_diogo_dalot/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T20:34:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Denmark 1 - [2] Portugal - Gonçalo Ramos 26'",
+      "items": [
+        {
+          "title": "Denmark 1 - [2] Portugal - Gonçalo Ramos 26'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wv8hm4/denmark_1_2_portugal_gonçalo_ramos_26/\"> <img alt=\"Denmark 1 - [2] Portugal - Gonçalo Ramos 26'\" src=\"https://external-preview.redd.it/KalUAIr-a8okK5Rtb_Cj-F51vaAnV5S2nKD3rp2_Vzs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb1f5089ff6355ce9f8718f38fadc2f3a8233a69\" title=\"Denmark 1 - [2] Portugal - Gonçalo Ramos 26'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dpw2017\"> /u/dpw2017 </a> <br /> <span><a href=\"https://streamin.link/v/24a43303\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wv8hm4/denmark_1_2_portugal_gonçalo_ramos_26/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wv8hm4/denmark_1_2_portugal_gonçalo_ramos_26/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T19:15:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Herrera arrives as United Women assistant",
+      "items": [
+        {
+          "title": "Herrera arrives as United Women assistant",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jackmcboss915\"> /u/jackmcboss915 </a> <br /> <span><a href=\"https://www.manutd.com/en/news/herrera-arrives-as-united-women-assistant\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wv78xg/herrera_arrives_as_united_women_assistant/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wv78xg/herrera_arrives_as_united_women_assistant/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T18:28:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How might City verdict impact Man United?",
+      "items": [
+        {
+          "title": "How might City verdict impact Man United?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wv2qu0/how_might_city_verdict_impact_man_united/\"> <img alt=\"How might City verdict impact Man United?\" src=\"https://external-preview.redd.it/JEcHILbyIcIev29MJBEkGzTRfkAnRzH2U_9bVBQP6h0.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d92693dd50067f2cf6b494a61a0e6385d64fcfa6\" title=\"How might City verdict impact Man United?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/clarkmds\"> /u/clarkmds </a> <br /> <span><a href=\"https://youtu.be/QL6oGbc3cOg?si=TvMcGPYjX6goW0eU\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wv2qu0/how_might_city_verdict_impact_man_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wv2qu0/how_might_city_verdict_impact_man_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-01T15:39:39+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvf8yz/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvf8yz/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvf8yz/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T00:00:50+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 35,
+    "story_count": 30
+  }
+}
