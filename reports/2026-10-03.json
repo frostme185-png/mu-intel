@@ -1,0 +1,560 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T06:08:39.450498+00:00",
+  "match_data": {
+    "collected_at": "2026-10-03T06:08:33.919944+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Coleen Rooney had doubts about Kai following in Wayne's Man United footsteps after on-pitch act",
+      "items": [
+        {
+          "title": "Coleen Rooney had doubts about Kai following in Wayne's Man United footsteps after on-pitch act",
+          "summary": "Kai Rooney is currently playing for Manchester United's Under-18s and hoping to follow in dad Wayne's footsteps - but mum Coleen once questioned his football future",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/kai-rooney-career-wayne-coleen-34707405",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Kai Rooney's on-pitch actions had Coleen questioning decision to follow in Wayne's footsteps",
+          "summary": "Coleen Rooney was left stunned by what her son Kai did on the football pitch",
+          "url": "https://www.mirror.co.uk/sport/football/news/kai-rooney-wayne-coleen-career-37726792",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carlos Baleba takes major Manchester United step in friendly with Lausanne",
+      "items": [
+        {
+          "title": "Carlos Baleba takes major Manchester United step in friendly with Lausanne",
+          "summary": "Manchester United played Swiss side Lausanne in a behind closed doors friendly on Friday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carlos-baleba-takes-major-manchester-34709667",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 16:27:58 +0000"
+        },
+        {
+          "title": "[ManUtd] Carlos Baleba played in a behind-closed-doors friendly for Manchester United on Friday, as he works towards making his competitive debut for the club.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/baleba-gets-first-taste-of-united-action\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvxp3t/manutd_carlos_baleba_played_in_a/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvxp3t/manutd_carlos_baleba_played_in_a/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T16:05:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Ex-Man United striker Rasmus Hojlund pushes Portugal boss after Cristiano Ronaldo moment",
+      "items": [
+        {
+          "title": "Ex-Man United striker Rasmus Hojlund pushes Portugal boss after Cristiano Ronaldo moment",
+          "summary": "Rasmus Hojlund had an eventful night for Denmark as he was involved in an altercation with Portugal boss Jorge Jesus",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-hojlund-ronaldo-34705270",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 09:00:54 +0000"
+        },
+        {
+          "title": "Man Utd flop Rasmus Hojlund SHOVES Portugal manager after Cristiano Ronaldo trolling act",
+          "summary": "Rasmus Hojlund performed Cristiano Ronaldo's trademark Siu celebration after scoring Denmark's second goal in their 4-2 Nations League defeat to Portugal in Copenhagen",
+          "url": "https://www.mirror.co.uk/sport/football/news/hojlund-denmark-portugal-man-utd-37726885",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 10:27:20 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United fans snap up official £28 Christmas jumper for £12 in over half price deal",
+      "items": [
+        {
+          "title": "Man United fans snap up official £28 Christmas jumper for £12 in over half price deal",
+          "summary": "Manchester United fans can get a head start on their Christmas shopping with a clever deal that knocks 55% off an official festive jumper",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-fans-snap-up-34681974",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney's sons' footballing careers with two at Man United and another axed by club",
+      "items": [
+        {
+          "title": "Wayne Rooney's sons' footballing careers with two at Man United and another axed by club",
+          "summary": "Wayne and Coleen Rooney have four boys who've all taken strides into football to varying degrees of success",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/wayne-rooney-sons-man-united-34708714",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: January plan hatched as Scott McTominay contract demands emerge",
+      "items": [
+        {
+          "title": "Man United latest: January plan hatched as Scott McTominay contract demands emerge",
+          "summary": "Manchester United will return to face Spurs in one week with a handful of Michael Carrick's players still away on international duty",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-mctominay-carrick-january-34709791",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "De Ligt absence, Baleba debut and Berrada intrigue - Manchester United Notebook",
+      "items": [
+        {
+          "title": "De Ligt absence, Baleba debut and Berrada intrigue - Manchester United Notebook",
+          "summary": "This week's Man Utd Notebook looks at a couple of players on their way back from injury and how events at the Etihad could have an impact at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/de-ligt-absence-baleba-debut-34700401",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I outshone Didier Drogba and signed for Manchester United after a three-week trial'",
+      "items": [
+        {
+          "title": "'I outshone Didier Drogba and signed for Manchester United after a three-week trial'",
+          "summary": "Man Utd thought that they had unearthed a gem when they signed Manucho in 2008, but he hardly played for the club.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/i-outshone-didier-drogba-signed-34699192",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United told latest announcement has cost them £40m - 'A massive increase'",
+      "items": [
+        {
+          "title": "Man United told latest announcement has cost them £40m - 'A massive increase'",
+          "summary": "Anthony Joshua will take on Tyson Fury in a blockbuster all-British clash in Cardiff later this year",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-anthony-joshua-fury-34710272",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 20:28:50 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United considering JJ Gabriel legal action if teen star leaves club",
+      "items": [
+        {
+          "title": "Man United considering JJ Gabriel legal action if teen star leaves club",
+          "summary": "Manchester United are reportedly considering legal action if JJ Gabriel leaves the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-transfer-jj-gabriel-34710053",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 18:29:17 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens responds to Roy Keane and Paul Scholes after Manchester United criticism",
+      "items": [
+        {
+          "title": "Senne Lammens responds to Roy Keane and Paul Scholes after Manchester United criticism",
+          "summary": "Goalkeeper Senne Lammens has established himself as Man Utd No. 1 but he has come in for some stick from club legends recently.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/senne-lammens-responds-roy-keane-34707254",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 12:40:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ex-Man United star in furious row with club chiefs as he refuses to train to force transfer",
+      "items": [
+        {
+          "title": "Ex-Man United star in furious row with club chiefs as he refuses to train to force transfer",
+          "summary": "The former Manchester United star has thrown his toys out of the pram and is refusing to train as he seeks a return to his boyhood club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-training-return-34706397",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 11:13:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "An unexpected figure has given Manchester United a new tactic with Bruno Fernandes",
+      "items": [
+        {
+          "title": "An unexpected figure has given Manchester United a new tactic with Bruno Fernandes",
+          "summary": "Bruno Fernandes has found his form again with Portugal and he could return to Man Utd ready to hit the ground running.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/unexpected-figure-given-manchester-united-34705396",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 09:15:13 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "What's happening with JJ Gabriel? U-turn on ban, Barcelona hint, Man Utd deadline",
+      "items": [
+        {
+          "title": "What's happening with JJ Gabriel? U-turn on ban, Barcelona hint, Man Utd deadline",
+          "summary": "JJ Gabriel's future has been widely discussed since the teenager requested to leave Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-barcelona-37727133",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "European football's 19 most valuable teenagers with Liverpool, Chelsea and Aston Villa represented",
+      "items": [
+        {
+          "title": "European football's 19 most valuable teenagers with Liverpool, Chelsea and Aston Villa represented",
+          "summary": "Some unexpected names feature among the 19 most valuable teenagers playing in Europe right now, with the Premier League boasting more of the top next-gen talents than any rival",
+          "url": "https://www.mirror.co.uk/sport/football/news/transfer-market-value-teenagers-yamal-37713203",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "'Leaving Man Utd was a huge decision – but I want to be successful and have no regrets'",
+      "items": [
+        {
+          "title": "'Leaving Man Utd was a huge decision – but I want to be successful and have no regrets'",
+          "summary": "The former Manchester United star took a big risk leaving Old Trafford but has scaled the heights ever since",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-regret-sale-37726666",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 04:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: Scott McTominay's Napoli future in doubt as Michael Carrick makes January plan",
+      "items": [
+        {
+          "title": "Man Utd news: Scott McTominay's Napoli future in doubt as Michael Carrick makes January plan",
+          "summary": "Manchester United will be back in action in exactly one week as stars continue to represent their respective national teams",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-scott-mctominay-carrick-37729266",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Cristiano Ronaldo failed to learn lesson after bombshell comments 'upset' Man Utd squad",
+      "items": [
+        {
+          "title": "Cristiano Ronaldo failed to learn lesson after bombshell comments 'upset' Man Utd squad",
+          "summary": "Portugal legend Cristiano Ronaldo has repeated his Manchester United mistakes",
+          "url": "https://www.mirror.co.uk/sport/football/news/cristiano-ronaldo-portugal-man-united-37728038",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 02:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd get ideal Carlos Baleba boost ahead of vital Tottenham clash",
+      "items": [
+        {
+          "title": "Man Utd get ideal Carlos Baleba boost ahead of vital Tottenham clash",
+          "summary": "Carlos Baleba has moved a step closer to making his official debut for Manchester United after his arrival in the summer",
+          "url": "https://www.mirror.co.uk/sport/football/news/baleba-injury-update-man-utd-37729780",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 20:03:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd eye JJ Gabriel legal action if teenager leaves amid Barcelona and Real Madrid interest",
+      "items": [
+        {
+          "title": "Man Utd eye JJ Gabriel legal action if teenager leaves amid Barcelona and Real Madrid interest",
+          "summary": "Manchester United teenage sensation JJ Gabriel is still keen on quitting Old Trafford, though the club are eyeing taking legal action if he moves abroad",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-gabriel-legal-action-37728857",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 16:02:59 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I had to leave Man Utd because I wasn't wanted - it wasn't good for me'",
+      "items": [
+        {
+          "title": "'I had to leave Man Utd because I wasn't wanted - it wasn't good for me'",
+          "summary": "A former Manchester United star lambasted the club for their treatment of him",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-premier-league-37727038",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 2 Oct 2026 14:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chelsea and Man United track 25-year-old Frenchman after international breakthrough",
+      "items": [
+        {
+          "title": "Chelsea and Man United track 25-year-old Frenchman after international breakthrough",
+          "summary": "<p>Chelsea are keeping a close eye on Como midfielder Lucas Da Cunha after the Frenchman’s impressive rise in Serie A and recent international breakthrough. The 25-year-old has developed into an important figure for the Italian club since joining from Nice in 2023, with his versatility and technical ability making him a valuable part of their [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/02/chelsea-and-man-united-track-25-year-old-frenchman-after-international-breakthrough/\">Chelsea and Man United track 25-year-old Frenchman after international breakthrough</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/02/chelsea-and-man-united-track-25-year-old-frenchman-after-international-breakthrough/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 02 Oct 2026 21:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1ww7t2u/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1ww7t2u/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1ww7t2u/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T23:00:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes MotM Highlights vs Denmark",
+      "items": [
+        {
+          "title": "Bruno Fernandes MotM Highlights vs Denmark",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wvw50n/bruno_fernandes_motm_highlights_vs_denmark/\"> <img alt=\"Bruno Fernandes MotM Highlights vs Denmark\" src=\"https://external-preview.redd.it/NmF0YnBpczNrMnRoMYWPCj7eB9QGlc_rwuE6nXNeLOCUxtwBYGyWiMnN1ceo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13ebfe5f648391ff5c6348e8be4efa472b276742\" title=\"Bruno Fernandes MotM Highlights vs Denmark\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SierraEight\"> /u/SierraEight </a> <br /> <span><a href=\"https://v.redd.it/8q05pxs3k2th1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvw50n/bruno_fernandes_motm_highlights_vs_denmark/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvw50n/bruno_fernandes_motm_highlights_vs_denmark/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T15:04:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] How will Manchester United react to the Manchester City verdict? (Gift Article)",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] How will Manchester United react to the Manchester City verdict? (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wvx2ew/laurie_whitwell_how_will_manchester_united_react/\"> <img alt=\"[Laurie Whitwell] How will Manchester United react to the Manchester City verdict? (Gift Article)\" src=\"https://external-preview.redd.it/ZK-sOm7tS2znb3Ab3vNCTDWEpN4mNtNJK1kJ-NA9_xI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f071662f6bc11d2d747d1bf6e63a51f0e0ec8602\" title=\"[Laurie Whitwell] How will Manchester United react to the Manchester City verdict? (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7646374/2026/10/02/manchester-united-city-verdict-analysis-omar-berrada/?unlocked_article_code=1.FlE.7pgU.JYTLgtX2kTs9&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvx2ew/laurie_whitwell_how_will_manchester_united_react/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvx2ew/laurie_whitwell_how_will_manchester_united_react/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T15:40:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens & Youri Tielemans start for Belgium against Turkey",
+      "items": [
+        {
+          "title": "Senne Lammens & Youri Tielemans start for Belgium against Turkey",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1ww0731/senne_lammens_youri_tielemans_start_for_belgium/\"> <img alt=\"Senne Lammens &amp; Youri Tielemans start for Belgium against Turkey\" src=\"https://preview.redd.it/xu3mgxvxb3th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=115116f96eae5052c7b7db0de84ff1998c714254\" title=\"Senne Lammens &amp; Youri Tielemans start for Belgium against Turkey\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/xu3mgxvxb3th1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1ww0731/senne_lammens_youri_tielemans_start_for_belgium/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1ww0731/senne_lammens_youri_tielemans_start_for_belgium/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T17:45:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson on Manchester United, career highs and more | BBC News",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson on Manchester United, career highs and more | BBC News",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wvqwf6/sir_alex_ferguson_on_manchester_united_career/\"> <img alt=\"Sir Alex Ferguson on Manchester United, career highs and more | BBC News\" src=\"https://external-preview.redd.it/AXEAbGMQuM3r7FhfDOOy55FEvVkyPSIitDB76DJtacY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7a2223b2fe6617d66f2b7aab9a2d29cc8d7fa9bb\" title=\"Sir Alex Ferguson on Manchester United, career highs and more | BBC News\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/The-Black-Angel\"> /u/The-Black-Angel </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=GgHZ1ogn938\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wvqwf6/sir_alex_ferguson_on_manchester_united_career/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wvqwf6/sir_alex_ferguson_on_manchester_united_career/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-02T11:03:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 30,
+    "story_count": 27
+  }
+}
