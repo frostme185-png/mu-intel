@@ -1,0 +1,835 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T06:39:38.444249+00:00",
+  "match_data": {
+    "collected_at": "2026-10-04T06:39:33.076222+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United latest: Barcelona 'open' to January transfer as club consider JJ Gabriel action",
+      "items": [
+        {
+          "title": "Man United latest: Barcelona 'open' to January transfer as club consider JJ Gabriel action",
+          "summary": "Manchester United will soon turn their attention to facing Tottenham in the Premier League with the international break slowly coming to an end",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-barcelona-34712141",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: JJ Gabriel legal action plotted as Barcelona U-turn on transfer stance",
+          "summary": "Manchester United will return to the pitch in less than a week and first-team players will soon start to flock back from international duty",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-barcelona-37731083",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United's Bruno Fernandes shows true feelings on Cristiano Ronaldo after Portugal manager row",
+      "items": [
+        {
+          "title": "Man United's Bruno Fernandes shows true feelings on Cristiano Ronaldo after Portugal manager row",
+          "summary": "Manchester United captain Bruno Fernandes has urged unity in the Portugal national team after Cristiano Ronaldo left the squad",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/fernandes-ronaldo-man-utd-portugal-34713359",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 21:32:10 +0000"
+        },
+        {
+          "title": "Bruno Fernandes reveals what he privately told Cristiano Ronaldo after Portugal fall out",
+          "summary": "<p>Bruno Fernandes has revealed that he has spoken with Cristiano Ronaldo following the veteran forward&#8217;s dramatic fallout with the Portugal national team. Ronaldo&#8217;s future with his country has been thrown into doubt following his dispute with manager Jorge Jesus and subsequent departure from the Portugal camp. However, Manchester United midfielder Fernandes has urged supporters not [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/04/bruno-fernandes-cristiano-ronaldo-portugal-fallout/\">Bruno Fernandes reveals what he privately told Cristiano Ronaldo after Portugal fall out</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/04/bruno-fernandes-cristiano-ronaldo-portugal-fallout/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 03 Oct 2026 23:05:03 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Paul Scholes disagrees with Wayne Rooney in X-rated message on Man City players' medals",
+      "items": [
+        {
+          "title": "Paul Scholes disagrees with Wayne Rooney in X-rated message on Man City players' medals",
+          "summary": "Manchester United legend Paul Scholes has disagreed with Wayne Rooney with their view on Man City's medals",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-rooney-scholes-city-34712313",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 14:52:20 +0000"
+        },
+        {
+          "title": "Paul Scholes disagrees with Wayne Rooney in Man Utd debate - 'Greedy b******'",
+          "summary": "Manchester City could be stripped of their titles after being found guilty of breaking financial rules, and bitter rivals Manchester United would be in line to benefit",
+          "url": "https://www.mirror.co.uk/sport/football/news/scholes-manchester-city-charges-titles-37731146",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 15:24:45 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United 'conduct review' as players could claim millions after Man City charges",
+      "items": [
+        {
+          "title": "Man United 'conduct review' as players could claim millions after Man City charges",
+          "summary": "Manchester United players could have claims against Manchester City as well as the club reserving their right to seek damages alongside Arsenal, Liverpool and Tottenham Hotspur",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-man-city-charges-34711282",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 10:29:54 +0000"
+        },
+        {
+          "title": "Man Utd and players could be due millions as 'review' held after Man City charges",
+          "summary": "Manchester United are conducting an internal review of the financial impact of Manchester City's Premier League charges, and their players could claim millions",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-man-city-charges-37730757",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 12:12:18 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "I was meant to sign for Man United – the players were even talking to the manager about me",
+      "items": [
+        {
+          "title": "I was meant to sign for Man United – the players were even talking to the manager about me",
+          "summary": "Manchester United players expected the club to sign a Premier League star - but a transfer never materialised",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jermain-defoe-ferguson-34688583",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The Manchester United youngster primed to take JJ Gabriel's crown",
+      "items": [
+        {
+          "title": "The Manchester United youngster primed to take JJ Gabriel's crown",
+          "summary": "Man Utd youngster Noah Ajayi is primed to build on an excellent season after signing his professional contract.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-youngster-who-primed-34698742",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sesko plan, Rashford decision and JJ Gabriel transfer - Man United questions answered",
+      "items": [
+        {
+          "title": "Sesko plan, Rashford decision and JJ Gabriel transfer - Man United questions answered",
+          "summary": "Manchester United have had a slow start to the season but there is no sense Michael Carrick's job is in danger yet and the drama has been going on elsewhere in Manchester.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/sesko-plan-rashford-decision-jj-34708404",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I don't understand why Man United signed me - I was never played in my best position",
+      "items": [
+        {
+          "title": "I don't understand why Man United signed me - I was never played in my best position",
+          "summary": "A former Manchester United star refelcted on his frutrating spell at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-signing-transfer-decision-34700687",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United are 48 hours away from clarity on JJ Gabriel",
+      "items": [
+        {
+          "title": "Manchester United are 48 hours away from clarity on JJ Gabriel",
+          "summary": "Man Utd's academy was rocked last month when staff received a request from JJ Gabriel's camp to leave the club.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-48-hours-away-34710842",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Baleba, Sesko, Dorgu - Man United injury latest as Michael Carrick handed boost",
+      "items": [
+        {
+          "title": "Baleba, Sesko, Dorgu - Man United injury latest as Michael Carrick handed boost",
+          "summary": "Manchester United have been handed an injury boost ahead of the return of the Premier League following the international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-injury-news-baleba-34712654",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 16:15:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United's forgotten man is about to give Michael Carrick a huge boost",
+      "items": [
+        {
+          "title": "Manchester United's forgotten man is about to give Michael Carrick a huge boost",
+          "summary": "Man Utd defender Matthijs de Ligt is almost at full fitness after recovering from surgery for a back injury.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-forgotten-man-give-34711251",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 11:54:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick's son makes Manchester United first-team appearance",
+      "items": [
+        {
+          "title": "Michael Carrick's son makes Manchester United first-team appearance",
+          "summary": "Man Utd's first-team played Lausanne Sport in a behind-closed-doors friendly at Carrington on Friday afternoon.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carricks-son-makes-manchester-34711314",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 10:26:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Alejandro Garnacho hits back with perfect response as two-word message sent to Unai Emery",
+      "items": [
+        {
+          "title": "Alejandro Garnacho hits back with perfect response as two-word message sent to Unai Emery",
+          "summary": "The former Manchester United forward may have shut up some of his doubters, having struggled since leaving the club and joining Aston Villa in the summer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/alejandro-garnacho-man-united-villa-34711083",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 09:21:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How midfielder sold by Manchester United this summer is doing - 'makes all the difference'",
+      "items": [
+        {
+          "title": "How midfielder sold by Manchester United this summer is doing - 'makes all the difference'",
+          "summary": "Man United sold academy graduate Toby Collyer in the summer transfer window, with the midfielder signing for West Brom.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-midfielder-sold-manchester-united-34710789",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 08:48:02 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fred tears apart Man United boss hired by the Glazers - 'He'd argue with everyone'",
+      "items": [
+        {
+          "title": "Fred tears apart Man United boss hired by the Glazers - 'He'd argue with everyone'",
+          "summary": "Ex-Manchester United midfielder Fred has not pulled any punches as he laid into the shortcomings of a boss hired by the Glazers",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ten-hag-glazers-34710837",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 08:33:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Belgian media all reach same Senne Lammens verdict after Man United star hit back at club icon",
+      "items": [
+        {
+          "title": "Belgian media all reach same Senne Lammens verdict after Man United star hit back at club icon",
+          "summary": "Manchester United goalkeeper Senne Lammens clapped back at criticism ahead of Belgium's clash with Turkey before his football did some more talking",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-senne-lammens-belgium-34710723",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 08:10:30 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel reverses ban, Barcelona latest and Man United timeline",
+      "items": [
+        {
+          "title": "JJ Gabriel reverses ban, Barcelona latest and Man United timeline",
+          "summary": "JJ Gabriel's future has captured attention since the Manchester United teenager requested to leave Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-barcelona-34706925",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I was a Man Utd flop after being dubbed Fergie's next gem – but I've no regrets'",
+      "items": [
+        {
+          "title": "'I was a Man Utd flop after being dubbed Fergie's next gem – but I've no regrets'",
+          "summary": "Sir Alex Ferguson did not always get it right when it came to signing unknown talents for Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/manucho-man-utd-alex-ferguson-37730585",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 05:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'I've seen Wayne Rooney's true character – he's very different away from football'",
+      "items": [
+        {
+          "title": "'I've seen Wayne Rooney's true character – he's very different away from football'",
+          "summary": "One of Wayne Rooney's former teammates has given an insight into the Manchester United and England legend's personality",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-personality-character-england-37714107",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I'm not proud of what I said to Man Utd boss in blind rage - it was harsh and ruthless'",
+      "items": [
+        {
+          "title": "'I'm not proud of what I said to Man Utd boss in blind rage - it was harsh and ruthless'",
+          "summary": "This ex-Manchester United idol opened up on his contentious departure from Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-manager-falling-out-37723701",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd legend makes 'worried' claim about Liverpool star with Premier League prediction",
+      "items": [
+        {
+          "title": "Man Utd legend makes 'worried' claim about Liverpool star with Premier League prediction",
+          "summary": "Teddy Sheringham has hailed Liverpool's Alexander Isak as the Premier League's best striker and backed him to beat Manchester City's Erling Haaland to the Golden Boot",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-alexander-isak-liverpool-37731881",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 20:27:03 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick's son Jacey, 16, makes Man Utd first team debut in secret friendly",
+      "items": [
+        {
+          "title": "Michael Carrick's son Jacey, 16, makes Man Utd first team debut in secret friendly",
+          "summary": "Jacey Carrick made his first appearance for the Manchester United senior team on Friday, with his father Michael overseeing a behind-closed-doors friendly against Lausanne",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-son-jacey-debut-37731253",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 15:47:29 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pundit Ballon d'Or semi-finals confirmed as Roy Keane and Alan Shearer reignite rivalry",
+      "items": [
+        {
+          "title": "Pundit Ballon d'Or semi-finals confirmed as Roy Keane and Alan Shearer reignite rivalry",
+          "summary": "The semi-final stage of our Pundits Ballon d'Or is here and the competition is getting as hot as rival fans' blood watching Mikel Arteta leave his technical area",
+          "url": "https://www.mirror.co.uk/sport/football/news/pundit-ballon-dor-semi-finals-37730798",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 12:24:36 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League winner opens up on ‘unfair’ Sir Alex Ferguson row that involved Gary Neville",
+      "items": [
+        {
+          "title": "Premier League winner opens up on ‘unfair’ Sir Alex Ferguson row that involved Gary Neville",
+          "summary": "Premier League winner Danny Drinkwater started his career with Manchester United and found himself on the wrong side of legendary former boss Sir Alex Ferguson on a couple of occasions",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ferguson-neville-drinkwater-37730288",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 09:18:31 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "The 50 hardest Manchester United players to ever walk out at Old Trafford",
+      "items": [
+        {
+          "title": "The 50 hardest Manchester United players to ever walk out at Old Trafford",
+          "summary": "Manchester United have produced their fair share of hardmen over the years... here are 50 of the fiercest",
+          "url": "https://www.mirror.co.uk/sport/football/news/gallery/manchester-united-hardest-players-keane-37725975",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Revealed: The 'siege' on season ticket holders bites hardest on loyal fans as 'Disneyification' takes hold",
+      "items": [
+        {
+          "title": "Revealed: The 'siege' on season ticket holders bites hardest on loyal fans as 'Disneyification' takes hold",
+          "summary": "Across the Premier League, loyal season ticket holders are feeling marginalised and unwanted by their clubs, who are pricing them out and chasing more lucrative types of fans",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-season-tickets-fans-37712212",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 3 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny",
+      "items": [
+        {
+          "title": "Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny",
+          "summary": "<p>Former Everton midfielder, known as the ‘Goodison Gazza’, recalls being made to feel special by Alex Ferguson in this autobiography extract </p><p>“So this is the scouser ya been goin’ on aboot then …” My face turned Manchester United red. Scanning the room full of smiles and staring eyes, I identified the mystery Scottish voice as the man who’d just become the first player to score more than 20 league goals for the club since George Best in the 1960s. “Good answer,” replied Brian McClair after following up on my smile and nod by asking whether I supported Everton or Liverpool. “Ye’ll dee well ’ere laddie.”</p><p>Brian Kidd had just introduced me to the Man United first team by silencing the room to draw attention to my presence. “Lads, this is Billy from up the road,” he said. I was still starstruck from seeing all these famous faces as my chauffeur for the day, Eric Harrison, pulled up in the car park at The Cliff a few minutes earlier. Paul McGrath. Mark Hughes. Bryan Robson. Kevin Moran. Norman Whiteside. I ticked them all off in my head. Thank fuck I was developing an ear for everyday Glaswegian because after a bit of piss-taking from the first-teamers about being a scouser, I found myself standing in an office at the end of a short and narrow corridor, shaking hands with another one.</p> <a href=\"https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 03 Oct 2026 07:00:53 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League clubs eye Jadon Sancho months after Man United exit",
+      "items": [
+        {
+          "title": "Premier League clubs eye Jadon Sancho months after Man United exit",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/premier-league-news/premier-league-clubs-eye-jadon-sancho-months-after-man-united-exit",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Sun, 04 Oct 2026 06:10:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwz7w6/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwz7w6/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwz7w6/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T22:00:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "FT: Manchester United Women 1-0 Liverpool. United win in their 250th Match in history.",
+      "items": [
+        {
+          "title": "FT: Manchester United Women 1-0 Liverpool. United win in their 250th Match in history.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwooin/ft_manchester_united_women_10_liverpool_united/\"> <img alt=\"FT: Manchester United Women 1-0 Liverpool. United win in their 250th Match in history.\" src=\"https://preview.redd.it/a0rol76oi9th1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0edc6fb9ee3e3bb2fec9e1b128fa9cbac8e5e3c\" title=\"FT: Manchester United Women 1-0 Liverpool. United win in their 250th Match in history.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/a0rol76oi9th1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwooin/ft_manchester_united_women_10_liverpool_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwooin/ft_manchester_united_women_10_liverpool_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T14:31:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd Women [1]-0 Liverpool - Julia Zigiotti 6'",
+      "items": [
+        {
+          "title": "Man Utd Women [1]-0 Liverpool - Julia Zigiotti 6'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwmgay/man_utd_women_10_liverpool_julia_zigiotti_6/\"> <img alt=\"Man Utd Women [1]-0 Liverpool - Julia Zigiotti 6'\" src=\"https://external-preview.redd.it/Njlka3NhdTkwOXRoMVlxC4fLUQxiTMNH0FsYX1FMxejwXtnp-SiAD5dumUGI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39480d458220484dfc9fc386884052f3fc5e0230\" title=\"Man Utd Women [1]-0 Liverpool - Julia Zigiotti 6'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/x1aw4gt909th1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwmgay/man_utd_women_10_liverpool_julia_zigiotti_6/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwmgay/man_utd_women_10_liverpool_julia_zigiotti_6/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T12:49:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Former Reds][Classic] Bryan Robson signed for Manchester United Football Club on October 3, 1981, for a then-British record transfer fee from West Bromwich Albion.",
+      "items": [
+        {
+          "title": "[Former Reds][Classic] Bryan Robson signed for Manchester United Football Club on October 3, 1981, for a then-British record transfer fee from West Bromwich Albion.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwnn14/former_redsclassic_bryan_robson_signed_for/\"> <img alt=\"[Former Reds][Classic] Bryan Robson signed for Manchester United Football Club on October 3, 1981, for a then-British record transfer fee from West Bromwich Albion.\" src=\"https://external-preview.redd.it/bDR6dXkweXNhOXRoMUlfyIQKeKgbXCxzeR-mBa7sWWxdd0dMyJAirnsl1dfB.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ea9104339fe70cfa9defa5048aa9ea6da9da8fbe\" title=\"[Former Reds][Classic] Bryan Robson signed for Manchester United Football Club on October 3, 1981, for a then-British record transfer fee from West Bromwich Albion.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://v.redd.it/rxawyy1ta9th1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwnn14/former_redsclassic_bryan_robson_signed_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwnn14/former_redsclassic_bryan_robson_signed_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T13:44:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Andy Mitten] What was learned from Manchester United’s stadium consultations with residents?",
+      "items": [
+        {
+          "title": "[Andy Mitten] What was learned from Manchester United’s stadium consultations with residents?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wx7ecv/andy_mitten_what_was_learned_from_manchester/\"> <img alt=\"[Andy Mitten] What was learned from Manchester United’s stadium consultations with residents?\" src=\"https://external-preview.redd.it/mhAkestt5KkpJJGGWRq5Z6kxgXNyvjkqOlX_h6bA7hU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9b1a2611f3d6091ea8c074e29e7d68afddf67d1\" title=\"[Andy Mitten] What was learned from Manchester United’s stadium consultations with residents?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SoloChords\"> /u/SoloChords </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7646081/2026/10/04/manchester-united-stadium-contultation/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wx7ecv/andy_mitten_what_was_learned_from_manchester/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wx7ecv/andy_mitten_what_was_learned_from_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-04T05:13:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Santos starts against India",
+      "items": [
+        {
+          "title": "Santos starts against India",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwmyt8/santos_starts_against_india/\"> <img alt=\"Santos starts against India\" src=\"https://preview.redd.it/93hxy1w959th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4d33c9a403856fee927c403bbb56f8fc86a30bc\" title=\"Santos starts against India\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/soldier101br\"> /u/soldier101br </a> <br /> <span><a href=\"https://i.redd.it/93hxy1w959th1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwmyt8/santos_starts_against_india/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwmyt8/santos_starts_against_india/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T13:13:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Phallon Tullis-Joyce great double save vs Liverpool - 20'",
+      "items": [
+        {
+          "title": "Phallon Tullis-Joyce great double save vs Liverpool - 20'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwmqzf/phallon_tullisjoyce_great_double_save_vs/\"> <img alt=\"Phallon Tullis-Joyce great double save vs Liverpool - 20'\" src=\"https://external-preview.redd.it/ZDIxMmFrNHkyOXRoMUNh7ywjON4fkEUQ-u6tjHwBhep_TaDt7adcL-er4nUV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0f6b0105ddbfdd3ba7f0533ed043919d4601d00\" title=\"Phallon Tullis-Joyce great double save vs Liverpool - 20'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/2vrw634y29th1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwmqzf/phallon_tullisjoyce_great_double_save_vs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwmqzf/phallon_tullisjoyce_great_double_save_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T13:03:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd 1-0 Liverpool | Highlights",
+      "items": [
+        {
+          "title": "Man Utd 1-0 Liverpool | Highlights",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwus0g/man_utd_10_liverpool_highlights/\"> <img alt=\"Man Utd 1-0 Liverpool | Highlights\" src=\"https://external-preview.redd.it/WQ2JhZQgomAjQCxVs7azp0VdrySTD40T1eNFxKRHDdo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=debebe5123a5af7180f8f9a7969df5933c060dd5\" title=\"Man Utd 1-0 Liverpool | Highlights\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=oyKLkWseLIw\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwus0g/man_utd_10_liverpool_highlights/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwus0g/man_utd_10_liverpool_highlights/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T18:49:09+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Amass, Heaven, Lacey & Jack Fletcher all start for England U20s against Germany, while Thwaites is on the bench.",
+      "items": [
+        {
+          "title": "Amass, Heaven, Lacey & Jack Fletcher all start for England U20s against Germany, while Thwaites is on the bench.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwpxzh/amass_heaven_lacey_jack_fletcher_all_start_for/\"> <img alt=\"Amass, Heaven, Lacey &amp; Jack Fletcher all start for England U20s against Germany, while Thwaites is on the bench.\" src=\"https://external-preview.redd.it/QivSoqfkCrW78gBX7S0ZcgJ5C15wIDN6Blgs6GkrWGY.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1b33b3c9479c12a052674ec7c299256504bd4c2a\" title=\"Amass, Heaven, Lacey &amp; Jack Fletcher all start for England U20s against Germany, while Thwaites is on the bench.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=xsSMkQpdePM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwpxzh/amass_heaven_lacey_jack_fletcher_all_start_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwpxzh/amass_heaven_lacey_jack_fletcher_all_start_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T15:25:17+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lisandro Martinez starts for Argentina vs Burkina Faso | Friendly game",
+      "items": [
+        {
+          "title": "Lisandro Martinez starts for Argentina vs Burkina Faso | Friendly game",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wx1zc5/lisandro_martinez_starts_for_argentina_vs_burkina/\"> <img alt=\"Lisandro Martinez starts for Argentina vs Burkina Faso | Friendly game\" src=\"https://preview.redd.it/dy4k5dcnfcth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=19c988a1c0fadfe539527d706c7ac13901b63b3e\" title=\"Lisandro Martinez starts for Argentina vs Burkina Faso | Friendly game\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/dy4k5dcnfcth1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wx1zc5/lisandro_martinez_starts_for_argentina_vs_burkina/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wx1zc5/lisandro_martinez_starts_for_argentina_vs_burkina/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-04T00:16:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Exclusive Fergie interview – the former Manchester United manager’ tells his life story in 21 matches",
+      "items": [
+        {
+          "title": "Exclusive Fergie interview – the former Manchester United manager’ tells his life story in 21 matches",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwgs4k/exclusive_fergie_interview_the_former_manchester/\"> <img alt=\"Exclusive Fergie interview – the former Manchester United manager’ tells his life story in 21 matches\" src=\"https://external-preview.redd.it/wJ55hNF-PKSuul7cSTz3ULgmGaVkMB2hNJdJbr_Mym0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a4ac7b642a047e0b21868bb541bf06870a3c00b\" title=\"Exclusive Fergie interview – the former Manchester United manager’ tells his life story in 21 matches\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/oliverdaniel\"> /u/oliverdaniel </a> <br /> <span><a href=\"https://observer.co.uk/culture/interviews/article/alex-ferguson-it-was-always-more-to-do-with-the-people-than-the-games-1340\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwgs4k/exclusive_fergie_interview_the_former_manchester/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwgs4k/exclusive_fergie_interview_the_former_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T07:07:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United XI vs Liverpool | WSL Round 5 | Tullis-Joyce; Lundkvist, (c) Le Tissier, Janssen, Sandberg; Zigiotti, Miyazawa; Park, Toone, Medina; Terland",
+      "items": [
+        {
+          "title": "Man United XI vs Liverpool | WSL Round 5 | Tullis-Joyce; Lundkvist, (c) Le Tissier, Janssen, Sandberg; Zigiotti, Miyazawa; Park, Toone, Medina; Terland",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwl1wq/man_united_xi_vs_liverpool_wsl_round_5/\"> <img alt=\"Man United XI vs Liverpool | WSL Round 5 | Tullis-Joyce; Lundkvist, (c) Le Tissier, Janssen, Sandberg; Zigiotti, Miyazawa; Park, Toone, Medina; Terland\" src=\"https://preview.redd.it/at5e56jon8th1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1935d07e89099b0b413ce1013ea93b88a028e001\" title=\"Man United XI vs Liverpool | WSL Round 5 | Tullis-Joyce; Lundkvist, (c) Le Tissier, Janssen, Sandberg; Zigiotti, Miyazawa; Park, Toone, Medina; Terland\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/at5e56jon8th1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwl1wq/man_united_xi_vs_liverpool_wsl_round_5/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwl1wq/man_united_xi_vs_liverpool_wsl_round_5/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T11:34:53+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Talk of the Devils: Man United’s all-time Top 25 Players: Part Two, 10-6",
+      "items": [
+        {
+          "title": "Talk of the Devils: Man United’s all-time Top 25 Players: Part Two, 10-6",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wwnl7z/talk_of_the_devils_man_uniteds_alltime_top_25/\"> <img alt=\"Talk of the Devils: Man United’s all-time Top 25 Players: Part Two, 10-6\" src=\"https://external-preview.redd.it/dTrI1eW-TK9OhCBrivhgCIQa7Klc4yZNvjSGINapzY4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5ddbf290dbe58bdfa4596a7845ba3feb21bf47eb\" title=\"Talk of the Devils: Man United’s all-time Top 25 Players: Part Two, 10-6\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=OIDjxxhVcl4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wwnl7z/talk_of_the_devils_man_uniteds_alltime_top_25/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wwnl7z/talk_of_the_devils_man_uniteds_alltime_top_25/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-03T13:42:39+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 45,
+    "story_count": 41
+  }
+}
