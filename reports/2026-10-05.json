@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T06:37:09.466146+00:00",
+  "match_data": {
+    "collected_at": "2026-10-05T06:37:04.967396+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United latest: £50m striker on radar as Bruno Fernandes takes Cristiano Ronaldo stance",
+      "items": [
+        {
+          "title": "Man United latest: £50m striker on radar as Bruno Fernandes takes Cristiano Ronaldo stance",
+          "summary": "Manchester United news as Bruno Fernandes tells Cristiano Ronaldo what he really thinks of him",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ronaldo-fernandes-matanovic-34714764",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 5 Oct 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: £50m striker eyed as Bruno Fernandes reveals private Cristiano Ronaldo chat",
+          "summary": "Manchester United round-up as a highly rated striker is assessed and Bruno Fernandes and Cristiano Ronaldo hold talks",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ronaldo-fernandes-matanovic-37733119",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 5 Oct 2026 03:30:00 +0000"
+        },
+        {
+          "title": "Bruno Fernandes changes his Cristiano Ronaldo tune after refusing to take Man Utd stance",
+          "summary": "Bruno Fernandes has made his feelings clear on Cristiano Ronaldo's spat with Portugal coach Jorge Jesus",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ronaldo-fernandes-portugal-37733233",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 14:10:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United icon Sir Alex Ferguson opens up on dementia worries and late wife Cathy",
+      "items": [
+        {
+          "title": "Man United icon Sir Alex Ferguson opens up on dementia worries and late wife Cathy",
+          "summary": "Former Manchester United manager Sir Alex Ferguson has discussed his fears of developing dementia, and memories of his late wife, Cathy",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/sir-alex-ferguson-dementia-concerns-34715482",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 18:27:37 +0000"
+        },
+        {
+          "title": "Sir Alex Ferguson admits dementia fears as Man Utd icon opens up in rare interview",
+          "summary": "Manchester United legend Sir Alex Ferguson has admitted how he copes with dementia fears while opening up on his late wife, Cathy",
+          "url": "https://www.mirror.co.uk/sport/football/news/sir-alex-ferguson-man-utd-37732666",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 10:16:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Debut, new striker and academy star - Three changes that could turn Manchester United season around",
+      "items": [
+        {
+          "title": "Debut, new striker and academy star - Three changes that could turn Manchester United season around",
+          "summary": "Man Utd have had a disappointing start to the season and Michael Carrick will be under pressure when the action resumes next weekend.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/debut-new-striker-academy-star-34714841",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 5 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United might live to regret transfer blunder of the summer as price tag soars",
+      "items": [
+        {
+          "title": "Manchester United might live to regret transfer blunder of the summer as price tag soars",
+          "summary": "Manchester United wanted to sign Lewis Hall this summer but didn't push hard enough and could see the left-back's price tag soar next year.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/man-united-transfer-lewis-hall-34714463",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 15:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ex-Man United boss Ruben Amorim gets Milan dressing room verdict as star admits 'strange start'",
+      "items": [
+        {
+          "title": "Ex-Man United boss Ruben Amorim gets Milan dressing room verdict as star admits 'strange start'",
+          "summary": "The former Manchester United head coach has slowly been finding his feet in Milan",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ruben-amorim-milan-christian-pulisic-34714250",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 13:34:06 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United will be sweating on the fitness of one player on international duty today",
+      "items": [
+        {
+          "title": "Manchester United will be sweating on the fitness of one player on international duty today",
+          "summary": "Bruno Fernandes will play the final game of the international break today and Man United will be hoping their captain comes through unscathed",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-sweating-fitness-one-34714014",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 10:18:38 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United's £7m youngster handed rare chance to impress Michael Carrick",
+      "items": [
+        {
+          "title": "Manchester United's £7m youngster handed rare chance to impress Michael Carrick",
+          "summary": "Man United are facing a crisis at left-back this season and one young player came from nowhere to feature in a behind-closed-doors friendly on Friday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-uniteds-7m-youngster-handed-34713660",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 4 Oct 2026 08:27:51 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report: Real Madrid monitor Man United starlet after transfer request",
+      "items": [
+        {
+          "title": "Report: Real Madrid monitor Man United starlet after transfer request",
+          "summary": "<p>Manchester United are facing a serious battle to keep JJ Gabriel, with Real Madrid now reportedly among the European giants circling the highly-rated teenager. Gabriel is only 15, but his reputation has already spread well beyond England. Bayern Munich and Barcelona are also tracking him, while reports in Spain claim the youngster has made it [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/05/report-real-madrid-man-united-starlet-transfer-request/\">Report: Real Madrid monitor Man United starlet after transfer request</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/05/report-real-madrid-man-united-starlet-transfer-request/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 05 Oct 2026 05:26:32 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United could land Barcelona star on loan after major January development",
+      "items": [
+        {
+          "title": "Man United could land Barcelona star on loan after major January development",
+          "summary": "<p>Manchester United could be handed another chance to sign Alejandro Balde in January, with Barcelona now reportedly open to letting the left-back leave on loan. The 22-year-old has barely featured this season after slipping down Hansi Flick’s pecking order. That has changed the picture quite quickly. Want more CaughtOffside coverage? Add us as a preferred [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/05/man-united-could-land-barcelona-star-loan/\">Man United could land Barcelona star on loan after major January development</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/05/man-united-could-land-barcelona-star-loan/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 05 Oct 2026 05:12:02 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United handed boost as rivals prepare to sell 29-year-old target in January",
+      "items": [
+        {
+          "title": "Man United handed boost as rivals prepare to sell 29-year-old target in January",
+          "summary": "<p>Crystal Palace are prepared to consider offers for Jean-Philippe Mateta during the January transfer window as the striker’s future at Selhurst Park looks increasingly uncertain. The French forward is approaching the final months of his contract with the Eagles, and expectations are growing that he will leave the club in 2027. Palace therefore face a [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/04/man-united-handed-boost-as-rivals-prepare-to-sell-29-year-old-target-in-january/\">Man United handed boost as rivals prepare to sell 29-year-old target in January</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/04/man-united-handed-boost-as-rivals-prepare-to-sell-29-year-old-target-in-january/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 04 Oct 2026 11:00:30 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United urged to raid rivals for “brilliant” defensive star",
+      "items": [
+        {
+          "title": "Manchester United urged to raid rivals for “brilliant” defensive star",
+          "summary": "<p>Former Manchester United player Quinton Fortune has urged his former club to consider signing Manchester City youngster Nico O’Reilly as they look to strengthen at left-back. The 21-year-old has become an increasingly dependable option for Manchester City, transitioning from midfield to full-back and proving he can handle the demands of regular Premier League football. Quinton [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/04/manchester-united-urged-to-raid-rivals-for-brilliant-defensive-star/\">Manchester United urged to raid rivals for &#8220;brilliant&#8221; defensive star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/04/manchester-united-urged-to-raid-rivals-for-brilliant-defensive-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 04 Oct 2026 09:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Chelsea face Tottenham and Man United competition in pursuit of 20-year-old winger",
+      "items": [
+        {
+          "title": "Chelsea face Tottenham and Man United competition in pursuit of 20-year-old winger",
+          "summary": "<p>Chelsea are reportedly keeping a close eye on Benfica winger Gianluca Prestianni as they continue to assess some of Europe’s most exciting young attacking talents. The Argentine has enjoyed a significant rise since moving to Portugal, and his impressive start to the current campaign has once again brought him onto the radar of several Premier [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/04/chelsea-face-tottenham-and-man-united-competition-in-pursuit-of-20-year-old-winger/\">Chelsea face Tottenham and Man United competition in pursuit of 20-year-old winger</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/04/chelsea-face-tottenham-and-man-united-competition-in-pursuit-of-20-year-old-winger/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 04 Oct 2026 08:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wxqh9r/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wxqh9r/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wxqh9r/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-04T21:00:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Netherlands [2]-1 Serbia - Joshua Zirkzee 71'",
+      "items": [
+        {
+          "title": "Netherlands [2]-1 Serbia - Joshua Zirkzee 71'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/LuukBlank\"> /u/LuukBlank </a> <br /> <span><a href=\"https://v.redd.it/xv4mtjq3dith1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wxpdet/netherlands_21_serbia_joshua_zirkzee_71/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wxpdet/netherlands_21_serbia_joshua_zirkzee_71/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-04T20:14:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes starts & captains Portugal vs Norway - Nations League",
+      "items": [
+        {
+          "title": "Bruno Fernandes starts & captains Portugal vs Norway - Nations League",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wxlno9/bruno_fernandes_starts_captains_portugal_vs/\"> <img alt=\"Bruno Fernandes starts &amp; captains Portugal vs Norway - Nations League\" src=\"https://preview.redd.it/r6mpq5dvlhth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c5e29b9e687bcf064de0f8a0fb1a790b33eec7b\" title=\"Bruno Fernandes starts &amp; captains Portugal vs Norway - Nations League\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/r6mpq5dvlhth1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wxlno9/bruno_fernandes_starts_captains_portugal_vs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wxlno9/bruno_fernandes_starts_captains_portugal_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-04T17:42:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 18,
+    "story_count": 15
+  }
+}
