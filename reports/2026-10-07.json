@@ -1,0 +1,608 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T06:56:21.410435+00:00",
+  "match_data": {
+    "collected_at": "2026-10-07T06:56:14.920371+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Why is JJ Gabriel in Man Utd's team photo?",
+      "items": [
+        {
+          "title": "Why is JJ Gabriel in Man Utd's team photo?",
+          "summary": "BBC Sport Manchester United reporter Simon Stone gives an update on 16-year-old JJ Gabriel's future at the club after the teenager was included in the club's official team photo.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cme3x1y53d27o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 06 Oct 2026 16:35:55 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney discloses awkward problem about son Kai signing with Man United",
+      "items": [
+        {
+          "title": "Wayne Rooney discloses awkward problem about son Kai signing with Man United",
+          "summary": "Wayne Rooney admitted he'll notice one thing surrounding his son Kai's deal with Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/wayne-rooney-kai-man-united-34721819",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Wayne and Coleen Rooney open and honest about problem with son Kai being at Man Utd",
+          "summary": "Wayne and Coleen Rooney know one issue their son Kai could face at Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-man-utd-kai-37740152",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 05:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United launch new role in response to ticket issues at Old Trafford",
+      "items": [
+        {
+          "title": "Manchester United launch new role in response to ticket issues at Old Trafford",
+          "summary": "Manchester United are taking action to address an ongoing problem with ticket touts",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-tickets-old-trafford-34726368",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 19:33:49 +0000"
+        },
+        {
+          "title": "Man Utd launch new role to stop ticket touts after fan protests at Old Trafford",
+          "summary": "Manchester United have faced a problem of ticket touts for some time and the Red Devils are now taking action, despite a prominent supporters group having spoken out",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ticket-touts-protest-37742325",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 17:48:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Paul Scholes clashes over Man City charges and JJ Gabriel talks 'held'",
+      "items": [
+        {
+          "title": "Man United latest: Paul Scholes clashes over Man City charges and JJ Gabriel talks 'held'",
+          "summary": "Paul Scholes has taken aim at his former rival, while JJ Gabriel's future has become clearer",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-scholes-jj-gabriel-34724453",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Leny Yoro has Liverpool player in his sights and it can only help Manchester United",
+      "items": [
+        {
+          "title": "Leny Yoro has Liverpool player in his sights and it can only help Manchester United",
+          "summary": "Leny Yoro made his debut for France on Monday night and a classy and commanding performance has put the Man Utd centre-back in the frame for his country.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/leny-yoro-liverpool-player-sights-34724407",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United 'still interested' in January deal for Barcelona star facing brutal treatment",
+      "items": [
+        {
+          "title": "Man United 'still interested' in January deal for Barcelona star facing brutal treatment",
+          "summary": "Barcelona defender Alejandro Balde is still being linked with a move to Manchester United as the Janaury transfer window approaches",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-transfer-barcelona-balde-34725771",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 17:13:22 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Paul Scholes furious with Man City punishment claim and tells pundit to 'do one'",
+      "items": [
+        {
+          "title": "Paul Scholes furious with Man City punishment claim and tells pundit to 'do one'",
+          "summary": "Paul Scholes has hit back at pundit Martin Keown after the former Arsenal defender suggested Manchester City's Premier League titles should be voided if the club's financial breaches are upheld",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/paul-scholes-keown-man-city-34725658",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 16:17:07 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Patrice Evra fights back tears as Man United legend reveals his mum has died",
+      "items": [
+        {
+          "title": "Patrice Evra fights back tears as Man United legend reveals his mum has died",
+          "summary": "The former Manchester United defender held back the tears as he paid tribute to his mum",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-patrice-evra-mum-34725775",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 16:07:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ruben Amorim ‘plots Man United raid’ after player refuses to blame Michael Carrick",
+      "items": [
+        {
+          "title": "Ruben Amorim ‘plots Man United raid’ after player refuses to blame Michael Carrick",
+          "summary": "Ruben Amorim is reportedly keen on a reunion with one of his former Man United players",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/ruben-amorim-man-united-transfer-34725553",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 16:01:23 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manuel Ugarte reveals psychological work behind the scenes as he targets Man United return",
+      "items": [
+        {
+          "title": "Manuel Ugarte reveals psychological work behind the scenes as he targets Man United return",
+          "summary": "Manuel Ugarte suffered a knee injury while representing Uruguay at the World Cup, requiring him to undergo surgery",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manuel-ugarte-man-united-injury-34723952",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 13:24:33 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Steven Gerrard's message for Sir Alex Ferguson after failed Man United transfer attempt",
+      "items": [
+        {
+          "title": "Steven Gerrard's message for Sir Alex Ferguson after failed Man United transfer attempt",
+          "summary": "The story behind Manchester United's audacious attempt to sign Steven Gerrard from Liverpool",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-steven-gerrard-liverpool-34723696",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 12:32:58 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United have got lucky but lightning is unlikely to strike twice",
+      "items": [
+        {
+          "title": "Manchester United have got lucky but lightning is unlikely to strike twice",
+          "summary": "Michael Carrick's Man United side have endured a tough start to the season - but a glance across the city reminds them things could be worse.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-lucky-lightning-unlikely-34722658",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 11:50:20 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Antonio Conte subtly throws his hat in the ring for Man United job with five-word remark",
+      "items": [
+        {
+          "title": "Antonio Conte subtly throws his hat in the ring for Man United job with five-word remark",
+          "summary": "Antonio Conte has revealed what sort of club he would like to manage next after leaving Napoli",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-antonio-conte-carrick-34722419",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 10:28:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United's history proves they were right not to bow to ludicrous JJ Gabriel demands",
+      "items": [
+        {
+          "title": "Manchester United's history proves they were right not to bow to ludicrous JJ Gabriel demands",
+          "summary": "JJ Gabriel's camp wanted the teenager to play 20 minutes in three different games for Man Utd before even considering scholarship talks with the club.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-history-proves-were-34721747",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 10:00:08 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Leny Yoro makes instant impression on France debut as Man United message sent",
+      "items": [
+        {
+          "title": "Leny Yoro makes instant impression on France debut as Man United message sent",
+          "summary": "Manchester United defender Leny Yoro impressed for Zinedine Zidane's France team in the Nations League against Belgium",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/leny-yoro-man-utd-france-34722130",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 09:34:07 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel makes January transfer plans as Man United star to be offered 'XXL salary package'",
+      "items": [
+        {
+          "title": "JJ Gabriel makes January transfer plans as Man United star to be offered 'XXL salary package'",
+          "summary": "JJ Gabriel has made his January transfer plans clear with the Manchester United talent offered a sizeable salary package from two of Europe's biggest clubs",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jj-gabriel-man-utd-transfer-34721365",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 08:34:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel meeting emerges as Paul Scholes claims 'you can do one'",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel meeting emerges as Paul Scholes claims 'you can do one'",
+          "summary": "The latest Manchester United round-up includes details of JJ Gabriel's meeting",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-scholes-37740891",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd star reveals surprise training methods as speedy injury return targeted",
+      "items": [
+        {
+          "title": "Man Utd star reveals surprise training methods as speedy injury return targeted",
+          "summary": "Manchester United midfielder Manuel Ugarte has been out of action since suffering a serious knee injury at the World Cup",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-manuel-ugarte-injury-37741161",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 14:48:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bombshell Cristiano Ronaldo moment that rocked Man Utd – 'It was a week of turmoil'",
+      "items": [
+        {
+          "title": "Bombshell Cristiano Ronaldo moment that rocked Man Utd – 'It was a week of turmoil'",
+          "summary": "A player who had a front-row seat for Cristiano Ronaldo's explosive Manchester United exit has given his side of the story",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-cristiano-ronaldo-fred-37741059",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 13:53:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel to receive 'XXL salary offer' as club consider legal action",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel to receive 'XXL salary offer' as club consider legal action",
+          "summary": "Manchester United face losing JJ Gabriel on a free transfer during the January transfer window, with clubs from across Europe preparing huge offers for the teen",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-news-live-gabriel-37738554",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 13:16:41 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Who JJ Gabriel is most likely to join as Man Utd can make certain transfers more difficult",
+      "items": [
+        {
+          "title": "Who JJ Gabriel is most likely to join as Man Utd can make certain transfers more difficult",
+          "summary": "As JJ Gabriel celebrates his 16th birthday, we take a look at the likeliest destinations for the wantaway Manchester United youngster as his future remains uncertain",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-transfer-37738581",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 6 Oct 2026 08:43:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals Man Utd plan about new Bruno Fernandes and Lisandro Martinez contracts - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals Man Utd plan about new Bruno Fernandes and Lisandro Martinez contracts - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGl3WlJTeVR6QUZlUi1zejBscGRkbG1HeU52X0ZLM3JONnlJX1dkOE9lYjg3cjIwZDM3b3BUNlRIWjdJSXNweWVYaTVWWjBHc0hGZzF1enVzUG02dU1BVmdlRlpEMDRwazdFWHJ0Z0t5aEJSTmtScVFFS0d3SFlCTTRIQkpEcElmSWxNUnhQdzRvcnZrZlBYMGNoV3hSSXIzRGExSFZCRTZUeTNvbTBheHVpTnI?oc=5\" target=\"_blank\">Fabrizio Romano reveals Man Utd plan about new Bruno Fernandes and Lisandro Martinez contracts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGl3WlJTeVR6QUZlUi1zejBscGRkbG1HeU52X0ZLM3JONnlJX1dkOE9lYjg3cjIwZDM3b3BUNlRIWjdJSXNweWVYaTVWWjBHc0hGZzF1enVzUG02dU1BVmdlRlpEMDRwazdFWHJ0Z0t5aEJSTmtScVFFS0d3SFlCTTRIQkpEcElmSWxNUnhQdzRvcnZrZlBYMGNoV3hSSXIzRGExSFZCRTZUeTNvbTBheHVpTnI?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 06 Oct 2026 02:36:46 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd links to free agent left-back addressed by Fabrizio Romano - 'one to watch' - Football365",
+      "items": [
+        {
+          "title": "Man Utd links to free agent left-back addressed by Fabrizio Romano - 'one to watch' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEw4OTBqRS0yZ1IyUW12ekptNXpvV0F1WDhsMFV1NGs3WExfRUhuamVGbGdGYTltbVpRTlVEYUFrQ1VPQkNjNlM0SC1rWmVSZGVmN0RidERQcWlORU5kZ2FXUnJDNGlVaEoxT1lKaVdDV2JRU1J4cjllUjRXTmxPRkVoNUtkZDZ1NWVuT1lNRWxyQXhvMFUzeTdVZElHSVItUi1fSEUwakJDUQ?oc=5\" target=\"_blank\">Man Utd links to free agent left-back addressed by Fabrizio Romano - 'one to watch'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEw4OTBqRS0yZ1IyUW12ekptNXpvV0F1WDhsMFV1NGs3WExfRUhuamVGbGdGYTltbVpRTlVEYUFrQ1VPQkNjNlM0SC1rWmVSZGVmN0RidERQcWlORU5kZ2FXUnJDNGlVaEoxT1lKaVdDV2JRU1J4cjllUjRXTmxPRkVoNUtkZDZ1NWVuT1lNRWxyQXhvMFUzeTdVZElHSVItUi1fSEUwakJDUQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 06 Oct 2026 10:25:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "\"Still Looking\" – Fabrizio Romano Reveals Man Utd's David Raum Stance - roundtable.io",
+      "items": [
+        {
+          "title": "\"Still Looking\" – Fabrizio Romano Reveals Man Utd's David Raum Stance - roundtable.io",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZi1BZ2F0S2dxZlZnY0xUN2I5SldhSUJuZzBXazFDc0M2UFpnbWY3N2RVWnlwcl9qSHN0VEhZT2dZZUZLRTF2S2lscEcwZWJNMW95NXdqbERtYktXTkg2V2RDZTA4Nzd4YzJIaVJFWmZOXzI1SUFMa08yVHZ0SkFkc0daQ0hDSThpRVJSSzB1c2dHWXdrLV9qbzhHMm5Odk1JaC1ucHZqMjEzVXMxd0hsdEZYczdaX1ZmOHlFRF82XzloZzUtMzBuclVWRE5qdzdMNi1YRA?oc=5\" target=\"_blank\">\"Still Looking\" – Fabrizio Romano Reveals Man Utd's David Raum Stance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZi1BZ2F0S2dxZlZnY0xUN2I5SldhSUJuZzBXazFDc0M2UFpnbWY3N2RVWnlwcl9qSHN0VEhZT2dZZUZLRTF2S2lscEcwZWJNMW95NXdqbERtYktXTkg2V2RDZTA4Nzd4YzJIaVJFWmZOXzI1SUFMa08yVHZ0SkFkc0daQ0hDSThpRVJSSzB1c2dHWXdrLV9qbzhHMm5Odk1JaC1ucHZqMjEzVXMxd0hsdEZYczdaX1ZmOHlFRF82XzloZzUtMzBuclVWRE5qdzdMNi1YRA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 06 Oct 2026 13:22:57 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report deals double transfer blow to Chelsea as they chase talented young English duo",
+      "items": [
+        {
+          "title": "Report deals double transfer blow to Chelsea as they chase talented young English duo",
+          "summary": "<p>Chelsea reportedly look to have been dealt a blow to their hopes of landing two transfer targets in the form of Alex Scott and JJ Gabriel. The Blues are believed to be keen on the talented young English duo, but it seems that Bournemouth midfielder Scott will not be available this January, while Manchester United [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/07/chelsea-dealt-alex-scott-and-jj-gabriel-transfer-blows/\">Report deals double transfer blow to Chelsea as they chase talented young English duo</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/07/chelsea-dealt-alex-scott-and-jj-gabriel-transfer-blows/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 07 Oct 2026 05:24:05 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United consider approach for 19-year-old wide man “they really like”",
+      "items": [
+        {
+          "title": "Manchester United consider approach for 19-year-old wide man “they really like”",
+          "summary": "<p>Manchester United have identified Myles Lewis-Skelly as a potential solution to their long-standing left-back problem, but Arsenal are unlikely to make life easy for the Red Devils if they return with a fresh approach to the England international. The 19-year-old has developed into one of the most intriguing young players in English football, and his [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/06/manchester-united-consider-approach-for-19-year-old-wide-man-they-really-like/\">Manchester United consider approach for 19-year-old wide man &#8220;they really like&#8221;</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/06/manchester-united-consider-approach-for-19-year-old-wide-man-they-really-like/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 06 Oct 2026 18:30:37 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United planning repeat of scheme that could generate '£131m' - Expert",
+      "items": [
+        {
+          "title": "Man United planning repeat of scheme that could generate '£131m' - Expert",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/finance/man-united-planning-repeat-of-scheme-that-could-generate-131m-expert",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Wed, 07 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wzb2jg/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wzb2jg/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wzb2jg/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-06T19:00:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[@ManUtd] Mapping out our #UCL destinations 📍🗺️",
+      "items": [
+        {
+          "title": "[@ManUtd] Mapping out our #UCL destinations 📍🗺️",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wz6hex/manutd_mapping_out_our_ucl_destinations/\"> <img alt=\"[@ManUtd] Mapping out our #UCL destinations 📍🗺️\" src=\"https://external-preview.redd.it/cTRyZThqZGVldnRoMUuaX8n6o08Hq2mgLh2NiG7iMS33Ea1Wo2GdfrGh5OV7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5a86d74e522f9cf07d66d5f300186c057272ccd\" title=\"[@ManUtd] Mapping out our #UCL destinations 📍🗺️\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/rej2gkceevth1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wz6hex/manutd_mapping_out_our_ucl_destinations/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wz6hex/manutd_mapping_out_our_ucl_destinations/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-06T16:05:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Top 20 Man Utd European Away Goals",
+      "items": [
+        {
+          "title": "Top 20 Man Utd European Away Goals",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wzaegr/top_20_man_utd_european_away_goals/\"> <img alt=\"Top 20 Man Utd European Away Goals\" src=\"https://external-preview.redd.it/Vq9IoOUQv2oPqMapkm4Txpv1XkcDIyFY-M46kiFi4_g.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fcc93c2ad3d5ca17425998aa3de257869149ff6a\" title=\"Top 20 Man Utd European Away Goals\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=DGD-8HOHlMM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wzaegr/top_20_man_utd_european_away_goals/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wzaegr/top_20_man_utd_european_away_goals/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-06T18:34:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 32,
+    "story_count": 30
+  }
+}
