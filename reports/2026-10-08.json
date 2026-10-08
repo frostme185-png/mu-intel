@@ -1,0 +1,561 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T07:03:53.391153+00:00",
+  "match_data": {
+    "collected_at": "2026-10-08T07:03:48.510701+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Can the Premier League afford to lose Man City?",
+      "items": [
+        {
+          "title": "Can the Premier League afford to lose Man City?",
+          "summary": "BBC Sport's Dan Roan and Dale Johnson explain the possible implications of different sanctions on Manchester City after they were found guilty of breaching the Premier League's financial rules.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqwy74g6gk82o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 07 Oct 2026 18:19:19 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bayern ready to sign JJ Gabriel after Man United exit with stance on seven-figure salary demand",
+      "items": [
+        {
+          "title": "Bayern ready to sign JJ Gabriel after Man United exit with stance on seven-figure salary demand",
+          "summary": "Manchester United's battle to keep JJ Gabriel rumbles on as Bayern Munich reportedly enter the race",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jj-gabriel-man-united-news-34729879",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 12:40:50 +0000"
+        },
+        {
+          "title": "JJ Gabriel learns Bayern Munich stance on his huge salary demand after Man Utd exit",
+          "summary": "Bayern Munich have reportedly entered the race to sign JJ Gabriel from Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-learns-bayern-munich-37745813",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 13:55:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The eight days that will make or break Michael Carrick's tenure at Manchester United",
+      "items": [
+        {
+          "title": "The eight days that will make or break Michael Carrick's tenure at Manchester United",
+          "summary": "Man Utd have made a poor start to the season, so Michael Carrick needs to secure positive results over the coming weeks.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/eight-days-make-break-michael-34728902",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel's camp's four demands as Man United did everything they could to keep wonderkid",
+      "items": [
+        {
+          "title": "JJ Gabriel's camp's four demands as Man United did everything they could to keep wonderkid",
+          "summary": "Manchester United reportedly faced several demands in their attempts to keep academy prospect JJ Gabriel",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-demands-34729121",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Michael Carrick put on red alert as JJ Gabriel sent warning by former star",
+      "items": [
+        {
+          "title": "Man United latest: Michael Carrick put on red alert as JJ Gabriel sent warning by former star",
+          "summary": "The future of JJ Gabriel remains a hot topic as we bring you the latest Manchester United developments",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-latest-michael-carrick-34731366",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson, his most memorable Man United games and death 'crossing his mind'",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson, his most memorable Man United games and death 'crossing his mind'",
+          "summary": "Sir Alex Ferguson's memoir, Games of My Life, was released today, threading together the matches which meant the most to the legendary former Man Utd manager.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/sir-alex-ferguson-most-memorable-34698755",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "I didn't like the way Man United boss treated me – my team-mate had to stick up for me",
+      "items": [
+        {
+          "title": "I didn't like the way Man United boss treated me – my team-mate had to stick up for me",
+          "summary": "A former Manchester United midfielder has recalled a tense situation involving Sir Alex Ferguson",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-danny-drinkwater-ferguson-34726921",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The Manchester United line-up Michael Carrick must pick vs Tottenham is clear - but there's a problem",
+      "items": [
+        {
+          "title": "The Manchester United line-up Michael Carrick must pick vs Tottenham is clear - but there's a problem",
+          "summary": "Manchester United return to Premier League action on Saturday when they host bottom club Tottenham Hotspur at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-michael-34730151",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Forgotten Manchester United striker handed a golden opportunity and what will happen next",
+      "items": [
+        {
+          "title": "Forgotten Manchester United striker handed a golden opportunity and what will happen next",
+          "summary": "Man Utd sent Enzo Kana-Biyik on loan to Laussane Sport last season, but decided to keep him in Manchester this term.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/forgotten-manchester-united-striker-handed-34728726",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 15:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United sent shocking message ahead of crucial clash",
+      "items": [
+        {
+          "title": "Manchester United sent shocking message ahead of crucial clash",
+          "summary": "Man United have struggled in the early weeks of the season and some fans are already having doubts over Michael Carrick's suitability for the head coach role.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-sent-shocking-message-34724947",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 15:22:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Meet the agent playing a major role in JJ Gabriel's Manchester United transfer saga",
+      "items": [
+        {
+          "title": "Meet the agent playing a major role in JJ Gabriel's Manchester United transfer saga",
+          "summary": "Manchester United wonderkid JJ Gabriel turned 16 on Tuesday, opening the door for him to sign for a European club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/meet-agent-playing-major-role-34727817",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 12:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Benjamin Sesko and Marcus Rashford among 11 Man United injury concerns ahead of Premier League return",
+      "items": [
+        {
+          "title": "Benjamin Sesko and Marcus Rashford among 11 Man United injury concerns ahead of Premier League return",
+          "summary": "Manchester United return to Premier League action on Saturday evening when they host Tottenham Hotspur",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/benjamin-sesko-marcus-rashford-among-34727155",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 09:52:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United's controversial ticket touting operation takes another twist",
+      "items": [
+        {
+          "title": "Manchester United's controversial ticket touting operation takes another twist",
+          "summary": "Man Utd's operation to tackle ticket touting over the summer caught some innocent fans in the crossfire.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-uniteds-controversial-ticket-touting-34727041",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 08:58:40 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel’s four demands including eye-watering wage and snubbed Man Utd request",
+      "items": [
+        {
+          "title": "JJ Gabriel’s four demands including eye-watering wage and snubbed Man Utd request",
+          "summary": "JJ Gabriel's camp reportedly several demands as Manchester United looked to keep the academy star",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-demands-37745433",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson broke down in tears after delivering bombshell to Man Utd players",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson broke down in tears after delivering bombshell to Man Utd players",
+          "summary": "Sir Alex Ferguson has opened up about the tears he shed in 2013 after having a difficult conversation with his Manchester United staff and squad",
+          "url": "https://www.mirror.co.uk/sport/football/news/alex-ferguson-tears-man-utd-37744282",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson sheds light on secret Pep Guardiola dinner as he admits Man Utd regret",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson sheds light on secret Pep Guardiola dinner as he admits Man Utd regret",
+          "summary": "Sir Alex Ferguson has opened up about a dinner he had with Pep Guardiola one year before he selected his Manchester United successor",
+          "url": "https://www.mirror.co.uk/sport/football/news/alex-ferguson-guardiola-man-utd-37743682",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel gets reality check as wanted star puts contract talks on hold",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel gets reality check as wanted star puts contract talks on hold",
+          "summary": "Manchester United have had distractions during the extended international break but are now ready to return to Premier League action",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-kofane-37745531",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson fears he won't see Man Utd's new stadium - 'Death crosses my mind'",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson fears he won't see Man Utd's new stadium - 'Death crosses my mind'",
+          "summary": "Sir Alex Ferguson has bared his soul in a new book in which the Manchester United legend admits he thinks about death but is not afraid",
+          "url": "https://www.mirror.co.uk/sport/football/news/sir-alex-ferguson-man-utd-37745277",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd, Arsenal, Liverpool and Tottenham told of Man City guilty verdict early",
+      "items": [
+        {
+          "title": "Man Utd, Arsenal, Liverpool and Tottenham told of Man City guilty verdict early",
+          "summary": "Manchester City were found guilty of all but one of the 115 charges brought against them by the Premier League for financial breaches",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-city-appeal-liverpool-united-37746508",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 15:56:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pundit Ballon d'Or final confirmed as Roy Keane and Ian Wright clash in heavyweight bout",
+      "items": [
+        {
+          "title": "Pundit Ballon d'Or final confirmed as Roy Keane and Ian Wright clash in heavyweight bout",
+          "summary": "Just two hot-take lovers remain in our Pundit Ballon d'Or but only one can walk away with the golden microphone",
+          "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-ian-wright-final-37740470",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 12:22:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League injury news: Club by Club updates and potential return dates",
+      "items": [
+        {
+          "title": "Premier League injury news: Club by Club updates and potential return dates",
+          "summary": "Liverpool and Manchester United are involved in major fixtures this weekend as Premier League clubs count the injury cost of the international break, which has impacted league leaders Arsenal",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-injury-updates-returns-37744152",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 7 Oct 2026 12:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "“For sure” – Romano confirms Man Utd pondering move for 40-cap Germany star available for free - utdreport",
+      "items": [
+        {
+          "title": "“For sure” – Romano confirms Man Utd pondering move for 40-cap Germany star available for free - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPOS1TME1MNm5FY1BXdlN3RmFtYncyR2ZORjJ3LV9yWHdCVlkxZmZkeS1abDRaZk1GY1kyckRpaFFFU1k0QUI0a2JFWGhja2twdVB0dnVtRjRFOVBsemJodTRQMEdMZFprVlpUME8zblhsSjBsckxXeTBsUmx6bkVYdTUxakPSAYoBQVVfeXFMUHBkQlBzMF9XWU1uSnhaSFJLTFo2dWFveEpqVFdVNlQ2ZjdqQzA2em5YemNNd0J6STBueGVJSXVwSWRvSGM2eGkzRGxJWUZ4SDRWRHVuY2d6eW1uaGQ0QzlrTW4xVHgyX25OR1RXQ2lJazVMOElOYXYybWtJb1o5UG1FbVZLeUtEY0V3?oc=5\" target=\"_blank\">“For sure” – Romano confirms Man Utd pondering move for 40-cap Germany star available for free</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOS1TME1MNm5FY1BXdlN3RmFtYncyR2ZORjJ3LV9yWHdCVlkxZmZkeS1abDRaZk1GY1kyckRpaFFFU1k0QUI0a2JFWGhja2twdVB0dnVtRjRFOVBsemJodTRQMEdMZFprVlpUME8zblhsSjBsckxXeTBsUmx6bkVYdTUxakPSAYoBQVVfeXFMUHBkQlBzMF9XWU1uSnhaSFJLTFo2dWFveEpqVFdVNlQ2ZjdqQzA2em5YemNNd0J6STBueGVJSXVwSWRvSGM2eGkzRGxJWUZ4SDRWRHVuY2d6eW1uaGQ0QzlrTW4xVHgyX25OR1RXQ2lJazVMOElOYXYybWtJb1o5UG1FbVZLeUtEY0V3?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 06 Oct 2026 14:16:26 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano: Man Utd Are 'In Control' Over Contract Situation For 'Leader' In Dressing Room - roundtable.io",
+      "items": [
+        {
+          "title": "Fabrizio Romano: Man Utd Are 'In Control' Over Contract Situation For 'Leader' In Dressing Room - roundtable.io",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZXpnWHZFVEJaTktYSFZvUkdKaXpBLVBNTGFiMUFWQ0lLeWhCRmo0MXgtbTRnb0FzZnJLY3FwWG1GTVVlNEFNWTNlQmNqMENySjdaREhYU3Y0WnNNejlZYjZZS3ZJYUJWVmhZbDlmOW14UHZRTDZ5M3Qya1lIeHk3WkpHRndtdTZjamVnVjI1NC1VX2w2NDh6bV8wZ3pLek5OaFZKMmYyYzVLNGtraTNKTXJiOUxUeUJMUzhhSEhaeW1fd0NmRjlzcWdBWFlTckd1MW5HaXRwNGhDQWVCQnExY0dvWmUzLXBkM2xwclhsR2l0TlJ6b3hJ?oc=5\" target=\"_blank\">Fabrizio Romano: Man Utd Are 'In Control' Over Contract Situation For 'Leader' In Dressing Room</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZXpnWHZFVEJaTktYSFZvUkdKaXpBLVBNTGFiMUFWQ0lLeWhCRmo0MXgtbTRnb0FzZnJLY3FwWG1GTVVlNEFNWTNlQmNqMENySjdaREhYU3Y0WnNNejlZYjZZS3ZJYUJWVmhZbDlmOW14UHZRTDZ5M3Qya1lIeHk3WkpHRndtdTZjamVnVjI1NC1VX2w2NDh6bV8wZ3pLek5OaFZKMmYyYzVLNGtraTNKTXJiOUxUeUJMUzhhSEhaeW1fd0NmRjlzcWdBWFlTckd1MW5HaXRwNGhDQWVCQnExY0dvWmUzLXBkM2xwclhsR2l0TlJ6b3hJ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 07 Oct 2026 13:36:54 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report: Man United block potential January exit for 20-year-old first team starter",
+      "items": [
+        {
+          "title": "Report: Man United block potential January exit for 20-year-old first team starter",
+          "summary": "<p>Manchester United have no intention of giving up on Leny Yoro, despite former manager Ruben Amorim reportedly pushing to reunite with the French defender at AC Milan. Yoro’s situation has attracted plenty of attention recently after his playing time became less predictable under Michael Carrick. That has encouraged Milan to explore whether a January loan [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/08/man-united-block-potential-january-exit-for-20-year-old/\">Report: Man United block potential January exit for 20-year-old first team starter</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/08/man-united-block-potential-january-exit-for-20-year-old/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 08 Oct 2026 06:30:24 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United receive major boost in pursuit of 23-year-old Bundesliga star",
+      "items": [
+        {
+          "title": "Manchester United receive major boost in pursuit of 23-year-old Bundesliga star",
+          "summary": "<p>Manchester United have received encouragement in their pursuit of Freiburg striker Igor Matanovic, with the Croatian reportedly eager to move to Old Trafford if the opportunity arises. According to Football Insider, Matanovic would “jump” at the chance to join United in the coming years, although a January transfer is not currently expected. The 23-year-old has [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/07/manchester-united-receive-major-boost-in-pursuit-of-23-year-old-bundesliga-star/\">Manchester United receive major boost in pursuit of 23-year-old Bundesliga star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/07/manchester-united-receive-major-boost-in-pursuit-of-23-year-old-bundesliga-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 07 Oct 2026 21:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x03j2q/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x03j2q/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x03j2q/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-07T18:00:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Diogo Dalot on X] There is no journey without passion. And no passion without United. Let’s go again.",
+      "items": [
+        {
+          "title": "[Diogo Dalot on X] There is no journey without passion. And no passion without United. Let’s go again.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wzv5fe/diogo_dalot_on_x_there_is_no_journey_without/\"> <img alt=\"[Diogo Dalot on X] There is no journey without passion. And no passion without United. Let’s go again.\" src=\"https://external-preview.redd.it/Z3B4Z29uNnVmMXVoMbbEEXt4qJcYq6KMI_bcgnabLkbv-Gmh4iHu8eE662i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=841d617b3ef965b7f821a1f4ca262594a5f577bf\" title=\"[Diogo Dalot on X] There is no journey without passion. And no passion without United. Let’s go again.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/czbq5e4uf1uh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wzv5fe/diogo_dalot_on_x_there_is_no_journey_without/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wzv5fe/diogo_dalot_on_x_there_is_no_journey_without/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-07T12:25:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Is Michael Carrick too slow to make substitutions?",
+      "items": [
+        {
+          "title": "Is Michael Carrick too slow to make substitutions?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1wzqrr8/is_michael_carrick_too_slow_to_make_substitutions/\"> <img alt=\"Is Michael Carrick too slow to make substitutions?\" src=\"https://external-preview.redd.it/KTuTPTnAv4HuUYKrlCu90fZsxwmQ1YLzSY28esijFgM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=14747e007fdc3adc5d0719ff57d3befaf80f4fb8\" title=\"Is Michael Carrick too slow to make substitutions?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>According to Opta, Michael Carrick makes his first change, on average, around the 65th minute — third-latest of all Premier League teams since he took over (including those relegated in May), again with only Bournemouth and Everton waiting longer. </p> <p>Of course, most of this data comes from last season, when there was often little reason for Carrick to use his bench proactively. United only needed to chase games on a handful of occasions, and without European or cup football cluttering up the schedule, there was little cause to rest players. A light-touch approach made complete sense. </p> <p>Now, though, the picture is changing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7662794/2026/10/07/carrick-substitutions-manchester-united/?unlocked_article_code=1.G1E.IUuF.V-VaY82LM2xK&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1wzqrr8/is_michael_carrick_too_slow_to_make_substitutions/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1wzqrr8/is_michael_carrick_too_slow_to_make_substitutions/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-07T08:00:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 29,
+    "story_count": 28
+  }
+}
