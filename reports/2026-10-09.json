@@ -1,0 +1,797 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T07:11:18.722572+00:00",
+  "match_data": {
+    "collected_at": "2026-10-09T07:11:12.986831+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Why Carlos Baleba could get Man Utd's 'season going'",
+      "items": [
+        {
+          "title": "Why Carlos Baleba could get Man Utd's 'season going'",
+          "summary": "Man Utd fan Jay Motty explains how new signing Carlos Baleba could be a key addition to the squad",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c63el302ken5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 08 Oct 2026 13:19:34 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I understand why JJ Gabriel wants to leave - but Man United are in impossible position",
+      "items": [
+        {
+          "title": "I understand why JJ Gabriel wants to leave - but Man United are in impossible position",
+          "summary": "JJ Gabriel has been at the centre of a major debate regarding his future at Manchester United after submitting an exit request days before his impending senior debut",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-heskey-34733539",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 05:00:00 +0000"
+        },
+        {
+          "title": "‘JJ Gabriel has put Man Utd in an impossible position - but I understand why’",
+          "summary": "JJ Gabriel has been at the centre of major transfer speculation after requesting to leave Manchester United last month",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-transfer-37748518",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Sir Alex Ferguson's Pep Guardiola regret as Scott McTominay update emerges",
+      "items": [
+        {
+          "title": "Man United latest: Sir Alex Ferguson's Pep Guardiola regret as Scott McTominay update emerges",
+          "summary": "Manchester United return to Premier League action this weekend as they host Tottenham at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-alex-ferguson-mctominay-34736987",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Scott McTominay reunion update as Sir Alex sheds light on Pep Guardiola dinner",
+          "summary": "Manchester United host Tottenham in the Premier League on Saturday afternoon as the top-flight returns from the extended international break",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-mctominay-guardiola-37750117",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Wayne Rooney's ban from Kai, son's release heartbreak, Man United icon's golden contract rule",
+      "items": [
+        {
+          "title": "Wayne Rooney's ban from Kai, son's release heartbreak, Man United icon's golden contract rule",
+          "summary": "Kai Rooney has already been making his way through the ranks at father Wayne's former club Man United but things haven't always been easy",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/wayne-rooney-kai-man-united-34721385",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Kai Rooney's ban for Wayne, Man Utd legend's reaction to son's release and contract rule",
+          "summary": "Kai Rooney has been in the spotlight for some time and the Manchester United youngster has been navigating fame while trying to carve out his own niche",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-rooney-kai-man-utd-37740313",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United make JJ Gabriel contract offer amid £350k exit fears",
+      "items": [
+        {
+          "title": "Man United make JJ Gabriel contract offer amid £350k exit fears",
+          "summary": "JJ Gabriel could leave Manchester United for as little as £350,000, even though they have made their player a contract offer ahead of the winter transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-contract-34738407",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 20:00:02 +0000"
+        },
+        {
+          "title": "Man Utd eye JJ Gabriel reconciliation with new contract offer amid under £1m exit nightmare",
+          "summary": "Manchester United could lose JJ Gabriel for less than £1million despite making the wonderkid a new contract offer, as they now attempt to reconcile the situation",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-contract-37751882",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 20:49:05 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What's changed at Man United, Cristiano Ronaldo problem and Solskjaer sacking - Mike Phelan interview",
+      "items": [
+        {
+          "title": "What's changed at Man United, Cristiano Ronaldo problem and Solskjaer sacking - Mike Phelan interview",
+          "summary": "Mike Phelan worked with Michael Carrick at Manchester United when he was Ole Gunnar Solskjaer's No.2 and reflects on that time at the club and what he makes of Carrick now.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/whats-changed-man-united-cristiano-34735881",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United hero has doubts about Michael Carrick and £50m signing - 'No need'",
+      "items": [
+        {
+          "title": "Manchester United hero has doubts about Michael Carrick and £50m signing - 'No need'",
+          "summary": "Man Utd hero Paul Ince has shared his thoughts on the latest ongoings at Old Trafford after a poor start to the season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-hero-doubts-michael-34733438",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Top 10 highest-paid teenagers in world football as JJ Gabriel's huge wage demands emerge",
+      "items": [
+        {
+          "title": "Top 10 highest-paid teenagers in world football as JJ Gabriel's huge wage demands emerge",
+          "summary": "The top teenage footballers in the world are earning eye-popping sums as JJ Gabriel's camp name their price",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/gallery/highest-paid-teenagers-jj-gabriel-34737750",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ruben Amorim could decide two Man United transfers as January plans take shape",
+      "items": [
+        {
+          "title": "Ruben Amorim could decide two Man United transfers as January plans take shape",
+          "summary": "Former Manchester United head coach Ruben Amorim could impact the Reds' transfer plans with two January deals eyed at his new club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ruben-amorim-man-united-transfer-34736903",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 16:32:13 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United can scout perfect Lisandro Martinez replacement this weekend",
+      "items": [
+        {
+          "title": "Manchester United can scout perfect Lisandro Martinez replacement this weekend",
+          "summary": "Man Utd are planning a defensive overhaul next summer and if they need a replacement for Lisandro Martinez then there is an obvious target.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-can-scout-perfect-34734980",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 15:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "JJ Gabriel problem called out by former Man United star as he gets reality check",
+      "items": [
+        {
+          "title": "JJ Gabriel problem called out by former Man United star as he gets reality check",
+          "summary": "Manchester United wonderkid JJ Gabriel looks set to move on after a lack of competitive first team opportunities",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-future-34735696",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 13:54:28 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United January transfer on the rocks as Endrick says 'yes' to deal",
+      "items": [
+        {
+          "title": "Man United January transfer on the rocks as Endrick says 'yes' to deal",
+          "summary": "Real Madrid star Endrick could see his future impact one of Manchester United's potential deals for the Janaury transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-utd-transfer-endrick-zirkzee-34735862",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 13:36:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Tributes continue to pour in for Manchester legend Tony Steenson as sport and showbiz world remember 'The Gaffer'",
+      "items": [
+        {
+          "title": "Tributes continue to pour in for Manchester legend Tony Steenson as sport and showbiz world remember 'The Gaffer'",
+          "summary": "Hailed a &quot;true local legend&quot;, Tony Steenson passed away in Portugal aged 78",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/tributes-continue-pour-manchester-legend-34732090",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 12:49:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United handed update on sensational Scott McTominay return after transfer 'enquiry'",
+      "items": [
+        {
+          "title": "Man United handed update on sensational Scott McTominay return after transfer 'enquiry'",
+          "summary": "Scott McTominay has been linked with a return to Manchester United two years after leaving Old Trafford to join Napoli",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/scott-mctominay-man-united-transfer-34734583",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 11:21:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Midfielder shows his class as derby date confirmed - Manchester United Academy Notebook",
+      "items": [
+        {
+          "title": "Midfielder shows his class as derby date confirmed - Manchester United Academy Notebook",
+          "summary": "This week's Man Utd Academy Notebook comes at the end of the international break, which saw some young Reds involved for their countries.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/midfielder-shows-class-derby-date-34733508",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 11:13:40 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United made the right call in summer transfer saga but jury still out on plan B",
+      "items": [
+        {
+          "title": "Manchester United made the right call in summer transfer saga but jury still out on plan B",
+          "summary": "Man Utd decided Mateus Fernandes wasn't worth £85million in the summer and instead signed two midfielders for that price.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-made-right-call-34733338",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 10:51:06 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sky Sports announces major change for anyone watching Premier League games",
+      "items": [
+        {
+          "title": "Sky Sports announces major change for anyone watching Premier League games",
+          "summary": "The major changes will be implemented in Manchester United vs Tottenham Hotspur this weekend",
+          "url": "https://www.manchestereveningnews.co.uk/news/tv/sky-sports-announces-major-change-34733882",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 10:34:04 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Alejandro Garnacho future clear as surprised staff 'briefed' and details of agreement emerge",
+      "items": [
+        {
+          "title": "Alejandro Garnacho future clear as surprised staff 'briefed' and details of agreement emerge",
+          "summary": "Manchester United sold Alejandro Garnacho to Chelsea in 2025 and 12 months later he joined Aston Villa on loan",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/alejandro-garnacho-villa-man-utd-34734186",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 10:21:44 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United clarify job advert that has angered supporters",
+      "items": [
+        {
+          "title": "Manchester United clarify job advert that has angered supporters",
+          "summary": "Man United's controversial operation to address ticket touting received widespread backlash from fans over the summer.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-clarify-job-advert-34733501",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 10:00:46 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United 'notified early' of Man City charges verdict after instruction to lawyers",
+      "items": [
+        {
+          "title": "Man United 'notified early' of Man City charges verdict after instruction to lawyers",
+          "summary": "It was confirmed late last month that Manchester City have been found guilty on all counts of breaching the Premier League’s financial rules",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-charges-man-utd-34733837",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 09:15:58 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "JJ Gabriel's Man Utd warning sign - Five teenagers who moved young and flopped",
+      "items": [
+        {
+          "title": "JJ Gabriel's Man Utd warning sign - Five teenagers who moved young and flopped",
+          "summary": "JJ Gabriel is pushing for a Manchester United exit but history is littered with young players who sought moves elsewhere, only to struggle and lose out on years, some never recovering",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jj-gabriel-future-37751591",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 18:05:53 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "JJ Gabriel told straight about Premier League after Man Utd snubbed family’s request",
+      "items": [
+        {
+          "title": "JJ Gabriel told straight about Premier League after Man Utd snubbed family’s request",
+          "summary": "Manchester United talent JJ Gabriel played for the first team in pre-season but has not been given a chance in the Premier League",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-warning-37750716",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 14:44:23 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville was robbed – Pundit Ballon d'Or has turned into glorified popularity contest",
+      "items": [
+        {
+          "title": "Gary Neville was robbed – Pundit Ballon d'Or has turned into glorified popularity contest",
+          "summary": "Gary Neville is the best football pundit in the country and if you disagree you have a very skewed view of what punditry is",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-pundit-ballon-dor-37744744",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 8 Oct 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United offer JJ Gabriel new deal but risk losing prodigy for £350,000",
+      "items": [
+        {
+          "title": "Manchester United offer JJ Gabriel new deal but risk losing prodigy for £350,000",
+          "summary": "<ul><li><p>Teenager almost certain to leave despite fresh offer</p></li><li><p>Compensation for move to European rival would be low</p></li></ul><p>Manchester United have made JJ Gabriel an official scholarship contract offer, but remain at risk of losing the teenage forward for as little as £350,000.</p><p>The prodigy, who turned 16 this week,<a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\"> stunned the club</a> when he asked for his registration to be cancelled last month, setting in motion a scramble among Europe’s elite clubs for his signature.</p> <a href=\"https://www.theguardian.com/football/2026/oct/08/manchester-united-offer-jj-gabriel-new-deal-risk-losing-prodigy-football-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/08/manchester-united-offer-jj-gabriel-new-deal-risk-losing-prodigy-football-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 08 Oct 2026 14:10:04 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League: 10 things to look out for this weekend",
+      "items": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "summary": "<p>Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will Manchester City summon a siege mentality at Anfield?</p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot\">Premier League top scorers</a> | <a href=\"https://www.theguardian.com/football/premierleague/table\">View the league table</a></p></li></ul><p>Declan Rice’s future role in England’s midfield was questioned by Gary Lineker after Alex Scott’s impressive first senior international start in the 7-0 thrashing of Croatia. But the decision to withdraw from Thomas Tuchel’s squad in an attempt to manage his workload made sense after Rice had only three weeks off post-World Cup before returning to pre-season training. The 27-year-old has struggled with persistent back problems after suffering a hamstring injury last December and Mikel Arteta will hope that the rest has done Rice – who is thought to be close to agreeing a lucrative new contract at the Emirates – the world of good as they prepare to resume the defence of their Premier League title against Leeds on Saturday. <strong>Ed Aarons</strong></p><p><em>Arsenal v Leeds, Saturday 12.30pm (all times BST)</em></p><p><em>Aston Villa v Brentford,</em> <em>Saturday 3pm</em></p> <a href=\"https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 08 Oct 2026 23:01:31 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs",
+      "items": [
+        {
+          "title": "Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs",
+          "summary": "<p>Premier League clubs, and their European rivals, left with a long list of absentees after a gruelling international break</p><p>A four-match international break has presented a stress test. “The intensity of the squad, the athleticism of it, really, I think it’s designed for the elite,” said the Wales head coach, Craig Bellamy, on the completion of four matches in 11 days. Elite club coaches would disagree. The Nations League and the wider set of international games staged across the globe have been accompanied by a daily list of casualties, club officials viewing matches through their fingers as players pull up and gesture to the bench.</p><p>Hamstring and muscle problems have been rife. Sunderland, for example, will be without Brian Brobbey, a key striker, and Dan Ballard, a defensive mainstay, because of strains picked up playing for the Netherlands and Northern Ireland respectively. Bournemouth, yet to win a Premier League match, <a href=\"https://www.theguardian.com/football/2026/oct/05/alex-scott-injury-two-months-england-bournemouth\">have lost Alex Scott for up to two months</a>. His performance for England in <a href=\"https://www.theguardian.com/football/2026/oct/03/croatia-england-nations-league-match-report\">their 7-0 victory against Croatia</a> won rave reviews, a young player taking his chance and outshining Luka Modric. It came at a heavy cost. A quadriceps injury that had been diagnosed pre-match worsened. “There was zero risk taken from our side,” said Thomas Tuchel. The Bournemouth coach, Marco Rose, is unlikely to see it that way.</p> <a href=\"https://www.theguardian.com/football/2026/oct/08/premier-league-injuries-kai-havertz-alexander-isak-patrick-dorgu\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/08/premier-league-injuries-kai-havertz-alexander-isak-patrick-dorgu",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 08 Oct 2026 08:50:14 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: ‘Conversations’ will ‘for sure’ take place — Man Utd on verge of agreement with ‘world-class’ defender - utdreport",
+      "items": [
+        {
+          "title": "Romano: ‘Conversations’ will ‘for sure’ take place — Man Utd on verge of agreement with ‘world-class’ defender - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3hPZFlreTk1NUN2SXZOV2JRRUh1VmZ2YUJBc3BTdV9IWkNCYnVuZ2F0OW4ySFhHZkhEdnNQTTg3dWlDMjhkbEpCOTEycUl0emFoXzZYZkRiXzQxcVhsMVA3b3RMaV81NmYxZHk0QmRXMTkwRFpTZk1ZdVEzUkdDODhHT0E3aThiNExUYThrZ1p1Yl950gGaAUFVX3lxTE4zUl92SUJaNE42bkRON3FrMTVKcnpMN0M3VDMtQXJDekxNQV9PM1l2aThyNGFES1h1WnFWTEx5NUpqZVNmYWFERnhMdk43bjQyMU81QkFjd3ZsNjF6bkVyRTVXcVNweUhpZkl1UVZ2Nmc3OVBzNG4zWHU0YXlITkdsLUhLckhGLTdyUkNwTFRGeWFrYVlBd01tSmc?oc=5\" target=\"_blank\">Romano: ‘Conversations’ will ‘for sure’ take place — Man Utd on verge of agreement with ‘world-class’ defender</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3hPZFlreTk1NUN2SXZOV2JRRUh1VmZ2YUJBc3BTdV9IWkNCYnVuZ2F0OW4ySFhHZkhEdnNQTTg3dWlDMjhkbEpCOTEycUl0emFoXzZYZkRiXzQxcVhsMVA3b3RMaV81NmYxZHk0QmRXMTkwRFpTZk1ZdVEzUkdDODhHT0E3aThiNExUYThrZ1p1Yl950gGaAUFVX3lxTE4zUl92SUJaNE42bkRON3FrMTVKcnpMN0M3VDMtQXJDekxNQV9PM1l2aThyNGFES1h1WnFWTEx5NUpqZVNmYWFERnhMdk43bjQyMU81QkFjd3ZsNjF6bkVyRTVXcVNweUhpZkl1UVZ2Nmc3OVBzNG4zWHU0YXlITkdsLUhLckhGLTdyUkNwTFRGeWFrYVlBd01tSmc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 08 Oct 2026 05:22:54 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Just in: Man United return unlikely for player who left the club in 2024",
+      "items": [
+        {
+          "title": "Just in: Man United return unlikely for player who left the club in 2024",
+          "summary": "<p>Manchester United are unlikely to bring Scott McTominay back to Old Trafford, despite fresh speculation around a possible reunion. The Scotland international has been outstanding since leaving United for Napoli in 2024, winning Serie A and becoming one of the most influential midfielders in Italy. Want more CaughtOffside coverage? Add us as a preferred source [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/09/just-in-man-united-return-unlikely-for-player-left-in-2024/\">Just in: Man United return unlikely for player who left the club in 2024</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/09/just-in-man-united-return-unlikely-for-player-left-in-2024/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 09 Oct 2026 05:39:13 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Real Madrid make surprise enquiry to rival Man United for midfielder transfer",
+      "items": [
+        {
+          "title": "Real Madrid make surprise enquiry to rival Man United for midfielder transfer",
+          "summary": "<p>Real Madrid are reportedly looking into a potential transfer move for Napoli midfielder Scott McTominay, who has also been linked with a return to Manchester United. McTominay&#8217;s Napoli future looks in some doubt at the moment, with the Scotland international now perhaps set for a reunion with former Man Utd manager Jose Mourinho. According to [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/09/real-madrid-enquire-about-scott-mctominay-transfer/\">Real Madrid make surprise enquiry to rival Man United for midfielder transfer</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/09/real-madrid-enquire-about-scott-mctominay-transfer/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 09 Oct 2026 05:22:03 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report: Man United make fresh offer for Barcelona target after exit request",
+      "items": [
+        {
+          "title": "Report: Man United make fresh offer for Barcelona target after exit request",
+          "summary": "<p>Manchester United have reportedly submitted a fresh contract offer to highly-rated academy prospect JJ Gabriel as they attempt to keep the 16-year-old at Old Trafford. The teenage forward has been at the centre of growing uncertainty surrounding his future after reportedly requesting to leave the club following a breakdown in negotiations. Despite the apparent deterioration [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/08/jj-gabriel-man-united-contract-offer-exit/\">Report: Man United make fresh offer for Barcelona target after exit request</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/08/jj-gabriel-man-united-contract-offer-exit/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 08 Oct 2026 21:56:16 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United could replace Michael Carrick with Premier League winner who wants to revive fallen giant",
+      "items": [
+        {
+          "title": "Man United could replace Michael Carrick with Premier League winner who wants to revive fallen giant",
+          "summary": "<p>Antonio Conte has emerged as a potential candidate to replace Michael Carrick at Manchester United should the club decide to make a managerial change, according to journalist Pete O&#8217;Rourke. The Red Devils have endured a difficult start to the Premier League campaign, collecting just five points from their opening five matches and suffering an early [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/08/antonio-conte-manchester-united-michael-carrick-replacement-2/\">Man United could replace Michael Carrick with Premier League winner who wants to revive fallen giant</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/08/antonio-conte-manchester-united-michael-carrick-replacement-2/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 08 Oct 2026 20:39:25 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Free Talk Friday",
+      "items": [
+        {
+          "title": "Free Talk Friday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>What's the craic? </p> <p><strong>Looking for memes? Head over to</strong> <a href=\"https://www.reddit.com/r/memechesterunited\">/r/memechesterunited</a><strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhelansShorts\"> /u/PhelansShorts </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1cjt0/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1cjt0/free_talk_friday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1cjt0/free_talk_friday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T05:00:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kobbie Mainoo with the Manchester United Player of the Month award for September",
+      "items": [
+        {
+          "title": "Kobbie Mainoo with the Manchester United Player of the Month award for September",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x0tel9/kobbie_mainoo_with_the_manchester_united_player/\"> <img alt=\"Kobbie Mainoo with the Manchester United Player of the Month award for September\" src=\"https://preview.redd.it/9smupbe6e9uh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d2f082c6fc6e73588a3052392274b964cea77a57\" title=\"Kobbie Mainoo with the Manchester United Player of the Month award for September\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/9smupbe6e9uh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0tel9/kobbie_mainoo_with_the_manchester_united_player/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x0tel9/kobbie_mainoo_with_the_manchester_united_player/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-08T15:08:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Alex Ferguson admits Pep Guardiola regret as Man Utd legend reveals details of secret New York meeting",
+      "items": [
+        {
+          "title": "Sir Alex Ferguson admits Pep Guardiola regret as Man Utd legend reveals details of secret New York meeting",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x0pl3m/sir_alex_ferguson_admits_pep_guardiola_regret_as/\"> <img alt=\"Sir Alex Ferguson admits Pep Guardiola regret as Man Utd legend reveals details of secret New York meeting\" src=\"https://external-preview.redd.it/-8QsjdEpdfR-s6Nr_U0yIPfmwPT0mGzDqiYdyF8pnFU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bd1f3f896cf9e5238cf1f01fedabb08e0b5a83dd\" title=\"Sir Alex Ferguson admits Pep Guardiola regret as Man Utd legend reveals details of secret New York meeting\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Sir Alex Ferguson: &quot;Over the past ten years, I have often wondered what might have happened if the dinner I had with Pep in New York in 2012 had taken place a couple of months earlier.“ “I would have tried my hardest to convince him that his future lay in Manchester.”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/raw-hero\"> /u/raw-hero </a> <br /> <span><a href=\"https://www.goal.com/en-in/lists/sir-alex-ferguson-pep-guardiola-regret-man-utd-man-city/blte2f99f1ee6be58ae\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0pl3m/sir_alex_ferguson_admits_pep_guardiola_regret_as/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x0pl3m/sir_alex_ferguson_admits_pep_guardiola_regret_as/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-08T12:26:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How Sir Alex Ferguson Became Football's Greatest Manager",
+      "items": [
+        {
+          "title": "How Sir Alex Ferguson Became Football's Greatest Manager",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x0y8t3/how_sir_alex_ferguson_became_footballs_greatest/\"> <img alt=\"How Sir Alex Ferguson Became Football's Greatest Manager\" src=\"https://external-preview.redd.it/_HiuM0L0ZpEmdOQUexNT2QkjD-oZivR9kDomnXL46Y4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=223481f5e454952702a1f15e0173d1a3cb2c8494\" title=\"How Sir Alex Ferguson Became Football's Greatest Manager\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>From the shipyards of Govan to the pinnacle of world football, this is the story of Sir Alex Ferguson.</p> <p>Featuring those who played alongside him and for him, the documentary explores the values, ambition and relentless drive that shaped football's most successful manager. From transforming Aberdeen and ending the dominance of Celtic and Rangers, to building multiple Manchester United teams and winning the Treble, discover how Ferguson continually reinvented himself and his clubs.</p> <p>00:00 Introduction: The Making of Sir Alex Ferguson<br /> 01:41 Rebuilding Manchester United (1986)<br /> 05:19 Govan Roots &amp; Football Beginnings<br /> 08:32 The Goal That Saved Ferguson's Man Utd Career<br /> 10:00 Learning From Busby &amp; Winning The League<br /> 14:58 From East Stirlingshire To Aberdeen<br /> 17:14 Breaking Celtic &amp; Rangers' Dominance<br /> 24:14 The Class of '92 Gamble<br /> 31:03 Chasing European Glory<br /> 34:24 Aberdeen's Greatest Triumph: Beating Real Madrid<br /> 39:11 The Road To The Treble (1999)<br /> 50:09 Rebuilding Again<br /> 01:06:03 Ruthless Decisions &amp; The Beckham Exit<br /> 01:15:21 Ronaldo, Rooney &amp; A New Dynasty<br /> 01:31:19 The Final Years, Retirement &amp; Lasting Legacy</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AnakinAni\"> /u/AnakinAni </a> <br /> <span><a href=\"https://youtu.be/IskcD1xKG9U?si=P9C5sqzYpwEpiuzP\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0y8t3/how_sir_alex_ferguson_became_footballs_greatest/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x0y8t3/how_sir_alex_ferguson_became_footballs_greatest/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-08T18:12:43+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Can Man United kick-start season against Spurs? TOTD",
+      "items": [
+        {
+          "title": "Can Man United kick-start season against Spurs? TOTD",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x0tgjp/can_man_united_kickstart_season_against_spurs_totd/\"> <img alt=\"Can Man United kick-start season against Spurs? TOTD\" src=\"https://external-preview.redd.it/MVB9EEioQ_roJru9T49fKG72X_hgEldfZbR9Jf-yuQM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=19009120e9fdcdee2e0326fdc0cef505d903a169\" title=\"Can Man United kick-start season against Spurs? TOTD\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=X-rm-QDGi80\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0tgjp/can_man_united_kickstart_season_against_spurs_totd/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x0tgjp/can_man_united_kickstart_season_against_spurs_totd/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-08T15:10:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Youri Tielemans Exclusive | Inside Carrington: S2 Ep 7",
+      "items": [
+        {
+          "title": "Youri Tielemans Exclusive | Inside Carrington: S2 Ep 7",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x0yilp/youri_tielemans_exclusive_inside_carrington_s2_ep/\"> <img alt=\"Youri Tielemans Exclusive | Inside Carrington: S2 Ep 7\" src=\"https://external-preview.redd.it/twZimbeSFpkSeQTyfidG2eecDiDXsmppsUi-rZP7Ckc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=46be3faf1c5592e11781ae807a2f0d64d4e15a07\" title=\"Youri Tielemans Exclusive | Inside Carrington: S2 Ep 7\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=rRHudPquT6g\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0yilp/youri_tielemans_exclusive_inside_carrington_s2_ep/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x0yilp/youri_tielemans_exclusive_inside_carrington_s2_ep/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-08T18:22:39+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Rob Dawson] Another bad Man United run has Carrick feeling the heat. Should he be?",
+      "items": [
+        {
+          "title": "[Rob Dawson] Another bad Man United run has Carrick feeling the heat. Should he be?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x0m7p1/rob_dawson_another_bad_man_united_run_has_carrick/\"> <img alt=\"[Rob Dawson] Another bad Man United run has Carrick feeling the heat. Should he be?\" src=\"https://external-preview.redd.it/-IDvOHGXpcqeWknUYuIw4B9JuUZag1keNIuvtC2I_20.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b8aa8812774e10d23329f610914c9b96cfeec87\" title=\"[Rob Dawson] Another bad Man United run has Carrick feeling the heat. Should he be?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.espn.co.uk/football/story/_/id/50110195/manchester-united-managerial-cycle-michael-carrick-feeling-heat-he\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0m7p1/rob_dawson_another_bad_man_united_run_has_carrick/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x0m7p1/rob_dawson_another_bad_man_united_run_has_carrick/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-08T09:12:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0wbzu/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x0wbzu/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x0wbzu/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-08T17:00:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 43,
+    "story_count": 39
+  }
+}
