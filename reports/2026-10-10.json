@@ -1,0 +1,995 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T06:45:35.573461+00:00",
+  "match_data": {
+    "collected_at": "2026-10-10T06:45:29.593812+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Is £70m Baleba ready for his Man Utd exam?",
+      "items": [
+        {
+          "title": "Is £70m Baleba ready for his Man Utd exam?",
+          "summary": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 09 Oct 2026 07:57:23 GMT"
+        },
+        {
+          "title": "[BBC Sport] Is £70m Baleba ready for his Man Utd exam?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1gqcj/bbc_sport_is_70m_baleba_ready_for_his_man_utd_exam/\"> <img alt=\"[BBC Sport] Is £70m Baleba ready for his Man Utd exam?\" src=\"https://external-preview.redd.it/PNUzhRxt2qdNPUer8ilfq1vc7YzelsO3TbOW0nhLk-8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=699578683d873ad475ecad4ea8ea303d267557a1\" title=\"[BBC Sport] Is £70m Baleba ready for his Man Utd exam?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/goodclassbung\"> /u/goodclassbung </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/ck054p2lyeplo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1gqcj/bbc_sport_is_70m_baleba_ready_for_his_man_utd_exam/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1gqcj/bbc_sport_is_70m_baleba_ready_for_his_man_utd_exam/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T09:21:12+00:00"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'It's affected me personally' - Carrick on City case",
+      "items": [
+        {
+          "title": "'It's affected me personally' - Carrick on City case",
+          "summary": "Manchester United head coach Michael Carrick says he has his \"own questions\" on the Manchester City case, as calls continue for the club to be stripped of previous silverware.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqgm0yy99dv9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 09 Oct 2026 14:54:21 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "I've got my own questions on Man City case - Carrick",
+      "items": [
+        {
+          "title": "I've got my own questions on Man City case - Carrick",
+          "summary": "Manchester United boss Michael Carrick says he was personally affected by the Manchester City case which has seen the club found guilty of breaching Premier League financial rules and still has questions about the matter.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 09 Oct 2026 14:30:38 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "15 players could miss Man United vs Tottenham as Michael Carrick gives injury update",
+      "items": [
+        {
+          "title": "15 players could miss Man United vs Tottenham as Michael Carrick gives injury update",
+          "summary": "Manchester United will face Tottenham Hotspur in the Premier League with both clubs set to have players on the sidelines through injury",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-injury-latets-spurs-34743973",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 05:00:00 +0000"
+        },
+        {
+          "title": "15 players could miss Man Utd vs Tottenham after four injury blows",
+          "summary": "Manchester United host Tottenham Hotspur at Old Trafford on Saturday as both sides look to get back to winning ways",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-tottenham-injury-latest-37756518",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "How Manchester United should line up vs Tottenham in Premier League fixture",
+      "items": [
+        {
+          "title": "How Manchester United should line up vs Tottenham in Premier League fixture",
+          "summary": "Man Utd play Tottenham in the Premier League today and our writers have shared their preferred starting XIs.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34735107",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 05:00:00 +0000"
+        },
+        {
+          "title": "[Pre Match Thread] Premier League Game 6 | Manchester United vs Tottenham Hotspur",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> Manchester United vs Tottenham Hotspur <a href=\"https://www.reddit.com/r/reddevils/.rss#THFC\"></a></h1> <p><strong>Competition:</strong> Premier League | <strong>Date:</strong> 10th October</p> <p><strong>Kick off:</strong> 17:30 BST | <strong>Venue:</strong> Old Trafford</p> <p><strong>Referee:</strong> Stuart Atwell | <strong>TV:</strong> Sky Sports</p> <hr /> <p><strong>Team News:</strong></p> <p><strong>Possible starting XI</strong>:</p> <pre><code>----------Lammens---------- -Dalot--Yoro--Martinez--Shaw- ------Mainoo--Tielemans------ --Mbeumo-Fernandes-Rashford-- -----------Cunha------------- </code></pre> <p><strong>Possible bench:</strong> Darlow, Maguire, Heaven, de Ligt, Baleba, Santos, Mount, Amad, Zirkzee</p> <hr /> <ul> <li>Patrick Dorgu and Noussair Mazraoui both were subbed for their nations with injuries. Dorgu is confirmed to be out for 'a number of weeks'</li> <li>Carlos Baleba was pictured playing in a closed-doors friendly during the break, and could make his debut after he made the bench vs Fulham.</li> <li>Benjamin Sesko is ruled out.</li> <li>Kobbie Mainoo and Marcus Rashford both missed England duty with knocks but have trained 'a bit' and could be involved.</li> <li>Amad could return to the squad after he returned to training after not yet featuring at all this season.</li> <li>Matthijs de Ligt could make a squad for the first time in nearly a year after he looks to recover from his back surgery</li> </ul> <hr /> <p><strong>Injuries/Suspensions:</strong></p> <table><thead> <tr> <th align=\"center\"><strong>Player</strong></th> <th align=\"center\"><strong>Injury/Ban</strong></th> <th align=\"center\"><strong>Position</strong></th> <th align=\"center\"><strong>Return Date</strong></th> </tr> </thead><tbody> <tr> <td align=\"center\">Noussair Mazraoui</td> <td align=\"center\">TBC</td> <td align=\"center\">RB</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Patrick Dorgu</td> <td align=\"center\">Hamstring</td> <td align=\"center\">LW</td> <td align=\"center\">31st October</td> </tr> <tr> <td align=\"center\">Benjamin Sesko</td> <td align=\"center\">Shin</td> <td align=\"center\">ST</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Amad Diallo</td> <td align=\"center\">Knock</td> <td align=\"center\">RW</td> <td align=\"center\">10th October</td> </tr> <tr> <td align=\"center\">Tom Heaton</td> <td align=\"center\">Hamstring</td> <td align=\"center\">GK</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Manuel Ugarte</td> <td align=\"center\">ACL</td> <td align=\"center\">DM</td> <td align=\"center\">January</td> </tr> <tr> <td align=\"center\">Matthijs de Ligt</td> <td align=\"center\">Back</td> <td align=\"center\">CB</td> <td align=\"center\">10th October</td> </tr> </tbody></table> <hr /> <p><strong>Form guide:</strong></p> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> United: <strong>W D W L L D</strong> | Home form: <strong>W W L L</strong></p> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#THFC\"></a> Spurs: <strong>W L D D L L</strong> | Away form: <strong>L D D L</strong></p> <hr /> <p><strong>Last 3 meetings:</strong></p> <table><thead> <tr> <th align=\"center\"><strong>Result</strong></th> <th align=\"center\"><strong>Comp</strong></th> <th align=\"center\"><strong>Venue</strong></th> <th align=\"center\"><strong>Season</strong></th> </tr> </thead><tbody> <tr> <td align=\"center\">2-0 W</td> <td align=\"center\">Premier League</td> <td align=\"center\">Old Trafford</td> <td align=\"center\">25/26</td> </tr> <tr> <td align=\"center\">2-2 D</td> <td align=\"center\">Premier League</td> <td align=\"center\">Tottenham Hotspur Stadium</td> <td align=\"center\">25/26</td> </tr> <tr> <td align=\"center\">1-0 L</td> <td align=\"center\">Europa League Final</td> <td align=\"center\">San Mames</td> <td align=\"center\">24/25</td> </tr> </tbody></table> <hr /> <p><strong>Opposition News</strong></p> <p>Simons, Mudryk, Odobert, Porro won't play</p> <p>There were doubts around van de Ven &amp; van Hecke but both are available</p> <hr /> <p><strong>YOU WILL BE ABLE TO SEE FULL MATCH HIGHLIGHTS AFTER THE GAME ON</strong> [<a href=\"https://www.reddit.com/r/footballhighlights\">r/footballhighlights</a>](<a href=\"https://www.reddit.com/r/footballhighlights\">r/footballhighlights</a>)<strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1k9c2/pre_match_thread_premier_league_game_6_manchester/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1k9c2/pre_match_thread_premier_league_game_6_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1k9c2/pre_match_thread_premier_league_game_6_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T12:37:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "JJ Gabriel and family's feelings clear after four meetings as Man United star ‘to cost £8.5m’",
+      "items": [
+        {
+          "title": "JJ Gabriel and family's feelings clear after four meetings as Man United star ‘to cost £8.5m’",
+          "summary": "JJ Gabriel is reportedly being valued at £8.5million by his representatives as they continue to push for a transfer away from Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-transfer-34739830",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 10:17:21 +0000"
+        },
+        {
+          "title": "JJ Gabriel 'to cost £8.5m' as family stick to plan after meetings with four clubs",
+          "summary": "JJ Gabriel continues to train away from Manchester United after his request to leave the club sent shockwaves through Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/jj-gabriel-man-utd-barcelona-37752952",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 09:14:48 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'No disrespect to Tottenham - but I was just desperate to join Manchester United'",
+      "items": [
+        {
+          "title": "'No disrespect to Tottenham - but I was just desperate to join Manchester United'",
+          "summary": "Man Utd signed Michael Carrick from Tottenham in 2006, and he became a crucial part of the club's modern history.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/no-disrespect-tottenham-just-desperate-34736663",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I agreed to leave Man United for Tottenham – then Sir Alex Ferguson called me into his office",
+      "items": [
+        {
+          "title": "I agreed to leave Man United for Tottenham – then Sir Alex Ferguson called me into his office",
+          "summary": "Manchester United almost sold one of their most treasured stars to rivals Tottenham before Sir Alex Ferguson stepped in to correct course",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-transfer-tottenham-ferguson-34722827",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Tottenham wanted me but I chose to join Man United instead – I even took a pay cut",
+      "items": [
+        {
+          "title": "Tottenham wanted me but I chose to join Man United instead – I even took a pay cut",
+          "summary": "Manchester United host Tottenham at Old Trafford on Saturday night as the Premier League returns following the extended international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ighalo-man-united-tottenham-snub-34727910",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United signing wanted to quit after one day – I knew he shouldn't have left Arsenal",
+      "items": [
+        {
+          "title": "Man United signing wanted to quit after one day – I knew he shouldn't have left Arsenal",
+          "summary": "An Arsenal hero admitted his former team-mate shouldn't have joined Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-arsenal-transfer-latest-34739083",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United line-up vs Tottenham predicted as Carlos Baleba call made",
+      "items": [
+        {
+          "title": "Manchester United line-up vs Tottenham predicted as Carlos Baleba call made",
+          "summary": "Michael Carrick welcomes his former club Tottenham Hotspur to Old Trafford today with pressure mounting on the Man United boss",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-vs-34742302",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: JJ Gabriel receives offer as Michael Carrick responds to City charges",
+      "items": [
+        {
+          "title": "Man United latest: JJ Gabriel receives offer as Michael Carrick responds to City charges",
+          "summary": "Manchester United are back at Old Trafford this weekend to face Tottenham in the Premier League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-carrick-jj-gabriel-34742943",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Centre-back target, Conte chat and JJ Gabriel offer - Manchester United Notebook",
+      "items": [
+        {
+          "title": "Centre-back target, Conte chat and JJ Gabriel offer - Manchester United Notebook",
+          "summary": "This week's Man Utd Notebook looks at the club's plans for a defensive overhaul and the managerial candidate fluttering his eyelashes towards Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/centre-back-target-conte-chat-34735273",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ex-Man United star opens up on 'coward's' tackle that broke his leg - 'I'll never speak to him'",
+      "items": [
+        {
+          "title": "Ex-Man United star opens up on 'coward's' tackle that broke his leg - 'I'll never speak to him'",
+          "summary": "The former Manchester United striker had his time at the club all but ended by a leg-breaking tackle and admits he'll never speak to the culprit again",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-leg-break-coward-34739786",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United could unleash new approach after Michael Carrick 'fire' comment",
+      "items": [
+        {
+          "title": "Manchester United could unleash new approach after Michael Carrick 'fire' comment",
+          "summary": "Man Utd have had a slow start to the season, and after a three-week break for internationals, Michael Carrick has hinted at a change in approach.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-hints-manchester-united-34738243",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United considering Benjamin Sesko options after latest injury blow",
+      "items": [
+        {
+          "title": "Manchester United considering Benjamin Sesko options after latest injury blow",
+          "summary": "Benjamin Sesko is struggling with a shin injury again and the Man Utd striker faces another spell on the sidelines.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-considering-benjamin-sesko-34738239",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel shows Man United what he's been up to as wantaway star takes to Instagram",
+      "items": [
+        {
+          "title": "JJ Gabriel shows Man United what he's been up to as wantaway star takes to Instagram",
+          "summary": "Manchester United youngster JJ Gabriel has taken to Instagram",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-update-34743943",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 16:54:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Rashford, Sesko, Dorgu - Man United injury latest and return dates ahead of Tottenham clash",
+      "items": [
+        {
+          "title": "Rashford, Sesko, Dorgu - Man United injury latest and return dates ahead of Tottenham clash",
+          "summary": "Manchester United injury updates and return dates with Michael Carrick's side back in Premier League action this weekend.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-injury-news-rashford-34743009",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 14:51:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick press conference recap ahead of Manchester United vs Tottenham",
+      "items": [
+        {
+          "title": "Michael Carrick press conference recap ahead of Manchester United vs Tottenham",
+          "summary": "Manchester United head coach Michael Carrick addressed the media ahead of Saturday's clash with Tottenham Hotspur.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-press-conference-live-34738835",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 14:11:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United fan wins £3.5m house with zip line and treehouse while celebrating Man City charges",
+      "items": [
+        {
+          "title": "Man United fan wins £3.5m house with zip line and treehouse while celebrating Man City charges",
+          "summary": "Jamie Loveridge, 37, bagged the five-bedroom Victorian home in the latest Omaze draw",
+          "url": "https://www.manchestereveningnews.co.uk/news/property/man-united-fan-wins-35m-34742414",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 14:04:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United issue injury updates on seven players vs Tottenham with three ruled out",
+      "items": [
+        {
+          "title": "Manchester United issue injury updates on seven players vs Tottenham with three ruled out",
+          "summary": "Man Utd face Spurs at Old Trafford on Saturday and Michael Carrick has a number of fitness issues to contend with ahead of the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-issue-injury-updates-34738232",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 13:11:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United break silence on Man City 115 verdict with emotional Michael Carrick statement",
+      "items": [
+        {
+          "title": "Manchester United break silence on Man City 115 verdict with emotional Michael Carrick statement",
+          "summary": "Manchester City were found guilty by the Premier League of a series of financial breaches and Man United head coach Michael Carrick has reacted to the news.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-break-silence-man-34738218",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 12:49:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United fans bring back banner mocking Man City after 115 charges verdict",
+      "items": [
+        {
+          "title": "Manchester United fans bring back banner mocking Man City after 115 charges verdict",
+          "summary": "Man United fans plan to mock Manchester City by bringing a banner back to Old Trafford after the Blues were found guilty of 114 of the 115 charges against them.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-fans-bring-back-34740077",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 10:22:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League sack race odds as Michael Carrick and Roberto De Zerbi meet in crunch clash",
+      "items": [
+        {
+          "title": "Premier League sack race odds as Michael Carrick and Roberto De Zerbi meet in crunch clash",
+          "summary": "The pressure is well and truly on for Michael Carrick and Roberto De Zerbi as their two sides meet on Saturday night in a must-win clash for both Manchester United and Tottenham",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-sacking-carrick-spurs-37746710",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel contract offer made as club's silence broken on City charges",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel contract offer made as club's silence broken on City charges",
+          "summary": "Manchester United return to action this weekend as they host Tottenham at Old Trafford on Saturday evening",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-jj-gabriel-37754865",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 10 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Gary Neville sends stern warning to Premier League over Man City appeal - 'Absolute uproar'",
+      "items": [
+        {
+          "title": "Gary Neville sends stern warning to Premier League over Man City appeal - 'Absolute uproar'",
+          "summary": "Manchester City have already lodged an appeal over the Premier League’s landmark verdict and Manchester United icon Gary Neville has now offered his honest verdict on the process",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-city-appeal-37756020",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 16:53:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Jamie Carragher fires warning to Liverpool and Man Utd after Man City's guilty verdict",
+      "items": [
+        {
+          "title": "Jamie Carragher fires warning to Liverpool and Man Utd after Man City's guilty verdict",
+          "summary": "Manchester City's guilty verdict has sent shockwaves through the Premier League and Jamie Carragher is convinced it will completely alter expectations for their rivals",
+          "url": "https://www.mirror.co.uk/sport/football/news/carragher-liverpool-man-united-city-37754056",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 11:40:36 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd fans revive brutal Man City banner after Premier League guilty verdict",
+      "items": [
+        {
+          "title": "Man Utd fans revive brutal Man City banner after Premier League guilty verdict",
+          "summary": "Manchester United return to Premier League action this weekend and the club's fans will reportedly revive a banner mocking rivals Manchester City",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-banner-man-city-37753207",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 09:33:51 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Five Premier League things NOT including Man City charges to follow this weekend",
+      "items": [
+        {
+          "title": "Five Premier League things NOT including Man City charges to follow this weekend",
+          "summary": "The Premier League returns this weekend and while Manchester City's trip to play Liverpool after their guilty verdict is undoubtedly the biggest talking point, there's plenty else to get the teeth into",
+          "url": "https://www.mirror.co.uk/sport/football/premier-league-return-man-city-37752609",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 9 Oct 2026 09:17:53 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United’s early wobble makes Tottenham visit a must-win for Carrick",
+      "items": [
+        {
+          "title": "Manchester United’s early wobble makes Tottenham visit a must-win for Carrick",
+          "summary": "<p>After a scratchy start in the league, injuries and an underwhelming Rashford, Spurs’s visit to Old Trafford is already crucial for the hosts</p><p>The noise in the Premier League was focused elsewhere for the last two weeks of the international break, allowing a glorious silence to drift across Manchester United. <a href=\"https://www.theguardian.com/football/2026/oct/02/how-best-to-punish-manchester-city-restitution-retribution-hand-club-to-fans\">Without Manchester City’s woes</a>, Michael Carrick may have faced a more difficult time, with plenty to review in regards to the first five games of the season.</p><p>United <a href=\"https://www.theguardian.com/football/2026/sep/20/fulham-manchester-united-premier-league-match-report\">sit solemnly in 12th</a> with only one league win, and misery needs company. The hosts will find just that at Old Trafford on Saturday evening. Tottenham, bottom of the Premier League, visit, with both sides hoping to kickstart their season. Spurs have <a href=\"https://www.theguardian.com/football/2026/sep/19/tottenham-aston-villa-premier-league-match-report\">secured a measly two points</a> after a summer <a href=\"https://www.theguardian.com/football/2026/jul/01/tottenham-sandro-tonali-agree-100m-deal-newcastle\">where £300m was spent</a> on Roberto De Zerbi’s rebuild but the architect’s drawings are already at risk of being set alight. For Carrick and United, beating the worst team in the league is close to a necessity as they enter a very difficult run of fixtures.</p> <a href=\"https://www.theguardian.com/football/2026/oct/09/manchester-united-tottenham-michael-carrick-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/09/manchester-united-tottenham-michael-carrick-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 09 Oct 2026 15:10:14 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’",
+      "items": [
+        {
+          "title": "Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’",
+          "summary": "<p>United manager Carrick rues missing out on ‘emotion in the moment’ while Iraola says he understands why Liverpool fans are angry</p> <a href=\"https://www.theguardian.com/football/2026/oct/09/premier-league-managers-reaction-manchester-city-verdict\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/09/premier-league-managers-reaction-manchester-city-verdict",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 09 Oct 2026 21:30:05 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Will Carlos Baleba fix Manchester United? Three big questions ahead of potential debut",
+      "items": [
+        {
+          "title": "Will Carlos Baleba fix Manchester United? Three big questions ahead of potential debut",
+          "summary": "<p>As the Premier League returns, we dive into the signing who could boost United’s midfield – or confuse things further</p><p>Carlos Baleba <a href=\"https://www.theguardian.com/football/2026/aug/25/manchester-united-sign-carlos-baleba-brighton\">cost</a> Manchester United $88.7m (£65m) plus $6.8m (£5m) in add-ons when they signed him from Brighton in August. He may be worth even more now despite the fact that the Cameroonian has yet to debut for his new club. Many United fans are counting on Baleba to be a one-man solution to their early-season problems. No pressure.</p><p>An ankle injury kept Baleba on the sidelines as Michael Carrick’s side struggled against Everton, Manchester City and Fulham. The 22-year-old joined United just a few days after the opening-weekend defeat to Hull City, so he’d already had a preview of his new team’s troubles to come. The scale of Baleba’s task has grown since then.</p> <a href=\"https://www.theguardian.com/football/2026/oct/09/carlos-baleba-manchester-united-debut\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/09/carlos-baleba-manchester-united-debut",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 09 Oct 2026 08:00:42 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Injury situation looks set to force Manchester United into the transfer market this January",
+      "items": [
+        {
+          "title": "Injury situation looks set to force Manchester United into the transfer market this January",
+          "summary": "<p>Manchester United&#8217;s injury problems could reportedly mean they&#8217;re set for a busy January transfer window to try to solve the problem. The Red Devils have already been making a left-back one of their top targets, with names like Lewis Hall, Myles Lewis-Skelly, and Rayan Ait-Nouri recently mentioned as options by Sky Sports. With Luke Shaw [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/10/man-united-forced-into-transfer-market-due-to-injuries/\">Injury situation looks set to force Manchester United into the transfer market this January</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/10/man-united-forced-into-transfer-market-due-to-injuries/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 10 Oct 2026 05:22:19 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Liverpool want 19-year-old Premier League rising star eyed by Arsenal and Man United",
+      "items": [
+        {
+          "title": "Liverpool want 19-year-old Premier League rising star eyed by Arsenal and Man United",
+          "summary": "<p>Liverpool are reportedly interested in signing Fulham midfielder Josh King, with the teenager attracting attention from several of Europe&#8217;s biggest clubs after impressive Premier League performances. According to Football Insider, the Merseyside club holds the 19-year-old in high regard and believes he could become an important addition to their squad in the coming years. However, [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/09/liverpool-want-19-year-old-premier-league-rising-star-eyed-by-arsenal-and-man-united/\">Liverpool want 19-year-old Premier League rising star eyed by Arsenal and Man United</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/09/liverpool-want-19-year-old-premier-league-rising-star-eyed-by-arsenal-and-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 09 Oct 2026 21:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Real Madrid ready to meet demands to sign highly rated Man United player",
+      "items": [
+        {
+          "title": "Real Madrid ready to meet demands to sign highly rated Man United player",
+          "summary": "<p>Real Madrid are reportedly in a strong position to sign Manchester United youngster JJ Gabriel, with several European heavyweights keeping tabs on him. The Spanish giants are among the frontrunners to land the teenage sensation, who has attracted considerable attention after impressive youth-level performances. Barcelona, Bayern Munich and Paris Saint-Germain are also monitoring developments, but [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/09/real-madrid-ready-to-meet-demands-to-sign-highly-rated-man-united-player/\">Real Madrid ready to meet demands to sign highly rated Man United player</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/09/real-madrid-ready-to-meet-demands-to-sign-highly-rated-man-united-player/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 09 Oct 2026 20:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United have strong interest in €65m Bundesliga star as Arsenal and Liverpool keep tabs",
+      "items": [
+        {
+          "title": "Man United have strong interest in €65m Bundesliga star as Arsenal and Liverpool keep tabs",
+          "summary": "<p>Alphonso Davies could become a major talking point in the upcoming transfer window, with several European heavyweights reportedly monitoring his situation at Bayern Munich. According to a report from Fussball News, Manchester United are showing particularly strong interest in the Canadian international, while Liverpool, Arsenal and Manchester City are also keeping tabs on the left-back. [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/09/man-united-have-strong-interest-in-e65m-bundesliga-star-as-arsenal-and-liverpool-keep-tabs/\">Man United have strong interest in €65m Bundesliga star as Arsenal and Liverpool keep tabs</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/09/man-united-have-strong-interest-in-e65m-bundesliga-star-as-arsenal-and-liverpool-keep-tabs/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 09 Oct 2026 20:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United, Chelsea and Arsenal learn asking price for 28-year-old Barcelona star",
+      "items": [
+        {
+          "title": "Man United, Chelsea and Arsenal learn asking price for 28-year-old Barcelona star",
+          "summary": "<p>Manchester United, Chelsea and Arsenal could clash in a transfer battle for Barcelona midfielder Dani Olmo, amid renewed interest from Bayern Munich. The 28-year-old has attracted attention from several European heavyweights ahead of the January transfer window, with his versatility and technical quality making him an appealing option for clubs looking to strengthen their attacking [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/09/man-united-chelsea-and-arsenal-learn-asking-price-for-28-year-old-barcelona-star/\">Man United, Chelsea and Arsenal learn asking price for 28-year-old Barcelona star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/09/man-united-chelsea-and-arsenal-learn-asking-price-for-28-year-old-barcelona-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 09 Oct 2026 18:30:20 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Scott McTominay’s ‘priority’ revealed as Man United return mooted",
+      "items": [
+        {
+          "title": "Scott McTominay’s ‘priority’ revealed as Man United return mooted",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/transfers/scott-mctominays-priority-revealed-as-man-united-return-mooted",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Sat, 10 Oct 2026 06:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1p73t/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1p73t/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1p73t/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T16:01:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United fans bringing back Old Trafford ticker to mark City’s ‘last’ trophy – in 1976",
+      "items": [
+        {
+          "title": "Manchester United fans bringing back Old Trafford ticker to mark City’s ‘last’ trophy – in 1976",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1gd31/manchester_united_fans_bringing_back_old_trafford/\"> <img alt=\"Manchester United fans bringing back Old Trafford ticker to mark City’s ‘last’ trophy – in 1976\" src=\"https://external-preview.redd.it/NzbtdAsqumq0eHsaSruvZRzc6BzFLzcDMagpbkqBQAo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab667eca24406f4f004d24f1c5faf6a380fbbc92\" title=\"Manchester United fans bringing back Old Trafford ticker to mark City’s ‘last’ trophy – in 1976\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Manchester United fans will welcome back the historic Stretford End ‘ticker’ for Saturday’s home game against Tottenham Hotspur.</p> <p>The flag first appeared hanging from the newly built upper tier of the Stretford End in 2000 with ‘24 YEARS’ — marking when rivals Manchester City had last won a trophy, their 1976 League Cup triumph — but was taken down after City won the FA Cup in 2011, by which time it had risen to ‘35 YEARS’.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7674131/2026/10/09/manchster-united-city-ticker-flag/?unlocked_article_code=1.HVE.7PLI.zqCJmtjM4_Gg&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1gd31/manchester_united_fans_bringing_back_old_trafford/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1gd31/manchester_united_fans_bringing_back_old_trafford/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T08:58:04+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Press Con. P2] Carrick on Sesko’s injury: \"The original was a shin. It's not the exact issue, it's a similar area, but it's not the exact same thing again & we're kind of still working through a little bit of seeing how long the issue will be. We're hoping that will be soon but not quite clear yet\"",
+      "items": [
+        {
+          "title": "[Press Con. P2] Carrick on Sesko’s injury: \"The original was a shin. It's not the exact issue, it's a similar area, but it's not the exact same thing again & we're kind of still working through a little bit of seeing how long the issue will be. We're hoping that will be soon but not quite clear yet\"",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick's Pre-Match Press Conference - United vs Spurs, Part 2</p> <h1>EVERY WORD FROM PRESS CONFERENCE PART 2</h1> <p><a href=\"https://www.manutd.com/en/news/how-carricks-playing-career-influences-his-management\">https://www.manutd.com/en/news/how-carricks-playing-career-influences-his-management</a></p> <p><strong>Hi, Michael. Just on Ben, you mentioned him very briefly there [in part one]. It sounds like it's a recurrence of the hip injury that kept him out for about four months in the summer. How much of a concern is it that injury has come back and how do you go about managing that? If it is something that's going to keep coming back and do you need to look at potential surgery and things like that?</strong></p> <p>&quot;Yeah, well, the original was a shin anyway, yeah, it was a shin. It's not the exact issue, it's a similar area, but it's not the exact same thing again, and we're kind of still working through a little bit of seeing how long the issue will be. We're hoping that will be soon, obviously, but, at this moment, it's still not quite clear.&quot;</p> <p><strong>Is it something where you look to rest and then if rest doesn't work, you may be looking at kind of more long-term solutions and things like that?</strong></p> <p>&quot;Yeah, there's different things to look at. I think he had recovered really well actually from the initial one and there was a lot of time and sometimes [things] get thrown up, the body does certain things and we've got to react to that and try and get him back as quick as we can.&quot;</p> <p><strong>Just on JJ Gabriel, the information was that he was going to be on the bench for the Brighton game. Was that a collective decision to have him in the squad that night or was that a selection that was voiced onto you?</strong></p> <p>&quot;I think that was after the [Manchester] City game, which he hadn't been around for them days really, so things can change. We always have plans for certain things and certain ideas for younger players, whether they're involved in squads, whether they're not involved in squads, but nothing was concrete at that stage anyway.&quot;</p> <p><strong>I know a few of us have written about it but, from your part, is there any shift, anything changed?</strong></p> <p>&quot;No, nothing's changed at all.&quot;</p> <p><strong>Over the three weeks, the time away from club football, have you spoken to your bosses about this team despite the results? Are you feeling being on the right track?</strong></p> <p>&quot;Yeah, there's always conversations going on, of course. I think in all different directions, you know, we're striving to be better all the time, so there's things that we're actually doing pretty well, and there's things that we need to get better at. And we're pretty clear with that. I think as a group, as a squad, the players certainly are. And, obviously, layers above me as well, in terms of conversations and where we're at. I think we're calm in some ways and we understand where we want to get to, how we want to get there and what it takes to get there and what we've done previous to prove we can get good results, but that doesn't mean we're calm in terms of we need to have a little bit of fire moving forward in terms of how we play, how we perform, what that means and getting the best out of each other. So, we need to keep pushing for more.&quot;</p> <p><strong>The next two weeks you've got quite a crammed schedule with Premier League games and Champions League games. Are you having to change the way that you manage at all compared to maybe last season instead of just picking teams for a Saturday, having to think about, I don't know, a week later or maybe 10 days later, just to make sure you've got that balance and that freshness all the time.</strong></p> <p>&quot;Yeah, there's obviously an adaption definitely that takes place. I think, just in terms of training time and planning for games, it is slightly different. It's not unusual though, really. It's just a slight adaption to what we've had for maybe, what was it, five months or so. But certainly that, yeah, little bit of planning, what type of games, what suits certain players, what it looks like. There's definitely that goes into it for sure, yeah.&quot;</p> <p><strong>It's obviously something that you went through as a player, when Sir Alex was having to do the same things. Do you lean on the things that he used to do and the conversations he had with you as a player when you're talking to your squad now? Because, obviously, I imagine players want to play all the time, but they just can't because of the schedule.</strong></p> <p>&quot;Yeah, that’s players for you! That's not their job to worry about what games they're playing, but, of course, I think that's experience, you know? Experience in different ways that I've kind of lived through and seen it from different perspectives. That's definitely something that you use and experience just comes to you just instinctively at times, of thinking what the right thing is to do and how to behave, how to adapt and then, certainly, previously what's worked, I think is important. Maybe what hasn't worked as well is just as important and that's experience and using the best part of it. But, without doubt, yes, me being here for a longer period of time and as a player, I still draw upon those moments to act and feed information to the players in different ways, really going into different games and different schedules.&quot;</p> <p><strong>It’s been quite a long break, three weeks. Given the start you've had over this first five or six games, do you think it's come at a good or bad time having this break? I appreciate you've not had the players with you all the time, but for you personally and your coaching team, have you had a chance to have a bit of a reset over this past three weeks?</strong></p> <p>&quot;Yeah, I'll be totally honest, it's not ideal. It's a long break, probably too long really from my perspective. It feels like a long time, but then, of course, we've made the most of it. I think there's been, regardless of results, I think when you've had a period like this and international breaks, in general, are normally a time where you can have a bit of a review and a bit of a plan of what's next. This one's been extra long and it certainly gives us an opportunity to, like I said before, some of the good things that we're still doing, to not lose that. I certainly think we need to clean up on other things to help us get better results, yeah.&quot;</p> <p><strong>In terms of this break, obviously you're saying you’ve reviewed everything, but is it so long that there's a risk of overthinking a lot of what's happened before, you might think it's worse than it has been or better than it has been? Is that, when you have so much time to discuss it, part of the problem?</strong></p> <p>&quot;Yeah, I won't say it's a problem, but it's definitely something to be aware of, getting the balanced view and understanding and the reality and what direction we want to head and what we want to do more of. What we want to hide a little bit and do less of, basically play to your strengths and we want to keep doing that as much as we possibly can. But sure, there's times when you can overdo it both ways, try and over-fix things or try and over-coach or try and over-help and try and over-play or try and over-try sometimes and doing things that maybe don't come natural to you. So, there's definitely a case of overdoing things, but it's always about what's next and doing the right thing for what's going to help us move forward.&quot;</p> <p><strong>Is that exacerbated by injuries?</strong></p> <p>&quot;Yeah, I think we always have a plan of, like I said there, about the games coming up and maybe a cluster of games and what it looks like. But then adapting again is crucial. Injuries, unfortunately, are part of the game. You don't always know where they're going to come and what stage. Sometimes it's in the same position, sometimes it's spread, sometimes you have a few, sometimes you have not a lot. You can't certainly plan for that, but adapting and having the right balance is important.&quot;</p> <p><strong>Can I just ask a little bit about Carlos Baleba? You said he's trained a lot, but how ready is he and also what do you see him bringing to this midfield that he can add from the first few weeks of the season, where he's not been a bit?</strong></p> <p>&quot;Yeah, he's certainly getting closer, Carlos. It's been great to have him out on the grass and to see him up close really. And [he] played a little bit in a training game that we had last week, so that was good for him to get some minutes. And I think the other side of it a little bit, he has missed a lot, and he's missed crucial time in terms of the end of pre-season. There's a little bit of patience there for him to get up to speed, and that's up to us to pick that right time for him as well, but he offers us a lot. I've said it before, the midfield that we've got, we're really happy with, and the selections and the options that we have, and he definitely adds to that.&quot;</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1y2d9/press_con_p2_carrick_on_seskos_injury_the/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1y2d9/press_con_p2_carrick_on_seskos_injury_the/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1y2d9/press_con_p2_carrick_on_seskos_injury_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T21:50:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[ManUtd] Appreciating Keano’s role on that iconic night in Turin 🌟",
+      "items": [
+        {
+          "title": "[ManUtd] Appreciating Keano’s role on that iconic night in Turin 🌟",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1f73s/manutd_appreciating_keanos_role_on_that_iconic/\"> <img alt=\"[ManUtd] Appreciating Keano’s role on that iconic night in Turin 🌟\" src=\"https://external-preview.redd.it/dTJxYTJqaWtiZXVoMZydS3cFORy2ukcoSp-oR98Jt7c_drSrDYND23wCNfVo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bb610688297afaac722367a233b27d1dc071829\" title=\"[ManUtd] Appreciating Keano’s role on that iconic night in Turin 🌟\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://v.redd.it/d51sxhikbeuh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1f73s/manutd_appreciating_keanos_role_on_that_iconic/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1f73s/manutd_appreciating_keanos_role_on_that_iconic/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T07:42:21+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[MU Women] Phallon Tullis-Joyce wins September's WSL Save of the month for this save against Arsenal",
+      "items": [
+        {
+          "title": "[MU Women] Phallon Tullis-Joyce wins September's WSL Save of the month for this save against Arsenal",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1ogdp/mu_women_phallon_tullisjoyce_wins_septembers_wsl/\"> <img alt=\"[MU Women] Phallon Tullis-Joyce wins September's WSL Save of the month for this save against Arsenal\" src=\"https://external-preview.redd.it/d3JyemZjcDZuZ3VoMeKCi-56nyI4BZLLTsdKkE5AQVEY0DeaCfWRGv2iXGwp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=886e862038077db965c123f2a0bedb83c24fb0d0\" title=\"[MU Women] Phallon Tullis-Joyce wins September's WSL Save of the month for this save against Arsenal\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/aekwz8o6nguh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1ogdp/mu_women_phallon_tullisjoyce_wins_septembers_wsl/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1ogdp/mu_women_phallon_tullisjoyce_wins_septembers_wsl/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T15:32:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Press Conference] Michael Carrick: \"Patrick out for a number of weeks, Nouss took a knock, not quite right. Carlos improving, trained a lot, Amad done a little bit. Ben further away with the issue he has got. Won’t be ready.\"",
+      "items": [
+        {
+          "title": "[Press Conference] Michael Carrick: \"Patrick out for a number of weeks, Nouss took a knock, not quite right. Carlos improving, trained a lot, Amad done a little bit. Ben further away with the issue he has got. Won’t be ready.\"",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick's Pre-Match Press Conference | Manchester United vs Tottenham, PL MD 6</p> <p><strong>Simon Stone</strong></p> <p>Michael Carrick: &quot;Patrick out for a number of weeks, Nouss took a knock, not quite right. Carlos improving, trained a lot, Amad done a little bit. Ben further away with the issue he has got. Won’t be ready.&quot;</p> <p>Michael Carrick talking about 'the moment' re Man City situation. Says no matter what happens, it cannot change the feelings at the time. Says he wants an outcome 'soon'.</p> <p><strong>Laurie Whitwell</strong></p> <p>Carrick says Sesko + Dorgu out v Spurs: &quot;Patrick came off, looks like he'll be out for a number of weeks. Ben is a little bit further away with the issue he's got, he won't be ready.&quot;</p> <p>Wait to see on Mazraoui.</p> <p>Rashford, Mainoo, Amad training. Baleba trained &quot;a lot&quot;.</p> <p>Carrick on City: &quot;Thrown up a lot of questions. I have my own. Still ongoing, only so much I can say. It affected me personally, I don't know where that stands. Doesn't change how you feel in the moment, can't take that back. Sooner gets sorted the better for everyone.&quot;</p> <p><strong>Charlotte Duncker</strong></p> <p>Carrick on whether titles should be reassigned: &quot;I'll hold that until later. It’s the moment you strive for, without getting blase about it a medal here or there, in any sport, that doesn’t bring the feeling of when you win or you don’t, that’s what we’re all aiming for.&quot;</p> <p><strong>Chris Wheeler</strong></p> <p>Carrick says Dorgu could be out for a 'number of weeks' and Mazraoui 'not quite right yet' due to injuries suffered on international duty. Amad, Rashford and Mainoo have 'done a little bit of training'. Sesko 'a little further away'</p> <p>Michael Carrick on City controversy: 'It's very difficult to say in many ways. There’s a lot of questions thrown up, some have had answers some haven’t. There is only so much I can say.'</p> <p>Carrick: 'Certainly I have my own questions about it because it’s affected me over a period of time. The sooner it gets sorted is essential.'</p> <p>Carrick on the issue of City's trophies being re-allocated: ‘I’ll hold that one until later. A medal in any sport it’s the moment you strive for to win. A medal doesn’t bring the feeling of whether you initially win or you don't'</p> <p>More from Carrick on City: 'The beauty of sport, of trying to win trophies, is the journey towards it and then the finale. Does it go for you, does it go against you? Once that's done, there's no getting that back. That's the feeling we all crave, coming out on top.'</p> <p>Carrick on losing the title to City in 2012: 'It doesn't change how you feel in the moment, either way. So whether we did end up at some point ... if it changes ... it doesn't change the emotion of that moment. You can't get that back.</p> <h1>Detailed Quotes</h1> <h1>Carrick on team news</h1> <blockquote> <p>&quot;It's been a long time since we sat here last. Patrick came off and looks like he'll be out for a number of weeks. Nouss came off and took a knock. He's not quite right, so we'll see how he is. Carlos is improving, has trained a lot, Amad, Kobbie and Marcus have done a little bit of training. Ben is further away with the injury he has, so he won't be ready.&quot;</p> </blockquote> <h1>Carrick on City charges</h1> <blockquote> <p>&quot;Difficult to say in many ways. It's thrown up a lot of questions. It's ongoing, and there's only so much I can say. I have my own questions about it because it has affected me personally. We'll have to see how it goes. The sooner it gets sorted for everyone, the better.&quot;</p> </blockquote> <h1>On City again</h1> <blockquote> <p>&quot;There's no getting that back [winning moments] in any direction. The feeling we all crave is coming out on top. That sums it up. Whatever is done in the past, is done in the past.&quot;</p> </blockquote> <h1>Carrick wants an outcome</h1> <blockquote> <p>&quot;Speed is essential, as I just said. That's obvious for me to sit here and say that. There are so many angles, but speed is essential for everybody to be clear, to deal with it, and move on. It's unprecedented to be in this situation at this level. We all need to know what is going to happen.&quot;</p> </blockquote> <h1>Carrick on 2011/2012 title</h1> <blockquote> <p>&quot;I think it doesn't change how you feel in that moment. You can't take it back, so whichever way this goes, and I don't really want to speak about which way it could go, but whether we did end up getting... [a trophy], it doesn't change that moment, we can't get it back.&quot;</p> </blockquote> <h1>Should others get the titles?</h1> <blockquote> <p>&quot;I think at the moment, it's not finalised. I think I'll hold that one until later on. It's the moment that you strive for. A medal here and there does not bring the feeling back for winning.&quot;</p> </blockquote> <h1>Carrick on Spurs</h1> <blockquote> <p>&quot;Points-wise, they have played a lot better than that at times. When you look at the games, they are a very good team with good players. They have assembled a squad this summer that is different to what they had. They haven't had the results they maybe deserve.&quot;</p> </blockquote> <h1>Carrick on Spurs pressure</h1> <blockquote> <p>&quot;It's just another game.&quot;</p> </blockquote> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1k5an/press_conference_michael_carrick_patrick_out_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1k5an/press_conference_michael_carrick_patrick_out_for/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1k5an/press_conference_michael_carrick_patrick_out_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T12:32:14+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "\"It can be a challenge!\" - Michael Carrick reflects on Man Utd criticism and approach ahead of Spurs",
+      "items": [
+        {
+          "title": "\"It can be a challenge!\" - Michael Carrick reflects on Man Utd criticism and approach ahead of Spurs",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1y8eh/it_can_be_a_challenge_michael_carrick_reflects_on/\"> <img alt=\"&quot;It can be a challenge!&quot; - Michael Carrick reflects on Man Utd criticism and approach ahead of Spurs\" src=\"https://external-preview.redd.it/XgoroljbLbG32i2bJFD0D_P5ze3AA2Gbma9OMf8649o.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=7115a9ae5c9b606313b6fb79573dd977d3529d50\" title=\"&quot;It can be a challenge!&quot; - Michael Carrick reflects on Man Utd criticism and approach ahead of Spurs\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=ifsM3dKKgVE\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1y8eh/it_can_be_a_challenge_michael_carrick_reflects_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1y8eh/it_can_be_a_challenge_michael_carrick_reflects_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T21:57:57+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Tactical Analysis: Youri Tielemans giveth and Youri Tielemans taketh",
+      "items": [
+        {
+          "title": "Tactical Analysis: Youri Tielemans giveth and Youri Tielemans taketh",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1mpvt/tactical_analysis_youri_tielemans_giveth_and/\"> <img alt=\"Tactical Analysis: Youri Tielemans giveth and Youri Tielemans taketh\" src=\"https://external-preview.redd.it/pDT7IcMZlG0Oyz_meXeYVG_BiSjYRejEoFZoxUTDoTo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0b4ad15ee4fcea164b399ef737c7e866511a31ef\" title=\"Tactical Analysis: Youri Tielemans giveth and Youri Tielemans taketh\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jump_Hop_Step\"> /u/Jump_Hop_Step </a> <br /> <span><a href=\"https://thebusbybabe.sbnation.com/general/35996/tactical-analysis-youri-tielemans-giveth-and-youri-tielemans-taketh#comments\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1mpvt/tactical_analysis_youri_tielemans_giveth_and/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1mpvt/tactical_analysis_youri_tielemans_giveth_and/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T14:23:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'Five each? God was working that day!' [Sir Alex on his last game]",
+      "items": [
+        {
+          "title": "'Five each? God was working that day!' [Sir Alex on his last game]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1fsv9/five_each_god_was_working_that_day_sir_alex_on/\"> <img alt=\"'Five each? God was working that day!' [Sir Alex on his last game]\" src=\"https://external-preview.redd.it/OGoxanMxaGlpZXVoMYdEIuU9LInfnzLVyMPGp9N6-wLNb4ZH3Xbisu83CujH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=76b1d015a987a1ef2cd641397ec70225d6e62892\" title=\"'Five each? God was working that day!' [Sir Alex on his last game]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://v.redd.it/ysv0lxgiieuh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1fsv9/five_each_god_was_working_that_day_sir_alex_on/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1fsv9/five_each_god_was_working_that_day_sir_alex_on/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T08:21:30+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick Pre-Tottenham Hotspur | Press Conference: Part Two",
+      "items": [
+        {
+          "title": "Michael Carrick Pre-Tottenham Hotspur | Press Conference: Part Two",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1xlzd/michael_carrick_pretottenham_hotspur_press/\"> <img alt=\"Michael Carrick Pre-Tottenham Hotspur | Press Conference: Part Two\" src=\"https://external-preview.redd.it/GbNs-qqpu5UO1mx3IuGO81jbrVZYLm5mMfKMv0AwGZ4.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=8cfacf283e8a81ae53262167b24e210fff8dcbd2\" title=\"Michael Carrick Pre-Tottenham Hotspur | Press Conference: Part Two\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=peyaywElwa0\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1xlzd/michael_carrick_pretottenham_hotspur_press/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1xlzd/michael_carrick_pretottenham_hotspur_press/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T21:31:09+00:00"
+        },
+        {
+          "title": "Michael Carrick Pre-Tottenham Hotspur | Press Conference",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1m1zj/michael_carrick_pretottenham_hotspur_press/\"> <img alt=\"Michael Carrick Pre-Tottenham Hotspur | Press Conference\" src=\"https://external-preview.redd.it/rD7NPDejNoatL9PEg714tkwPvUVJwwLYVAgDpo7Yv6E.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=053f84dd2ae432b399c2855d77a8a1ac9b86d582\" title=\"Michael Carrick Pre-Tottenham Hotspur | Press Conference\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=MliVNlBSN54\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1m1zj/michael_carrick_pretottenham_hotspur_press/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1m1zj/michael_carrick_pretottenham_hotspur_press/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T13:56:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Matchday programme vs Tottenham Hotspur",
+      "items": [
+        {
+          "title": "Matchday programme vs Tottenham Hotspur",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x1m1in/matchday_programme_vs_tottenham_hotspur/\"> <img alt=\"Matchday programme vs Tottenham Hotspur\" src=\"https://external-preview.redd.it/wIGmMFAqzoE4RPK6w3UX2AIjEzN-xsjusBYwGhBH4vc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=09c9ae8960869fa0baf28c77830d542630d83400\" title=\"Matchday programme vs Tottenham Hotspur\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/garymcadam\"> /u/garymcadam </a> <br /> <span><a href=\"https://issuu.com/manchester_united/docs/manchester_united_v_tottenham_hotspur_pl_match_pro\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x1m1in/matchday_programme_vs_tottenham_hotspur/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x1m1in/matchday_programme_vs_tottenham_hotspur/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-09T13:56:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 54,
+    "story_count": 49
+  }
+}
