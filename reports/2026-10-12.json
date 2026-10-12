@@ -1,0 +1,466 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T07:02:13.302219+00:00",
+  "match_data": {
+    "collected_at": "2026-10-12T07:02:07.960790+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Lammens wants rid of 'sour taste' of Spurs draw on Atletico trip",
+      "items": [
+        {
+          "title": "Lammens wants rid of 'sour taste' of Spurs draw on Atletico trip",
+          "summary": "Manchester United goalkeeper Senne Lammens cannot wait to face Atletico Madrid in the Champions League to get rid of the 'sour taste' of another Premier League disappointment.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cx240170dp62o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 11 Oct 2026 11:01:30 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville 'seen enough' of two Man United players and calls out Michael Carrick footage",
+      "items": [
+        {
+          "title": "Gary Neville 'seen enough' of two Man United players and calls out Michael Carrick footage",
+          "summary": "Manchester United had to settle for a point against 10-man Tottenham with fans making their feelings clear at full-time",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/gary-neville-man-united-spurs-34747982",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 10:05:18 +0000"
+        },
+        {
+          "title": "Gary Neville picks out two Man Utd players and tells Michael Carrick he's 'seen enough'",
+          "summary": "Gary Neville has delivered his verdict on Manchester United's 1-1 draw with 10-man Tottenham at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-united-spurs-37759719",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 10:55:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I snubbed two Premier League clubs to join Man United – I didn't even know what wage I'd get",
+      "items": [
+        {
+          "title": "I snubbed two Premier League clubs to join Man United – I didn't even know what wage I'd get",
+          "summary": "The former Premier League star turned down a host of top clubs in favour of Manchester United and didn't even know his wages when he joined",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-wages-chelsea-transfer-34744157",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 12 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United latest: JJ Gabriel update after more talks held as Carrick tipped to U-turn",
+      "items": [
+        {
+          "title": "Man United latest: JJ Gabriel update after more talks held as Carrick tipped to U-turn",
+          "summary": "Manchester United are in the midst of their worst start to a league campaign in 40 years after a disappointing draw against Tottenham",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-transfer-news-gabriel-34748958",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 12 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United agreement reached after Gary Neville has 'seen enough'",
+      "items": [
+        {
+          "title": "Manchester United agreement reached after Gary Neville has 'seen enough'",
+          "summary": "Manchester United were pegged back by Tottenham in stoppage time as they returned to Premier League action",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-agreement-reached-after-34748489",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 13:11:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Senne Lammens reveals what Michael Carrick has 'hammered' Manchester United for",
+      "items": [
+        {
+          "title": "Senne Lammens reveals what Michael Carrick has 'hammered' Manchester United for",
+          "summary": "Man Utd needed a win after the international break, but they could only manage a 1-1 draw against Tottenham.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/senne-lammens-reveals-what-michael-34746204",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'Extra spark' - Senne Lammens reacts to Carlos Baleba's Manchester United debut",
+      "items": [
+        {
+          "title": "'Extra spark' - Senne Lammens reacts to Carlos Baleba's Manchester United debut",
+          "summary": "Man Utd midfielder Carlos Baleba made his debut in the second half against Tottenham on Saturday evening.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/extra-spark-senne-lammens-reacts-34747675",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Midfield selection, new role for Baleba and injuries - Man United questions answered",
+      "items": [
+        {
+          "title": "Midfield selection, new role for Baleba and injuries - Man United questions answered",
+          "summary": "Man Utd were back in action this weekend and there is plenty to discuss in this week's latest Q&amp;A.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/midfield-selection-new-role-baleba-34739464",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
+      "items": [
+        {
+          "title": "Man Utd news: JJ Gabriel left in transfer lurch as Michael Carrick told to change plans",
+          "summary": "Manchester United manager Michael Carrick has been told to tweak his plans amid the latest update regarding JJ Gabriel's future at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-gabriel-37759861",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 12 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
+      "items": [
+        {
+          "title": "Man Utd star reveals Michael Carrick demand was not met in Tottenham draw",
+          "summary": "Manchester United’s poor start to the season continued on Saturday in their 1-1 draw with Tottenham Hotspur at Old Trafford and Senne Lammens has now spoken out in the aftermath",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-lammens-37759954",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 12:56:47 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
+      "items": [
+        {
+          "title": "Michael Carrick told £35m summer signing caused 'impossible' Man Utd issue vs Spurs",
+          "summary": "Manchester United extended their poor start to the season against Tottenham Hotspur on Saturday with a couple of players in particular coming in for criticism following the result",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-spurs-carrick-tielemans-37759461",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 08:49:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Gary Neville reveals in-game text from daughter that sums up state of Man Utd",
+      "items": [
+        {
+          "title": "Gary Neville reveals in-game text from daughter that sums up state of Man Utd",
+          "summary": "Manchester United have endured a miserable start to the season under Michael Carrick with fans making their feelings known following Saturday’s dismal draw with Tottenham Hotspur",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-utd-carrick-37759346",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 11 Oct 2026 07:49:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League: 10 talking points from the weekend’s action",
+      "items": [
+        {
+          "title": "Premier League: 10 talking points from the weekend’s action",
+          "summary": "<p>Manchester City unrepentant in victory, Spurs make progress of a sort and Noni Madueke meets the moment</p><p>Andoni Iraola’s Liverpool reboot will require patience. They showed plenty of drive and determination <a href=\"https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield\">against Manchester City but also uneven edges</a>, polish lacking. Iraola’s aim was to get his players in their opponents’ faces, deepening any doubts circulating in City’s players. Mission mostly accomplished during the first half. A flurry of chances at the beginning of the second half had City rocking only for Ryan Gravenberch’s dismissal to pull the rug. With Alexander Isak and Cody Gakpo missing, Liverpool lacked the quality to cause the necessary damage. Lewis Koumas played well in the role of agitator as emergency centre-forward. Víctor Muñoz continues to be full of buzz but Bradley Barcola and Florian Wirtz, players signed for £100m plus, are supposed to supply the cutting edge. Barcola has the mitigation of being a new arrival, while discussions about Wirtz border on football cliche. Once Gravenberch departed, and Trey Nyoni was required in midfield, the finger was always going to be pointed in the German’s direction. <strong>John Brewin</strong></p><p>Match report: <a href=\"https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report\">Liverpool 0-3 Manchester City</a></p><p>Match report: <a href=\"https://www.theguardian.com/football/2026/oct/11/crystal-palace-nottingham-forest-premier-league-match-report\">Crystal Palace 3-1 Nottingham Forest</a></p><p>Match report: <a href=\"https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report\">Hull City 2-2 Everton</a></p> <a href=\"https://www.theguardian.com/football/2026/oct/12/premier-league-10-talking-points-from-the-weekend-action\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/12/premier-league-10-talking-points-from-the-weekend-action",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Mon, 12 Oct 2026 07:00:49 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "48-year-old manager ‘interested’ in Man United job amid crisis at Old Trafford",
+      "items": [
+        {
+          "title": "48-year-old manager ‘interested’ in Man United job amid crisis at Old Trafford",
+          "summary": "<p>Eddie Howe would reportedly be interested in becoming Manchester United manager if the club eventually decide to move on from Michael Carrick. United are not planning an immediate managerial change, but their poor start to the season has forced the hierarchy to consider possible alternatives. Want more CaughtOffside coverage? Add us as a preferred source [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/12/48-year-old-manager-interested-in-man-united-job/\">48-year-old manager &#8216;interested&#8217; in Man United job amid crisis at Old Trafford</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/12/48-year-old-manager-interested-in-man-united-job/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 12 Oct 2026 05:58:03 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x38ykf/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x38ykf/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x38ykf/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-11T14:01:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Happy birthday Sir Bobby Charlton",
+      "items": [
+        {
+          "title": "Happy birthday Sir Bobby Charlton",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x3c8wz/happy_birthday_sir_bobby_charlton/\"> <img alt=\"Happy birthday Sir Bobby Charlton\" src=\"https://preview.redd.it/5g1v6zi85vuh1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=068df1c530b5c6fb4d325ce57ecc3d8d65a563b8\" title=\"Happy birthday Sir Bobby Charlton\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Today would have been Sir Bobby's birthday. Happy heavenly birthday to our greatest player ever. He would have been 89. I'm proud to share the same birthday.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Academic-Bathroom770\"> /u/Academic-Bathroom770 </a> <br /> <span><a href=\"https://i.redd.it/5g1v6zi85vuh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x3c8wz/happy_birthday_sir_bobby_charlton/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x3c8wz/happy_birthday_sir_bobby_charlton/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-11T16:16:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney comments about yesterdays match VS Tottenham on MOTD",
+      "items": [
+        {
+          "title": "Wayne Rooney comments about yesterdays match VS Tottenham on MOTD",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x3rfrm/wayne_rooney_comments_about_yesterdays_match_vs/\"> <img alt=\"Wayne Rooney comments about yesterdays match VS Tottenham on MOTD\" src=\"https://external-preview.redd.it/YjhzbDlpN3BoeXVoMQd99gJxJ7gNc8mBFKQZICocMaxxWMg3aX-ONoAdUwzB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6902c779d38540a86b33b9f10147a6bf1e7d0897\" title=\"Wayne Rooney comments about yesterdays match VS Tottenham on MOTD\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/herkalurk\"> /u/herkalurk </a> <br /> <span><a href=\"https://v.redd.it/ibeom77phyuh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x3rfrm/wayne_rooney_comments_about_yesterdays_match_vs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x3rfrm/wayne_rooney_comments_about_yesterdays_match_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-12T03:31:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Carlos Baleba on IG: “Not the result we wanted, but making my debut is a dream come true. Thank you to all of the fans for the welcome. I am so happy to be here.”",
+      "items": [
+        {
+          "title": "Carlos Baleba on IG: “Not the result we wanted, but making my debut is a dream come true. Thank you to all of the fans for the welcome. I am so happy to be here.”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x36c68/carlos_baleba_on_ig_not_the_result_we_wanted_but/\"> <img alt=\"Carlos Baleba on IG: “Not the result we wanted, but making my debut is a dream come true. Thank you to all of the fans for the welcome. I am so happy to be here.”\" src=\"https://preview.redd.it/xr44grt4utuh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f3f3a9226cc5114dbd9bf3296bb30b4f378cb1a9\" title=\"Carlos Baleba on IG: “Not the result we wanted, but making my debut is a dream come true. Thank you to all of the fans for the welcome. I am so happy to be here.”\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1x36c68\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x36c68/carlos_baleba_on_ig_not_the_result_we_wanted_but/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x36c68/carlos_baleba_on_ig_not_the_result_we_wanted_but/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-11T11:55:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Neville on Boos at OT: “I don’t think the boos are against Michael Carrick but they’re turning quite quickly. United fans are incredibly loyal. Beyond loyal to their managers & players. But they won’t accept a lack of energy, lack of effort. They’re not showing enough tenacity, determination, fight\"",
+      "items": [
+        {
+          "title": "Neville on Boos at OT: “I don’t think the boos are against Michael Carrick but they’re turning quite quickly. United fans are incredibly loyal. Beyond loyal to their managers & players. But they won’t accept a lack of energy, lack of effort. They’re not showing enough tenacity, determination, fight\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x3405c/neville_on_boos_at_ot_i_dont_think_the_boos_are/\"> <img alt=\"Neville on Boos at OT: “I don’t think the boos are against Michael Carrick but they’re turning quite quickly. United fans are incredibly loyal. Beyond loyal to their managers &amp; players. But they won’t accept a lack of energy, lack of effort. They’re not showing enough tenacity, determination, fight&quot;\" src=\"https://external-preview.redd.it/bXV1a2h3Mmc0dHVoMctrEeJukx7yvwbY_cYDLJfrrxk-iIKcJmlqGvKZFKmL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=970fdbbadfda28bd312bc1ef5caeefbf7214ea97\" title=\"Neville on Boos at OT: “I don’t think the boos are against Michael Carrick but they’re turning quite quickly. United fans are incredibly loyal. Beyond loyal to their managers &amp; players. But they won’t accept a lack of energy, lack of effort. They’re not showing enough tenacity, determination, fight&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/50htb22g4tuh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x3405c/neville_on_boos_at_ot_i_dont_think_the_boos_are/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x3405c/neville_on_boos_at_ot_i_dont_think_the_boos_are/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-11T09:39:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "2 - In 1-1 draws with Fulham and Tottenham Hotspur, Manchester United are the first side to play back-to-back Premier League games against sides starting the day bottom of the table and fail to win both since West Brom in December 2017 (Opta Joe on Twitter)",
+      "items": [
+        {
+          "title": "2 - In 1-1 draws with Fulham and Tottenham Hotspur, Manchester United are the first side to play back-to-back Premier League games against sides starting the day bottom of the table and fail to win both since West Brom in December 2017 (Opta Joe on Twitter)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x36msg/2_in_11_draws_with_fulham_and_tottenham_hotspur/\"> <img alt=\"2 - In 1-1 draws with Fulham and Tottenham Hotspur, Manchester United are the first side to play back-to-back Premier League games against sides starting the day bottom of the table and fail to win both since West Brom in December 2017 (Opta Joe on Twitter)\" src=\"https://preview.redd.it/9q42kmbaxtuh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0735b33985fcfa759bd0a0b1261a0ded7046b62\" title=\"2 - In 1-1 draws with Fulham and Tottenham Hotspur, Manchester United are the first side to play back-to-back Premier League games against sides starting the day bottom of the table and fail to win both since West Brom in December 2017 (Opta Joe on Twitter)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dracogladio1741\"> /u/dracogladio1741 </a> <br /> <span><a href=\"https://i.redd.it/9q42kmbaxtuh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x36msg/2_in_11_draws_with_fulham_and_tottenham_hotspur/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x36msg/2_in_11_draws_with_fulham_and_tottenham_hotspur/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-11T12:10:17+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United, Michael Carrick and a darkening Old Trafford mood",
+      "items": [
+        {
+          "title": "Manchester United, Michael Carrick and a darkening Old Trafford mood",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x3uv5v/manchester_united_michael_carrick_and_a_darkening/\"> <img alt=\"Manchester United, Michael Carrick and a darkening Old Trafford mood\" src=\"https://external-preview.redd.it/Y4Tjfn2ED_kdMP2fIihnkCmBH2HeA0a9AgH0lsbiPSE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fce9bd00f2f41c7423c2998d4095360f30b6464e\" title=\"Manchester United, Michael Carrick and a darkening Old Trafford mood\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Manchester United fans want to see a team that reflects the bravery and energy that epitomised the teams Michael Carrick was a key part of as a player. </p> <p>There were two moments in the 1-1 draw with Tottenham that summed up the mood at Old Trafford. </p> <p>The first was in the opening half when boos greeted a long, aimless punt forward from Senne Lammens that went out of play. </p> <p>The second was the rapturous reception for debutant Carlos Baleba — a midfielder on debut whom a lot is expected of.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7680158/2026/10/12/manchester-united-michael-carrick-fans-mood/?unlocked_article_code=1.IFE.WG1d.WPTtLmiSHT16&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x3uv5v/manchester_united_michael_carrick_and_a_darkening/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x3uv5v/manchester_united_michael_carrick_and_a_darkening/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-12T06:50:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Rival Watch 11 Oct 2026",
+      "items": [
+        {
+          "title": "Rival Watch 11 Oct 2026",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Scouse Reds 0 - 3 Cheats</p> <p>'65 Haaland, '68 Doku, '78 Cherki</p> <p>Mods please sort comments by new</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TMatss\"> /u/TMatss </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x3b82v/rival_watch_11_oct_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x3b82v/rival_watch_11_oct_2026/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x3b82v/rival_watch_11_oct_2026/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-11T15:35:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Talk Of The Devils: Why did Man United struggle against Spurs?",
+      "items": [
+        {
+          "title": "Talk Of The Devils: Why did Man United struggle against Spurs?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x356oq/talk_of_the_devils_why_did_man_united_struggle/\"> <img alt=\"Talk Of The Devils: Why did Man United struggle against Spurs?\" src=\"https://external-preview.redd.it/vip7wQDNhCS87nuFcdqPQcJhlOXT2HuNYt_Gzv3ISUc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d627267ed73db7fd48d046889635259433098adc\" title=\"Talk Of The Devils: Why did Man United struggle against Spurs?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=dnXwYmJrIqk\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x356oq/talk_of_the_devils_why_did_man_united_struggle/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x356oq/talk_of_the_devils_why_did_man_united_struggle/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-11T10:50:01+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 24,
+    "story_count": 23
+  }
+}
