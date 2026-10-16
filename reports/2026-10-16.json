@@ -1,0 +1,929 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T05:33:55.794089+00:00",
+  "match_data": {
+    "collected_at": "2026-10-16T05:33:50.389147+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Martinez apologises for outburst and fined by Man Utd",
+      "items": [
+        {
+          "title": "Martinez apologises for outburst and fined by Man Utd",
+          "summary": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's hierarchy.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 15 Oct 2026 18:03:28 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd a circus after Martinez comments - Keane",
+      "items": [
+        {
+          "title": "Man Utd a circus after Martinez comments - Keane",
+          "summary": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 15 Oct 2026 10:57:15 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Rival boss backed to replace Michael Carrick as Prem winner 'says yes' to job",
+      "items": [
+        {
+          "title": "Man United latest: Rival boss backed to replace Michael Carrick as Prem winner 'says yes' to job",
+          "summary": "Manchester United manager Michael Carrick is facing mounting pressure after just two wins from nine games, with one Premier League winner having reportedly approved of a move to Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-carrick-conte-hurzeler-34770133",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 16 Oct 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Michael Carrick replacement 'has said yes' as Prem rival backed to take over",
+          "summary": "Michael Carrick's weakening position as Manchester United manager is the talk of the town after the club's winless streak was extended to five games",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-transfer-news-carrick-37775516",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 16 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Lisandro Martinez makes Man Utd apology after meeting with Michael Carrick and club chiefs",
+      "items": [
+        {
+          "title": "Lisandro Martinez makes Man Utd apology after meeting with Michael Carrick and club chiefs",
+          "summary": "Lisandro Martinez sent shockwaves after his outburst at the Manchester United hierarchy, but has now apologised for the timing of his comments",
+          "url": "https://www.mirror.co.uk/sport/football/news/lisandro-martinez-man-united-apology-37777662",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 18:15:12 +0000"
+        },
+        {
+          "title": "Michael Carrick to speak today as Lisandro Martinez apologises and Man United issue punishment",
+          "summary": "<p>Manchester United have reportedly given Lisandro Martinez a fine for his outburst after the Champions League defeat against Atletico Madrid this week. The Argentina international has released a statement apologising for hitting out at Man Utd sporting director Jason Wilcox in a post-match interview, while Michael Carrick is due to speak to the press later [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/16/man-united-fine-lisandro-martinez-carrick-to-speak-today/\">Michael Carrick to speak today as Lisandro Martinez apologises and Man United issue punishment</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/16/man-united-fine-lisandro-martinez-carrick-to-speak-today/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 16 Oct 2026 05:20:57 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd told to suspend Lisandro Martinez immediately despite new public statement",
+      "items": [
+        {
+          "title": "Man Utd told to suspend Lisandro Martinez immediately despite new public statement",
+          "summary": "Lisandro Martinez made headlines with his explosive criticism of Manchester United's hierarchy, but has since addressed the controversy in a social media statement.",
+          "url": "https://www.mirror.co.uk/sport/football/news/lisandro-martinez-suspension-man-utd-37773881",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 07:10:20 +0000"
+        },
+        {
+          "title": "Lisandro Martinez - new IG Statement",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x6sreb/lisandro_martinez_new_ig_statement/\"> <img alt=\"Lisandro Martinez - new IG Statement\" src=\"https://preview.redd.it/giei4e7a7ovh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b84a43d157e0f620dbb8dcc2bceabca74d103846\" title=\"Lisandro Martinez - new IG Statement\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/giei4e7a7ovh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6sreb/lisandro_martinez_new_ig_statement/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6sreb/lisandro_martinez_new_ig_statement/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T18:00:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Jason Wilcox needs to learn a lesson from Lisandro Martinez's Manchester United outburst",
+      "items": [
+        {
+          "title": "Jason Wilcox needs to learn a lesson from Lisandro Martinez's Manchester United outburst",
+          "summary": "Man Utd fans want communication from the club after a disappointing start to the new Premier League season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/jason-wilcox-needs-learn-lesson-34759581",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 16 Oct 2026 05:00:00 +0000"
+        },
+        {
+          "title": "POLL: Should Lisandro Martinez be punished by Manchester United for Jason Wilcox outburst?",
+          "summary": "Man United defender Lisandro Martinez has dominated the headlines after calling out the club's hierarchy following the 2-0 defeat to Atletico Madrid in the Champions League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-should-lisandro-martinez-punished-34766640",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 08:21:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "POLL: Do you think Lisandro Martinez is right to apologise for his Jason Wilcox outburst?",
+      "items": [
+        {
+          "title": "POLL: Do you think Lisandro Martinez is right to apologise for his Jason Wilcox outburst?",
+          "summary": "Lisandro Martinez has apologised after he called out Jason Wilcox following Manchester United's defeat to Atletico Madrid on Tuesday night.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/poll-you-think-lisandro-martinez-34772022",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 18:51:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United announce Lisandro Martinez outcome after ripping into club's board",
+      "items": [
+        {
+          "title": "Manchester United announce Lisandro Martinez outcome after ripping into club's board",
+          "summary": "Man Utd defender Lisandro Martinez criticised the club's board after the defeat to Atletico Madrid on Tuesday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-announce-lisandro-martinez-34767734",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 18:11:50 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Matthijs de Ligt's ex-wife speaks out on heartbreaking divorce 'hell' with Man United star",
+      "items": [
+        {
+          "title": "Matthijs de Ligt's ex-wife speaks out on heartbreaking divorce 'hell' with Man United star",
+          "summary": "Matthijs de Ligt divorced long-time partner, AnneKee Molenaar, last summer, barely 12 months after marrying the model, who has now spoken about their separation",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-matthijs-de-ligt-34771803",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 17:28:20 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "New Manchester United book ‘Kings of the World’ tells the story of 2005 and 2008 - get yours now",
+      "items": [
+        {
+          "title": "New Manchester United book ‘Kings of the World’ tells the story of 2005 and 2008 - get yours now",
+          "summary": "The new official club book shares the story of the period between 2005 and 2008, and how Man United conquered club football",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/new-manchester-united-book-kings-34771791",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 17:20:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ander Herrera makes feelings clear on Man City's Premier League titles - 'They don't deserve'",
+      "items": [
+        {
+          "title": "Ander Herrera makes feelings clear on Man City's Premier League titles - 'They don't deserve'",
+          "summary": "Former Manchester United midfielder Ander Herrera insists if he was a former City player, he would be furious with the current chaos that engulfs the Etihad",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ander-herrera-manchester-city-titles-34769134",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'I won Man United's player of the year award then they sent me a letter that killed me'",
+      "items": [
+        {
+          "title": "'I won Man United's player of the year award then they sent me a letter that killed me'",
+          "summary": "Manchester United are suffering a difficult season thus far and fingers are being pointed not just at the team on the pitch but at the club's hierarchy - and one former star has revealed his heartbreaking exit",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/i-won-man-uniteds-player-34768862",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Loan U-turn considered as talent attends Man City game - Manchester United Academy Notebook",
+      "items": [
+        {
+          "title": "Loan U-turn considered as talent attends Man City game - Manchester United Academy Notebook",
+          "summary": "This week's Academy Notebook includes details on a surprise loan recall and a Man Utd talent attending a Manchester City game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/loan-u-turn-considered-talent-34766755",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 14:50:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Gary Neville names two Man United players who'll be hurt the most by Lisandro Martinez rant",
+      "items": [
+        {
+          "title": "Gary Neville names two Man United players who'll be hurt the most by Lisandro Martinez rant",
+          "summary": "Gary Neville has been speaking after Lisandro Martinez accused Manchester United of lacking ambition in two separate post-match interviews following defeat to Atletico Madrid",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/lisandro-martinez-man-united-neville-34769765",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 13:47:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United worst in class as £342m blow says it all about transfer decisions since 2022",
+      "items": [
+        {
+          "title": "Man United worst in class as £342m blow says it all about transfer decisions since 2022",
+          "summary": "Manchester United have endured a torrid time on the pitch in recent years and have not won the Premier League since Sir Alex Ferguson left the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-glazers-ineos-34769292",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 13:36:32 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What Lisandro Martinez didn't say was the most interesting thing about his Man United statement",
+      "items": [
+        {
+          "title": "What Lisandro Martinez didn't say was the most interesting thing about his Man United statement",
+          "summary": "Man Utd defender Lisandro Martinez posted a statement on social media a day after his outbursts following the defeat to Atletico Madrid.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-lisandro-martinez-didnt-say-34766899",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 11:02:53 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Steven Gerrard and Roy Keane agree on Lisandro Martinez 'attack' on Man United teammates",
+      "items": [
+        {
+          "title": "Steven Gerrard and Roy Keane agree on Lisandro Martinez 'attack' on Man United teammates",
+          "summary": "Lisandro Martinez has caused quite the stir with his comments on Jason Wilcox and the transfer market earlier this week",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-gerrard-keane-martinez-34767209",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 10:58:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Reaction to Lisandro Martinez outburst says a lot about Man United - and the club won't like it",
+      "items": [
+        {
+          "title": "Reaction to Lisandro Martinez outburst says a lot about Man United - and the club won't like it",
+          "summary": "Lisandro Martinez criticised Manchester United's director of football, Jason Wilcox, after the Reds' 2-0 defeat to Atletico Madrid. We asked fans to give us their thoughts on the outburst.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/reaction-lisandro-martinez-outburst-says-34766813",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 10:15:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lisandro Martinez takes step closer to Man United exit days after calling out club bosses",
+      "items": [
+        {
+          "title": "Lisandro Martinez takes step closer to Man United exit days after calling out club bosses",
+          "summary": "Lisandro Martinez launched an astonishing attack on director of football Jason Wilcox and the Manchester United hierarchy following his side's defeat to Atletico Madrid",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/lisandro-martinez-man-united-transfer-34767685",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 09:56:14 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Endrick sends new Real Madrid message after Man United link and Jose Mourinho claim",
+      "items": [
+        {
+          "title": "Endrick sends new Real Madrid message after Man United link and Jose Mourinho claim",
+          "summary": "Endrick, who has been linked with a move to Manchester United, came off the bench for Real Madrid in the Champions League against Roma on Wednesday night",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/endrick-man-united-transfer-real-34767309",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 09:52:33 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Roy Keane pinpoints how Bruno Fernandes and Harry Maguire lost control of Man United dressing room",
+      "items": [
+        {
+          "title": "Roy Keane pinpoints how Bruno Fernandes and Harry Maguire lost control of Man United dressing room",
+          "summary": "Both Bruno Fernandes and Harry Maguire have worn the captain's armband at Old Trafford and are expected to step up in difficult times.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/roy-keane-bruno-fernandes-maguire-34767366",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 09:26:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United given Lisandro Martinez suspension instruction after public statement",
+      "items": [
+        {
+          "title": "Manchester United given Lisandro Martinez suspension instruction after public statement",
+          "summary": "Manchester United have yet to publicly address Lisandro Martinez's outspoken criticism of the club's hierarchy following their Champions League defeat to Atletico Madrid",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-lisandro-martinez-suspension-34766625",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 07:35:36 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick has made same admission as David Moyes just months before Man Utd sacking",
+      "items": [
+        {
+          "title": "Michael Carrick has made same admission as David Moyes just months before Man Utd sacking",
+          "summary": "Manchester United manager Michael Carrick has echoed a comment David Moyes made during his time at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-michael-carrick-moyes-34762294",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lionel Messi identified 10 wonderkids in 2015 - this is what happened to them",
+      "items": [
+        {
+          "title": "Lionel Messi identified 10 wonderkids in 2015 - this is what happened to them",
+          "summary": "Lionel Messi hand-picked his own selection of wonderkids to watch more than a decade ago - but not all have turned into the stars of tomorrow her predicted",
+          "url": "https://www.mirror.co.uk/sport/football/news/lionel-messi-prediction-adidas-wonderkid-37769452",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 16 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Louis van Gaal claims Man City antics influenced 'deciding factor' in Man Utd sacking",
+      "items": [
+        {
+          "title": "Louis van Gaal claims Man City antics influenced 'deciding factor' in Man Utd sacking",
+          "summary": "Louis van Gaal was sacked by Manchester United in 2016 having missed out on the Champions League - with Manchester City topping them during a period where they were breaching financial rules",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-van-gaal-mancity-37778042",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 21:33:49 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd ROCK BOTTOM in Europe as five-year transfer splurge completely exposed",
+      "items": [
+        {
+          "title": "Man Utd ROCK BOTTOM in Europe as five-year transfer splurge completely exposed",
+          "summary": "Lisandro Martinez's post-match interview comments have brought further scrutiny on Manchester United's transfer business",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-rock-bottom-europe-37777922",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 21:20:48 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Antonio Conte 'tells Man Utd bosses' he would be keen to replace Michael Carrick",
+      "items": [
+        {
+          "title": "Antonio Conte 'tells Man Utd bosses' he would be keen to replace Michael Carrick",
+          "summary": "Manchester United boss Michael Carrick is under mounting pressure and Antonio Conte, currently out of a job, would be keen to replace him if a change was made",
+          "url": "https://www.mirror.co.uk/sport/football/news/conte-man-utd-job-carrick-37777523",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 19:24:42 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes 'deserves respect' after 'carrying history of Man Utd on his shoulders'",
+      "items": [
+        {
+          "title": "Bruno Fernandes 'deserves respect' after 'carrying history of Man Utd on his shoulders'",
+          "summary": "Manchester United skipper Bruno Fernandes has been defended by former player Ander Herrara, who has hit out at the criticism levelled at the Portuguese playmaker",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-herrera-37777184",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Jadon Sancho offered surprise return route as Spanish club make 'official approach'",
+      "items": [
+        {
+          "title": "Jadon Sancho offered surprise return route as Spanish club make 'official approach'",
+          "summary": "Jadon Sancho has been without a club since leaving Manchester United at the end of his contract and he has struggled to land a deal following his Old Trafford departure",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-jadon-sancho-transfer-37775897",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 13:05:35 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Roy Keane tears into Bruno Fernandes and Harry Maguire as Lisandro Martinez fine demanded",
+      "items": [
+        {
+          "title": "Roy Keane tears into Bruno Fernandes and Harry Maguire as Lisandro Martinez fine demanded",
+          "summary": "Roy Keane has slammed the Manchester United dressing room leaders following Lisandro Martinez's explosive post-match outburst",
+          "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-man-utd-martinez-37774499",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 09:23:39 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd 'stance on sacking Jason Wilcox' as senior players agree with Lisandro Martinez",
+      "items": [
+        {
+          "title": "Man Utd 'stance on sacking Jason Wilcox' as senior players agree with Lisandro Martinez",
+          "summary": "Manchester United defender Lisandro Martinez made his feelings clear about Jason Wilcox earlier this week.",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jason-wilcox-ratcliffe-37774078",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 08:28:21 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd have six options to replace Jason Wilcox immediately as player revolt begins",
+      "items": [
+        {
+          "title": "Man Utd have six options to replace Jason Wilcox immediately as player revolt begins",
+          "summary": "Lisandro Martinez's powerful rant against Manchester United's board following Champions League defeat to Atletico Madrid begs the question as to who could come come in at short notice",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-six-options-replace-37769737",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Martínez apologises to Manchester United’s director of football Wilcox after outburst",
+      "items": [
+        {
+          "title": "Martínez apologises to Manchester United’s director of football Wilcox after outburst",
+          "summary": "<ul><li><p>Defender says sorry after talks with Michael Carrick</p></li><li><p>Any disciplinary action will not be made public by club</p></li></ul><p>Lisandro Martínez has apologised for claiming that Jason Wilcox, Manchester United’s director of football, <a href=\"https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid\">failed to strengthen sufficiently in the summer window</a> after discussions with the manager, Michael Carrick, and club hierarchy on Thursday.</p><p>While any disciplinary action taken against him will not be made public by the club, it is thought that Martínez has been fined.</p> <a href=\"https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-apologises-to-manchester-united-director-wilcox\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-apologises-to-manchester-united-director-wilcox",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 19:10:07 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League: 10 things to look out for this weekend",
+      "items": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "summary": "<p>Henderson back on Merseyside, Farke threatens more misery for Carrick and Forest are a threat to Arsenal</p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot\">Premier League top scorers</a> | <a href=\"https://www.tiktok.com/@guardiansport\">Follow us on TikTok</a></p></li></ul><p>A lively reception awaits the former Liverpool midfielders Jordan Henderson and Xabi Alonso at Everton and, in the case of the former, any jeers can be considered an unintentional tribute. They will speak of what the 36-year-old is able to produce now as much as what, and where, he delivered in the past. <a href=\"https://www.theguardian.com/football/2026/oct/10/chelsea-bournemouth-premier-league-match-report\">With two goals and an assist</a> against Bournemouth last Saturday, Henderson became the oldest player to contribute directly to three goals in a Premier League game, and demonstrated his role at Chelsea is not simply to elevate standards off the pitch. His midfield partnership with Moisés Caicedo gave Alonso’s team balance and enabled the front three of Morgan Rogers, João Pedro and Cole Palmer to flourish. Their confrontation against an Everton defence that had impressed this season, only <a href=\"https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report\">to litter the draw at Hull</a> with costly mistakes, will provide a stern test of the hosts’ unbeaten start and may well be dictated by the veteran behind them. <strong>Andy Hunter</strong></p><p><em>Everton v Chelsea, Saturday 12.30pm (all times BST)</em></p><p><em>Brentford v Liverpool, Saturday 3pm</em></p><p><em>Fulham v Hull, Saturday 3pm</em></p> <a href=\"https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 23:01:44 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Champions League review: PSG’s benchmark, Viking uprising and an Italian-German dilemma",
+      "items": [
+        {
+          "title": "Champions League review: PSG’s benchmark, Viking uprising and an Italian-German dilemma",
+          "summary": "<p>The competition returned after the international break as the reigning champions put on a devastating display and Italy looked for its next saviour</p><p>Famous faces in the crowd for English teams’ home matches on Wednesday. While Prince William delighted in his beloved <a href=\"https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report\">Aston Villa’s 6-0 romp over Fenerbahce</a>, Pep Guardiola’s <a href=\"https://www.theguardian.com/football/2026/oct/15/manchester-city-paris-saint-germain-psg-champions-league\">Manchester City homecoming</a> was spoiled by <a href=\"https://www.theguardian.com/football/2026/oct/14/manchester-city-psg-champions-league-league-stage-match-report\">Paris Saint-Germain showing</a> they still represent the benchmark in European club football this season.</p> <a href=\"https://www.theguardian.com/football/2026/oct/15/champions-league-review-psg-man-city-viking-stavanger\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/15/champions-league-review-psg-man-city-viking-stavanger",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 13:34:34 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Antonio Conte makes Man Utd transfer demand after saying yes to replacing Michael Carrick - Football365",
+      "items": [
+        {
+          "title": "Antonio Conte makes Man Utd transfer demand after saying yes to replacing Michael Carrick - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVNiMlVTVDdjVXExSFQ1bllfWGpuZEpmVmNjU3AzMmIyWXRKbTh6STBfVlVMMms0aU8wamFYTzFOdWIwaEw0RkI5Um5lRjVTYl9ydWpnSGdycldJWlhGZ0tVLUVuNWZNcVR4Q0hJaURPMmZQSEdWcmtXZVk0Y2FHNXY1QVU4Z1ZHdV90OFVmM3BZY0VDX04xc1A3bkxFT2tQck1sdTJ1NzFGZ0ROYlpLU3BYVlpaRVBMTzNNN1kwVQ?oc=5\" target=\"_blank\">Antonio Conte makes Man Utd transfer demand after saying yes to replacing Michael Carrick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOVNiMlVTVDdjVXExSFQ1bllfWGpuZEpmVmNjU3AzMmIyWXRKbTh6STBfVlVMMms0aU8wamFYTzFOdWIwaEw0RkI5Um5lRjVTYl9ydWpnSGdycldJWlhGZ0tVLUVuNWZNcVR4Q0hJaURPMmZQSEdWcmtXZVk0Y2FHNXY1QVU4Z1ZHdV90OFVmM3BZY0VDX04xc1A3bkxFT2tQck1sdTJ1NzFGZ0ROYlpLU3BYVlpaRVBMTzNNN1kwVQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 15 Oct 2026 12:48:40 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Real reason behind Lisandro Martinez’s explosive Man United outburst emerges – and it involves a teammate",
+      "items": [
+        {
+          "title": "Real reason behind Lisandro Martinez’s explosive Man United outburst emerges – and it involves a teammate",
+          "summary": "<p>Manchester United defender Lisandro Martínez reportedly wants to leave Old Trafford next summer despite holding clear-the-air talks with the club&#8217;s hierarchy following his explosive criticism of technical director Jason Wilcox. The Argentine international sparked controversy after publicly questioning United&#8217;s summer recruitment strategy following Tuesday&#8217;s 2-0 Champions League defeat against Atlético Madrid. Although Martínez has since [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/16/lisandro-martinez-man-united-free-transfer-exit/\">Real reason behind Lisandro Martinez&#8217;s explosive Man United outburst emerges – and it involves a teammate</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/16/lisandro-martinez-man-united-free-transfer-exit/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 15 Oct 2026 23:43:03 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“Circus” – Pundit calls out “chaos” at Man U after explosive midweek interview",
+      "items": [
+        {
+          "title": "“Circus” – Pundit calls out “chaos” at Man U after explosive midweek interview",
+          "summary": "<p>Lisandro Martinez&#8217;s explosive comments after Manchester United&#8217;s latest defeat have caused a serious stir. If you enjoy CaughtOffside coverage and want to see more of it, add us as a preferred source on Google to make us a favourite and see more of our content. Roy Keane is not short of strong opinions, and despite [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/15/pundit-calls-out-chaos-man-u-interview/\">&#8220;Circus&#8221; &#8211; Pundit calls out &#8220;chaos&#8221; at Man U after explosive midweek interview</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/15/pundit-calls-out-chaos-man-u-interview/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 15 Oct 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Free Talk Friday",
+      "items": [
+        {
+          "title": "Free Talk Friday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>What's the craic? </p> <p><strong>Looking for memes? Head over to</strong> <a href=\"https://www.reddit.com/r/memechesterunited\">/r/memechesterunited</a><strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhelansShorts\"> /u/PhelansShorts </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x77c2w/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x77c2w/free_talk_friday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x77c2w/free_talk_friday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-16T05:00:10+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Andy Mitten] L Martinez met with MUFC leadership + M Carrick after training today. Conversation + internal disciplinary action private. LM's decision to publicly apologise for his words. All parties say it's behind them and matter closed. He's agreed to score a 90th min winner at Elland Rd",
+      "items": [
+        {
+          "title": "[Andy Mitten] L Martinez met with MUFC leadership + M Carrick after training today. Conversation + internal disciplinary action private. LM's decision to publicly apologise for his words. All parties say it's behind them and matter closed. He's agreed to score a 90th min winner at Elland Rd",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x6swbs/andy_mitten_l_martinez_met_with_mufc_leadership_m/\"> <img alt=\"[Andy Mitten] L Martinez met with MUFC leadership + M Carrick after training today. Conversation + internal disciplinary action private. LM's decision to publicly apologise for his words. All parties say it's behind them and matter closed. He's agreed to score a 90th min winner at Elland Rd\" src=\"https://preview.redd.it/wcxmvc558ovh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c447fff8df25ad84ebcd5f39da632782d2559c03\" title=\"[Andy Mitten] L Martinez met with MUFC leadership + M Carrick after training today. Conversation + internal disciplinary action private. LM's decision to publicly apologise for his words. All parties say it's behind them and matter closed. He's agreed to score a 90th min winner at Elland Rd\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/wcxmvc558ovh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6swbs/andy_mitten_l_martinez_met_with_mufc_leadership_m/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6swbs/andy_mitten_l_martinez_met_with_mufc_leadership_m/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T18:05:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Louis van Gaal believes Manchester City scandal contributed to ‘suffering’ of United sacking",
+      "items": [
+        {
+          "title": "Louis van Gaal believes Manchester City scandal contributed to ‘suffering’ of United sacking",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x6mx0b/louis_van_gaal_believes_manchester_city_scandal/\"> <img alt=\"Louis van Gaal believes Manchester City scandal contributed to ‘suffering’ of United sacking\" src=\"https://external-preview.redd.it/dl19VyT0MtBCu1hQwmcQKqKViuosQC3qRCKya26vhFo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0af532cd14c40531ffd516b0e186ec6f8f1d613d\" title=\"Louis van Gaal believes Manchester City scandal contributed to ‘suffering’ of United sacking\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Louis van Gaal believes he may have gone through “all the consequences and suffering” of losing his job as Manchester United manager as a direct result of the Manchester City cheating scandal.</p> <p>Van Gaal was dismissed at the end of the 2015-16 season after United missed out on Champions League qualification, having finished fifth in the Premier League.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7692418/2026/10/15/louis-van-gaal-manchester-united-man-city-scandal-sacking/?unlocked_article_code=1.I1E.jhQm.CcAfQ3NkQLDZ&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6mx0b/louis_van_gaal_believes_manchester_city_scandal/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6mx0b/louis_van_gaal_believes_manchester_city_scandal/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T14:19:37+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Lisandro Martinez’s Manchester United future in doubt after outburst",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Lisandro Martinez’s Manchester United future in doubt after outburst",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x6gjky/laurie_whitwell_lisandro_martinezs_manchester/\"> <img alt=\"[Laurie Whitwell] Lisandro Martinez’s Manchester United future in doubt after outburst\" src=\"https://external-preview.redd.it/BhshwtqNV9m1-V3LInnAXcpL5siMys38-K5FsZ08IWg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f3038e5f90c51acaa1d50b3349e5075fb7f67d8c\" title=\"[Laurie Whitwell] Lisandro Martinez’s Manchester United future in doubt after outburst\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7690033/2026/10/15/manchester-united-lisandro-martinez-manchester-united-future-jason-wilcox/?unlocked_article_code=1.I1E.9Uih.iY47r_-NdVUe&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6gjky/laurie_whitwell_lisandro_martinezs_manchester/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6gjky/laurie_whitwell_lisandro_martinezs_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T08:53:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[James Ducker] The six problems crisis-torn Manchester United must fix",
+      "items": [
+        {
+          "title": "[James Ducker] The six problems crisis-torn Manchester United must fix",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x6ke66/james_ducker_the_six_problems_crisistorn/\"> <img alt=\"[James Ducker] The six problems crisis-torn Manchester United must fix\" src=\"https://external-preview.redd.it/EtPPM-kVz-6kMW2w3owClR8TVHmt7O2etDIN0_ZhzFM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=47d845373715b652d8dafcdf7340d716b338f6a0\" title=\"[James Ducker] The six problems crisis-torn Manchester United must fix\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Interesting:</strong></p> <p><strong>Under the terms of a deal struck in the summer</strong> to refinance $425m (£320m) of debt from the Glazers’ leveraged buyout in 2005, <strong>there is a potential window of opportunity for Ratcliffe to seek majority control in the second half of 2029,</strong> but United need clarity at the top of the club long before then. And Ratcliffe is known to be difficult to work for.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/10/15/the-six-problems-crisis-torn-manchester-united-must-fix/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6ke66/james_ducker_the_six_problems_crisistorn/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6ke66/james_ducker_the_six_problems_crisistorn/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T12:32:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Talk of the Devils - What problems has Martinez exposed at Man United",
+      "items": [
+        {
+          "title": "Talk of the Devils - What problems has Martinez exposed at Man United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x6nnf3/talk_of_the_devils_what_problems_has_martinez/\"> <img alt=\"Talk of the Devils - What problems has Martinez exposed at Man United\" src=\"https://external-preview.redd.it/ULvFChw7X3FVJebUsGbzu6yOJmzR1CkWjOKMHbKeMxU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=069201b60cf581dbffeeed5625f3bcb56bcc956b\" title=\"Talk of the Devils - What problems has Martinez exposed at Man United\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/rhonh\"> /u/rhonh </a> <br /> <span><a href=\"https://open.spotify.com/episode/4vhMAYAiVNkReI6Ah9DcRV?si=BgcUfeu-S7-PYYFTvX3Scw&amp;utm_source=copy-link\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6nnf3/talk_of_the_devils_what_problems_has_martinez/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6nnf3/talk_of_the_devils_what_problems_has_martinez/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T14:48:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sir Alex: 'Games Of My Life'",
+      "items": [
+        {
+          "title": "Sir Alex: 'Games Of My Life'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1x6pzxy/sir_alex_games_of_my_life/\"> <img alt=\"Sir Alex: 'Games Of My Life'\" src=\"https://external-preview.redd.it/RVmw7iyE3JCA4Bzc0gRLfaVOx0x-wDDuDX63in8wDXE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=32eed2b2fe7ae48eb1f30144b29d9907c04cbc43\" title=\"Sir Alex: 'Games Of My Life'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=I9xEw_-RmBM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6pzxy/sir_alex_games_of_my_life/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6pzxy/sir_alex_games_of_my_life/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T16:16:09+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6hmjq/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1x6hmjq/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1x6hmjq/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-15T10:01:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 50,
+    "story_count": 46
+  }
+}
