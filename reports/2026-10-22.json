@@ -1,0 +1,1505 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T05:49:48.276355+00:00",
+  "match_data": {
+    "collected_at": "2026-10-22T05:49:41.623150+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Carrick responds to Fernandes criticism on tactics",
+      "items": [
+        {
+          "title": "Carrick responds to Fernandes criticism on tactics",
+          "summary": "Michael Carrick responds to Bruno Fernandes' comments, after the Manchester United captain questioned the tactics used against Como.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqn73ez35nv4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 21 Oct 2026 21:21:54 GMT"
+        },
+        {
+          "title": "Michael Carrick tears into Man United players and hits back at criticism from Bruno Fernandes",
+          "summary": "Man Utd were beaten 4-1 by Como in the Champions League and Michael Carrick was critical of the players after the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-tears-man-united-34799009",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:53:55 +0000"
+        },
+        {
+          "title": "‘Angry’ Carrick on the brink as Fernandes hits out at Manchester United tactics",
+          "summary": "<ul><li><p>Manager apologises to fans after 4-1 defeat in Como</p></li><li><p>Captain criticises ‘decision from the staff’ not to press</p></li></ul><p>Michael Carrick’s future as Manchester United manager is in the balance after a humiliating 4-1 Champions League defeat by Como on Wednesday night.</p><p>Before Bournemouth’s visit to Old Trafford on Sunday his future may be discussed by Jason Wilcox, the director of football, Omar Berrada, the chief executive, and Sir Jim Ratcliffe, the co-owner who controls sporting policy.</p> <a href=\"https://www.theguardian.com/football/2026/oct/21/michael-carrick-bruno-fernandes-manchester-united-como-champions-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/21/michael-carrick-bruno-fernandes-manchester-united-como-champions-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 21:15:23 GMT"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "The Guardian - Manchester United",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 3,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Fernandes rounds on Carrick after Man Utd humiliation",
+      "items": [
+        {
+          "title": "Fernandes rounds on Carrick after Man Utd humiliation",
+          "summary": "Manchester United captain Bruno Fernandes blames head coach Michael Carrick for the tactics that led to an embarrassing 4-1 defeat by Como in the Champions League.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq74pjn80x4wo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 21 Oct 2026 19:59:30 GMT"
+        },
+        {
+          "title": "[Simon Stone] Fernandes rounds on Carrick after Man Utd humiliation",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbzt5o/simon_stone_fernandes_rounds_on_carrick_after_man/\"> <img alt=\"[Simon Stone] Fernandes rounds on Carrick after Man Utd humiliation\" src=\"https://external-preview.redd.it/Oz_agtQtQCEWK2wRvxYMc6Wa_7uQ_mtPU5CUXwV64zA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a49c6374e4af8d78060c27695caf5e4e1dbb7b9\" title=\"[Simon Stone] Fernandes rounds on Carrick after Man Utd humiliation\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>Both Carrick and sporting director Jason Wilcox have been absolved of partial blame for the club's plight by some; Carrick because he was let down badly in the summer transfer window, when the club signed three midfielders, but failed to bring in competition for Luke Shaw at left-back and Benjamin Sesko in attack. Wilcox too, because he had to work to a budget set by those above him, including chief executive Omar Berrada.</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cq74pjn80x4wo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbzt5o/simon_stone_fernandes_rounds_on_carrick_after_man/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbzt5o/simon_stone_fernandes_rounds_on_carrick_after_man/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T21:20:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'Simply not good enough - Warnock on Man Utd's Como display",
+      "items": [
+        {
+          "title": "'Simply not good enough - Warnock on Man Utd's Como display",
+          "summary": "Match of the Day pundits Nedum Onuoha and Stephen Warnock analyse  Manchester United's performance after their 4-1 Champions League defeat to Como, and discuss midfielder Bruno Fernandes' criticism of team tactics.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c8040gdrdlwwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 21 Oct 2026 22:36:23 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Paz, Fabregas and Como teach Man Utd a lesson",
+      "items": [
+        {
+          "title": "Paz, Fabregas and Como teach Man Utd a lesson",
+          "summary": "Serie A success story Como have gone from Serie D to the Champions League - now they have taught Manchester United a lesson in Europe.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqrly2d6jnp7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 21 Oct 2026 20:46:40 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd fans on if Carrick should stay",
+      "items": [
+        {
+          "title": "Man Utd fans on if Carrick should stay",
+          "summary": "Manchester United fans give their thoughts on manager Michael Carrick and if he should stay after their humiliating loss to Como.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c574pjnj3n29o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 21 Oct 2026 20:38:53 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carrick 'bitterly disappointed' by Man Utd peformance",
+      "items": [
+        {
+          "title": "Carrick 'bitterly disappointed' by Man Utd peformance",
+          "summary": "Manchester United boss Michael Carrick says he is \"bitterly disappointed\" by his side's \"unacceptable\" 4-1 loss to Como in the Champions League.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cvze46l31k81o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 21 Oct 2026 19:59:20 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd fans set for rainy night in Como",
+      "items": [
+        {
+          "title": "Man Utd fans set for rainy night in Como",
+          "summary": "Manchester United fans are preparing for a rainy Champions League night in Como with an orange weather warning in place.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw5ynpxy0dx7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 21 Oct 2026 14:24:15 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Como vs Man United TV channel, live stream and kick-off time",
+      "items": [
+        {
+          "title": "Como vs Man United TV channel, live stream and kick-off time",
+          "summary": "Manchester United travel to Italy to face Como in the Champions League on Wednesday evening",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/como-man-united-channel-stream-34789283",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 14:30:00 +0000"
+        },
+        {
+          "title": "How to watch Como vs Man Utd – TV channel, live stream and kick-off time",
+          "summary": "Manchester United face another tricky away day in the Champions League as they head to Italy to face Cesc Fabregas' impressive Como side",
+          "url": "https://www.mirror.co.uk/sport/football/news/como-man-utd-live-stream-37789640",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 14:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Youri Tielemans accuses the Manchester United dressing room of lacking 'effort'",
+      "items": [
+        {
+          "title": "Youri Tielemans accuses the Manchester United dressing room of lacking 'effort'",
+          "summary": "Man Utd have been plunged into turmoil again following a 4-1 hammering against Como in the Champions League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/youri-tielemans-accuses-manchester-united-34797183",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Two left-backs 'on radar' as Antonio Conte lays out conditions",
+      "items": [
+        {
+          "title": "Man United latest: Two left-backs 'on radar' as Antonio Conte lays out conditions",
+          "summary": "Manchester United are looking to strengthen a problem position as an Antonio Conte update emerges",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-lewis-hall-conte-34798584",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick should not be the only one at Manchester United who is close to the brink",
+      "items": [
+        {
+          "title": "Michael Carrick should not be the only one at Manchester United who is close to the brink",
+          "summary": "Man Utd are fighting to save their season after losing to Como in the Champions League on Wednesday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-should-not-only-34797171",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "What Michael Carrick said when asked if he had considered quitting Manchester United",
+      "items": [
+        {
+          "title": "What Michael Carrick said when asked if he had considered quitting Manchester United",
+          "summary": "Michael Carrick is under pressure as Man Utd head coach after a dismal run of form reached a nadir with a 4-1 defeat to Como in the Champions League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-said-asked-34799155",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes called an 'absolute disgrace' as Jamie Carragher erupts at Man United skipper",
+      "items": [
+        {
+          "title": "Bruno Fernandes called an 'absolute disgrace' as Jamie Carragher erupts at Man United skipper",
+          "summary": "Jamie Carragher weighed in on Bruno Fernandes' outburst towards Michael Carrick after Manchester United's 4-1 defeat to Como.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-carragher-man-united-34799353",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 22:13:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United-linked managers and boss 'loved by club chief’ as Michael Carrick pressure builds",
+      "items": [
+        {
+          "title": "Man United-linked managers and boss 'loved by club chief’ as Michael Carrick pressure builds",
+          "summary": "Manchester United have been linked with several managers as potential Michael Carrick replacements, with pressure mounting following a 4-1 defeat to Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-manager-latest-carrick-34799132",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 20:48:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United's next five fixtures as Michael Carrick faces ominous task to save job",
+      "items": [
+        {
+          "title": "Man United's next five fixtures as Michael Carrick faces ominous task to save job",
+          "summary": "Manchester United suffered embarrassment at the hands of Como in the Champions League on Wednesday evening as they suffered a brutal 4-1 defeat in Italy",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-fixtures-como-carrick-34799103",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 20:06:58 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Como vs Manchester United highlights and reaction as Reds embarrassed by Nico Paz and Co",
+      "items": [
+        {
+          "title": "Como vs Manchester United highlights and reaction as Reds embarrassed by Nico Paz and Co",
+          "summary": "Man Utd lost 4-1 against Como in the Champions League and here is how the game unfolded.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/como-vs-manchester-united-live-34796801",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:56:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United ripped apart as two players singled out after Como battering - 'Lost their guts'",
+      "items": [
+        {
+          "title": "Man United ripped apart as two players singled out after Como battering - 'Lost their guts'",
+          "summary": "Manchester United endured another miserable night in Europe, with two players coming under fire for their performances",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mazraoui-de-ligt-34799101",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:54:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes points out flaw in Manchester United tactics vs Como - 'That's on the manager'",
+      "items": [
+        {
+          "title": "Bruno Fernandes points out flaw in Manchester United tactics vs Como - 'That's on the manager'",
+          "summary": "Man Utd lost 4-1 to Como in the Champions League on Wednesday night, another awful result for Michael Carrick.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-points-out-flaw-34797173",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:30:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Michael Carrick did after Como embarrassment showed who he blames for Manchester United disgrace",
+      "items": [
+        {
+          "title": "What Michael Carrick did after Como embarrassment showed who he blames for Manchester United disgrace",
+          "summary": "Man Utd were beaten 4-1 by Como in the Champions League and Michael Carrick was livid with his players at full time.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-after-como-34798497",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:04:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ashley Young tells Man United not to hire his former boss linked with job - 'Be a disaster'",
+      "items": [
+        {
+          "title": "Ashley Young tells Man United not to hire his former boss linked with job - 'Be a disaster'",
+          "summary": "Antonio Conte has been linked with replacing Michael Carrick as Manchester United manager - but Ashley Young has explained why he'd be all wrong for the job",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-conte-34798764",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:04:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Poll: Should Michael Carrick be sacked after Manchester United battered by Como?",
+      "items": [
+        {
+          "title": "Poll: Should Michael Carrick be sacked after Manchester United battered by Como?",
+          "summary": "Michael Carrick endured another chastening outing as Man United head coach on Wednesday as his side were beaten by Como in the Champions League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/poll-should-michael-carrick-sacked-34798857",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 18:39:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United player ratings vs Como with one 2/10 and four 3/10s as Reds humbled",
+      "items": [
+        {
+          "title": "Manchester United player ratings vs Como with one 2/10 and four 3/10s as Reds humbled",
+          "summary": "Man Utd turned in one of their worst European performances in recent memory as they lost 4-1 to Como in the Champions League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34798506",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 18:38:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Why did Willy Kambwala leave Man United? Como star's transfer explained",
+      "items": [
+        {
+          "title": "Why did Willy Kambwala leave Man United? Como star's transfer explained",
+          "summary": "Manchester United will face Serie A side Como on Wednesday night in the Champions League, with one familiar face now playing for their opponents",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-willy-kambwala-como-34789754",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 16:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why Leny Yoro is not in Man United squad for Champions League clash vs Como",
+      "items": [
+        {
+          "title": "Why Leny Yoro is not in Man United squad for Champions League clash vs Como",
+          "summary": "Manchester United boss Michael Carrick will be forced to make do without Leny Yoro for their Champions League clash away at Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/leny-yoro-como-man-united-34789589",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 15:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Six things we learned from Erik ten Hag's tell-all interview about Man United nightmare",
+      "items": [
+        {
+          "title": "Six things we learned from Erik ten Hag's tell-all interview about Man United nightmare",
+          "summary": "The main talking points from Erik ten Hag's eye-opening interview about his Manchester United reign",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ten-hag-interview-34797338",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 14:37:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United star set for January exit after Michael Carrick decision in injury crisis",
+      "items": [
+        {
+          "title": "Man United star set for January exit after Michael Carrick decision in injury crisis",
+          "summary": "Manchester United have been struggling with injuries this season, but it does not look like it will stop the Reds from making a big transfer decision",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfers-michael-carrick-34796136",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 12:45:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United fans warned 'leave an hour early' as travel chaos expected ahead of Bournemouth game",
+      "items": [
+        {
+          "title": "Manchester United fans warned 'leave an hour early' as travel chaos expected ahead of Bournemouth game",
+          "summary": "No trams will run to Old Trafford on a matchday for the first time in over a decade",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/manchester-united-fans-warned-leave-34795363",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 10:59:02 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Erik ten Hag laughed when he heard what Man United's Kobbie Mainoo had to say about him",
+      "items": [
+        {
+          "title": "Erik ten Hag laughed when he heard what Man United's Kobbie Mainoo had to say about him",
+          "summary": "Erik ten Hag was informed what Manchester United star Kobbie Mainoo said about his reign at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ten-hag-mainoo-34795351",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 10:45:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ex-Man United boss Erik ten Hag offers brutal INEOS dig over key disagreement",
+      "items": [
+        {
+          "title": "Ex-Man United boss Erik ten Hag offers brutal INEOS dig over key disagreement",
+          "summary": "Erik ten Hag has revealed that INEOS turned down his advice on how to improve their data department after hinting Manchester United didn't give him the tools to be successful",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ten-hag-man-united-ineos-34794629",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 10:26:46 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United make Lisandro Martinez transfer decision after hitting out at club chiefs",
+      "items": [
+        {
+          "title": "Man United make Lisandro Martinez transfer decision after hitting out at club chiefs",
+          "summary": "After Lisandro Martinez publicly lambasted Manchester United director of football Jason Wilcox, the club has reportedly made a decision about his future",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-lisandro-martinez-transfer-34794818",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 10:17:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Como vs Man United weather latest as Champions League fixture faces postponement threat",
+      "items": [
+        {
+          "title": "Como vs Man United weather latest as Champions League fixture faces postponement threat",
+          "summary": "Manchester United's trip to Como could be a wet one this evening",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-como-postponement-threat-34794053",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 06:38:21 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Wayne Rooney's true feelings after son Kai banned him from watching him play",
+      "items": [
+        {
+          "title": "Wayne Rooney's true feelings after son Kai banned him from watching him play",
+          "summary": "Manchester United legend Wayne Rooney has discussed his son Kai rising through the academy at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-wayne-rooney-kai-37795989",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd news: Lewis Hall transfer twist as Antonio Conte conditions emerge",
+      "items": [
+        {
+          "title": "Man Utd news: Lewis Hall transfer twist as Antonio Conte conditions emerge",
+          "summary": "Manchester United could look to strengthen a problem position at left-back, as Antonio Conte continues to be linked with the club",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-lewis-hall-conte-37796743",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd in-fighting erupts as Matheus Cunha and Michael Carrick row off camera",
+      "items": [
+        {
+          "title": "Man Utd in-fighting erupts as Matheus Cunha and Michael Carrick row off camera",
+          "summary": "Michael Carrick is seemingly starting to lose the dressing room, with a number of key players clashing with the head coach during Wednesday's Champions League loss to Como",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-cunha-37797679",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 02:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick hits back at Bruno Fernandes comments in extraordinary press conference",
+      "items": [
+        {
+          "title": "Michael Carrick hits back at Bruno Fernandes comments in extraordinary press conference",
+          "summary": "Manchester United boss Michael Carrick has responded to some veiled criticism from captain Bruno Fernandes in the wake of the Red Devils' humbling by Como",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-bruno-fernandes-united-37797494",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 20:27:07 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick's reaction says it all as Como hammering leaves job hanging by a thread",
+      "items": [
+        {
+          "title": "Michael Carrick's reaction says it all as Como hammering leaves job hanging by a thread",
+          "summary": "Manchester United's abject 4-1 loss away to Como has left Michael Carrick fighting to save his job, and his reaction when he went over to their fans after full-time spoke volumes",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-como-manchester-united-37797341",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:28:02 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes points finger at 'decision from Man Utd staff' after Como thrashing",
+      "items": [
+        {
+          "title": "Bruno Fernandes points finger at 'decision from Man Utd staff' after Como thrashing",
+          "summary": "Manchester United were humiliated by Como in the Champions League, suffering back-to-back defeats in the competition",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-champions-league-fernandes-37797323",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:07:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Abject Man Utd hit new low as Como battering plunges Michael Carrick's future into doubt",
+      "items": [
+        {
+          "title": "Abject Man Utd hit new low as Como battering plunges Michael Carrick's future into doubt",
+          "summary": "COMO 4-1 MAN UTD: Michael Carrick watched his team produce arguably their worst performance of the season, as Cesc Fabregas' men ran riot in this one-sided Champions League clash",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/como-manchester-united-champions-league-37796994",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 18:39:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd transfer plans being put in place as injury timeline emerges for Benjamin Sesko",
+      "items": [
+        {
+          "title": "Man Utd transfer plans being put in place as injury timeline emerges for Benjamin Sesko",
+          "summary": "As Manchester United's struggles continue to pile-up, a huge issue, which may require a transfer, is beginning to get worse",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfer-news-carrick-37796058",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 14:33:25 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "VAR who made Manchester Derby error reinstated for Premier League match this weekend",
+      "items": [
+        {
+          "title": "VAR who made Manchester Derby error reinstated for Premier League match this weekend",
+          "summary": "Matt Donohue was dropped for three rounds of Premier League matches by Pro Ref after Howard Webb admitted he had &quot;tunnel vision&quot; when he made the error for Erling Haaland's offside goal",
+          "url": "https://www.mirror.co.uk/sport/football/news/var-manchester-derby-haaland-error-37795689",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 13:24:28 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Six bombshells from Erik ten Hag's explosive two-part Man Utd interview",
+      "items": [
+        {
+          "title": "Six bombshells from Erik ten Hag's explosive two-part Man Utd interview",
+          "summary": "The biggest talking points from Erik ten Hag's interview about his time at Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ten-hag-interview-37795597",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 13:20:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Four issues Man Utd boss Michael Carrick must overcome against Como after 'toxic culture' claim",
+      "items": [
+        {
+          "title": "Four issues Man Utd boss Michael Carrick must overcome against Como after 'toxic culture' claim",
+          "summary": "Manchester United travel to Como in the Champions League on Wednesday night desperate for a result, with manager Michael Carrick under mounting pressure",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-como-michael-carrick-37794785",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 12:24:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Erik ten Hag identifies the off-pitch area Man Utd lag behind rivals with INEOS dig",
+      "items": [
+        {
+          "title": "Erik ten Hag identifies the off-pitch area Man Utd lag behind rivals with INEOS dig",
+          "summary": "Former Manchester United boss Erik ten Hag has taken a pointed dig at INEOS after claiming he offered them advice on how to improve the club's data department",
+          "url": "https://www.mirror.co.uk/sport/football/news/ten-hag-ineos-man-utd-37794893",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 12:07:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Como vs Man Utd was almost moved stadiums with clash now at risk of postponement",
+      "items": [
+        {
+          "title": "Como vs Man Utd was almost moved stadiums with clash now at risk of postponement",
+          "summary": "Como's Stadio Giuseppe Sinigaglia has been hit by extreme weather ahead of Manchester United's Champions League visit",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-como-stadium-rain-37794897",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 11:18:56 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd plot Lisandro Martinez contract extension as part of plan to land £50m star",
+      "items": [
+        {
+          "title": "Man Utd plot Lisandro Martinez contract extension as part of plan to land £50m star",
+          "summary": "Lisandro Martinez is out of contract in the summer, but Manchester United could trigger an extension to protect their asset whilst they eye defensive reinforcements",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-martinez-transfer-replacement-37794592",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 10:44:47 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Cesc Fabregas already has green light for Man Utd job as he snubs Michael Carrick question",
+      "items": [
+        {
+          "title": "Cesc Fabregas already has green light for Man Utd job as he snubs Michael Carrick question",
+          "summary": "The former Arsenal and Chelsea star has been linked with the Manchester United manager job following his incredible rise at Como",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-cesc-fabregas-carrick-37794391",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 10:06:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Como 4-1 Manchester United: Champions League – as it happened",
+      "items": [
+        {
+          "title": "Como 4-1 Manchester United: Champions League – as it happened",
+          "summary": "<p>A dismal Manchester United performance ended in an emphatic defeat to Cesc Fàbregas’s completely dominant Como side </p><p><strong>The players are on the pitch</strong> and very nearly ready to go.</p><p><strong>Poor mascot coming out to pick up the match ball</strong> looks like someone just dragged him out of a ditch.</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 19:20:14 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Como demolish dismal Manchester United to pile more pressure on Carrick",
+      "items": [
+        {
+          "title": "Como demolish dismal Manchester United to pile more pressure on Carrick",
+          "summary": "<p>In the shadow of the Alps, a boat ride from George Clooney’s villa, Manchester United’s torrid season plunged into chaos and infighting just 11 games in.</p><p>Michael Carrick’s status as United manager is now precarious because witnessed here by Lake Como was a humiliation of the three-time European champions by Cesc Fàbregas’s competition debutants.</p> <a href=\"https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 18:55:28 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Transfer rumors, news: Manchester United keen on Palace duo - ESPN",
+      "items": [
+        {
+          "title": "Transfer rumors, news: Manchester United keen on Palace duo - ESPN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0kwa3ZNVUdzd2R0Z2pTdEtZbDhIemRXSjliNGt1N2ZmMU9QWGsxZmJyYzR5cm5FMUx4cVpGYzRwUDA3bl9vX0JEVzI5NVgySmFpN0d4QXFKQlg2V1dRSzl0UW5UcnVNR2VVTy1zTkFHSDAzdDFwWUY5dXdyQmZ2SlNXWFJ4UHpSS2lLSUxxODY3QXRpYV80Uw?oc=5\" target=\"_blank\">Transfer rumors, news: Manchester United keen on Palace duo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0kwa3ZNVUdzd2R0Z2pTdEtZbDhIemRXSjliNGt1N2ZmMU9QWGsxZmJyYzR5cm5FMUx4cVpGYzRwUDA3bl9vX0JEVzI5NVgySmFpN0d4QXFKQlg2V1dRSzl0UW5UcnVNR2VVTy1zTkFHSDAzdDFwWUY5dXdyQmZ2SlNXWFJ4UHpSS2lLSUxxODY3QXRpYV80Uw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 21 Oct 2026 11:07:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Attacking duo from Premier League rivals eyed by Man United ahead of January window",
+      "items": [
+        {
+          "title": "Attacking duo from Premier League rivals eyed by Man United ahead of January window",
+          "summary": "<p>Manchester United are reportedly keeping a close eye on Crystal Palace pair Ismaïla Sarr and Jean-Philippe Mateta ahead of the January transfer window as they consider adding more firepower to Michael Carrick’s squad. Both players offer Premier League experience and versatility, while their situations at Selhurst Park could make them realistic options if United decide [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/22/attacking-duo-premier-league-rivals-man-united-january/\">Attacking duo from Premier League rivals eyed by Man United ahead of January window</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/22/attacking-duo-premier-league-rivals-man-united-january/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 22 Oct 2026 05:36:31 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Tielemans gives brutal verdict on what is going wrong at Man United after Como defeat",
+      "items": [
+        {
+          "title": "Tielemans gives brutal verdict on what is going wrong at Man United after Como defeat",
+          "summary": "<p>Youri Tielemans has delivered a blunt assessment of Manchester United’s problems after their humiliating 4-1 Champions League defeat to Como, admitting there is no single issue Michael Carrick’s side need to fix. The result in Italy increased the pressure around Old Trafford after another performance lacking control, intensity and defensive organisation. Want more CaughtOffside coverage? [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/22/tielemans-gives-brutal-verdict-man-united-como-defeat/\">Tielemans gives brutal verdict on what is going wrong at Man United after Como defeat</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/22/tielemans-gives-brutal-verdict-man-united-como-defeat/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 22 Oct 2026 05:28:02 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "“Big coaching talent” becomes favourite for Man United job after Como humiliation",
+      "items": [
+        {
+          "title": "“Big coaching talent” becomes favourite for Man United job after Como humiliation",
+          "summary": "<p>Manchester United have reportedly made initial moves to explore Julian Nagelsmann as a potential replacement for Michael Carrick, with pressure rapidly building on the current Old Trafford boss. Carrick’s position has become increasingly uncertain following United’s disastrous 4-1 Champions League defeat to Como. Want more CaughtOffside coverage? Add us as a preferred source on Google [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/22/big-coaching-talent-favourite-for-man-united-job/\">&#8220;Big coaching talent&#8221; becomes favourite for Man United job after Como humiliation</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/22/big-coaching-talent-favourite-for-man-united-job/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 22 Oct 2026 05:16:06 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "“That’s on the manager” – Mutiny breaking into the open at Man U as star player calls out coaching staff",
+      "items": [
+        {
+          "title": "“That’s on the manager” – Mutiny breaking into the open at Man U as star player calls out coaching staff",
+          "summary": "<p>Manchester United were smashed by Como tonight, and one of their squad&#8217;s leaders has not held back in criticising his manager. If you enjoy CaughtOffside coverage and want to see more of it, add us as a preferred source on Google to make us a favourite and see more of our content. Man U&#8217;s crisis [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/22/mutiny-breaking-into-the-open-at-man-u/\">&#8220;That&#8217;s on the manager&#8221; &#8211; Mutiny breaking into the open at Man U as star player calls out coaching staff</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/22/mutiny-breaking-into-the-open-at-man-u/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 21 Oct 2026 23:18:24 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Arsenal and Man United track 23-year-old rival midfielder ahead of potential move",
+      "items": [
+        {
+          "title": "Arsenal and Man United track 23-year-old rival midfielder ahead of potential move",
+          "summary": "<p>Arsenal and Manchester United are reportedly interested in signing Brighton &#38; Hove Albion midfielder Yasin Ayari as both clubs look to strengthen their midfield ahead of the summer transfer window. According to a talkSPORT report, the Premier League giants are closely monitoring the Swedish international, whose contract situation has drawn interest from several European clubs, including [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/21/arsenal-and-man-united-track-23-year-old-rival-midfielder-ahead-of-potential-move/\">Arsenal and Man United track 23-year-old rival midfielder ahead of potential move</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/21/arsenal-and-man-united-track-23-year-old-rival-midfielder-ahead-of-potential-move/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 21 Oct 2026 20:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United face Liverpool transfer battle for Premier League ace with €65m valuation",
+      "items": [
+        {
+          "title": "Man United face Liverpool transfer battle for Premier League ace with €65m valuation",
+          "summary": "<p>Manchester United are reportedly interested in signing Crystal Palace winger Ismaila Sarr as Michael Carrick looks to add more attacking reinforcements ahead of the January transfer window. According to an exclusive report from 4-4-2, United are closely monitoring the Senegal international alongside Liverpool and Newcastle United, with his Premier League performances attracting considerable attention. Ismaila [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/21/man-united-face-liverpool-transfer-battle-for-premier-league-ace-with-e65m-valuation/\">Man United face Liverpool transfer battle for Premier League ace with €65m valuation</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/21/man-united-face-liverpool-transfer-battle-for-premier-league-ace-with-e65m-valuation/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 21 Oct 2026 19:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xc79ye/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xc79ye/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xc79ye/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T03:00:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "\"I 100% take responsibility for the overall team and the performance. That's where it stops. It stops with me.\" Michael Carrick reacts to Manchester United's \"unacceptable\" display against Como.",
+      "items": [
+        {
+          "title": "\"I 100% take responsibility for the overall team and the performance. That's where it stops. It stops with me.\" Michael Carrick reacts to Manchester United's \"unacceptable\" display against Como.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbwvkr/i_100_take_responsibility_for_the_overall_team/\"> <img alt=\"&quot;I 100% take responsibility for the overall team and the performance. That's where it stops. It stops with me.&quot; Michael Carrick reacts to Manchester United's &quot;unacceptable&quot; display against Como.\" src=\"https://external-preview.redd.it/ZTVoMjNjM2lndndoMZy-Z7AitRmuuN-CrrI9L5qm9iUUWOaYgkucl4RKNahn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6930b8d1ce858110fad40890e287b7c7da8d94d6\" title=\"&quot;I 100% take responsibility for the overall team and the performance. That's where it stops. It stops with me.&quot; Michael Carrick reacts to Manchester United's &quot;unacceptable&quot; display against Como.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/srr9qm2igvwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbwvkr/i_100_take_responsibility_for_the_overall_team/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbwvkr/i_100_take_responsibility_for_the_overall_team/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:28:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Danyal Khan] Some (a lot) of the 700 odd United fans are making their way out of the stadium, they’ve had enough",
+      "items": [
+        {
+          "title": "[Danyal Khan] Some (a lot) of the 700 odd United fans are making their way out of the stadium, they’ve had enough",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbulmb/danyal_khan_some_a_lot_of_the_700_odd_united_fans/\"> <img alt=\"[Danyal Khan] Some (a lot) of the 700 odd United fans are making their way out of the stadium, they’ve had enough\" src=\"https://preview.redd.it/935oyr1t1vwh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad03c0fb816270f098f30566379947fff4c74fa7\" title=\"[Danyal Khan] Some (a lot) of the 700 odd United fans are making their way out of the stadium, they’ve had enough\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://i.redd.it/935oyr1t1vwh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbulmb/danyal_khan_some_a_lot_of_the_700_odd_united_fans/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbulmb/danyal_khan_some_a_lot_of_the_700_odd_united_fans/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:05:39+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes: \"It's the staff's decision to not press man-to-man and sometimes leave a little bit of space behind to get the ball in the first moment - to wait for them, to give them the ball. But sometimes when you give the ball too much to these teams they get confidence.\"",
+      "items": [
+        {
+          "title": "Bruno Fernandes: \"It's the staff's decision to not press man-to-man and sometimes leave a little bit of space behind to get the ball in the first moment - to wait for them, to give them the ball. But sometimes when you give the ball too much to these teams they get confidence.\"",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FragMasterMat117\"> /u/FragMasterMat117 </a> <br /> <span><a href=\"https://v.redd.it/9lwegso2cvwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbwatf/bruno_fernandes_its_the_staffs_decision_to_not/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbwatf/bruno_fernandes_its_the_staffs_decision_to_not/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:07:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Simon Peach] Michael Carrick holds his hands up apologetically in front of the #MUFC fans after a hugely damaging loss in Como",
+      "items": [
+        {
+          "title": "[Simon Peach] Michael Carrick holds his hands up apologetically in front of the #MUFC fans after a hugely damaging loss in Como",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbvpbd/simon_peach_michael_carrick_holds_his_hands_up/\"> <img alt=\"[Simon Peach] Michael Carrick holds his hands up apologetically in front of the #MUFC fans after a hugely damaging loss in Como\" src=\"https://preview.redd.it/shzsmp4w8vwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f199e25fb1744388a6f6dec0d19a92ec679e02e\" title=\"[Simon Peach] Michael Carrick holds his hands up apologetically in front of the #MUFC fans after a hugely damaging loss in Como\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/shzsmp4w8vwh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbvpbd/simon_peach_michael_carrick_holds_his_hands_up/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbvpbd/simon_peach_michael_carrick_holds_his_hands_up/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:45:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "\"Tonight we were poor at everything.\" \"It's a combination of everything: tactical, technical, effort.\" Youri Tielemans apologises to the Man Utd fans following their heavy defeat at the hands of Como",
+      "items": [
+        {
+          "title": "\"Tonight we were poor at everything.\" \"It's a combination of everything: tactical, technical, effort.\" Youri Tielemans apologises to the Man Utd fans following their heavy defeat at the hands of Como",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbx92n/tonight_we_were_poor_at_everything_its_a/\"> <img alt=\"&quot;Tonight we were poor at everything.&quot; &quot;It's a combination of everything: tactical, technical, effort.&quot; Youri Tielemans apologises to the Man Utd fans following their heavy defeat at the hands of Como\" src=\"https://external-preview.redd.it/eHVoZzFrYzlpdndoMacFgEvlYyd6tIcV7FHxwfrdbFThfbdxNj-YLTOOlct9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ff24776dda7adf84635e343df9dc41244d96e33\" title=\"&quot;Tonight we were poor at everything.&quot; &quot;It's a combination of everything: tactical, technical, effort.&quot; Youri Tielemans apologises to the Man Utd fans following their heavy defeat at the hands of Como\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/k9i8u0a9ivwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbx92n/tonight_we_were_poor_at_everything_its_a/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbx92n/tonight_we_were_poor_at_everything_its_a/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:42:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "FT: Man Utd Women 5-3 Liverpool. Three wins from three in the Players Cup & Six wins a row in all competitions for United Women",
+      "items": [
+        {
+          "title": "FT: Man Utd Women 5-3 Liverpool. Three wins from three in the Players Cup & Six wins a row in all competitions for United Women",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbxpi1/ft_man_utd_women_53_liverpool_three_wins_from/\"> <img alt=\"FT: Man Utd Women 5-3 Liverpool. Three wins from three in the Players Cup &amp; Six wins a row in all competitions for United Women\" src=\"https://preview.redd.it/nswew21ulvwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=24a8055a6f77cef8ed4dd282a88faf5c06d68da7\" title=\"FT: Man Utd Women 5-3 Liverpool. Three wins from three in the Players Cup &amp; Six wins a row in all competitions for United Women\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/nswew21ulvwh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbxpi1/ft_man_utd_women_53_liverpool_three_wins_from/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbxpi1/ft_man_utd_women_53_liverpool_three_wins_from/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:59:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Como 4-[1] Manchester United - Joshua Zirkzee 90+1'",
+      "items": [
+        {
+          "title": "Como 4-[1] Manchester United - Joshua Zirkzee 90+1'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbvesn/como_41_manchester_united_joshua_zirkzee_901/\"> <img alt=\"Como 4-[1] Manchester United - Joshua Zirkzee 90+1'\" src=\"https://external-preview.redd.it/dGFvYWZ1aXo2dndoMTSvt763ktI1ob0Pt6WL5kUfizzQKpyjLTRiOaynvvRB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2cfb6128129feb8f82bb0e14ffd8b65be2b40e6\" title=\"Como 4-[1] Manchester United - Joshua Zirkzee 90+1'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xggq\"> /u/xggq </a> <br /> <span><a href=\"https://v.redd.it/hjst8niz6vwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbvesn/como_41_manchester_united_joshua_zirkzee_901/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbvesn/como_41_manchester_united_joshua_zirkzee_901/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:34:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United Women [3] - 0 Liverpool - Mared Griffiths 44’",
+      "items": [
+        {
+          "title": "Man United Women [3] - 0 Liverpool - Mared Griffiths 44’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbvsxv/man_united_women_3_0_liverpool_mared_griffiths_44/\"> <img alt=\"Man United Women [3] - 0 Liverpool - Mared Griffiths 44’\" src=\"https://external-preview.redd.it/dzduZHlrM205dndoMYaLfGhHJWqTm8GY7bBPtmMZwu7I0isPFmqg9IIeAv_K.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1aadb97b066a5116785c75109642034466e755d5\" title=\"Man United Women [3] - 0 Liverpool - Mared Griffiths 44’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/miujl97m9vwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbvsxv/man_united_women_3_0_liverpool_mared_griffiths_44/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbvsxv/man_united_women_3_0_liverpool_mared_griffiths_44/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:49:30+00:00"
+        },
+        {
+          "title": "Man United Women [1] - 0 Liverpool - Lea Schüller 11’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbut49/man_united_women_1_0_liverpool_lea_schüller_11/\"> <img alt=\"Man United Women [1] - 0 Liverpool - Lea Schüller 11’\" src=\"https://external-preview.redd.it/enZ4NXVvbzMzdndoMfBo7i9FfPPQUFmlCthxmS6itCbWfFKkshdYXSL0P-HB.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=18dd8c5c84defc121e0d9bcf862010aec76a461b\" title=\"Man United Women [1] - 0 Liverpool - Lea Schüller 11’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/fmlizgt33vwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbut49/man_united_women_1_0_liverpool_lea_schüller_11/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbut49/man_united_women_1_0_liverpool_lea_schüller_11/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:13:04+00:00"
+        },
+        {
+          "title": "Man United Women [4] - 0 Liverpool - Monica Jusu Bah 72’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbx5up/man_united_women_4_0_liverpool_monica_jusu_bah_72/\"> <img alt=\"Man United Women [4] - 0 Liverpool - Monica Jusu Bah 72’\" src=\"https://external-preview.redd.it/ajg0ZzU4MmJpdndoMZ-UodwCnqBES3H1InDG0reeAT-lBF-VK_3M_lda7cGl.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f52b72bcf243f5fbafb1022c972a8b1c8d1fb9c\" title=\"Man United Women [4] - 0 Liverpool - Monica Jusu Bah 72’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/k63ovvpbivwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbx5up/man_united_women_4_0_liverpool_monica_jusu_bah_72/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbx5up/man_united_women_4_0_liverpool_monica_jusu_bah_72/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:39:17+00:00"
+        },
+        {
+          "title": "Man United Women [2] - 0 Liverpool - Mared Griffiths 41’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbvpt4/man_united_women_2_0_liverpool_mared_griffiths_41/\"> <img alt=\"Man United Women [2] - 0 Liverpool - Mared Griffiths 41’\" src=\"https://external-preview.redd.it/ZWxzbjl1ZDA5dndoMfT572WHOLWIfvfD1tjiU2LPsJwY6q19YuHxA6lZBGO9.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=096742e213d4a50deec6dc881e3945127d0420ef\" title=\"Man United Women [2] - 0 Liverpool - Mared Griffiths 41’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/rtgctai09vwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbvpt4/man_united_women_2_0_liverpool_mared_griffiths_41/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbvpt4/man_united_women_2_0_liverpool_mared_griffiths_41/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:46:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "1 - Manchester United are the first English team in history to concede in the first two minutes of consecutive major European matches (1st minute vs Atlético Madrid, 2nd minute vs Como). [OptaJoe]",
+      "items": [
+        {
+          "title": "1 - Manchester United are the first English team in history to concede in the first two minutes of consecutive major European matches (1st minute vs Atlético Madrid, 2nd minute vs Como). [OptaJoe]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbt1c3/1_manchester_united_are_the_first_english_team_in/\"> <img alt=\"1 - Manchester United are the first English team in history to concede in the first two minutes of consecutive major European matches (1st minute vs Atlético Madrid, 2nd minute vs Como). [OptaJoe]\" src=\"https://preview.redd.it/jine7m89ruwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d4c5f08dbf5bfdcd5dd16dd565230b268a8c5f0\" title=\"1 - Manchester United are the first English team in history to concede in the first two minutes of consecutive major European matches (1st minute vs Atlético Madrid, 2nd minute vs Como). [OptaJoe]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/jine7m89ruwh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbt1c3/1_manchester_united_are_the_first_english_team_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbt1c3/1_manchester_united_are_the_first_english_team_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T17:09:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "“Manchester United is still a special club… I’m really proud to have played for them” Como board member Raphaël Varane speaks on his time at the club, and former side Manchester United",
+      "items": [
+        {
+          "title": "“Manchester United is still a special club… I’m really proud to have played for them” Como board member Raphaël Varane speaks on his time at the club, and former side Manchester United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbs95u/manchester_united_is_still_a_special_club_im/\"> <img alt=\"“Manchester United is still a special club… I’m really proud to have played for them” Como board member Raphaël Varane speaks on his time at the club, and former side Manchester United\" src=\"https://external-preview.redd.it/cGl3aTBndm1tdXdoMeqyRhyZdsIByijaXQ9Usd1la6Kvn2-kudKEzlomqZEh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1f9998a911c69ddc9df35102edf0946d9ea4b91\" title=\"“Manchester United is still a special club… I’m really proud to have played for them” Como board member Raphaël Varane speaks on his time at the club, and former side Manchester United\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/tv9k3kummuwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbs95u/manchester_united_is_still_a_special_club_im/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbs95u/manchester_united_is_still_a_special_club_im/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T16:41:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United [5] - 1 Liverpool - Maya Le Tissier 77’",
+      "items": [
+        {
+          "title": "Man United [5] - 1 Liverpool - Maya Le Tissier 77’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbx9kx/man_united_5_1_liverpool_maya_le_tissier_77/\"> <img alt=\"Man United [5] - 1 Liverpool - Maya Le Tissier 77’\" src=\"https://external-preview.redd.it/YndheHF2MzdqdndoMbJDjKGhugzJjyUXT87xNkuaZ3GvlfT8hGs1jj_fVKBd.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1671958bf827189a1116bf1f37e8a1e2ea549470\" title=\"Man United [5] - 1 Liverpool - Maya Le Tissier 77’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/0w9m0487jvwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbx9kx/man_united_5_1_liverpool_maya_le_tissier_77/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbx9kx/man_united_5_1_liverpool_maya_le_tissier_77/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:43:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[James Ducker] United humiliated by Como after performance that gets a manager sacked",
+      "items": [
+        {
+          "title": "[James Ducker] United humiliated by Como after performance that gets a manager sacked",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbwipr/james_ducker_united_humiliated_by_como_after/\"> <img alt=\"[James Ducker] United humiliated by Como after performance that gets a manager sacked\" src=\"https://external-preview.redd.it/G3lqD0JWw-tRJlGEKV10lwGPeSulXMwvA7La_ed9lA4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=43d9d1eb50931a4ba1926f94441cbad38b5ff393\" title=\"[James Ducker] United humiliated by Como after performance that gets a manager sacked\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sauce_murica\"> /u/sauce_murica </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/10/21/como-vs-man-utd-champions-league-live-score-updates/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbwipr/james_ducker_united_humiliated_by_como_after/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbwipr/james_ducker_united_humiliated_by_como_after/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:15:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Simon Stone] Michael Carrick job in jeopardy after Champions League humiliation",
+      "items": [
+        {
+          "title": "[Simon Stone] Michael Carrick job in jeopardy after Champions League humiliation",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbw7ly/simon_stone_michael_carrick_job_in_jeopardy_after/\"> <img alt=\"[Simon Stone] Michael Carrick job in jeopardy after Champions League humiliation\" src=\"https://external-preview.redd.it/0IjegK-QcitWW881eKSR-qTwV8Ic0YRv_4zPXUiwicA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d01195566511533106674e164429b91ad3d2c8a\" title=\"[Simon Stone] Michael Carrick job in jeopardy after Champions League humiliation\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sauce_murica\"> /u/sauce_murica </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/live/cwe8l3zeexvvt\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbw7ly/simon_stone_michael_carrick_job_in_jeopardy_after/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbw7ly/simon_stone_michael_carrick_job_in_jeopardy_after/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T19:04:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Michael Carrick apologises to the Manchester United fans after losing 4-1 to Como.",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Michael Carrick apologises to the Manchester United fans after losing 4-1 to Como.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbw1pg/laurie_whitwell_michael_carrick_apologises_to_the/\"> <img alt=\"[Laurie Whitwell] Michael Carrick apologises to the Manchester United fans after losing 4-1 to Como.\" src=\"https://external-preview.redd.it/bWs4bnlsazRidndoMcb85-NPu94QxURW4bQ4hvO5MuxXk-h7lw0fh-iTQi17.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d722206078af61c21095dcde026df2648cbba7af\" title=\"[Laurie Whitwell] Michael Carrick apologises to the Manchester United fans after losing 4-1 to Como.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://v.redd.it/ibceksj4bvwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbw1pg/laurie_whitwell_michael_carrick_apologises_to_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbw1pg/laurie_whitwell_michael_carrick_apologises_to_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:58:20+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "CARRICK: YOU DON'T RUN BACK, YOU AIN'T GONNA WIN!” 😡 Como 4-1 Man Utd 🏆 Champions League",
+      "items": [
+        {
+          "title": "CARRICK: YOU DON'T RUN BACK, YOU AIN'T GONNA WIN!” 😡 Como 4-1 Man Utd 🏆 Champions League",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xby6fm/carrick_you_dont_run_back_you_aint_gonna_win_como/\"> <img alt=\"CARRICK: YOU DON'T RUN BACK, YOU AIN'T GONNA WIN!” 😡 Como 4-1 Man Utd 🏆 Champions League\" src=\"https://external-preview.redd.it/8iNi3bfxTFL9vDf79q3HCkmVu68BpcMPDP5vcJSx7fg.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d478548cf77f14f890588312194c29f1c38ef628\" title=\"CARRICK: YOU DON'T RUN BACK, YOU AIN'T GONNA WIN!” 😡 Como 4-1 Man Utd 🏆 Champions League\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Post Match Como Press Conference </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Garyyyyy\"> /u/Garyyyyy </a> <br /> <span><a href=\"https://youtu.be/oO00Sa1o8lo?is=L5IHSFd-T1EEd_IX\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xby6fm/carrick_you_dont_run_back_you_aint_gonna_win_como/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xby6fm/carrick_you_dont_run_back_you_aint_gonna_win_como/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T20:17:14+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Passing Network and Ball Progression against Como",
+      "items": [
+        {
+          "title": "Passing Network and Ball Progression against Como",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xc01rz/passing_network_and_ball_progression_against_como/\"> <img alt=\"Passing Network and Ball Progression against Como\" src=\"https://preview.redd.it/3qghqkt62wwh1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e775ca3866173edf4483718a6afdc52bbc18a9df\" title=\"Passing Network and Ball Progression against Como\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1xc01rz\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xc01rz/passing_network_and_ball_progression_against_como/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xc01rz/passing_network_and_ball_progression_against_como/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T21:29:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "7 - Manchester United are winless in seven consecutive games in all competitions for the first time since a run of eight matches between November and December 2015. [OptaJoe]",
+      "items": [
+        {
+          "title": "7 - Manchester United are winless in seven consecutive games in all competitions for the first time since a run of eight matches between November and December 2015. [OptaJoe]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbvzl8/7_manchester_united_are_winless_in_seven/\"> <img alt=\"7 - Manchester United are winless in seven consecutive games in all competitions for the first time since a run of eight matches between November and December 2015. [OptaJoe]\" src=\"https://preview.redd.it/7wu18w39avwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=73aaa026ec54d57bade68615d62b92f735fc44f8\" title=\"7 - Manchester United are winless in seven consecutive games in all competitions for the first time since a run of eight matches between November and December 2015. [OptaJoe]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/7wu18w39avwh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbvzl8/7_manchester_united_are_winless_in_seven/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbvzl8/7_manchester_united_are_winless_in_seven/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T18:56:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[@Manutd On X] Today marks three years since football lost a global icon. How lucky we were to have Sir Bobby Charlton as the consummate ambassador for Manchester United, England and the sport we love. Easy to admire. Impossible to forget. Eternal in our hearts ❤️",
+      "items": [
+        {
+          "title": "[@Manutd On X] Today marks three years since football lost a global icon. How lucky we were to have Sir Bobby Charlton as the consummate ambassador for Manchester United, England and the sport we love. Easy to admire. Impossible to forget. Eternal in our hearts ❤️",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xbl00v/manutd_on_x_today_marks_three_years_since/\"> <img alt=\"[@Manutd On X] Today marks three years since football lost a global icon. How lucky we were to have Sir Bobby Charlton as the consummate ambassador for Manchester United, England and the sport we love. Easy to admire. Impossible to forget. Eternal in our hearts ❤️\" src=\"https://preview.redd.it/2zbdy5vr6twh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a339d85dd977d95f13c3b845c1dab29c1edcafa\" title=\"[@Manutd On X] Today marks three years since football lost a global icon. How lucky we were to have Sir Bobby Charlton as the consummate ambassador for Manchester United, England and the sport we love. Easy to admire. Impossible to forget. Eternal in our hearts ❤️\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hot_Patience_5962\"> /u/Hot_Patience_5962 </a> <br /> <span><a href=\"https://i.redd.it/2zbdy5vr6twh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xbl00v/manutd_on_x_today_marks_three_years_since/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xbl00v/manutd_on_x_today_marks_three_years_since/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T11:49:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Talk Of The Devils - Man United embarrassed at Como",
+      "items": [
+        {
+          "title": "Talk Of The Devils - Man United embarrassed at Como",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lamorna017\"> /u/Lamorna017 </a> <br /> <span><a href=\"https://www.youtube.com/live/HM-7YE656Uo?si=UmVfMrWMgKq1rGzV\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xc0mo9/talk_of_the_devils_man_united_embarrassed_at_como/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xc0mo9/talk_of_the_devils_man_united_embarrassed_at_como/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-21T21:52:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 82,
+    "story_count": 75
+  }
+}
