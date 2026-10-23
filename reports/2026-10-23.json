@@ -1,0 +1,1712 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T05:48:35.269349+00:00",
+  "match_data": {
+    "collected_at": "2026-10-23T05:48:28.982786+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
+      "items": [
+        {
+          "title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
+          "summary": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqe8rglz8p90o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 16:19:30 GMT"
+        },
+        {
+          "title": "Wayne Rooney rips into 'selfish' Bruno Fernandes as Man Utd captain brutally exposed",
+          "summary": "Manchester United captain Bruno Fernandes has been brutally exposed by Wayne Rooney, who has branded the skipper 'selfish' after his criticism of Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-rooney-37801744",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 19:37:41 +0000"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Breaking down Man Utd's tactics after Fernandes' criticism",
+      "items": [
+        {
+          "title": "Breaking down Man Utd's tactics after Fernandes' criticism",
+          "summary": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 12:44:08 GMT"
+        },
+        {
+          "title": "Man Utd: Breaking down their tactics after Bruno Fernandes criticism",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcqbu2/man_utd_breaking_down_their_tactics_after_bruno/\"> <img alt=\"Man Utd: Breaking down their tactics after Bruno Fernandes criticism\" src=\"https://external-preview.redd.it/DzH5vmJv2xaAc_KvDnMIru7oS_vBavK1WacTEgMQDHQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=17f5f92567449025110f496d5f2e7330c72c4d06\" title=\"Man Utd: Breaking down their tactics after Bruno Fernandes criticism\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NomaanMalick\"> /u/NomaanMalick </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cm3elpw7yd25o\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcqbu2/man_utd_breaking_down_their_tactics_after_bruno/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcqbu2/man_utd_breaking_down_their_tactics_after_bruno/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T18:17:34+00:00"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'Man Utd don't want to sack Carrick'",
+      "items": [
+        {
+          "title": "'Man Utd don't want to sack Carrick'",
+          "summary": "The Athletic's Laurie Whitwell says Manchester United's problems stem deeper than Michael Carrick.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmgqwlw4jq73o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 19:45:24 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Fernandes has home burgled while in Italy with Man Utd",
+      "items": [
+        {
+          "title": "Fernandes has home burgled while in Italy with Man Utd",
+          "summary": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in Italy for his club's Champions League game against Como.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq9vz19p41x8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 18:04:21 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How would Fergie handle the current Man Utd squad?",
+      "items": [
+        {
+          "title": "How would Fergie handle the current Man Utd squad?",
+          "summary": "How would club legend Sir Alex Ferguson approach the current Man Utd crop?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cwm24lgyg4dxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 15:50:07 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Should players speak out or keep it in the locker room?",
+      "items": [
+        {
+          "title": "Should players speak out or keep it in the locker room?",
+          "summary": "Journalist Andy Mitten weighs in on whether players should publicly criticise their manager",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6pqg18220gpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 15:47:24 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carrick carrying on but senior Man Utd figures concerned by performances",
+      "items": [
+        {
+          "title": "Carrick carrying on but senior Man Utd figures concerned by performances",
+          "summary": "While head coach Michael Carrick is expected to be in charge for Sunday's match against Bournemouth, Manchester United begin the process of identifying possible replacements.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm1wvl5524rno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 14:04:44 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "'Not what a captain should be' - the debate around Fernandes' outburst",
+      "items": [
+        {
+          "title": "'Not what a captain should be' - the debate around Fernandes' outburst",
+          "summary": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking - but what now for the captain?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 10:58:19 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'This feels like the end for Michael Carrick at Man Utd'",
+      "items": [
+        {
+          "title": "'This feels like the end for Michael Carrick at Man Utd'",
+          "summary": "Manchester United fan Jay Motty says he feels like it's \"the end\" for Michael Carrick as head coach after their Champions League away to Como.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cr89z18jdq5no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 22 Oct 2026 06:43:02 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United latest: Julian Nagelsmann gives green light as Fabian Hurzeler takes stance",
+      "items": [
+        {
+          "title": "Man United latest: Julian Nagelsmann gives green light as Fabian Hurzeler takes stance",
+          "summary": "Manchester United news as Michael Carrick looks to turn things around with potential successors circling",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-next-manager-hurzeler-34802600",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 23 Oct 2026 04:30:00 +0000"
+        },
+        {
+          "title": "Julian Nagelsmann gives Man Utd green light as Michael Carrick replacement identified",
+          "summary": "Michael Carrick's job is hanging by a thread after Manchester United suffered a 4-1 hammering against Como in the Champions League, leaving them winless in seven games",
+          "url": "https://www.mirror.co.uk/sport/football/news/nagelsmann-manchester-united-carrick-manager-37798980",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 10:58:01 +0000"
+        },
+        {
+          "title": "Fabian Hurzeler to 'reject' Man United offer",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/fabian-hurzeler-to-reject-man-united-offer",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Fri, 23 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider",
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 3,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes' £4m home robbed by masked gang minutes after Man United defeat",
+      "items": [
+        {
+          "title": "Bruno Fernandes' £4m home robbed by masked gang minutes after Man United defeat",
+          "summary": "Bruno Fernandes was in Italy with Manchester United for the Champions League game vs Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-house-man-utd-34804341",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 17:13:02 +0000"
+        },
+        {
+          "title": "Bruno Fernandes' £4m mansion robbed by masked gang while Man Utd captain away with team",
+          "summary": "Bruno Fernandes' family home in Cheshire was ransacked by three masked criminals while he was away playing for Manchester United against Como on Wednesday night",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-robbery-man-utd-37801208",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 16:25:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United make Bruno Fernandes punishment decision after bombshell Como interview",
+      "items": [
+        {
+          "title": "Man United make Bruno Fernandes punishment decision after bombshell Como interview",
+          "summary": "Bruno Fernandes criticising Michael Carrick after Manchester United lost 4-1 to Como in the Champions League has led to calls for the club captain to be punished",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-man-utd-bruno-fernandes-34804234",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 16:22:56 +0000"
+        },
+        {
+          "title": "Man Utd decide on Bruno Fernandes punishment after 'disgraceful' TV interview",
+          "summary": "Manchester United have made a decision on whether to discipline Bruno Fernandes for his public criticism of Michael Carrick after being battered 4-1 by Como in the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-latest-37801474",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 18:04:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United chiefs decide blame after humiliating Como defeat for Michael Carrick",
+      "items": [
+        {
+          "title": "Man United chiefs decide blame after humiliating Como defeat for Michael Carrick",
+          "summary": "Michael Carrick has been heavily criticised for the Champions League defeat to Como but the playing squad are also now coming under fire",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-players-michael-carrick-34801727",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:56:51 +0000"
+        },
+        {
+          "title": "Man Utd chiefs point finger of blame as Como defeat piles pressure on Michael Carrick",
+          "summary": "Michael Carrick has come under fire following Man Utd's defeat to Como in the Champions League but so have the players",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-utd-manager-37800760",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 14:52:39 +0000"
+        },
+        {
+          "title": "Man Utd make Michael Carrick sack decision after Como humiliation",
+          "summary": "Michael Carrick is under huge pressure to keep his job as Manchester United manager, and the Old Trafford hierarchy have now made a decision",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-man-utd-sack-37800161",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:12:50 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Julian Nagelsmann approach made by Man United as Michael Carrick hangs on by a thread",
+      "items": [
+        {
+          "title": "Julian Nagelsmann approach made by Man United as Michael Carrick hangs on by a thread",
+          "summary": "Michael Carrick has come under further pressure as Manchester United head coach after his side suffered a heavy 4-1 defeat to Champions League debutants Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/julian-nagelsmann-carrick-man-united-34800895",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 10:58:35 +0000"
+        },
+        {
+          "title": "[Jason Burt] Manchester United will consider Julian Nagelsmann if Michael Carrick sacked | Exclusive: Former Germany and Bayern Munich manager understood to be keen on the role as pressure mounts on United hierarchy to halt decline",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcc9fs/jason_burt_manchester_united_will_consider_julian/\"> <img alt=\"[Jason Burt] Manchester United will consider Julian Nagelsmann if Michael Carrick sacked | Exclusive: Former Germany and Bayern Munich manager understood to be keen on the role as pressure mounts on United hierarchy to halt decline\" src=\"https://external-preview.redd.it/-tebn5kXav2Fcxf1z5QxVyH_2X3kllKnllBxeRF9eHk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3b4ebccb43114c8896febd7041db67bb3452ab6\" title=\"[Jason Burt] Manchester United will consider Julian Nagelsmann if Michael Carrick sacked | Exclusive: Former Germany and Bayern Munich manager understood to be keen on the role as pressure mounts on United hierarchy to halt decline\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/10/22/manchester-united-consider-nagelsmann-if-carrick-sacked/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcc9fs/jason_burt_manchester_united_will_consider_julian/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcc9fs/jason_burt_manchester_united_will_consider_julian/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T07:44:15+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "r/reddevils"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick future LIVE: Man United sack latest, four bosses rival Nagelsmann, £12m problem",
+      "items": [
+        {
+          "title": "Michael Carrick future LIVE: Man United sack latest, four bosses rival Nagelsmann, £12m problem",
+          "summary": "The latest news and updates on Michael Carrick's Manchester United future as he prepares to face the media before Sunday's clash with Bournemouth.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-man-utd-live-34800062",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 23 Oct 2026 05:31:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Finding a replacement for Michael Carrick would give Man United a major problem",
+      "items": [
+        {
+          "title": "Finding a replacement for Michael Carrick would give Man United a major problem",
+          "summary": "Michael Carrick is under serious pressure at Man United ahead of Sunday's Premier League clash with AFC Bournemouth",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/finding-replacement-michael-carrick-would-34803044",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 23 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Eddie Howe decides Man United job stance after being named 'standout' candidate",
+      "items": [
+        {
+          "title": "Eddie Howe decides Man United job stance after being named 'standout' candidate",
+          "summary": "Manchester United continue to be credited with an interest in former Newcastle United head coach Eddie Howe as Michael Carrick fights for his future at the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-man-utd-eddie-howe-34804850",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 21:49:46 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney picks side in 'selfish' Man United row after Bruno Fernandes comments",
+      "items": [
+        {
+          "title": "Wayne Rooney picks side in 'selfish' Man United row after Bruno Fernandes comments",
+          "summary": "Manchester United players have been branded 'selfish' by Wayne Rooney, with Bruno Fernandes singled out for deciding to play the blame game over Michael Carrick",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/wayne-rooney-man-united-fernandes-34804738",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 20:27:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes proves Wayne Rooney right in eight days as Man United decide on captaincy",
+      "items": [
+        {
+          "title": "Bruno Fernandes proves Wayne Rooney right in eight days as Man United decide on captaincy",
+          "summary": "Bruno Fernandes didn't hold back on his thoughts following Manchester United's 4-1 Champions League defeat vs Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-bruno-fernandes-rooney-34804700",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 19:59:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes comments 'expose' Man United as new theory put forward to board",
+      "items": [
+        {
+          "title": "Bruno Fernandes comments 'expose' Man United as new theory put forward to board",
+          "summary": "Manchester United fell to a 4-1 defeat against Como in the Champions League in a night to forget",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-utd-interview-34804469",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 18:31:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ole Gunnar Solskjaer knew Man United would sack him before Michael Carrick gesture",
+      "items": [
+        {
+          "title": "Ole Gunnar Solskjaer knew Man United would sack him before Michael Carrick gesture",
+          "summary": "Former Manchester United boss Ole Gunnar Solskjaer recalled when he knew his tenure was ending",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ole-gunnar-solskjaer-knew-man-34803956",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 16:13:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United players receive furious message as Michael Carrick decision made",
+      "items": [
+        {
+          "title": "Man United players receive furious message as Michael Carrick decision made",
+          "summary": "Manchester United players are on the receiving end of a furious message after their 4-1 loss to Como leaves Michael Carrick fighting for his future as head coach",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-michael-carrick-manager-34803837",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 15:35:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United's five-man shortlist for next manager as chiefs 'stunned' by Como performance",
+      "items": [
+        {
+          "title": "Man United's five-man shortlist for next manager as chiefs 'stunned' by Como performance",
+          "summary": "Manchester United find themselves needing to turnaround their fortunes after a 4-1 defeat to Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-manager-latest-carrick-34803158",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 14:58:44 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick disagrees with Bruno Fernandes after second scathing Man United attack",
+      "items": [
+        {
+          "title": "Michael Carrick disagrees with Bruno Fernandes after second scathing Man United attack",
+          "summary": "Manchester United captain Bruno Fernandes is under fire after criticising Michael Carrick's tactics during the 4-1 Champions League defeat vs Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-disagrees-bruno-fernandes-34802364",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:29:38 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United stance on Michael Carrick's future after Como thrashing",
+      "items": [
+        {
+          "title": "Manchester United stance on Michael Carrick's future after Como thrashing",
+          "summary": "Michael Carrick is fighting for his future as Man Utd head coach after a dismal start to the season hit a new low with a Champions League thrashing at the hands of Como.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-stance-michael-carricks-34799655",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:05:50 +0000"
+        },
+        {
+          "title": "Even if Michael Carrick stays at Manchester United one thing cannot be ignored",
+          "summary": "Michael Carrick is fighting for his job after Man United were battered 4-1 by Como in the Champions League on Wednesday evening.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/even-michael-carrick-stays-manchester-34802233",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 12:57:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ruben Amorim makes Man United feelings clear as Michael Carrick faces sack pressure",
+      "items": [
+        {
+          "title": "Ruben Amorim makes Man United feelings clear as Michael Carrick faces sack pressure",
+          "summary": "Ruben Amorim has returned to England with his successor fighting to save his job",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ruben-amorim-carrick-34801353",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 11:30:55 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Midfielder returns to Carrington as Ryan Giggs watches on - Manchester United Academy Notebook",
+      "items": [
+        {
+          "title": "Midfielder returns to Carrington as Ryan Giggs watches on - Manchester United Academy Notebook",
+          "summary": "This week's Man Utd Academy Notebook provides an update on a player returning to Carrington from his loan.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/midfielder-returns-carrington-ryan-giggs-34793234",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 11:11:35 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Relive Eric Cantona's extrordinary Manchester United career - buy your copy of King Eric now",
+      "items": [
+        {
+          "title": "Relive Eric Cantona's extrordinary Manchester United career - buy your copy of King Eric now",
+          "summary": "We're giving you the chance to relive Eric Cantona's extraordinary Man United career. 'King Eric' features freshly unearthed quotes from the Frenchman and interviews with those who know him best.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/relive-eric-cantonas-extrordinary-manchester-34801057",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 10:47:07 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes branded 'horrible teammate' as Man Utd captain's interview picked apart",
+      "items": [
+        {
+          "title": "Bruno Fernandes branded 'horrible teammate' as Man Utd captain's interview picked apart",
+          "summary": "Bruno Fernandes is facing criticism for his Manchester United outburst",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/fernandes-carrick-man-united-manager-34800642",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 10:25:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Damning stats that prove Michael Carrick is right to point finger at Man United players",
+      "items": [
+        {
+          "title": "Damning stats that prove Michael Carrick is right to point finger at Man United players",
+          "summary": "Michael Carrick hit back at Bruno Fernandes's comments with some strong views of his own",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-running-stats-carrick-34800470",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 10:15:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ineos have asked 12 managers about Man United job - with three available now",
+      "items": [
+        {
+          "title": "Ineos have asked 12 managers about Man United job - with three available now",
+          "summary": "Manchester United's Champions League loss to Como has ramped up the pressure on Michael Carrick, with several past managerial targets currently available to the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-michael-carrick-sack-34799628",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 09:27:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes has let Michael Carrick and Manchester United down - an apology is the least he can do",
+      "items": [
+        {
+          "title": "Bruno Fernandes has let Michael Carrick and Manchester United down - an apology is the least he can do",
+          "summary": "Bruno Fernandes went on TV to criticise Man Utd head coach Michael Carrick in Como and his actions were unbecoming of a club captain.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-michael-carrick-manchester-34799541",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 09:02:27 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: Michael Carrick replacement ready for talks as Fabian Hurzeler decision made",
+      "items": [
+        {
+          "title": "Man Utd news: Michael Carrick replacement ready for talks as Fabian Hurzeler decision made",
+          "summary": "Manchester United round-up as potential successors to the under-pressure Michael Carrick emerge",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-next-manager-hurzeler-37800039",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 23 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why divisive Julian Nagelsmann would be a huge gamble for Man Utd after Michael Carrick",
+      "items": [
+        {
+          "title": "Why divisive Julian Nagelsmann would be a huge gamble for Man Utd after Michael Carrick",
+          "summary": "ANALYSIS: Julian Nagelsmann has an advocate in the Manchester United hierarchy, but the 39-year-old's time as Bayern Munich boss highlights why he wouldn't be a good fit at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/julian-nagelsmann-man-utd-analysis-37801122",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 17:50:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd's reason for rejecting Antonio Conte is still a problem despite come-and-get-me plea",
+      "items": [
+        {
+          "title": "Man Utd's reason for rejecting Antonio Conte is still a problem despite come-and-get-me plea",
+          "summary": "Former Chelsea boss Antonio Conte is out of work and has been linked with Manchester United once again",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-job-anotnio-conte-37801361",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 17:26:26 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Antonio Conte's two demands to take Man Utd job emerge after giving green light",
+      "items": [
+        {
+          "title": "Antonio Conte's two demands to take Man Utd job emerge after giving green light",
+          "summary": "Manchester United boss Michael Carrick is under pressure to deliver results and the former Chelsea and Tottenham manager Antonio Conte has been linked with the role",
+          "url": "https://www.mirror.co.uk/sport/football/news/antonio-conte-man-utd-carrick-37801286",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 17:08:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd at civil war and Bruno Fernandes criticism leaves Michael Carrick with no way back",
+      "items": [
+        {
+          "title": "Man Utd at civil war and Bruno Fernandes criticism leaves Michael Carrick with no way back",
+          "summary": "OPINION: Michael Carrick has been given Sunday's clash with Bournemouth to arrest Manchester United's slide, but the issues at Old Trafford run much deeper than the dugout",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-manchester-united-fernandes-como-37801195",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 16:47:50 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Nagelsmann, Conte, Howe - Man Utd shortlist for next manager after Como debacle",
+      "items": [
+        {
+          "title": "Nagelsmann, Conte, Howe - Man Utd shortlist for next manager after Como debacle",
+          "summary": "Manchester United have been left red-faced after suffering a 4-1 defeat to Como in the Champions League, with increased scrutiny now placed on Michael Carrick following the humiliating loss",
+          "url": "https://www.mirror.co.uk/sport/football/news/next-man-utd-manager-conte-37801135",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 16:35:34 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd chiefs SPLIT on Michael Carrick replacement as player row spills into boardroom",
+      "items": [
+        {
+          "title": "Man Utd chiefs SPLIT on Michael Carrick replacement as player row spills into boardroom",
+          "summary": "Manchester United have spounded out managers who could replace Michael Carrick after the humiliating defeat to Como in the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-replacement-37800964",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 15:54:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I knew Man Utd were sacking me at half-time before I apologised like Michael Carrick'",
+      "items": [
+        {
+          "title": "'I knew Man Utd were sacking me at half-time before I apologised like Michael Carrick'",
+          "summary": "Former Manchester United manager Ole Gunnar Solskjaer reflected on when he knew his reign was coming to an end",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sacking-solskjaer-carrick-37800684",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 15:38:13 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes urges Man Utd to 'stop living in the past' in fresh damning interview",
+      "items": [
+        {
+          "title": "Bruno Fernandes urges Man Utd to 'stop living in the past' in fresh damning interview",
+          "summary": "Manchester United captain Bruno Fernandes broke ranks to send a clear message to his team-mates and the club hierarchy after the shambolic 4-1 defeat by Como in the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-como-interview-carrick-37800778",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 15:07:11 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick given Man Utd sack verdict as Red Devils confirm decision",
+      "items": [
+        {
+          "title": "Michael Carrick given Man Utd sack verdict as Red Devils confirm decision",
+          "summary": "Michael Carrick will be given Manchester United's game at home to Bournemouth on Sunday - but the debate over his future rages on following their 4-1 thrashing in Como",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-sack-manchester-united-37800510",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 14:45:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Everything Julian Nagelsmann has said about Man Utd as he makes stance clear",
+      "items": [
+        {
+          "title": "Everything Julian Nagelsmann has said about Man Utd as he makes stance clear",
+          "summary": "Julian Nagelsmann would be a leading candidate if Manchester United decide to sack Michael Carrick, and the ex-Germany manager is reportedly open to an approach",
+          "url": "https://www.mirror.co.uk/sport/football/news/julian-nagelsmann-manchester-united-manager-37799691",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:04:05 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I played for Man Utd and under Antonio Conte - he'd be a disaster there'",
+      "items": [
+        {
+          "title": "'I played for Man Utd and under Antonio Conte - he'd be a disaster there'",
+          "summary": "Antonio Conte is being linked as a potential replacement for Michael Carrick at Manchester United, though one ex-Old Trafford star has warned it could be a &quot;disaster&quot;",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-carrick-conte-sack-37799389",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 12:29:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Next Man Utd manager odds as clear bookies' favourite emerges",
+      "items": [
+        {
+          "title": "Next Man Utd manager odds as clear bookies' favourite emerges",
+          "summary": "Michael Carrick is on the brink at Manchester United following the embarrassing defeat to Como in the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/next-man-utd-manager-odds-37799174",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 10:57:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane didn't buy any of Bruno Fernandes' apology to sacked Man Utd boss",
+      "items": [
+        {
+          "title": "Roy Keane didn't buy any of Bruno Fernandes' apology to sacked Man Utd boss",
+          "summary": "Manchester United legend Roy Keane wasn't buying any of it following Bruno Fernandes' apology for 'letting down' his boss after he received the sack",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-carrick-keane-fernandes-37798396",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 10:09:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd waste no time with sack decisions as Michael Carrick set to face the music",
+      "items": [
+        {
+          "title": "Man Utd waste no time with sack decisions as Michael Carrick set to face the music",
+          "summary": "A common theme has emerged over Manchester United sackings as Michael Carrick clings on to his job",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-sacking-como-37798355",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 08:39:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Cesc Fabregas admits he told Como stars to 'slow down' after going 4-0 up against Man Utd",
+      "items": [
+        {
+          "title": "Cesc Fabregas admits he told Como stars to 'slow down' after going 4-0 up against Man Utd",
+          "summary": "Italian side Como ran riot against Manchester United but it could have been worse for the Red Devils after boss Cesc Fabregas made a post-match admission",
+          "url": "https://www.mirror.co.uk/sport/football/news/cesc-fabregas-como-man-utd-37798049",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 07:12:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Should Manchester United SACK Michael Carrick? Have your say",
+      "items": [
+        {
+          "title": "Should Manchester United SACK Michael Carrick? Have your say",
+          "summary": "Michael Carrick is under increasing pressure as Manchester United boss following the Red Devils' 4-1 battering by Como in the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sack-michael-carrick-37797553",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Jamie Carragher calls Bruno Fernandes a DISGRACE for 'throwing Michael Carrick under the bus'",
+      "items": [
+        {
+          "title": "Jamie Carragher calls Bruno Fernandes a DISGRACE for 'throwing Michael Carrick under the bus'",
+          "summary": "Jamie Carragher has launched a scathing attack on Manchester United captain Bruno Fernandes, branding the Portuguese a 'disgrace' for his post-match comments following the club's 4-1 defeat to Como",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-carragher-fernandes-37797849",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 05:36:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Next in line? Main contenders for the Manchester United hot seat",
+      "items": [
+        {
+          "title": "Next in line? Main contenders for the Manchester United hot seat",
+          "summary": "<p>With Michael Carrick’s future at Old Trafford a matter of some debate, we examine the credentials of those who could succeed him</p><p>The German was of interest to Manchester City while Omar Berrada was part of the hierarchy on the other side of town. He is highly thought of and would come with an impressive CV for a 39-year-old, having taken charge of Bayern Munich and Germany. Nagelsmann is regarded as an innovator who is very demanding of his players and builds teams to press relentlessly, a concept not currently used at United, <a href=\"https://www.theguardian.com/football/2026/oct/21/michael-carrick-bruno-fernandes-manchester-united-como-champions-league\">as Bruno Fernandes will testify</a>. His spell with Germany was underwhelming, concluding with a 2026 World Cup <a href=\"https://www.theguardian.com/football/2026/jun/30/germany-paraguay-world-cup-2026-last-32-match-report\">last-32 defeat by Paraguay</a>, and at Bayern – with an exceptional squad – he won the Bundesliga in his only full season and was sacked the following March with the team second and still in the Champions League.</p> <a href=\"https://www.theguardian.com/football/2026/oct/22/contenders-manchester-united-next-manager-michael-carrick\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/22/contenders-manchester-united-next-manager-michael-carrick",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 18:32:32 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League: 10 things to look out for this weekend",
+      "items": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "summary": "<p>Max Dowman may get a chance, Spurs need to find balance at Stamford Bridge and Axel Disasi must make amends</p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot\"><strong>Premier League top scorers</strong></a></p></li></ul><p>After seven games, Nottingham Forest’s record is eerily similar to last season: five points, five goals scored. A year ago Forest’s eighth game was a 3-0 home loss to Chelsea that <a href=\"https://www.theguardian.com/football/2025/oct/18/ange-postecoglou-sacked-by-nottingham-forest-after-40-days-as-head-coach\">marked the end for Ange Postecoglou</a>, the second of four managers to occupy the dugout last term. There is no suggestion that Oliver Glasner is under similar scrutiny yet, but the Austrian needs to find solutions for the league’s lowest scorers. Morgan Gibbs-White is available after missing the <a href=\"https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report\">narrow defeat by Arsenal</a>, while Liam Delap may benefit from a return to familiar surroundings – 12 of his 14 career Premier League goals were scored for Ipswich, six of them at Portman Road. “What we need to improve is getting [Delap] into more positions where he can score,” Glasner said before Friday evening’s game. “He’s one of our best finishers.” Gary O’Neil also lacks a standout scorer, but he is squeezing goals out of his side. Eight different Ipswich players have scored in seven games; only Brighton and Brentford can better that total this season. <strong>Niall McVeigh</strong></p><p><em>Ipswich v Nottingham Forest, Friday 8pm </em><em>BST</em></p><p><em>Aston Villa v Manchester City, Saturday 12.30pm BST</em></p><p><em>Arsenal v Everton, Saturday 3pm BST</em></p><p><em>Coventry v Fulham, Saturday 3pm BST</em></p> <a href=\"https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 23:01:52 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno’s betrayal? ‘Toxic’ Fernandes is symptom of United’s culture of entitlement | Jamie Jackson",
+      "items": [
+        {
+          "title": "Bruno’s betrayal? ‘Toxic’ Fernandes is symptom of United’s culture of entitlement | Jamie Jackson",
+          "summary": "<p>Michael Carrick must now deal with more dressing-room unrest after Lisandro Martínez’s attack on the board</p><p>“Toxic”: this is the damning characterisation of Bruno Fernandes from one highly placed Manchester United source after the captain’s incendiary betrayal of Michael Carrick.</p><p>There has surely never been a greater anti-leadership act in United’s history than Fernandes questioning the man who trusts him to unify the dressing room and execute his on-field plan. The Portuguese has proved this faith wrong at the precise moment he was required to step up and exude a defiant togetherness.</p> <a href=\"https://www.theguardian.com/football/2026/oct/22/bruno-fernandes-betrayal-manchester-united-michael-carrick-culture-of-entitlement\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/22/bruno-fernandes-betrayal-manchester-united-michael-carrick-culture-of-entitlement",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 17:15:50 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Football Daily | Post-Ferguson worn-out horror show continues at Manchester United",
+      "items": [
+        {
+          "title": "Football Daily | Post-Ferguson worn-out horror show continues at Manchester United",
+          "summary": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>We’re in the midst of what the kids call “spooky season” – or, for our fellow fusty old-timers out there, “autumn”. If you’ve been cosying up with a few horror flicks this month, you’ll know nothing good can come from hanging around a lake at this time of year. And so it proved for Manchester United, who endured an early Halloween <a href=\"https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report\">nightmare on the banks of Lake Como</a> that may have driven a stake through the Michael Carrick era. Hailed as the interim anti-Amorim not so long ago, Carrick has overseen two wins this season, <a href=\"https://www.theguardian.com/football/2026/aug/30/manchester-united-ipswich-premier-league-match-report\">against Ipswich</a> and <a href=\"https://www.theguardian.com/football/2026/sep/10/manchester-united-sabah-champions-league-match-report\">Sabah Baku</a>. Como were in Serie D when Carrick won Big Cup with United as a player in 2008 – now, 18 years on, he watched the Italian upstarts dance, twirl and shimmy through the set of training cones he had sent out to represent his storied club.</p><p>Any chance the Independent Football Regulator could <a href=\"https://www.theguardian.com/football/2026/oct/21/manchester-city-david-kogan-independent-football-regulator\">also force the sale</a> of Manchester United while it is at it? – James Marriott.</p><p>Belated birthday greetings to Florent Sinama-Pongolle, a player once described (by Big Website if memory serves) as the only footballer whose surname sounds like an art-house trend – Alan Burgess.</p><p><em><strong>This is an extract from our daily football email … Football Daily. To get the full version,<a href=\"https://preview.gutools.co.uk/info/2016/jan/05/the-fiver-email-sign-up\"> </a><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">just visit this page and follow the instructions</a>.</strong></em> </p> <a href=\"https://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-united\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-united",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 15:44:10 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Emery and Nagelsmann are top targets if Manchester United sack Carrick",
+      "items": [
+        {
+          "title": "Emery and Nagelsmann are top targets if Manchester United sack Carrick",
+          "summary": "<ul><li><p>Carrick expected to be in charge for Bournemouth game</p></li><li><p>Compensation could be obstacle for Aston Villa’s Emery</p></li></ul><p>Unai Emery and Julian Nagelsmann have emerged as leading targets to replace Michael Carrick as Manchester United’s head coach should the board decide on a change after the club’s poorest start to the season since 1986.</p><p>Carrick is expected to remain in place for Sunday’s visit of Bournemouth – he is due to hold his pre-game media conference on Friday – but the 45-year-old’s job is in the balance after two wins from 11 games this season.</p> <a href=\"https://www.theguardian.com/football/2026/oct/22/unai-emery-julian-nagelsmann-manchester-united-michael-carrick\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/22/unai-emery-julian-nagelsmann-manchester-united-michael-carrick",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 15:06:26 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carrick joins Wilcox under the bus after Manchester United’s latest night in crisis | Max Rushden",
+      "items": [
+        {
+          "title": "Carrick joins Wilcox under the bus after Manchester United’s latest night in crisis | Max Rushden",
+          "summary": "<p>Bruno Fernandes followed Lisandro Martínez in revolt after his team’s 4-1 defeat to Como in the Champions League</p><p>You have to credit Manchester United. Your local rivals have turned the Premier League into an almost meaningless farce. We are questioning the validity of anything we’ve seen over the past 20 years; wondering how many goals Erling Haaland will get in the Championship. We are looking at the league table from second position down and wishing we’d invested in inflatable bananas a month ago.</p><p>And yet here comes the Old Trafford machine: from players to the captain to the manager to the director of football, to the director of the director of football, to a minority owner who feels the UK is being <a href=\"https://www.theguardian.com/business/2026/feb/12/jim-ratcliffe-accused-hypocrisy-uk-colonised-immigrants\">“colonised by immigrants”</a>, to debt-leveraging majority owners who take vast sums out of the club and are collectively saying hold my Ineos-sponsored high-performance wellness immune boost smoothie.</p> <a href=\"https://www.theguardian.com/football/2026/oct/22/michael-carrick-bruno-fernandes-jason-wilcox-manchester-united-como-crisis\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/22/michael-carrick-bruno-fernandes-jason-wilcox-manchester-united-como-crisis",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 14:39:20 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Champions League review: PSG take a hit, Man City’s empty seats and teenage hope for Liverpool",
+      "items": [
+        {
+          "title": "Champions League review: PSG take a hit, Man City’s empty seats and teenage hope for Liverpool",
+          "summary": "<p>The reigning champions must deal with the absence of Khvicha Kvaratskhelia for some time, while fans at Anfield were thrilled by Rio Ngumoha</p><p>Paris Saint-Germain <a href=\"https://www.theguardian.com/football/2026/oct/20/paris-saint-germain-psg-barcelona-champions-league-match-report\">beat Barcelona 4-2 on Tuesday</a>, but the reigning champions lost the best player in last season’s tournament, Khvicha Kvaratskhelia. This autumn has seen much lobbying for the Ballon d’Or, with the Georgian a popular choice, despite his absence from the World Cup. He is expected to be out for six months, although Rodri’s comeback from serious injury – he was rested by Barcelona on Tuesday until coming off the bench in the 60th minute – shows it can take far longer than that for players to rediscover their highest level.</p> <a href=\"https://www.theguardian.com/football/2026/oct/22/champions-league-review-psg-take-a-hit-man-citys-empty-seats-and-teenage-hope-for-liverpool\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/22/champions-league-review-psg-take-a-hit-man-citys-empty-seats-and-teenage-hope-for-liverpool",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:42:43 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
+      "items": [
+        {
+          "title": "Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
+          "summary": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/jonathanliew.bsky.social\">Jonathan Liew</a>, <a href=\"https://bsky.app/profile/paul-c-watson.bsky.social\">Paul Watson</a> and <a href=\"https://bsky.app/profile/archiert1.bsky.social\">Archie Rhind-Tutt</a> to discuss the latest Champions League action</p><p><strong>Max Rushden is joined by <a href=\"https://www.theguardian.com/profile/jonathan-liew\">Jonathan Liew</a>, <a href=\"https://www.theguardian.com/profile/paul-watson\">Paul Watson </a>and Archie Rhind-Tutt to discuss Wednesday night’s Champions League action</strong>.</p><p>On the podcast today: another player questions the hierarchy at Manchester United after they are hammered in Como, but should captain Bruno Fernandes have held his tongue? Michael Carrick may be on the brink, but which top manager would even want this job?</p> <a href=\"https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:03:02 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd: Romano outlines next manager plan at Old Trafford in stunning Carrick sack 'decision' - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Romano outlines next manager plan at Old Trafford in stunning Carrick sack 'decision' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnUwV0FxOTlWRzl2NklWUW5qbURRNlNEb1RvUVpxbFRSY3FHbk5BODc2Sm5LZC1oa1lNQkY4ZXFlbzVhRjN1OEpUTU1kOV9SeEktMWdNS2xiZXk2RDA5Ui0yYkFWTjJUZGo4RDFZeWk0NW14RzRYVzU5OEppdzNES0d0SS16dTZvY1dEZkNR?oc=5\" target=\"_blank\">Man Utd: Romano outlines next manager plan at Old Trafford in stunning Carrick sack 'decision'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnUwV0FxOTlWRzl2NklWUW5qbURRNlNEb1RvUVpxbFRSY3FHbk5BODc2Sm5LZC1oa1lNQkY4ZXFlbzVhRjN1OEpUTU1kOV9SeEktMWdNS2xiZXk2RDA5Ui0yYkFWTjJUZGo4RDFZeWk0NW14RzRYVzU5OEppdzNES0d0SS16dTZvY1dEZkNR?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 16:03:33 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano makes Fabian Hurzeler to Man Utd claim after dropping Michael Carrick bombshell - TEAMtalk",
+      "items": [
+        {
+          "title": "Fabrizio Romano makes Fabian Hurzeler to Man Utd claim after dropping Michael Carrick bombshell - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWw5ZnJndlUxZXczLXVndlJyaXlhaWdwcE05aGswcDhIR3NqVDBiRjB0emt4VHlBWlI1VTZQemxkVDhEcTBXU0F5SDdrQm9vdUpSNjFlelZpanFrOW9LdWphRVhfRzFMSWV0UUU2RWxqSkpWSmhUbW9OUC1kRGpqeHFsa1RIVE5CbWxSbzFOT1ZWMmJsVE1SVmxnclNYQWtEWnEzVjlxWWowcV9uN1lqQVlCdlMzS0VYZ2c?oc=5\" target=\"_blank\">Fabrizio Romano makes Fabian Hurzeler to Man Utd claim after dropping Michael Carrick bombshell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWw5ZnJndlUxZXczLXVndlJyaXlhaWdwcE05aGswcDhIR3NqVDBiRjB0emt4VHlBWlI1VTZQemxkVDhEcTBXU0F5SDdrQm9vdUpSNjFlelZpanFrOW9LdWphRVhfRzFMSWV0UUU2RWxqSkpWSmhUbW9OUC1kRGpqeHFsa1RIVE5CbWxSbzFOT1ZWMmJsVE1SVmxnclNYQWtEWnEzVjlxWWowcV9uN1lqQVlCdlMzS0VYZ2c?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 06:49:49 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano: Man Utd Chief Wants 'Incredible' Manager To Replace Michael Carrick - GiveMeSport",
+      "items": [
+        {
+          "title": "Fabrizio Romano: Man Utd Chief Wants 'Incredible' Manager To Replace Michael Carrick - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTJ1aExNYXduUWdjV0g2bFdyREdsMnEtX0ZMV2l0dGdUVGUwVkxwVkJVcUN5UVp6SWlXVXRNeGpqd0JZazk4VGdJZkx1dDZiaGdaeDRueDlIRDZuTURTM3dhSDktcDlxLWlWU0FkMUZ6bWNkZ01hTTVHNmc0UFFQdXoydHJLSTV1?oc=5\" target=\"_blank\">Fabrizio Romano: Man Utd Chief Wants 'Incredible' Manager To Replace Michael Carrick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTJ1aExNYXduUWdjV0g2bFdyREdsMnEtX0ZMV2l0dGdUVGUwVkxwVkJVcUN5UVp6SWlXVXRNeGpqd0JZazk4VGdJZkx1dDZiaGdaeDRueDlIRDZuTURTM3dhSDktcDlxLWlWU0FkMUZ6bWNkZ01hTTVHNmc0UFFQdXoydHJLSTV1?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 17:16:16 GMT"
+        },
+        {
+          "title": "Romano: 'World-Class' Manager Has Already Rejected Chance to Replace Carrick at Man Utd - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXVpdXkwQjcwRDZfNjlaU0JMZWRzZVZJUEloRGVBQjJveklyRVpTb3k5YXNfWmtyQkNyZDVjN3BuVzdhNm1pZXdlUTM4d1FEWEg0elc3Tl8wNUNtUkpMb21yYWRWckYwQUZnR2prY0d4bHhnZEJ0dThLakJXNkJUX3l5SjRPdGcxeVptZGRB?oc=5\" target=\"_blank\">Romano: 'World-Class' Manager Has Already Rejected Chance to Replace Carrick at Man Utd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXVpdXkwQjcwRDZfNjlaU0JMZWRzZVZJUEloRGVBQjJveklyRVpTb3k5YXNfWmtyQkNyZDVjN3BuVzdhNm1pZXdlUTM4d1FEWEg0elc3Tl8wNUNtUkpMb21yYWRWckYwQUZnR2prY0d4bHhnZEJ0dThLakJXNkJUX3l5SjRPdGcxeVptZGRB?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 11:20:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano update on crisis at Manchester United - The Peoples Person",
+      "items": [
+        {
+          "title": "Fabrizio Romano update on crisis at Manchester United - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQUpBRGcxRDVTcXJiNzA0NmlEWXYzSGZYZlhlWXVtX3I2M25obHNWa212NTFjNUdBWF9PeFNWcDlzV1NHRndDVDlveUpaZW9STUp3YXZ4Q19WcVZQTEE4U3duc0JkUUVlUHpudFZ3N0hveVA5S2NPaExhRWtVMzlmTmotUHlpXzZPQlJuY0NPeWI3VXpacVVPMzFQd0xVSFNkX2ZETXJwQkV2aC1GNEJWX3VSeFZ3eEpKR29udkpSZXBqb3M3SUhWc3NkYzA5eEstaGs4QXVoZ242bjFTb1I5bXZLdUZIVFNIZDl1Vmg1dUZtRUtz?oc=5\" target=\"_blank\">Fabrizio Romano update on crisis at Manchester United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQUpBRGcxRDVTcXJiNzA0NmlEWXYzSGZYZlhlWXVtX3I2M25obHNWa212NTFjNUdBWF9PeFNWcDlzV1NHRndDVDlveUpaZW9STUp3YXZ4Q19WcVZQTEE4U3duc0JkUUVlUHpudFZ3N0hveVA5S2NPaExhRWtVMzlmTmotUHlpXzZPQlJuY0NPeWI3VXpacVVPMzFQd0xVSFNkX2ZETXJwQkV2aC1GNEJWX3VSeFZ3eEpKR29udkpSZXBqb3M3SUhWc3NkYzA5eEstaGs4QXVoZ242bjFTb1I5bXZLdUZIVFNIZDl1Vmg1dUZtRUtz?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 04:13:23 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals Man Utd decision on immediately sacking Carrick as INEOS reach 'official' verdict - TEAMtalk",
+      "items": [
+        {
+          "title": "Romano reveals Man Utd decision on immediately sacking Carrick as INEOS reach 'official' verdict - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxON01GU2dGaU1EM3ctUWFfS3UyVWo5ZTRmeVowdS1LRmpSUkRWS0hFWkw5ZzZYMG5saUdzaUhiVE9sR2ZhQUIyVENkNlQxZFdySFV4bzY5cmc5VEJDT0J3dlJmX0l6b0VUSUp4dmlIc2FFNndVU3IzYVlYUmVqTVpZd0lqbG12cDh5aUxkQTBBMGFVTGxZUXQ1TE9fRDRlNVAxSkZaS2FHbGlNUzBXdzlUOFo4NEJmR0FHZUxRQ1UzVU90eE5IUmcxbXpBMG5rQUZkUl9B?oc=5\" target=\"_blank\">Romano reveals Man Utd decision on immediately sacking Carrick as INEOS reach 'official' verdict</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxON01GU2dGaU1EM3ctUWFfS3UyVWo5ZTRmeVowdS1LRmpSUkRWS0hFWkw5ZzZYMG5saUdzaUhiVE9sR2ZhQUIyVENkNlQxZFdySFV4bzY5cmc5VEJDT0J3dlJmX0l6b0VUSUp4dmlIc2FFNndVU3IzYVlYUmVqTVpZd0lqbG12cDh5aUxkQTBBMGFVTGxZUXQ1TE9fRDRlNVAxSkZaS2FHbGlNUzBXdzlUOFo4NEJmR0FHZUxRQ1UzVU90eE5IUmcxbXpBMG5rQUZkUl9B?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 16:22:40 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals Hurzeler stance on Man Utd job and makes Carrick ‘private communications’ claim - Football365",
+      "items": [
+        {
+          "title": "Romano reveals Hurzeler stance on Man Utd job and makes Carrick ‘private communications’ claim - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2VDelQ1Y0VWb0FNSXZCSENmb3ZwU2ZBc182QVdORzlKUWVOS1duWlBpRWlfaVprLVJnTDRLWFl0NFdoempUOVRHTDZyZUx4U2s3ZkN3cGdiLXU1RVRNYmtmUTc4V0ROVWV4U19DemJpNndfYzIxaktpeDk1MU5BdjdyRl9iMEFWZHpCRHBtSzJNRUN2Z2NDQlNpRjdwVGFTZUlEcDNpbUljTkhGc2hRSWtfYw?oc=5\" target=\"_blank\">Romano reveals Hurzeler stance on Man Utd job and makes Carrick ‘private communications’ claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd2VDelQ1Y0VWb0FNSXZCSENmb3ZwU2ZBc182QVdORzlKUWVOS1duWlBpRWlfaVprLVJnTDRLWFl0NFdoempUOVRHTDZyZUx4U2s3ZkN3cGdiLXU1RVRNYmtmUTc4V0ROVWV4U19DemJpNndfYzIxaktpeDk1MU5BdjdyRl9iMEFWZHpCRHBtSzJNRUN2Z2NDQlNpRjdwVGFTZUlEcDNpbUljTkhGc2hRSWtfYw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 22 Oct 2026 13:43:10 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jason Wilcox wants ‘exceptional’ manager at Man United if Carrick is sacked",
+      "items": [
+        {
+          "title": "Jason Wilcox wants ‘exceptional’ manager at Man United if Carrick is sacked",
+          "summary": "<p>Eddie Howe appears to be emerging as the leading candidate to replace Michael Carrick at Manchester United, with technical director Jason Wilcox reportedly favouring the former Newcastle United manager. Carrick remains in charge and is expected to oversee Sunday’s Premier League game against Bournemouth, but United’s seven-match winless run and damaging 4-1 Champions League defeat [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/23/jason-wilcox-exceptional-manager-at-man-united/\">Jason Wilcox wants &#8216;exceptional&#8217; manager at Man United if Carrick is sacked</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/23/jason-wilcox-exceptional-manager-at-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 23 Oct 2026 05:22:48 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Night went from bad to worse for Bruno Fernandes as news emerges after Man United humiliation",
+      "items": [
+        {
+          "title": "Night went from bad to worse for Bruno Fernandes as news emerges after Man United humiliation",
+          "summary": "<p>Manchester United captain Bruno Fernandes was reportedly the victim of a burglary at his Cheshire home while he was in Italy for the club&#8217;s humiliating 4-1 Champions League defeat against Como. The Portuguese midfielder endured a difficult Wednesday evening as United suffered another damaging result under Michael Carrick, but events away from the pitch made [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/22/bruno-fernandes-home-burgled-man-united-como/\">Night went from bad to worse for Bruno Fernandes as news emerges after Man United humiliation</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/22/bruno-fernandes-home-burgled-man-united-como/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 22 Oct 2026 22:33:20 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Talks held: Man United met with big-name manager last night",
+      "items": [
+        {
+          "title": "Talks held: Man United met with big-name manager last night",
+          "summary": "<p>Manchester United reportedly met with former Chelsea and Napoli manager Antonio Conte last night amid growing doubts over Michael Carrick&#8217;s future. The Red Devils have made an awful start to the 2026/27 season, with Carrick really struggling since landing the manager&#8217;s job permanently having initially impressed as interim manager. It now remains to be seen [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/22/man-united-meet-with-antonio-conte/\">Talks held: Man United met with big-name manager last night</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/22/man-united-meet-with-antonio-conte/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 22 Oct 2026 13:46:32 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Free Talk Friday",
+      "items": [
+        {
+          "title": "Free Talk Friday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>What's the craic? </p> <p><strong>Looking for memes? Head over to</strong> <a href=\"https://www.reddit.com/r/memechesterunited\">/r/memechesterunited</a><strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhelansShorts\"> /u/PhelansShorts </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xd4vfx/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xd4vfx/free_talk_friday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xd4vfx/free_talk_friday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-23T05:00:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Melissa Reddy] It doesn’t matter who is linked with becoming Manchester United manager, because whatever the name (and most of those in circulation have previously already been ruled out), they are set up to fail. (..)",
+      "items": [
+        {
+          "title": "[Melissa Reddy] It doesn’t matter who is linked with becoming Manchester United manager, because whatever the name (and most of those in circulation have previously already been ruled out), they are set up to fail. (..)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xckxx7/melissa_reddy_it_doesnt_matter_who_is_linked_with/\"> <img alt=\"[Melissa Reddy] It doesn’t matter who is linked with becoming Manchester United manager, because whatever the name (and most of those in circulation have previously already been ruled out), they are set up to fail. (..)\" src=\"https://preview.redd.it/jn5acen681xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=071f3124b968c37c0b1cdb4fd968223b6dd9c9cd\" title=\"[Melissa Reddy] It doesn’t matter who is linked with becoming Manchester United manager, because whatever the name (and most of those in circulation have previously already been ruled out), they are set up to fail. (..)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>The parasitic Glazer ownership has bled and broken the club, putting a financial noose around it.</p> <p>In 2024, Sir Jim Ratcliffe talked a big game about a “three-year plan” to rival and outdo Manchester City and Liverpool. But the decision-making under INEOS’ charge of football operations has not just been woeful, but costly too. There is zero accountability for expensive mistake after expensive mistake. </p> <p>There is still no clear direction on club identity, including style of play, which leads to profiling the right signings and manager. That was a major promise made by Ratcliffe, which hasn’t been kept. </p> <p>To borrow his own words: “There have been a whole series of coaches, some of which were very good. And none of them were ­successful, or survived for very long.<br /> The only conclusion you can draw is that the ­environment in which they were ­working didn’t work.” </p> <p>It still doesn’t. It never will as long as the people who own and run the club betray Manchester United and what is required to be successful in the modern era. </p> <p>You can harp on about structure, vision, and sell fanciful projects, but you will never have the right operation with the wrong people.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/jn5acen681xh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xckxx7/melissa_reddy_it_doesnt_matter_who_is_linked_with/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xckxx7/melissa_reddy_it_doesnt_matter_who_is_linked_with/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T15:00:20+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[The Athletic] Bruno Fernandes: Police investigating burglary at Manchester United captain’s house following Como loss",
+      "items": [
+        {
+          "title": "[The Athletic] Bruno Fernandes: Police investigating burglary at Manchester United captain’s house following Como loss",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcnbe8/the_athletic_bruno_fernandes_police_investigating/\"> <img alt=\"[The Athletic] Bruno Fernandes: Police investigating burglary at Manchester United captain’s house following Como loss\" src=\"https://external-preview.redd.it/Vf5fnQiwxoWENOZhcUd95Qdga_JiJ3SgH0-YMQNxhWM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=38ba9756d5cd76076ebb3d13c08e3aa59a88b735\" title=\"[The Athletic] Bruno Fernandes: Police investigating burglary at Manchester United captain’s house following Como loss\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7713516/2026/10/22/bruno-fernandes-manchester-united-house-burglary/?unlocked_article_code=1.KlE.iYZB.Glnp8noIYnpZ&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcnbe8/the_athletic_bruno_fernandes_police_investigating/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcnbe8/the_athletic_bruno_fernandes_police_investigating/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T16:27:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Nathan Salt] Growing tensions upstairs as United between Jason Wilcox and Christopher Vivell. Nagelsmann v Prem Proven boss a source of contention, I’m told.",
+      "items": [
+        {
+          "title": "[Nathan Salt] Growing tensions upstairs as United between Jason Wilcox and Christopher Vivell. Nagelsmann v Prem Proven boss a source of contention, I’m told.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xck3vc/nathan_salt_growing_tensions_upstairs_as_united/\"> <img alt=\"[Nathan Salt] Growing tensions upstairs as United between Jason Wilcox and Christopher Vivell. Nagelsmann v Prem Proven boss a source of contention, I’m told.\" src=\"https://external-preview.redd.it/nYGP-XJtRXHHuA5dhq3OLO1bBgqilKQu7482uKovPZM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d514343df1252846688bce5e62e4ed1b2969bac9\" title=\"[Nathan Salt] Growing tensions upstairs as United between Jason Wilcox and Christopher Vivell. Nagelsmann v Prem Proven boss a source of contention, I’m told.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/phant0msinthenight\"> /u/phant0msinthenight </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-16230141/Man-United-stand-Michael-Carrick-charge-Bournemouth-damning-Bruno-Fernandes-interview-emerges-living-past.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xck3vc/nathan_salt_growing_tensions_upstairs_as_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xck3vc/nathan_salt_growing_tensions_upstairs_as_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T14:28:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes to Sky Italia:“At this club, there’s too much focus on what’s been done in the past, but we’re not those people anymore. “The club and the players need to understand that. “Unfortunately for us - the players - those who join expect to win trophies, .. that's been very difficult\"",
+      "items": [
+        {
+          "title": "Bruno Fernandes to Sky Italia:“At this club, there’s too much focus on what’s been done in the past, but we’re not those people anymore. “The club and the players need to understand that. “Unfortunately for us - the players - those who join expect to win trophies, .. that's been very difficult\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcdd1e/bruno_fernandes_to_sky_italiaat_this_club_theres/\"> <img alt=\"Bruno Fernandes to Sky Italia:“At this club, there’s too much focus on what’s been done in the past, but we’re not those people anymore. “The club and the players need to understand that. “Unfortunately for us - the players - those who join expect to win trophies, .. that's been very difficult&quot;\" src=\"https://preview.redd.it/md8v3hbofzwh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=41a542b1d0ad8fe629a1ac049097d961e3196b61\" title=\"Bruno Fernandes to Sky Italia:“At this club, there’s too much focus on what’s been done in the past, but we’re not those people anymore. “The club and the players need to understand that. “Unfortunately for us - the players - those who join expect to win trophies, .. that's been very difficult&quot;\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>[Nathan Salt] Bruno Fernandes to Sky Italia: </p> <p>“At this club, there’s too much focus on what’s been done in the past, but we’re not those people anymore. </p> <p>“The club and the players need to understand that. </p> <p>“Unfortunately for us - especially when it comes to the players - those who join expect to win trophies, win games, and reach the highest level, but unfortunately, that's been very difficult at this club in recent years. That's the situation.”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/md8v3hbofzwh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcdd1e/bruno_fernandes_to_sky_italiaat_this_club_theres/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcdd1e/bruno_fernandes_to_sky_italiaat_this_club_theres/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T08:56:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Danyal Khan, Rob Dorsett] Bruno Fernandes will not be stripped of the Manchester United captaincy or disciplined by the #mufc following his criticism of the coaching staff & tactics used v Como",
+      "items": [
+        {
+          "title": "[Danyal Khan, Rob Dorsett] Bruno Fernandes will not be stripped of the Manchester United captaincy or disciplined by the #mufc following his criticism of the coaching staff & tactics used v Como",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xclvvy/danyal_khan_rob_dorsett_bruno_fernandes_will_not/\"> <img alt=\"[Danyal Khan, Rob Dorsett] Bruno Fernandes will not be stripped of the Manchester United captaincy or disciplined by the #mufc following his criticism of the coaching staff &amp; tactics used v Como\" src=\"https://preview.redd.it/361wbohtf1xh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bc70048ef6af97a0f92564192df47038ad279bd2\" title=\"[Danyal Khan, Rob Dorsett] Bruno Fernandes will not be stripped of the Manchester United captaincy or disciplined by the #mufc following his criticism of the coaching staff &amp; tactics used v Como\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Our understanding while there is some disappointment in the club re: his comments after the game - wider feeling is that he was voicing an understandable frustration and anger at the manner of the defeat. </p> <p>No doubt Carrick to be asked about it again tomorrow ahead of Bournemouth</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://i.redd.it/361wbohtf1xh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xclvvy/danyal_khan_rob_dorsett_bruno_fernandes_will_not/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xclvvy/danyal_khan_rob_dorsett_bruno_fernandes_will_not/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T15:34:53+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Andy Mitten] Man United have had European humiliations before. This one felt particularly awful",
+      "items": [
+        {
+          "title": "[Andy Mitten] Man United have had European humiliations before. This one felt particularly awful",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xco75e/andy_mitten_man_united_have_had_european/\"> <img alt=\"[Andy Mitten] Man United have had European humiliations before. This one felt particularly awful\" src=\"https://external-preview.redd.it/5CLHjTtbKkPuq95173jzHJlHDiB8RssiGInXGU4dbRA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=24d59a81900611692216c9f67494a6fffd6ae0a6\" title=\"[Andy Mitten] Man United have had European humiliations before. This one felt particularly awful\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FlyingSpaceElephants\"> /u/FlyingSpaceElephants </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7714272/2026/10/22/man-utd-como-worst-european-defeats/?unlocked_article_code=1.KlE.FrGZ.mUt1gaPI2P7K\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xco75e/andy_mitten_man_united_have_had_european/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xco75e/andy_mitten_man_united_have_had_european/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T17:00:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United's five-man shortlist to replace Michael Carrick revealed: Fabian Hurzeler admired but Brighton compensation obstacle looms, while Eddie Howe and Julian Nagelsmann are in the race for Old Trafford hotseat [Chris Wheeler]",
+      "items": [
+        {
+          "title": "Man United's five-man shortlist to replace Michael Carrick revealed: Fabian Hurzeler admired but Brighton compensation obstacle looms, while Eddie Howe and Julian Nagelsmann are in the race for Old Trafford hotseat [Chris Wheeler]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcfrqt/man_uniteds_fiveman_shortlist_to_replace_michael/\"> <img alt=\"Man United's five-man shortlist to replace Michael Carrick revealed: Fabian Hurzeler admired but Brighton compensation obstacle looms, while Eddie Howe and Julian Nagelsmann are in the race for Old Trafford hotseat [Chris Wheeler]\" src=\"https://external-preview.redd.it/bSzdFmP7iyX1ETdpJs1P7GFeZx-GBoYqPSD_w1vvXQU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d7ab64cee745f2b07cdcfac483f0695cc778ba5\" title=\"Man United's five-man shortlist to replace Michael Carrick revealed: Fabian Hurzeler admired but Brighton compensation obstacle looms, while Eddie Howe and Julian Nagelsmann are in the race for Old Trafford hotseat [Chris Wheeler]\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Hurzeler, Nagelsmann, Conte, Howe, McKenna.</p> <blockquote> <p>There are some intriguing possibilities. Brighton's Fabian Hurzeler is known to have admirers at Old Trafford, but it will not be cheap to extract the German from the Amex Stadium after he signed a new contract in June.</p> <p>It cost Chelsea £20m in compensation for Graham Potter and his coaching staff in 2022. United are £1billion in debt and cannot keep paying out compensation to change managers.</p> <p>Julian Nagelsmann and Antonio Conte are both available, as well as two young British options in Eddie Howe and Kieran McKenna.</p> </blockquote> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-16229005/Man-Uniteds-five-man-shortlist-replace-Michael-Carrick-revealed-Fabian-Hurzeler-admired-Brighton-compensation-obstacle-looms-Eddie-Howe-Julian-Nagelsmann-race-Old-Trafford-hotseat.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcfrqt/man_uniteds_fiveman_shortlist_to_replace_michael/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcfrqt/man_uniteds_fiveman_shortlist_to_replace_michael/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T11:17:01+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Breaking: Michael Carrick will hold a pre-match press conference at Carrington on Friday and speak to the media. #mufc sources say it's confirmation that it's business as usual. [Chris Wheeler]",
+      "items": [
+        {
+          "title": "Breaking: Michael Carrick will hold a pre-match press conference at Carrington on Friday and speak to the media. #mufc sources say it's confirmation that it's business as usual. [Chris Wheeler]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xci11o/breaking_michael_carrick_will_hold_a_prematch/\"> <img alt=\"Breaking: Michael Carrick will hold a pre-match press conference at Carrington on Friday and speak to the media. #mufc sources say it's confirmation that it's business as usual. [Chris Wheeler]\" src=\"https://preview.redd.it/ply13b80p0xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3068df3236f499ffe2ac0eaa391264f98d45a27e\" title=\"Breaking: Michael Carrick will hold a pre-match press conference at Carrington on Friday and speak to the media. #mufc sources say it's confirmation that it's business as usual. [Chris Wheeler]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/ply13b80p0xh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xci11o/breaking_michael_carrick_will_hold_a_prematch/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xci11o/breaking_michael_carrick_will_hold_a_prematch/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T13:04:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Paul Hirst] Man United hierarchy stunned by poor standards from players | Senior figures at club to decide Michael Carrick’s future following 4-1 loss by Como but are understood to sympathise with head coach given squad’s sub-par display",
+      "items": [
+        {
+          "title": "[Paul Hirst] Man United hierarchy stunned by poor standards from players | Senior figures at club to decide Michael Carrick’s future following 4-1 loss by Como but are understood to sympathise with head coach given squad’s sub-par display",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.thetimes.com/sport/football/article/x-dwl3zzqnr\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xce1ig/paul_hirst_man_united_hierarchy_stunned_by_poor/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xce1ig/paul_hirst_man_united_hierarchy_stunned_by_poor/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T09:38:32+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Cesc Fabregas explaining Como's tactics against Man United",
+      "items": [
+        {
+          "title": "Cesc Fabregas explaining Como's tactics against Man United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcnshh/cesc_fabregas_explaining_comos_tactics_against/\"> <img alt=\"Cesc Fabregas explaining Como's tactics against Man United\" src=\"https://external-preview.redd.it/ze2QfDgFYD1Ij653_1JBFA3uWi0RGMmPBAzdUc9FYAE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cd1ae7c2b999bebbf13fdbad1b204eccb1340b03\" title=\"Cesc Fabregas explaining Como's tactics against Man United\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>&quot;No, I mean it's all about occupying the right spaces at the right time with the right rotations and having an objective. I don't like passing the ball just to pass the ball. I need to pass the ball at the right time.</p> <p>If they press in a certain way, we know where the two-on-one is. If they play man-to-man, we know that this is where the space is. And we try to work on this, and we try to attract players in a certain way to get them out of position to then try to hurt them. This is the football that we believe in.</p> <p>Today we had a lot of possession, especially in the first half, but it was because they were not coming man-to-man; they were always leaving a plus one at the back. So we felt more comfortable trying to do the overloads, either with the two center-backs against their striker, or when one was trying to jump as a center-back, then our fullback was a little bit more free.</p> <p>So we try to always plan the game depending on what we study from the opposition and where we think we can hurt them. But this, everyone does it today. It worked very well, and as I said to you, the most important is to have an objective of how to try to play forward and how to hurt the other team.&quot;</p> <p>Fàbregas concludes by emphasizing that the &quot;future of football is &quot;relationships&quot; between players, noting that maintaining shorter distances (7-10 meters) allows for a more effective, fluid positional game.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ThENiGhTPuRReR\"> /u/ThENiGhTPuRReR </a> <br /> <span><a href=\"https://youtu.be/3U-ccWvguAI?t=145\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcnshh/cesc_fabregas_explaining_comos_tactics_against/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcnshh/cesc_fabregas_explaining_comos_tactics_against/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T16:45:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Simon Stone] Carrick carrying on as normal as Man Utd eye possible replacements",
+      "items": [
+        {
+          "title": "[Simon Stone] Carrick carrying on as normal as Man Utd eye possible replacements",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xciadq/simon_stone_carrick_carrying_on_as_normal_as_man/\"> <img alt=\"[Simon Stone] Carrick carrying on as normal as Man Utd eye possible replacements\" src=\"https://external-preview.redd.it/wEGcmfAUI34XQeCPlZC3HMKPX6M8SNTrsAh8Ndb3nBk.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ef167a85374e87e99879d0ce0836299335dce87\" title=\"[Simon Stone] Carrick carrying on as normal as Man Utd eye possible replacements\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/cm1wvl5524rno\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xciadq/simon_stone_carrick_carrying_on_as_normal_as_man/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xciadq/simon_stone_carrick_carrying_on_as_normal_as_man/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T13:16:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United, INEOS and a failing sports empire",
+      "items": [
+        {
+          "title": "Man United, INEOS and a failing sports empire",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcphr0/man_united_ineos_and_a_failing_sports_empire/\"> <img alt=\"Man United, INEOS and a failing sports empire\" src=\"https://external-preview.redd.it/Gt8Dko9EM22ITTQwWQg-TmHlTWLdQ5wPY5pakLVTiN0.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5851c2d0e255189126fbff4c462101fee74f9145\" title=\"Man United, INEOS and a failing sports empire\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Manchester United’s ownership is in the firing line again, with players accusing leadership of negligence, just two wins so far all season and a humiliating defeat to Como in the Champions League.</p> <p>So with United in their latest doom cycle and growing unrest across their other clubs and investments, is Jim Ratcliffe’s INEOS sports empire crumbling?</p> <p>Kate Mason is joined by Matt Slater, Adam Crafton and former England international Rob Green to examine the impact of United's constant failings on the INEOS landscape</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Redroobarb\"> /u/Redroobarb </a> <br /> <span><a href=\"https://youtu.be/EyRzpMxAZVk?is=yVY_Hyddw6R7lLZq\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcphr0/man_united_ineos_and_a_failing_sports_empire/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcphr0/man_united_ineos_and_a_failing_sports_empire/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T17:47:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xd1e6w/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xd1e6w/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xd1e6w/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-23T02:00:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carragher calls out Bruno Fernandes, says “he does things for the crowd and runs all over the place like a kid in a schoolyard for the supporters. They all think he’s working hard, he’s not. He’s killing the rest of the team doing it.”",
+      "items": [
+        {
+          "title": "Carragher calls out Bruno Fernandes, says “he does things for the crowd and runs all over the place like a kid in a schoolyard for the supporters. They all think he’s working hard, he’s not. He’s killing the rest of the team doing it.”",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/riseoftheph0enix\"> /u/riseoftheph0enix </a> <br /> <span><a href=\"https://v.redd.it/e6a92c8w0zwh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcceyx/carragher_calls_out_bruno_fernandes_says_he_does/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcceyx/carragher_calls_out_bruno_fernandes_says_he_does/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T07:54:19+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Whitwell] Michael Carrick is now in peril but Manchester United’s problems run so much deeper",
+      "items": [
+        {
+          "title": "[Whitwell] Michael Carrick is now in peril but Manchester United’s problems run so much deeper",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcbjqs/whitwell_michael_carrick_is_now_in_peril_but/\"> <img alt=\"[Whitwell] Michael Carrick is now in peril but Manchester United’s problems run so much deeper\" src=\"https://external-preview.redd.it/Yvb1WSsuzZuAaf4HvN8R6SMMpSfuOrThjVpdPsLZGkA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e3e0c90e0372f2c456a1170607149f22a2e767a\" title=\"[Whitwell] Michael Carrick is now in peril but Manchester United’s problems run so much deeper\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Before the final whistle blew at the Stadio Giuseppe Sinigaglia, Michael Carrick knew what he was going to do.</p> <p>He acknowledged Cesc Fabregas on Como’s 4-1 win, then strode across the pitch and held up his hands in apology to the few dozen or so Manchester United fans who had stayed through the rain and an utterly lifeless performance. </p> <p>Ole Gunnar Solskjaer did similar when losing by the same scoreline to Watford in November 2021. For Solskjaer, the act very much felt like a farewell gesture — indeed he has said he knew his reign was over at half-time. </p> <p>It is now inevitable to wonder if Carrick is waving goodbye to United, too.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7713278/2026/10/22/michael-carrick-man-utd-sack-manager/?unlocked_article_code=1.KlE.o4bM.kMdBP1nXnzuw&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcbjqs/whitwell_michael_carrick_is_now_in_peril_but/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcbjqs/whitwell_michael_carrick_is_now_in_peril_but/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T06:59:25+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Liverpool 3-5 Man Utd | Highlights | Subway Players Cup",
+      "items": [
+        {
+          "title": "Liverpool 3-5 Man Utd | Highlights | Subway Players Cup",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xcch2e/liverpool_35_man_utd_highlights_subway_players_cup/\"> <img alt=\"Liverpool 3-5 Man Utd | Highlights | Subway Players Cup\" src=\"https://external-preview.redd.it/FrKzie9k97FBb_unK7oEA90X3zoHokwF0CCyLYRF-no.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9193b411c861e7ee21805222377301bc52610588\" title=\"Liverpool 3-5 Man Utd | Highlights | Subway Players Cup\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=MC-smvfipu8\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xcch2e/liverpool_35_man_utd_highlights_subway_players_cup/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xcch2e/liverpool_35_man_utd_highlights_subway_players_cup/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-22T07:58:09+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 95,
+    "story_count": 84
+  }
+}
