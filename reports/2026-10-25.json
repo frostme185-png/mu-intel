@@ -1,0 +1,707 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T05:47:24.179224+00:00",
+  "match_data": {
+    "collected_at": "2026-10-25T05:47:17.698700+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man Utd not an unmanageable club - Carrick",
+      "items": [
+        {
+          "title": "Man Utd not an unmanageable club - Carrick",
+          "summary": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on to his job with Bournemouth visiting Old Trafford on Sunday.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 24 Oct 2026 21:34:19 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
+      "items": [
+        {
+          "title": "Malacia has 'no regrets' over Man Utd - despite having to train with kids",
+          "summary": "Tyrell Malacia opens up on his time at Manchester United after moving to FC Cincinnati to restart his career in Major League Soccer.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cjx23d4p2v3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 24 Oct 2026 06:19:26 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kai Rooney has fans all saying the same thing as Man United U18s beat Liverpool",
+      "items": [
+        {
+          "title": "Kai Rooney has fans all saying the same thing as Man United U18s beat Liverpool",
+          "summary": "Kai Rooney has been making waves in Manchester United's academy and fans are all saying the same things after his outing against Liverpool's Under-18s",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/kai-rooney-man-united-liverpool-34813435",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 18:16:56 +0000"
+        },
+        {
+          "title": "Kai Rooney stuns fans as they call for Man Utd promotion after win over Liverpool U18s",
+          "summary": "Kai Rooney has set Manchester United fans' tongues wagging after his performance against Liverpool's Under-18s",
+          "url": "https://www.mirror.co.uk/sport/football/news/kai-rooney-man-utd-liverpool-37807171",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 15:57:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Academy wonderkid sends clear message as dressing room issue emerges",
+      "items": [
+        {
+          "title": "Man United latest: Academy wonderkid sends clear message as dressing room issue emerges",
+          "summary": "Michael Carrick finds himself under growing pressure at Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-carrick-gabriel-fernandes-34813331",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 25 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United line-up vs Bournemouth predicted as Bruno Fernandes decision made",
+      "items": [
+        {
+          "title": "Manchester United line-up vs Bournemouth predicted as Bruno Fernandes decision made",
+          "summary": "Michael Carrick is in desperate need of a win and he will be hoping Man United can deliver against AFC Bournemouth",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-line-up-vs-34808663",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 25 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "I watched Sir Alex Ferguson kick boot at David Beckham - this is what I saw",
+      "items": [
+        {
+          "title": "I watched Sir Alex Ferguson kick boot at David Beckham - this is what I saw",
+          "summary": "A former Manchester United player has lifted the lid on what really happened in the dressing room between Sir David Beckham and Sir Alex Ferguson",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/alex-ferguson-david-beckham-boot-34805018",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 25 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick reveals conversations with Ferguson and Solskjaer amid Man United struggles",
+      "items": [
+        {
+          "title": "Michael Carrick reveals conversations with Ferguson and Solskjaer amid Man United struggles",
+          "summary": "Man Utd have made an awful start to the season, cranking up the pressure on head coach Michael Carrick.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-reveals-conversations-ferguson-34805119",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 25 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick refuses to blame lack of signings for Manchester United's results",
+      "items": [
+        {
+          "title": "Michael Carrick refuses to blame lack of signings for Manchester United's results",
+          "summary": "Man Utd spent £150m in the summer transfer window, significantly less than their rivals in the Premier League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-refuses-blame-lack-34805120",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 25 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rashford, Martinez, Heaven - Manchester United injury news and return dates before Bournemouth",
+      "items": [
+        {
+          "title": "Rashford, Martinez, Heaven - Manchester United injury news and return dates before Bournemouth",
+          "summary": "Manchester United will be desperate for three points this afternoon when they host AFC Bournemouth in the Premier League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/rashford-martinez-heaven-manchester-united-34809530",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 25 Oct 2026 03:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd fans issued warning as tram lines closed for Sunday's match at Old Trafford",
+      "items": [
+        {
+          "title": "Man Utd fans issued warning as tram lines closed for Sunday's match at Old Trafford",
+          "summary": "Replacement shuttle buses costing £2-a-ride are being laid on",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-utd-fans-issued-warning-34813534",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 19:41:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Senne Lammens reveals how Man United squad really feel about Michael Carrick as revolt starts",
+      "items": [
+        {
+          "title": "Senne Lammens reveals how Man United squad really feel about Michael Carrick as revolt starts",
+          "summary": "Michael Carrick is under serious pressure to deliver results",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/senne-lammens-man-united-carrick-34812322",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 13:16:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick delivered brutal Man United comparison after squad speaks out",
+      "items": [
+        {
+          "title": "Michael Carrick delivered brutal Man United comparison after squad speaks out",
+          "summary": "Bruno Fernandes and Lisandro Martinez speaking out about Manchester United after their matches has now led to a brutal comparison being made with Michael Carrick",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-man-utd-michael-carrick-34812213",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 12:51:40 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick's future as coaching staff scrutinised - Manchester United questions answered",
+      "items": [
+        {
+          "title": "Michael Carrick's future as coaching staff scrutinised - Manchester United questions answered",
+          "summary": "Michael Carrick seems on borrowed time at Man Utd following a heavy defeat to Como in the Champions League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carricks-future-coaching-staff-34805299",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ex-Man United star reveals 'mentally tough' time after Ruben Amorim exile with no explanation",
+      "items": [
+        {
+          "title": "Ex-Man United star reveals 'mentally tough' time after Ruben Amorim exile with no explanation",
+          "summary": "Tyrell Malacia has revealed the tough times he endured in Manchester United's 'bomb squad' following Ruben Amorim's arrival at the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ruben-amorim-malacia-34811567",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 10:10:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Kai Rooney's Man United boost after JJ Gabriel decision and Michael Carrick rule change",
+      "items": [
+        {
+          "title": "Kai Rooney's Man United boost after JJ Gabriel decision and Michael Carrick rule change",
+          "summary": "The son of former United captain Wayne Rooney is being given chances at various levels this season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/kai-rooney-gabriel-man-united-34806634",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news: 'New JJ Gabriel' proves his worth as huge dressing room problem emerges",
+      "items": [
+        {
+          "title": "Man Utd news: 'New JJ Gabriel' proves his worth as huge dressing room problem emerges",
+          "summary": "Michael Carrick is under serious pressure at Manchester United, while JJ Gabriel's future with the club remains up in the air amid interest from Real Madrid and Paris Saint-Germain",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-jj-gabriel-carrick-37807052",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 25 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens goes against the grain with Michael Carrick comments as Man Utd boss under pressure",
+      "items": [
+        {
+          "title": "Senne Lammens goes against the grain with Michael Carrick comments as Man Utd boss under pressure",
+          "summary": "Michael Carrick is fighting for his job at Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/senne-lammens-man-utd-carrick-37806836",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 14:03:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick told Man Utd squad revolt 'wouldn't have happened' under Sir Alex Ferguson",
+      "items": [
+        {
+          "title": "Michael Carrick told Man Utd squad revolt 'wouldn't have happened' under Sir Alex Ferguson",
+          "summary": "Sir Alex Ferguson ruled Manchester United with an iron fist during his 26 years in charge at Old Trafford and is witnessing a squad revolt under Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-ferguson-37806796",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 13:50:59 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I played against Rio Ferdinand and John Terry but another Barclaysman was better'",
+      "items": [
+        {
+          "title": "'I played against Rio Ferdinand and John Terry but another Barclaysman was better'",
+          "summary": "Rio Ferdinand and John Terry are two titans of the Premier League, but one former Liverpool star believes another defender was even better",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-chelsea-premier-league-37806716",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 13:24:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Ex-Man Utd star opens up on Ruben Amorim ‘bomb squad’ with no reason given for ‘tough’ time",
+      "items": [
+        {
+          "title": "Ex-Man Utd star opens up on Ruben Amorim ‘bomb squad’ with no reason given for ‘tough’ time",
+          "summary": "Former Manchester United defender Tyrell Malacia has opened up on his tough time at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-tyrell-malacia-amorim-37806398",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 11:20:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Former Man Utd chief who Sir Jim Ratcliffe axed lands new job with EFL club",
+      "items": [
+        {
+          "title": "Former Man Utd chief who Sir Jim Ratcliffe axed lands new job with EFL club",
+          "summary": "Sir Jim Ratcliffe didn't waste time making changes when he purchased a minority stake in Manchester United in 2024 and took control of the club's football operations",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-john-murtough-birmingham-37806377",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 11:07:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Gary Lineker warns Cesc Fabregas off 'graveyard' Man Utd - 'He'd be mad'",
+      "items": [
+        {
+          "title": "Gary Lineker warns Cesc Fabregas off 'graveyard' Man Utd - 'He'd be mad'",
+          "summary": "Former Arsenal and Chelsea midfielder Cesc Fabregas has been touted as a potential replacement for Michael Carrick after Como's big win over Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-lineker-warns-cesc-fabregas-37806189",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 24 Oct 2026 09:09:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United manager candidates have one major reservation over taking the job",
+      "items": [
+        {
+          "title": "Man United manager candidates have one major reservation over taking the job",
+          "summary": "<p>Potential replacements for Michael Carrick reportedly believe Manchester United’s dressing room requires major disciplinary changes, with concerns that some players have become too outspoken during the club’s latest crisis. United are without a win in seven matches and head into Sunday’s meeting with Bournemouth under intense pressure following their 4-1 Champions League defeat to Como. [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/24/man-united-manager-candidates-one-major-reservation/\">Man United manager candidates have one major reservation over taking the job</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/24/man-united-manager-candidates-one-major-reservation/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 24 Oct 2026 09:25:42 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United make “solid defender” their top target ahead of January transfer window",
+      "items": [
+        {
+          "title": "Man United make “solid defender” their top target ahead of January transfer window",
+          "summary": "<p>Manchester United are ready to shift their transfer focus towards strengthening the defence in January, with RB Leipzig captain David Raum emerging as their leading target, according to Daily Briefing. After significant investment elsewhere in Michael Carrick’s squad, left-back and centre-back are now considered priority areas. Raum appears to be the most attainable high-level option, [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/24/man-united-make-solid-defender-their-top-target-january/\">Man United make &#8220;solid defender&#8221; their top target ahead of January transfer window</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/24/man-united-make-solid-defender-their-top-target-january/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 24 Oct 2026 09:20:50 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Not Conte or Hurzeler: Top two candidates to replace Carrick at Man United named",
+      "items": [
+        {
+          "title": "Not Conte or Hurzeler: Top two candidates to replace Carrick at Man United named",
+          "summary": "<p>Manchester United have reportedly placed Unai Emery and Julian Nagelsmann at the front of their thinking if they decide to replace Michael Carrick, with pressure continuing to build after a dreadful start to the season. Carrick remains in charge and is expected to lead United against Bournemouth, but just two wins from 11 matches and [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/24/not-conte-hurzeler-two-candidates-replace-carrick-man-united/\">Not Conte or Hurzeler: Top two candidates to replace Carrick at Man United named</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/24/not-conte-hurzeler-two-candidates-replace-carrick-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 24 Oct 2026 07:57:44 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xenoeq/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xenoeq/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xenoeq/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-25T00:00:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Pre Match Thread] Premier League Game 8 | Manchester United vs AFC Bournemouth",
+      "items": [
+        {
+          "title": "[Pre Match Thread] Premier League Game 8 | Manchester United vs AFC Bournemouth",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1><strong><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> Manchester United vs AFC Bournemouth <a href=\"https://www.reddit.com/r/reddevils/.rss#AFCB\"></a></strong></h1> <hr /> <p><strong>Competition:</strong> <a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League | <strong>Date:</strong> 25th October</p> <p><strong>Kick off:</strong> 14:00 GMT | <strong>Venue:</strong> Old Trafford</p> <p><strong>Referee:</strong> Jared Gillett | <strong>TV:</strong> Sky Sports</p> <hr /> <h1><strong>Team News:</strong></h1> <p><strong>Possible starting XI</strong>:</p> <pre><code>---------Lammens----------- --Dalot-Yoro-Maguire-Heaven-- ------Baleba---Santos----- --Amad---Tielemans--Fernandes-- ----------Mbeumo----------- </code></pre> <p><strong>Possible bench:</strong> Darlow, de Ligt, Amass, Fletcher, Mazraoui, Mount, Lacey, Cunha, Zirkzee</p> <hr /> <ul> <li><p>Ayden Heaven is due to return after recovering from illness</p></li> <li><p>Leny Yoro is available after being suspended midweek</p></li> <li><p>No returns expected for Shaw, Sesko or Dorgu.</p></li> <li><p>Matthijs de Ligt returned to the starting lineup midweek</p></li> <li><p>No confirmations on the fitness of Mainoo, Martinez or Rashford.</p></li> </ul> <hr /> <p><strong>Injuries/Suspensions:</strong></p> <table><thead> <tr> <th align=\"center\">Player</th> <th align=\"center\">Injury/Ban</th> <th align=\"center\">Position</th> <th align=\"center\">Return Date</th> </tr> </thead><tbody> <tr> <td align=\"center\">Lisandro Martinez</td> <td align=\"center\">Knock</td> <td align=\"center\">CB</td> <td align=\"center\">25th October</td> </tr> <tr> <td align=\"center\">Marcus Rashford</td> <td align=\"center\">Hip</td> <td align=\"center\">LW</td> <td align=\"center\">TBC</td> </tr> <tr> <td align=\"center\">Ayden Heaven</td> <td align=\"center\">Illness</td> <td align=\"center\">CB</td> <td align=\"center\">25th October</td> </tr> <tr> <td align=\"center\">Kobbie Mainoo</td> <td align=\"center\">TBC</td> <td align=\"center\">CM</td> <td align=\"center\">31st October</td> </tr> <tr> <td align=\"center\">Luke Shaw</td> <td align=\"center\">TBC</td> <td align=\"center\">LB</td> <td align=\"center\">8th November</td> </tr> <tr> <td align=\"center\">Patrick Dorgu</td> <td align=\"center\">Hamstring</td> <td align=\"center\">LW</td> <td align=\"center\">31st October</td> </tr> <tr> <td align=\"center\">Benjamin Sesko</td> <td align=\"center\">Shin</td> <td align=\"center\">ST</td> <td align=\"center\">22nd November</td> </tr> <tr> <td align=\"center\">Manuel Ugarte</td> <td align=\"center\">ACL</td> <td align=\"center\">DM</td> <td align=\"center\">January</td> </tr> </tbody></table> <hr /> <h1><strong>Form guide:</strong></h1> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> United: <strong>L D D L D L</strong> | Home form: <strong>W W L L D</strong></p> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#AFCB\"></a> Bournemouth: <strong>W L L W W W</strong> | Away form: <strong>L D W L</strong></p> <hr /> <h1><strong>Last 3 meetings:</strong></h1> <table><thead> <tr> <th align=\"center\">Result</th> <th align=\"center\">Comp</th> <th align=\"center\">Venue</th> <th align=\"center\">Season</th> </tr> </thead><tbody> <tr> <td align=\"center\">2-2 D</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Vitality Stadium</td> <td align=\"center\">25/26</td> </tr> <tr> <td align=\"center\">4-4 D</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Old Trafford</td> <td align=\"center\">2526</td> </tr> <tr> <td align=\"center\">1-1 D</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Vitality Stadium</td> <td align=\"center\">24/25</td> </tr> </tbody></table> <hr /> <h1><strong>Opposition News</strong></h1> <p>Kroupi Jr should be in the squad for the first time this season</p> <p>Alex Scott is out. </p> <hr /> <p><strong>YOU WILL BE ABLE TO SEE FULL MATCH HIGHLIGHTS AFTER THE GAME ON <a href=\"https://www.reddit.com/r/footballhighlights\">/r/footballhighlights</a>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe6ve1/pre_match_thread_premier_league_game_8_manchester/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe6ve1/pre_match_thread_premier_league_game_8_manchester/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe6ve1/pre_match_thread_premier_league_game_8_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T12:02:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Press Conference - Part 2] Carrick: \"I fully understand the situation & I understand my position and I know what this football club means to so many people. The history (of the club) is one thing & It doesn't give you the right to keep winning. Teams that win earn the right to win\"",
+      "items": [
+        {
+          "title": "[Press Conference - Part 2] Carrick: \"I fully understand the situation & I understand my position and I know what this football club means to so many people. The history (of the club) is one thing & It doesn't give you the right to keep winning. Teams that win earn the right to win\"",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick's Pre-Match Press Conference - Part 2 | United vs Bournemouth</p> <p><strong>Simon Stone</strong></p> <p>Michael Carrick was asked on Friday if ManUtd is unmanageable. His answer was brief: “No.”</p> <p><strong>Steven Railston</strong></p> <p>I asked Michael Carrick if he agreed United’s failure to adequately strengthen the squad over the summer has been a factor in poor results. </p> <p>He responded: “I think there's a lot of elements, different elements, some smaller than others of why that and why we've ended up not winning as many games. So, I'm pretty clear about that.” </p> <p>Asked if anyone from the hierarchy had conceded he could have received more support, he said: </p> <p>“It's not about receiving more support, it's about doing what's right on the football pitch to get results and we haven't done enough of that lately.”</p> <h1>EVERY WORD FROM PRESS CONFERENCE - PART 2</h1> <p><a href=\"https://www.manutd.com/en/news/carrick-fully-understands-the-situation-oct-2026\">https://www.manutd.com/en/news/carrick-fully-understands-the-situation-oct-2026</a></p> <h1>Carrick 'fully understands' the situation</h1> <p><strong>Hi Michael, I know you've been reluctant to outright say that the lack of signings or more signings across the summer has been a factor this season. Do you agree potentially that it has been a factor in these poor results? Because, last season, you said you've won more points than any other Premier League manager and it's been so different this time around. Do you think that is a factor at play here?</strong></p> <p>“I think there's a lot of elements, different elements, some smaller than others, of why we've ended up not winning as many games. So, I'm pretty clear about that.”</p> <p><strong>Has anyone from above conceded that perhaps you could have received more support across the system?</strong></p> <p>“No, it's not about receiving more support, it's about doing what's right on the football pitch to get results and we haven't done enough of that lately.”</p> <p><strong>When you came in, last Friday, you talked about how good the training had been before Leeds and then there was a positive performance at Leeds. It felt like you went to Como with a little bit more positivity and, because of that, the manner of the performance at Como was a little bit of a shock maybe. With that in mind, do you trust the players on Sunday to deliver what you're asking them to?</strong></p> <p>“I definitely trust them, yeah 100 per cent, I trust them. It wasn't a very good night at all for so many reasons. We all know that, I think that's pretty obvious. I definitely trust them, yeah, I trust them. We'll be a different team on Sunday. We have to be a different team on Sunday.”</p> <p><strong>Michael, just coming back to Simon's question before and your comment to Bruno on Wednesday night about running. Ruben Amorim came into this job and he said he'd make the players run like mad dogs. It didn’t happen. We know, Erik ten Hag had to send them on a punishment run in his second or third game because of the lack of running. Ralf Rangnick came here with a name for having his gegenpress and high pressing. It lasted half a game. Why are the players here not running? It's a basic requirement of an athlete and it seems staggering to us and to the fans why, over many years now, the players are not simply running…</strong></p> <p>“I think you've got to be careful [about what I said], I was just saying ‘not running.’ As I said, we've won a lot of games over a period of time. And this pressing thing that suddenly everyone thinks about pressing. Pressing is one small part of football. There's all sorts of different ways of what people are classed as a press, what actually is it, what you're doing it for, is it to your strength, is it covering up all the spaces. It's just thrown about as a bit of a word, at the minute, of pressing. You don't necessarily need to press to win games of football. Sometimes you do, sometimes you don't. It's just a thing that gets thrown about. So, we've got to be a bit careful with that. As I say, it's not necessarily just running stats that define football games either. So, we've just got to get back to doing a lot of the things that we were doing last season. And, for certain parts of the season and certain games, we've been okay. We need to get back to being at our best.”</p> <p><strong>It feels like part of a wider cultural issue here. Since Como, in your defence, people have floated the idea that this team, this club at the moment, is unmanageable. Do you feel it's unmanageable?</strong></p> <p>“No.”</p> <p><strong>Just a little bit on what was so successful in that period when you were interim manager. It felt like there was a lot more urgency and adventure to the play. Do you feel like you can still play that way with this group in this current form with the players that are out and with the signings and everything? That feels like maybe that was what Bruno Fernandes was perhaps striking at the heart of.</strong></p> <p>“We can play in different ways. We just haven't played well enough. I think it gets looked into all sorts of different styles and different this and that and presses. It tries to get dissected in all sorts of different ways. We can be a lot better than we have been, whatever way we end up playing, whatever system, whatever the tactics, we can be a lot better than that and we have to be.”</p> <p><strong>In terms of opening this with a very stirring monologue invoking your history with the club, the thought process behind that and wanting to take initiative here, where did that come from?</strong></p> <p>“Because I understand the situation. <strong>I fully understand the situation and I understand my position and I know what this football club means to so many people and I don't, again, please don't say that the history is one thing and that's why it doesn't give you the right to keep winning. Teams that win earn the right to win.</strong> So, it's important that we draw inspiration from the history in the past of what's gone on, but our responsibility is to carry that forward and it's so important to me that we do that.”</p> <p><strong>Hi Michael, you mentioned [Sir Alex] Ferguson in your opening address, have you sought any advice from him or Ole [Gunnar Solskjaer] for that matter given the difficult time he went through?</strong></p> <p>“I speak to both of them quite regularly, to be honest. There's nothing, in particular, from that. I'm close to both of them and we do have regular conversations, so it's nothing different this week.” </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xeku5u/press_conference_part_2_carrick_i_fully/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xeku5u/press_conference_part_2_carrick_i_fully/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xeku5u/press_conference_part_2_carrick_i_fully/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T21:47:52+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Sky Sports] Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick",
+      "items": [
+        {
+          "title": "[Sky Sports] Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe45we/sky_sports_senne_lammens_manchester_united/\"> <img alt=\"[Sky Sports] Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick\" src=\"https://external-preview.redd.it/qDx52MHI0UhClrMjn60mfVOqn8R62EXA0styTHoWjn8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b8474f1aaedb7b560a257489eb5099cdc040ec69\" title=\"[Sky Sports] Senne Lammens: Manchester United players are united and behind under-pressure boss Michael Carrick\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/berbatouchbg\"> /u/berbatouchbg </a> <br /> <span><a href=\"https://www.skysports.com/football/news/13602864/senne-lammens-manchester-united-players-are-united-and-behind-under-pressure-boss-michael-carrick\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe45we/sky_sports_senne_lammens_manchester_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe45we/sky_sports_senne_lammens_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T09:24:41+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "United U18s [6]-3 Liverpool U18s - Jaume Camacho (poker) 90+3'",
+      "items": [
+        {
+          "title": "United U18s [6]-3 Liverpool U18s - Jaume Camacho (poker) 90+3'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe6qi2/united_u18s_63_liverpool_u18s_jaume_camacho_poker/\"> <img alt=\"United U18s [6]-3 Liverpool U18s - Jaume Camacho (poker) 90+3'\" src=\"https://external-preview.redd.it/dzltemlkMm1tZXhoMRT9gWDJm2buQngqtrnzvYKIzN8wLz4T_bx5BChdBN-T.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=333f701eacd920239ef0fcd4bf1210e9bccff7d0\" title=\"United U18s [6]-3 Liverpool U18s - Jaume Camacho (poker) 90+3'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/3ast4k4lmexh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe6qi2/united_u18s_63_liverpool_u18s_jaume_camacho_poker/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe6qi2/united_u18s_63_liverpool_u18s_jaume_camacho_poker/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T11:56:07+00:00"
+        },
+        {
+          "title": "United U18s [4]-2 Liverpool U18s - Jaume Camacho (hat-trick) 76'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe6fr4/united_u18s_42_liverpool_u18s_jaume_camacho/\"> <img alt=\"United U18s [4]-2 Liverpool U18s - Jaume Camacho (hat-trick) 76'\" src=\"https://external-preview.redd.it/azlvbjl6bW9qZXhoMTwA5DmLPyxlh3-BD_-eTmepfkQJEeaJJjSAEO8cFalw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9bd7c36e7ea13e81d29e1297b4aba406a0475c3\" title=\"United U18s [4]-2 Liverpool U18s - Jaume Camacho (hat-trick) 76'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/bggamc2ojexh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe6fr4/united_u18s_42_liverpool_u18s_jaume_camacho/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe6fr4/united_u18s_42_liverpool_u18s_jaume_camacho/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T11:39:42+00:00"
+        },
+        {
+          "title": "United U18s 3-0 Liverpool U18s - Jaume Camacho 37'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe5ei7/united_u18s_30_liverpool_u18s_jaume_camacho_37/\"> <img alt=\"United U18s 3-0 Liverpool U18s - Jaume Camacho 37'\" src=\"https://external-preview.redd.it/ZDNpZGF3MDU5ZXhoMeOePyfHe5RXkMKpBzClEtFApgciNw115VrkhD7-bCTf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d56754a56a3341731a62f4477cef7bd03f654f6\" title=\"United U18s 3-0 Liverpool U18s - Jaume Camacho 37'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/yblujj249exh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe5ei7/united_u18s_30_liverpool_u18s_jaume_camacho_37/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe5ei7/united_u18s_30_liverpool_u18s_jaume_camacho_37/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T10:40:36+00:00"
+        },
+        {
+          "title": "United U18s 1-0 Liverpool U18s - Jaume Camacho 6'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe4vrf/united_u18s_10_liverpool_u18s_jaume_camacho_6/\"> <img alt=\"United U18s 1-0 Liverpool U18s - Jaume Camacho 6'\" src=\"https://external-preview.redd.it/YnE4bzcyemczZXhoMWlbf-MqE4GjMqIpQsd7wwXzof3eGtdyGo7AfTra3JEf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=043abe36e5820778082bb32783e0adf607a3a553\" title=\"United U18s 1-0 Liverpool U18s - Jaume Camacho 6'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/cvjbwe1g3exh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe4vrf/united_u18s_10_liverpool_u18s_jaume_camacho_6/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe4vrf/united_u18s_10_liverpool_u18s_jaume_camacho_6/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T10:08:50+00:00"
+        },
+        {
+          "title": "United U18s 2-0 Liverpool U18s - Noah Ajayi 33'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe5c5b/united_u18s_20_liverpool_u18s_noah_ajayi_33/\"> <img alt=\"United U18s 2-0 Liverpool U18s - Noah Ajayi 33'\" src=\"https://external-preview.redd.it/ZGF3aXB0OWY4ZXhoMS5PfwZnk8svzPKt8XE2Ili14MGseGuZ_qF1_IK3RM7B.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d30c694c66ddfcf5a18c2d59e0f42c19e605fda4\" title=\"United U18s 2-0 Liverpool U18s - Noah Ajayi 33'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/wuj8dace8exh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe5c5b/united_u18s_20_liverpool_u18s_noah_ajayi_33/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe5c5b/united_u18s_20_liverpool_u18s_noah_ajayi_33/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T10:36:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "United U18s [5]-2 Liverpool U18s - Emmanuel Ziro 82'",
+      "items": [
+        {
+          "title": "United U18s [5]-2 Liverpool U18s - Emmanuel Ziro 82'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe6jwc/united_u18s_52_liverpool_u18s_emmanuel_ziro_82/\"> <img alt=\"United U18s [5]-2 Liverpool U18s - Emmanuel Ziro 82'\" src=\"https://external-preview.redd.it/NGkxZ2owN3VrZXhoMQ-CXLSbhl9hbVe9l1zX-92MqNgN_26nFeIJNcR3aYUq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=949b0d788904f6e4026902a3469f0fcbc69d58bb\" title=\"United U18s [5]-2 Liverpool U18s - Emmanuel Ziro 82'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/vfp2gf2tkexh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe6jwc/united_u18s_52_liverpool_u18s_emmanuel_ziro_82/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe6jwc/united_u18s_52_liverpool_u18s_emmanuel_ziro_82/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T11:46:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bryan Mbeumo & Simi Awujo play piano and talk Manchester United 🎹🔴",
+      "items": [
+        {
+          "title": "Bryan Mbeumo & Simi Awujo play piano and talk Manchester United 🎹🔴",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xe1vgj/bryan_mbeumo_simi_awujo_play_piano_and_talk/\"> <img alt=\"Bryan Mbeumo &amp; Simi Awujo play piano and talk Manchester United 🎹🔴\" src=\"https://external-preview.redd.it/lOgKobnG_V8hn24YSF-qPzPSyMb8Od2TiuuoBWY7Y0A.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6a9206732173f526cad318a841ea38f498e10d31\" title=\"Bryan Mbeumo &amp; Simi Awujo play piano and talk Manchester United 🎹🔴\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=AMR5ftyvd5Y\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe1vgj/bryan_mbeumo_simi_awujo_play_piano_and_talk/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe1vgj/bryan_mbeumo_simi_awujo_play_piano_and_talk/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T07:01:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "PL watch",
+      "items": [
+        {
+          "title": "PL watch",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Aston Villa vs Manchester City (12:30)</p> <p>Arsenal vs Everton (15:00)</p> <p>Coventry City vs Fulham (15:00)</p> <p>Chelsea vs Tottenham Hotspur (17:30)</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Careful-Snow\"> /u/Careful-Snow </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe6h0v/pl_watch/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe6h0v/pl_watch/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe6h0v/pl_watch/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T11:41:44+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "U18 XI vs Liverpool: Hardy; Shah, Ngwashi, Laurie, O'Brien; McEvoy, Eze; Brown, Camacho, Ajayi; Rooney",
+      "items": [
+        {
+          "title": "U18 XI vs Liverpool: Hardy; Shah, Ngwashi, Laurie, O'Brien; McEvoy, Eze; Brown, Camacho, Ajayi; Rooney",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Bench</strong>: Ford (GK), J. Watson, Carrick, Cassim, McLaughlin, Ziro, DeJonge-Seiros</p> <p>11:00 kick-off on MUTV</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe4hts/u18_xi_vs_liverpool_hardy_shah_ngwashi_laurie/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xe4hts/u18_xi_vs_liverpool_hardy_shah_ngwashi_laurie/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xe4hts/u18_xi_vs_liverpool_hardy_shah_ngwashi_laurie/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-24T09:45:25+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 39,
+    "story_count": 34
+  }
+}
