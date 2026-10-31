@@ -1,0 +1,1215 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T06:44:28.864446+00:00",
+  "match_data": {
+    "collected_at": "2026-10-31T06:44:24.659403+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Items stolen from Man Utd Munich air disaster memorial",
+      "items": [
+        {
+          "title": "Items stolen from Man Utd Munich air disaster memorial",
+          "summary": "The foundation has urged the return of stolen items, saying they mean so much to bereaved families.",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4pqndz57o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 30 Oct 2026 15:03:12 GMT"
+        },
+        {
+          "title": "Items stolen from Manchester United Munich air disaster memorial",
+          "summary": "Police are investigating after a glass box housing Man United memorabilia in Manchesterplatz marking the Munich air disaster was targeted by thieves.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/items-stolen-manchester-united-munich-34840218",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 14:02:33 +0000"
+        },
+        {
+          "title": "Items stolen from Man Utd Munich air disaster memorial",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjahs7/items_stolen_from_man_utd_munich_air_disaster/\"> <img alt=\"Items stolen from Man Utd Munich air disaster memorial\" src=\"https://external-preview.redd.it/dB9_Av0EVcQ5VAEqGSpyAYpkIuzM8R3c79cRWLztdBo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=536a29036618f4430871d9a970be84984075ad0d\" title=\"Items stolen from Man Utd Munich air disaster memorial\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fligflag\"> /u/Fligflag </a> <br /> <span><a href=\"https://www.bbc.co.uk/news/articles/cxly4pqndz57o\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjahs7/items_stolen_from_man_utd_munich_air_disaster/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjahs7/items_stolen_from_man_utd_munich_air_disaster/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T09:14:15+00:00"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "Manchester Evening News - MUFC",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 3,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Calvert-Lewin set for new Leeds deal",
+      "items": [
+        {
+          "title": "Calvert-Lewin set for new Leeds deal",
+          "summary": "England striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 30 Oct 2026 10:26:53 GMT"
+        },
+        {
+          "title": "[Transfer Watch] Dominic Calvert-Lewin set for new contract",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjcag8/transfer_watch_dominic_calvertlewin_set_for_new/\"> <img alt=\"[Transfer Watch] Dominic Calvert-Lewin set for new contract\" src=\"https://external-preview.redd.it/CB7y076iE5Fj2htHW2HrNqbiGUBBKmYJbr-UJFmsjkw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c474d28fb69bb5bebf75e6ef4c40d15a1840a710\" title=\"[Transfer Watch] Dominic Calvert-Lewin set for new contract\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This follows Laurie’s news yesterday linking him to us as a potential January signing</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/c6x2w1epxx8yo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjcag8/transfer_watch_dominic_calvertlewin_set_for_new/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjcag8/transfer_watch_dominic_calvertlewin_set_for_new/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T11:01:38+00:00"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What Howe could bring to Man Utd - and what are the challenges?",
+      "items": [
+        {
+          "title": "What Howe could bring to Man Utd - and what are the challenges?",
+          "summary": "Eddie Howe is being linked with the Manchester United job, but what are some of the considerations for him and the club?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 30 Oct 2026 16:27:13 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carrick says there are 'no issues' with captain Fernandes",
+      "items": [
+        {
+          "title": "Carrick says there are 'no issues' with captain Fernandes",
+          "summary": "Manchester United manager Michael Carrick says there are \"no issues\" with captain Bruno Fernandes after he was dropped from the team against Bournemouth.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqj34pjxp7xdo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 30 Oct 2026 09:58:41 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Surprise striker signing considered as Sir Jim Ratcliffe angers Glazers",
+      "items": [
+        {
+          "title": "Man United latest: Surprise striker signing considered as Sir Jim Ratcliffe angers Glazers",
+          "summary": "Manchester United head to Chelsea on Saturday as Michael Carrick fights to keep his job after eight games without a win",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-striker-glazers-ratcliffe-34842233",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 05:30:00 +0000"
+        },
+        {
+          "title": "Man Utd news: Glazers angry with Sir Jim Ratcliffe as surprise striker transfer eyed",
+          "summary": "A look at the latest Manchester United headlines ahead of a crunch clash away at Chelsea for under-pressure boss Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-glazers-ratcliffe-transfer-37828123",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Rashford, Mainoo, Shaw - Manchester United injury news and return dates vs Chelsea",
+      "items": [
+        {
+          "title": "Rashford, Mainoo, Shaw - Manchester United injury news and return dates vs Chelsea",
+          "summary": "Man United visit Stamford Bridge this afternoon hoping to end a poor run of form that has left them winless in their last eight matches",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/rashford-mainoo-shaw-manchester-united-34835480",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United manager had no tactical prowess so I left for Chelsea - he was very upset with me",
+      "items": [
+        {
+          "title": "Man United manager had no tactical prowess so I left for Chelsea - he was very upset with me",
+          "summary": "A former Manchester United and Chelsea star savaged Sir Alex Ferguson's tactical prowess and left the legendary Scottish manager &quot;very upset&quot;",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-alex-ferguson-chelsea-34827386",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United stars 'booed' on train to face Chelsea as Michael Carrick feelings clear",
+      "items": [
+        {
+          "title": "Man United stars 'booed' on train to face Chelsea as Michael Carrick feelings clear",
+          "summary": "Manchester United's players were booed by fellow passengers on their train to London ahead of Saturday's Premier League clash with Chelsea",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-chelsea-michael-carrick-34843266",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "How Manchester United should line up vs Chelsea in must-win game for Michael Carrick",
+      "items": [
+        {
+          "title": "How Manchester United should line up vs Chelsea in must-win game for Michael Carrick",
+          "summary": "Man United visit Chelsea in the Premier League this lunchtime in desperate need of a win to end a rotten run of form",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/how-manchester-united-should-line-34838012",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 05:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United line-up vs Chelsea predicted as £62.5m man returns and Fernandes call made",
+      "items": [
+        {
+          "title": "Manchester United line-up vs Chelsea predicted as £62.5m man returns and Fernandes call made",
+          "summary": "Michael Carrick desperately needs a win against Chelsea today as he looks to drag Man United out of the hole they find themselves in.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-line-up-vs-34833143",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United and Chelsea's main difference was how much one of them wanted to win trophies",
+      "items": [
+        {
+          "title": "Man United and Chelsea's main difference was how much one of them wanted to win trophies",
+          "summary": "A key difference between Manchester United and Chelsea was pointed out by a former star of both clubs",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-chelsea-premier-league-34834653",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Jim Ratcliffe snubbed Chelsea takeover for exact same reason he’s inherited at Man United",
+      "items": [
+        {
+          "title": "Sir Jim Ratcliffe snubbed Chelsea takeover for exact same reason he’s inherited at Man United",
+          "summary": "Sir Jim Ratcliffe came close to buying Premier League rivals Chelsea twice before pulling out for the same reason he now has to tackle at Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jim-ratcliffe-chelsea-united-takeover-34838555",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Inside a rollercoaster week at Manchester United - Carrick chats with players, Berrada and Wilcox",
+      "items": [
+        {
+          "title": "Inside a rollercoaster week at Manchester United - Carrick chats with players, Berrada and Wilcox",
+          "summary": "Michael Carrick has been given more time to turn Man Utd's situation around after a poor start to the season.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/inside-rollercoaster-week-manchester-united-34835172",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick disagrees with Ole Gunnar Solskjaer about Man United captain Bruno Fernandes",
+      "items": [
+        {
+          "title": "Michael Carrick disagrees with Ole Gunnar Solskjaer about Man United captain Bruno Fernandes",
+          "summary": "Ole Gunnar Solskjaer believed Bruno Fernandes was too emotional to be the club's captain during his time in charge of Manchester United.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-disagrees-ole-gunnar-34835915",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick responds to Gary Neville rant accusing some Man United players of behaving unprofessionally",
+      "items": [
+        {
+          "title": "Michael Carrick responds to Gary Neville rant accusing some Man United players of behaving unprofessionally",
+          "summary": "Gary Neville recently accused &quot;a few&quot; of Man Utd's players of lacking professionalism during a scathing rant.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-responds-gary-neville-34835158",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 03:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Last chance Man United vs Roma tickets for next week's crucial Champions League game",
+      "items": [
+        {
+          "title": "Last chance Man United vs Roma tickets for next week's crucial Champions League game",
+          "summary": "Michael Carrick's side will host AS Roma in their League Phase clash and fans can still book tickets for the game",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/last-chance-man-united-vs-34841246",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 19:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "13 players set to miss Chelsea vs Man United as Michael Carrick confirms major injury blow",
+      "items": [
+        {
+          "title": "13 players set to miss Chelsea vs Man United as Michael Carrick confirms major injury blow",
+          "summary": "Manchester United head to Chelsea looking to bring their poor run of form to an end",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-chelsea-injury-carrick-34841725",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United 22-man travelling squad vs Chelsea as huge injury boost confirmed",
+      "items": [
+        {
+          "title": "Manchester United 22-man travelling squad vs Chelsea as huge injury boost confirmed",
+          "summary": "Man Utd are travelling down to London ahead of their game with Chelsea in the Premier League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-22-man-travelling-34837570",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 16:23:35 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Cole Palmer to Man United transfer truth after Chelsea 'talks' and Andrey Santos message",
+      "items": [
+        {
+          "title": "Cole Palmer to Man United transfer truth after Chelsea 'talks' and Andrey Santos message",
+          "summary": "Cole Palmer was linked with a move to Manchester United in the summer after the Reds secured Champions League football and Chelsea finished in mid-table",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/cole-palmer-man-united-chelsea-34840190",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 14:31:02 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Roy Keane's secret Man United training visit that left him furious and Wayne Rooney's threat",
+      "items": [
+        {
+          "title": "Roy Keane's secret Man United training visit that left him furious and Wayne Rooney's threat",
+          "summary": "Manchester United are in a world of trouble right now as Michael Carrick aims to turn things around against Chelsea on Saturday night",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-carrick-keane-rooney-34838674",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 13:36:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes breaks social media silence as Manchester United decision made",
+      "items": [
+        {
+          "title": "Bruno Fernandes breaks social media silence as Manchester United decision made",
+          "summary": "Bruno Fernandes weas benched by Michael Carrick for last weekend's 3-0 loss to Bournemouth, following a public criticism of Michael Carrick's tactics earlier in the week",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-manchester-united-chelsea-34839955",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 13:02:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Glazers handed full Ineos takeover date as Man United finances drop revealing hint",
+      "items": [
+        {
+          "title": "Glazers handed full Ineos takeover date as Man United finances drop revealing hint",
+          "summary": "Manchester United's latest financial arrangements suggest that Sir Jim Ratcliffe's Ineos could have an opportunity to take majority control from the Glazers",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/ratcliffe-glazers-man-utd-takeover-34839537",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 13:01:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Eddie Howe has already detailed exactly what he needs at Man United",
+      "items": [
+        {
+          "title": "Eddie Howe has already detailed exactly what he needs at Man United",
+          "summary": "Eddie Howe is being mentioned as a potential successor to Michael Carrick at Manchester United, should the Old Trafford board part ways with him",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-eddie-howe-carrick-34839159",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 12:31:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "What Manchester United's players don't want to happen amid Michael Carrick uncertainty",
+      "items": [
+        {
+          "title": "What Manchester United's players don't want to happen amid Michael Carrick uncertainty",
+          "summary": "Man United looked set to sack Michael Carrick earlier this week but the head coach has been given a chance to turn things around.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-manchester-uniteds-players-dont-34838954",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 11:55:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane names 2025 signing 'costing' Manchester United as agreement reached",
+      "items": [
+        {
+          "title": "Roy Keane names 2025 signing 'costing' Manchester United as agreement reached",
+          "summary": "Manchester United are in the midst of an awful run of form with Roy Keane questioning a Ruben Amorim signing",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/roy-keane-man-united-lammens-34837448",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 09:03:27 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'I played for both Man Utd and Chelsea - one was far more focused on winning'",
+      "items": [
+        {
+          "title": "'I played for both Man Utd and Chelsea - one was far more focused on winning'",
+          "summary": "The Premier League legend spelled out one difference between his time spent at Manchester United and Chelsea",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-chelsea-premier-league-37821904",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd manager: Unai Emery's case for and against after Jamie Carragher reality check",
+      "items": [
+        {
+          "title": "Man Utd manager: Unai Emery's case for and against after Jamie Carragher reality check",
+          "summary": "Manchester United could find themselves looking for a new manager if things don't improve and Aston Villa boss Unai Emery is among those linked with taking over",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-manager-latest-emery-37828641",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 20:27:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd flops 'booed' by passengers on train as journey to Chelsea suffers delay",
+      "items": [
+        {
+          "title": "Man Utd flops 'booed' by passengers on train as journey to Chelsea suffers delay",
+          "summary": "Manchester United's travelling party got delayed on their way to catch a train to London on Friday, causing the service to be held at Stockport - and their fellow passengers weren't pleased",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-chelsea-michael-carrick-37828747",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 19:55:48 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Son of Man Utd legend Nobby Stiles 'sickened' by theft from Munich Disaster Memorial",
+      "items": [
+        {
+          "title": "Son of Man Utd legend Nobby Stiles 'sickened' by theft from Munich Disaster Memorial",
+          "summary": "John Stiles condemned thieves who stole from the memorial to the players who died in the disaster. German police are believed to be investigating the theft in Munich.",
+          "url": "https://www.mirror.co.uk/news/son-man-utd-legend-nobby-37827304",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 17:26:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd's January plan sums up summer's transfer failings as club make rare move",
+      "items": [
+        {
+          "title": "Man Utd's January plan sums up summer's transfer failings as club make rare move",
+          "summary": "Manchester United are willing to make a rarely seen move by entering the January transfer market as they look to rectify their season, which began with some poor summer decisions",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-january-plan-targets-37828269",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 17:02:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick fires back at Jamie Carragher as Man Utd boss makes honest admission on future",
+      "items": [
+        {
+          "title": "Michael Carrick fires back at Jamie Carragher as Man Utd boss makes honest admission on future",
+          "summary": "Michael Carrick is clinging onto his job as Manchester United manager, but he has put on a brave face ahead of Saturday's crunch Premier League game against Chelsea",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-carragher-man-utd-37827067",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 13:57:02 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd Ineos takeover timeline emerges as Glazers handed major update",
+      "items": [
+        {
+          "title": "Man Utd Ineos takeover timeline emerges as Glazers handed major update",
+          "summary": "The Glazers, who took control of the club in a controversial takeover in 2005, remain majority owners after selling a minority stake to Sir Jim Ratcliffe in 2024",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ineos-glazers-ratcliffe-37827092",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 13:56:22 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "5 Premier League stars Man Utd can target as January plans take shape",
+      "items": [
+        {
+          "title": "5 Premier League stars Man Utd can target as January plans take shape",
+          "summary": "Manchester United have made their worst start to a league season in 40 years and are in desperate need of reinforcements in the January transfer window",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-transfers-january-targets-37825997",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 12:33:41 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The Unai Emery reality that Jamie Carragher ignored in Manchester United row",
+      "items": [
+        {
+          "title": "The Unai Emery reality that Jamie Carragher ignored in Manchester United row",
+          "summary": "OPINION: After Jamie Carragher suggested Unai Emery could leave Aston Villa for Manchester United, BirminghamLive's Aston Villa reporter John Townley hit back",
+          "url": "https://www.mirror.co.uk/sport/football/news/unai-emery-reality-jamie-carragher-37826573",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 12:14:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Harry Maguire has already given Man Utd green light for blockbuster January transfer",
+      "items": [
+        {
+          "title": "Harry Maguire has already given Man Utd green light for blockbuster January transfer",
+          "summary": "Harry Maguire has given his seal of approval",
+          "url": "https://www.mirror.co.uk/sport/football/news/harry-maguire-man-utd-transfer-37825370",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 11:09:43 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Roy Keane hits out at unlikely star 'costing' Man Utd as pundits in agreement",
+      "items": [
+        {
+          "title": "Roy Keane hits out at unlikely star 'costing' Man Utd as pundits in agreement",
+          "summary": "Roy Keane has brutally blasted one Manchester United star for his drop in performance this season compared to the 2025/26 campaign",
+          "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-man-utd-lammens-37825543",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 10:23:41 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Youri Tielemans sends message to board with Man Utd players' feelings on Michael Carrick clear",
+      "items": [
+        {
+          "title": "Youri Tielemans sends message to board with Man Utd players' feelings on Michael Carrick clear",
+          "summary": "Michael Carrick faces a make-or-break match against Chelsea on Saturday after surviving crunch talks with the Manchester United hierarchy earlier in the week",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-sack-tielemans-37825234",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 08:06:35 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League injury table: Every player's latest status and return date",
+      "items": [
+        {
+          "title": "Premier League injury table: Every player's latest status and return date",
+          "summary": "The Premier League returns this weekend as the biggest teams in England's top flight provide updates on which stars could be in action and who's likely to remains sidelined",
+          "url": "https://www.mirror.co.uk/sport/football/news/premier-league-injuries-return-date-37822217",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Roy Keane's Glazer jibe at Gary Neville explained and horse's role in Man Utd takeover",
+      "items": [
+        {
+          "title": "Roy Keane's Glazer jibe at Gary Neville explained and horse's role in Man Utd takeover",
+          "summary": "Roy Keane teased Gary Neville about how the Glazer family first took full control of Manchester United in 2005, with a racehorse named Rock of Gibraltar at the centre of the club's takeover",
+          "url": "https://www.mirror.co.uk/sport/football/news/keane-neville-manchester-united-glazers-37824371",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
+      "items": [
+        {
+          "title": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
+          "summary": "<ul><li><p>Head coach reflects on ‘not always rosy’ conversations</p></li><li><p>Players ‘hurting’ after eight games without a win</p></li></ul><p>Michael Carrick said he has had difficult conversations with the Manchester United hierarchy and his players during their turbulent start to the season.</p><p>United have not won in their past eight games and start the weekend in 16th place of 20 in the league, one point above the relegation zone.</p> <a href=\"https://www.theguardian.com/football/2026/oct/30/michael-carrick-tells-players-hard-truth-manchester-united\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/30/michael-carrick-tells-players-hard-truth-manchester-united",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 22:30:25 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The academy system needs a refresh but now is the time for Carrick to trust in youth | David Pleat",
+      "items": [
+        {
+          "title": "The academy system needs a refresh but now is the time for Carrick to trust in youth | David Pleat",
+          "summary": "<p>Manchester United’s most famous eras were built around their academy products, so why not give the current crop a chance to shine?</p><p>Watching Manchester United succumb <a href=\"https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report\">meekly against Como</a> <a href=\"https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick\">and Bournemouth</a> brought to mind questions and comparisons with yesteryear. Two of United’s most famous eras were built around their youth players: the Busby Babes and the Class of ’92. Could this be a moment for Michael Carrick to give their most talented academy products a&nbsp;meaningful&nbsp;chance?</p><p>In February 2025 I saw United beat Arsenal 3-2 in the FA Youth Cup at the Emirates Stadium. Jack and Tyler Fletcher did well for United and so did Harry Amass, a signing from Watford. Max Dowman, a generational talent, starred for Arsenal.</p> <a href=\"https://www.theguardian.com/football/2026/oct/30/the-academy-system-needs-a-refresh-but-now-is-the-time-for-carrick-to-trust-in-youth\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/30/the-academy-system-needs-a-refresh-but-now-is-the-time-for-carrick-to-trust-in-youth",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 12:00:52 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano confirms Man Utd striker hunt as £100m superstar linked - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano confirms Man Utd striker hunt as £100m superstar linked - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW1jOFl2WFR0NV96MU9panZ6WGNJdmtOZTdUOFlBOENSc280Z29xWUZrQy1ZSXlNY191U0xockhPcXNmSnFCVjFGTmU4YzJtSHVfbEdUSHJyS2dqN2VVRUwzaUc4ME1NUW8xdVNMRXU3bENmcmoxQzdwMWViZXM5UmliNFY5UUtya3JxRmlTaFZQaW11ZVJWQi1Dc0xiMzNnRmUwVWlKTTlYbjEz?oc=5\" target=\"_blank\">Fabrizio Romano confirms Man Utd striker hunt as £100m superstar linked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdW1jOFl2WFR0NV96MU9panZ6WGNJdmtOZTdUOFlBOENSc280Z29xWUZrQy1ZSXlNY191U0xockhPcXNmSnFCVjFGTmU4YzJtSHVfbEdUSHJyS2dqN2VVRUwzaUc4ME1NUW8xdVNMRXU3bENmcmoxQzdwMWViZXM5UmliNFY5UUtya3JxRmlTaFZQaW11ZVJWQi1Dc0xiMzNnRmUwVWlKTTlYbjEz?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 20:39:25 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals Man Utd top target to replace Carrick in 'crucial' sack update - 'a manager they love' - Football365",
+      "items": [
+        {
+          "title": "Romano reveals Man Utd top target to replace Carrick in 'crucial' sack update - 'a manager they love' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPSy03ZzJEbGVrNUNzVUU5WkhUS3NsN1VuUkZZSkNlTUM0cmR3OGEyb2x5eDVpNXplNnE1ZzFlR0FBXzdPa2xla0xjbXAxVTFuUW5zSEpybUNNb2FHYTlEQTltMlVZS2h4U0ptYVg2bTZaMHFGbzRGdDZfVW9fME95bTdDYjVrX21KNHhsd1pFYUpPQjV2Q01hLTNnZEVkSTJCX3REVFdONGV6bkJ1TjI4?oc=5\" target=\"_blank\">Romano reveals Man Utd top target to replace Carrick in 'crucial' sack update - 'a manager they love'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSy03ZzJEbGVrNUNzVUU5WkhUS3NsN1VuUkZZSkNlTUM0cmR3OGEyb2x5eDVpNXplNnE1ZzFlR0FBXzdPa2xla0xjbXAxVTFuUW5zSEpybUNNb2FHYTlEQTltMlVZS2h4U0ptYVg2bTZaMHFGbzRGdDZfVW9fME95bTdDYjVrX21KNHhsd1pFYUpPQjV2Q01hLTNnZEVkSTJCX3REVFdONGV6bkJ1TjI4?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 19:39:37 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Transfer News: Man Utd striker hunt, Messi update, Nico Paz latest - FootballTransfers.com",
+      "items": [
+        {
+          "title": "Fabrizio Romano Transfer News: Man Utd striker hunt, Messi update, Nico Paz latest - FootballTransfers.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQm1kbklQcFNCX2NacmwzWENjMTJXdm1YY3pUcmJFWnVSYi1MeFdxRm83S1dpZlVjY0cwbkJTaU1PN2NjRktUdFpudlN1ckFvQ0t0MHVieWtkR090TU5HcE9QZE4wQ3FUMmZ6ZnBRdzVsNVl5ZlBVVTBNWEdCWEhiWVpFOGpQOU9Pd1NJb2syOFItblFrS3o2UlI2dkNBQTZib1JjSTR5UnJJMjlPYU5CYkRSOXBZNHlzUExWbFl0dDhvNWFVb216NlhwU19hbzl2NnpSWG9ZRE1SRnpqSFdPMGlhMmVoUjluZWxtcg?oc=5\" target=\"_blank\">Fabrizio Romano Transfer News: Man Utd striker hunt, Messi update, Nico Paz latest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FootballTransfers.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQm1kbklQcFNCX2NacmwzWENjMTJXdm1YY3pUcmJFWnVSYi1MeFdxRm83S1dpZlVjY0cwbkJTaU1PN2NjRktUdFpudlN1ckFvQ0t0MHVieWtkR090TU5HcE9QZE4wQ3FUMmZ6ZnBRdzVsNVl5ZlBVVTBNWEdCWEhiWVpFOGpQOU9Pd1NJb2syOFItblFrS3o2UlI2dkNBQTZib1JjSTR5UnJJMjlPYU5CYkRSOXBZNHlzUExWbFl0dDhvNWFVb216NlhwU19hbzl2NnpSWG9ZRE1SRnpqSFdPMGlhMmVoUjluZWxtcg?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 10:55:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘It’s good news for Carrick’: Romano shares news he’s hearing out of Man Utd this week - utdreport",
+      "items": [
+        {
+          "title": "‘It’s good news for Carrick’: Romano shares news he’s hearing out of Man Utd this week - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPU1VXVXV4YjFKRU5qVmNWRmViTWVMSTl3bTFCSWRsVXhfczFITzMxcU4tcl9wX3cyaFpFLWZsVUUzeVI0eFVsWFo2VXpKS2VuTUhKaERUbTNhMFZhN0xnWVF6NVhIT1Vhbkl4NmdEMWZmRVVLZTdLVHZ6ZTVnNHk4cld6SlI3NTNjcjlRRlJlUEhncVVqck4yMXp1NUh1T190SWJBb0lrTU4zWnNyOV9qTXlvMlA0dUdyb0NGSjREck1EdU1TNFZn0gHMAUFVX3lxTE1Za1FDRi01ZUM3VUpHX2NXcVhHVXViYlVGTVlBMWNBQXRldnVnT3MwZFRGckxBQmZPbTJTTkxrcF9ucXBpZGhsb29Odm5GRGlQYzA5NGtQVXZaU0NOaWlvZ2pvQ1ZQZ21vM2NkcDRfYTBqSEZhSjdUZk05V19MZmRYY3NqaDhwUlhrTWMwYVBtYS1qd3U5YmRtVmZjWVVPMWdudFBIZ1Bna296STlwcHEwWTlEN0hRMkl6eEpUNkxlXzN3WkgwZTB1ZWV4bA?oc=5\" target=\"_blank\">‘It’s good news for Carrick’: Romano shares news he’s hearing out of Man Utd this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU1VXVXV4YjFKRU5qVmNWRmViTWVMSTl3bTFCSWRsVXhfczFITzMxcU4tcl9wX3cyaFpFLWZsVUUzeVI0eFVsWFo2VXpKS2VuTUhKaERUbTNhMFZhN0xnWVF6NVhIT1Vhbkl4NmdEMWZmRVVLZTdLVHZ6ZTVnNHk4cld6SlI3NTNjcjlRRlJlUEhncVVqck4yMXp1NUh1T190SWJBb0lrTU4zWnNyOV9qTXlvMlA0dUdyb0NGSjREck1EdU1TNFZn0gHMAUFVX3lxTE1Za1FDRi01ZUM3VUpHX2NXcVhHVXViYlVGTVlBMWNBQXRldnVnT3MwZFRGckxBQmZPbTJTTkxrcF9ucXBpZGhsb29Odm5GRGlQYzA5NGtQVXZaU0NOaWlvZ2pvQ1ZQZ21vM2NkcDRfYTBqSEZhSjdUZk05V19MZmRYY3NqaDhwUlhrTWMwYVBtYS1qd3U5YmRtVmZjWVVPMWdudFBIZ1Bna296STlwcHEwWTlEN0hRMkl6eEpUNkxlXzN3WkgwZTB1ZWV4bA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 29 Oct 2026 12:33:59 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal and Man United monitor 22-year-old striker matching Kane and Haaland",
+      "items": [
+        {
+          "title": "Arsenal and Man United monitor 22-year-old striker matching Kane and Haaland",
+          "summary": "<p>Arsenal and Manchester United are reportedly interested in signing Club Brugge striker Nicolo Tresoldi as both Premier League clubs look to add attacking reinforcements ahead of next summer&#8217;s transfer window. According to a report from Football Insider, the two English giants are among several clubs monitoring the 22-year-old, who has emerged as one of Europe&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/30/arsenal-and-man-united-monitor-22-year-old-striker-matching-kane-and-haaland/\">Arsenal and Man United monitor 22-year-old striker matching Kane and Haaland</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/30/arsenal-and-man-united-monitor-22-year-old-striker-matching-kane-and-haaland/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 30 Oct 2026 21:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United face major decision as Euro giants explore transfer for 28-year-old star",
+      "items": [
+        {
+          "title": "Man United face major decision as Euro giants explore transfer for 28-year-old star",
+          "summary": "<p>Barcelona are reportedly interested in signing Manchester United defender Lisandro Martinez as Hansi Flick looks to strengthen his defensive options ahead of the January transfer window. According to an exclusive report from TEAMtalk, the Spanish champions have already made enquiries about the Argentina international, who has indicated that he is prepared to leave Old Trafford [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/30/man-united-face-major-decision-as-euro-giants-explore-transfer-for-28-year-old-star/\">Man United face major decision as Euro giants explore transfer for 28-year-old star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/30/man-united-face-major-decision-as-euro-giants-explore-transfer-for-28-year-old-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 30 Oct 2026 18:00:57 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sesko injury leaves Man United looking at 14-goal star ahead of January window",
+      "items": [
+        {
+          "title": "Sesko injury leaves Man United looking at 14-goal star ahead of January window",
+          "summary": "<p>Manchester United have reportedly suffered a setback in their pursuit of Leeds United striker Dominic Calvert-Lewin, with the England international preparing to commit his future to the Elland Road club. According to a BBC report, the 29-year-old has decided to sign a new contract with Leeds, despite attracting interest from Michael Carrick&#8217;s side ahead of the [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/30/sesko-injury-leaves-man-united-looking-at-14-goal-star-ahead-of-january-window/\">Sesko injury leaves Man United looking at 14-goal star ahead of January window</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/30/sesko-injury-leaves-man-united-looking-at-14-goal-star-ahead-of-january-window/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 30 Oct 2026 17:00:31 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjo6ae/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjo6ae/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjo6ae/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T19:01:00+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Pre Match Thread] Premier League Game 9 | Chelsea vs Manchester United",
+      "items": [
+        {
+          "title": "[Pre Match Thread] Premier League Game 9 | Chelsea vs Manchester United",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1><strong><a href=\"https://www.reddit.com/r/reddevils/.rss#CFC\"></a> Chelsea vs Manchester United <a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a></strong></h1> <hr /> <p><strong>Competition:</strong> <a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League | <strong>Date:</strong> 31st October</p> <p><strong>Kick off:</strong> 12:30 GMT | <strong>Venue:</strong> Stamford Bridge</p> <p><strong>Referee:</strong> Peter Bankes | <strong>TV:</strong> TNT Sport</p> <hr /> <h1><strong>Team News:</strong></h1> <p><strong>Possible starting XI</strong>:</p> <pre><code>----------Lammens---------- -Yoro-Maguire--Martinez-Dalot- ------Mainoo----Baleba------ --Mbeumo--Fernandes--Cunha-- ----------Zirkzee------------ </code></pre> <p><strong>Possible bench:</strong> Darlow, Heaven, Mazraoui, de Ligt, Tielemans, Mount, Santos, Lacey, Amad</p> <hr /> <ul> <li><p>Kobbie Mainoo is due to return to the squad</p></li> <li><p>Bruno Fernandes was dropped for Bournemouth but is widely expected to return to the starting line up</p></li> <li><p>Marcus Rashford is back in individual training but it's not confirmed if he's going to make the squad</p></li> <li><p>No returns expected for Luke Shaw or Patrick Dorgu, with Benjamin Sesko now becoming a long-term injury absentee.</p></li> </ul> <hr /> <p><strong>Injuries/Suspensions:</strong></p> <table><thead> <tr> <th align=\"center\">Player</th> <th align=\"center\">Injury/Ban</th> <th align=\"center\">Position</th> <th align=\"center\">Return Date</th> </tr> </thead><tbody> <tr> <td align=\"center\">Marcus Rashford</td> <td align=\"center\">Hip</td> <td align=\"center\">LW</td> <td align=\"center\">8th November</td> </tr> <tr> <td align=\"center\">Kobbie Mainoo</td> <td align=\"center\">TBC</td> <td align=\"center\">CM</td> <td align=\"center\">31st October</td> </tr> <tr> <td align=\"center\">Luke Shaw</td> <td align=\"center\">TBC</td> <td align=\"center\">LB</td> <td align=\"center\">22nd November</td> </tr> <tr> <td align=\"center\">Patrick Dorgu</td> <td align=\"center\">Hamstring</td> <td align=\"center\">LW</td> <td align=\"center\">22nd November</td> </tr> <tr> <td align=\"center\">Benjamin Sesko</td> <td align=\"center\">Shin</td> <td align=\"center\">ST</td> <td align=\"center\">16th January</td> </tr> <tr> <td align=\"center\">Manuel Ugarte</td> <td align=\"center\">ACL</td> <td align=\"center\">DM</td> <td align=\"center\">27th January</td> </tr> </tbody></table> <hr /> <h1><strong>Form guide:</strong></h1> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#CFC\"></a> Chelsea: <strong>D L W W L L</strong> | Home form: <strong>W W W D W L</strong></p> <p><a href=\"https://www.reddit.com/r/reddevils/.rss#United\"></a> United: <strong>D D L D L L</strong> | Away form: <strong>L D D L D L</strong></p> <hr /> <h1><strong>Last 3 meetings:</strong></h1> <table><thead> <tr> <th align=\"center\">Result</th> <th align=\"center\">Comp</th> <th align=\"center\">Venue</th> <th align=\"center\">Season</th> </tr> </thead><tbody> <tr> <td align=\"center\">0-1 W</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Stamford Bridge</td> <td align=\"center\">25/26</td> </tr> <tr> <td align=\"center\">2-1 W</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Old Trafford</td> <td align=\"center\">25/26</td> </tr> <tr> <td align=\"center\">1-0 L</td> <td align=\"center\"><a href=\"https://www.reddit.com/r/reddevils/.rss#Prem\"></a> Premier League</td> <td align=\"center\">Stamford Bridge</td> <td align=\"center\">24/25</td> </tr> </tbody></table> <hr /> <p><strong>Opposition News</strong></p> <p>Cole Palmer served a suspension midweek and is available</p> <p>Joao Pedro and Emi Martinez will remain out</p> <p>Lacroix went off injured at Anfield and will not play, the same for Jorrel Hato</p> <hr /> <p><strong>YOU WILL BE ABLE TO SEE FULL MATCH HIGHLIGHTS AFTER THE GAME ON <a href=\"https://www.reddit.com/r/footballhighlights\">/r/footballhighlights</a>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/D1794\"> /u/D1794 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjclzk/pre_match_thread_premier_league_game_9_chelsea_vs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjclzk/pre_match_thread_premier_league_game_9_chelsea_vs/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjclzk/pre_match_thread_premier_league_game_9_chelsea_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T11:18:57+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[ManUtd] A huge part of what makes us United. Our proud record of featuring a homegrown player in every matchday squad reaches an incredible 89 years today 🧬",
+      "items": [
+        {
+          "title": "[ManUtd] A huge part of what makes us United. Our proud record of featuring a homegrown player in every matchday squad reaches an incredible 89 years today 🧬",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjl4yz/manutd_a_huge_part_of_what_makes_us_united_our/\"> <img alt=\"[ManUtd] A huge part of what makes us United. Our proud record of featuring a homegrown player in every matchday squad reaches an incredible 89 years today 🧬\" src=\"https://preview.redd.it/rsjezeymzmyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=702460c8000e61f559049496acdf71a9888f0358\" title=\"[ManUtd] A huge part of what makes us United. Our proud record of featuring a homegrown player in every matchday squad reaches an incredible 89 years today 🧬\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/rsjezeymzmyh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjl4yz/manutd_a_huge_part_of_what_makes_us_united_our/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjl4yz/manutd_a_huge_part_of_what_makes_us_united_our/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T17:08:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Steven Railston] Kobbie Mainoo has been included in the squad to face Chelsea tomorrow #mufc",
+      "items": [
+        {
+          "title": "[Steven Railston] Kobbie Mainoo has been included in the squad to face Chelsea tomorrow #mufc",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjj90p/steven_railston_kobbie_mainoo_has_been_included/\"> <img alt=\"[Steven Railston] Kobbie Mainoo has been included in the squad to face Chelsea tomorrow #mufc\" src=\"https://preview.redd.it/jw7femidnmyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ed9542a2e6cb6acab57200a7bf4132410fd1af4\" title=\"[Steven Railston] Kobbie Mainoo has been included in the squad to face Chelsea tomorrow #mufc\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/jw7femidnmyh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjj90p/steven_railston_kobbie_mainoo_has_been_included/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjj90p/steven_railston_kobbie_mainoo_has_been_included/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T15:59:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Press Con. Part 2] Carrick on the crowd reaction as he left the field after Man Utd defeat on Sunday: “It was mixed feelings, I'll be totally honest. To have the appreciation from the supporters and that connection and that respect is something I feel strongly about. It wasn't a nice situation\"",
+      "items": [
+        {
+          "title": "[Press Con. Part 2] Carrick on the crowd reaction as he left the field after Man Utd defeat on Sunday: “It was mixed feelings, I'll be totally honest. To have the appreciation from the supporters and that connection and that respect is something I feel strongly about. It wasn't a nice situation\"",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Michael Carrick's Pre-Match Press Conference - Part 2 | Chelsea vs United</p> <p><strong>Simon Stone</strong></p> <p>Michael Carrick on the crowd reaction as he left the field after Man Utd defeat on Sunday: “It was mixed feelings, I'll be totally honest. To have the appreciation from the supporters and that connection and that respect is something I feel strongly about. It wasn't a nice situation but to feel that was important but it didn't make me feel better in the fact that I'm with the players 100%. We're all in it together and I've told the players that. I'm happy to say that. I didn't feel comfortable being in any way shape or form a separation from that. That's my group, they're my players and this is my football club, so we have to all be in it together.. That's the supporters included as hard as it is at the moment.”</p> <p><strong>Steven Railston</strong></p> <p>Last weekend, Gary Neville accused some United players of behaving unprofessionally, so I put his comments to Michael Carrick. </p> <p>When asked for his reaction and whether he'd encountered any unprofessional behaviour since he returned to the club, he responded: &quot;No, I haven't, no.&quot; </p> <p>Asked if he was surprised at Neville's comments, he said: &quot;Gaz says a lot of things.&quot;</p> <h1>EVERY WORD FROM PRESS CONFERENCE - PART 2</h1> <p><a href=\"https://www.manutd.com/en/news/carrick-our-connection-is-strong\">https://www.manutd.com/en/news/carrick-our-connection-is-strong</a></p> <p><strong>Hi, Michael. Gary Neville made some headlines this week. He was on a podcast after the Bournemouth game. He essentially questioned some of the players' professionalism. He didn’t name any players particularly, but he said some don't go to sleep at the right time, some don't eat the right food. It's obviously quite a serious accusation. What's your reaction to that? Have you encountered any players been unprofessional since you've come back to the football club?</strong></p> <p>“No, I haven't, no.”</p> <p><strong>And are you surprised at Gary coming out and saying that?</strong></p> <p>“Gary says a lot of things.”</p> <p><strong>Last week, I think Ole Gunnar Solskjaer said that during his time in charge here, that for him, Bruno was too emotional to be a captain and he preferred Harry [Maguire]. You were part of that setup when Ole was here. Other managers since then have also accepted that Bruno can maybe show too much, be a bit too up and down for his team-mates. Are you happy that he's the best man for the job and unlike Ole, maybe Harry's not a more stable option?</strong></p> <p>“I don't think it's about comparison opinions to others. He's the captain of our football club, and there's different personalities, there's different characteristics, there's different ways to lead. It all comes down to what happens on the football pitch and whether you win or not in the end. So, all the questions get asked, but I understand why you're asking them now, but he cares deeply about this football club and about the team and he's desperate to do well. So, we'll lead that together.”</p> <p><strong>Obviously the board have made a decision this week in some ways. It feels like that would actually potentially break a cycle of churn when you have players that perhaps think that ‘bad results happen, manager changes.’ It would have been three in three years if that happened. What do you think? You played the game, how do you value that dynamic between the players and the head coach?</strong></p> <p>“Listen, it's important, of course it is. Both ways, I think it's important that we have that connection and that's pretty obvious to say for any team. And we have got that, I have to say, we have got that. At the moment, it's easy to question a lot of things, and I totally accept why and what it looks like, but I have absolutely no issue in that regard. We need to play better, and we need to show certain things better, but the connection with us is as strong as that.”</p> <p><strong>I know that you said you didn't have to seek assurance or anything like that, but in terms of that dialogue that you have anyway with Jason [Wilcox] and Omar [Berrada], have you had that robust conversation where you're looking at the future and trying to plan as to how you can get back to where you want to be?</strong></p> <p>“Yeah, I mean, it's pretty clear. It's not always rosy and nice conversations between anyone, whether that's between me and the players, whether that's between me, Jason, Omar, or the owners. It's the truth, it's the hard truth at times, and it's what we need to move forward. So, whatever we need to move forward, we'll do.”</p> <p><strong>When you went down the tunnel on Sunday, the fans were clapping you, then they sort of turned on the players with quite loud booing. How much do you hope that will provoke a reaction in them, because that will surely hurt their pride, or you'd hope it would anyway.</strong></p> <p>“Yeah, I mean, it was mixed feelings. I'll be totally honest, it was mixed feelings for me, to have the appreciation from the supporters and that connection and that respect, is something I feel strongly about. It was, I mean, I say nice, it wasn't a nice situation, but to feel that was important, of course, but it didn't make me feel better in the fact that I'm with the players 100 per cent, and we're all in it together. And I've told the players that, I'm happy to say that. I didn't feel comfortable being in any way, shape, or form a separation from that, that's my group, they’re my players, and this is my football club. So we have to all be in it together and that's the supporters included, as hard as it is at the moment, totally get that, I get their feelings, but when we get through this, then we'll be a lot stronger as a whole.”</p> <p><strong>Michael, obviously yourself, Steve [Holland] and your staff will be looking for solutions to improve the performance level, but have you guys actually spoken to the players and asked them what they feel is going wrong and what they think needs to change? Obviously, Bruno himself was very outspoken after the Como game, obviously, he doesn't feel that, rightly or wrongly, the setup is quite right. Have you been trying to glean from the players what they feel has gone wrong, what they would like to see and try and incorporate that into your thinking, Steve's thinking?</strong></p> <p>“We always do what we think is going to get the best out of the team, whether that's certain players that, of course, you speak to at certain points. That's normal. That's why if you ask for leaders in the dressing room and you want opinions on certain things, and there’s going to be times when you ask that. That's fine, absolutely no problem. Doesn't mean that we always agree with that, but absolutely no problem with that. And then we head off in the same direction.”</p> <p><strong>Just in terms of like confidence, I mean, you played in European Cup-winning teams, title-winning teams. But no matter how good a player is, if confidence goes in any walk of life, that is a serious issue. Is that one of the problems you are now facing with this squad, is that there's obviously a lot of noise, there's a lot of pressure, there's a lot of scrutiny. There's going to be a lot of players in that team that are maybe going through the throes of a confidence crisis. Is that in itself one of the biggest challenges that you face over the coming games to try and address that?</strong></p> <p>“Confidence is the beauty of sport. Confidence is in some ways a major factor of that belief, that self-belief, that confidence level. It trumps everything else in terms of level of performance. But the beauty about the confidence, it can come back sharpish, and it can come back quickly in one moment, one thing in a game, one win, one result. We've seen it before, we've seen it a few months ago. It can come back quickly and that's what keeps you pushing and keeps you believing that it's always that close and what's possible is always within touching distance. Of course, when you're not winning games and you don't feel that you're playing great, then it naturally creeps in. The challenge is keeping that deep within you, that belief to know it's there and it's possible and that's exactly where we're at now. We need something to flip, for everyone, to change the feeling and change that and get the confidence from us, definitely in the team and definitely from the supporters, and that belief again. And it's never far away. As far away as it seems, it's never that far away.”</p> <p><strong>So in your experience, in your long time playing, even when it, say, goes from Leeds, okay, to literally a huge collapse, Como and Bournemouth. Do you still think that confidence is retrievable?</strong></p> <p>“Yeah, 100 per cent, that's sport. That’s sport. Just because you lose a game or you have a bad day, that doesn't mean it's the end of a player's career or an end of a team's road or whatever that may be. It's always what's next and you can always make a difference.”</p> <p><strong>When you spoke to the players, did you talk about the reception they received from the crowd and did you get a sense of what they felt about that? Were they shocked by that? Did they feel it was justified and understandable?</strong></p> <p>“No, I think just to be clear, it was just more [from] me, for them to understand that I'm right in there with them and there's no way that I'm separated from that, as much as I totally respect and appreciate the response from the supporters. I've said it before, I'm right there with them and we'll go through this together.”</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjtoik/press_con_part_2_carrick_on_the_crowd_reaction_as/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjtoik/press_con_part_2_carrick_on_the_crowd_reaction_as/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjtoik/press_con_part_2_carrick_on_the_crowd_reaction_as/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T22:41:15+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Matteo Moretto] Manchester United is sounding out Barrios and Fermín, two LaLiga names shaking up the market",
+      "items": [
+        {
+          "title": "[Matteo Moretto] Manchester United is sounding out Barrios and Fermín, two LaLiga names shaking up the market",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjda7l/matteo_moretto_manchester_united_is_sounding_out/\"> <img alt=\"[Matteo Moretto] Manchester United is sounding out Barrios and Fermín, two LaLiga names shaking up the market\" src=\"https://external-preview.redd.it/jH1gxC5iVjsDHWCjTVWsVs1U6Rxu8EyKtpVrNz5feCg.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee8847378a9d8af809b98001d584472bf7644178\" title=\"[Matteo Moretto] Manchester United is sounding out Barrios and Fermín, two LaLiga names shaking up the market\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://www.marca.com/radio/2026/10/30/matteo-moretto-desvela-manchester-united-quiere-fichar-fermin-lopez-pablo-barrios.html?utm_medium=Social&amp;utm_source=Twitter#Echobox=1793360255-1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjda7l/matteo_moretto_manchester_united_is_sounding_out/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjda7l/matteo_moretto_manchester_united_is_sounding_out/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T11:53:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Paul Hirst] Manchester United eye January signings to plug gaps in ailing squad",
+      "items": [
+        {
+          "title": "[Paul Hirst] Manchester United eye January signings to plug gaps in ailing squad",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.thetimes.com/sport/football/article/manchester-united-premier-league-january-transfer-news-vrzjnfb7r\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjbtib/paul_hirst_manchester_united_eye_january_signings/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjbtib/paul_hirst_manchester_united_eye_january_signings/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T10:34:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Carrick and Tielemans Interview with TNT Sport",
+      "items": [
+        {
+          "title": "Carrick and Tielemans Interview with TNT Sport",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjqtzl/carrick_and_tielemans_interview_with_tnt_sport/\"> <img alt=\"Carrick and Tielemans Interview with TNT Sport\" src=\"https://external-preview.redd.it/MPX4D5Y7rec_oIvAsRSEHNnMWSchb8nXzj7I7Sutmm8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=42a231ec3a8ca5fe99932cbf5c31feaff30a7288\" title=\"Carrick and Tielemans Interview with TNT Sport\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I'm unsure how I feel about the timing of this type of interview. Sharing more for awareness for this sub.<br /> Jules Breach sits down with Carrick and Tielemans, discussion around how the last week has been.</p> <p>Both Carrick and Youri's general sentiment is that the focus is on this weekend's game and nothing else.</p> <p>No huge bombshells</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HansfreeIV\"> /u/HansfreeIV </a> <br /> <span><a href=\"https://youtu.be/GdI-tG4W6YA?si=jHXSTctxCjPiqMsR\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjqtzl/carrick_and_tielemans_interview_with_tnt_sport/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjqtzl/carrick_and_tielemans_interview_with_tnt_sport/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T20:43:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[James Ducker] Man Utd’s accounts reveal how Sir Jim Ratcliffe can buy out Glazers in 2029",
+      "items": [
+        {
+          "title": "[James Ducker] Man Utd’s accounts reveal how Sir Jim Ratcliffe can buy out Glazers in 2029",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjaedq/james_ducker_man_utds_accounts_reveal_how_sir_jim/\"> <img alt=\"[James Ducker] Man Utd’s accounts reveal how Sir Jim Ratcliffe can buy out Glazers in 2029\" src=\"https://external-preview.redd.it/7qFMZBHapAxBS_5dJjIhl54il3sO0act-P5M_iBroLc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0ce01cbcb7037168e0c2dcaeed5c3842490bd3e\" title=\"[James Ducker] Man Utd’s accounts reveal how Sir Jim Ratcliffe can buy out Glazers in 2029\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/10/30/man-utds-accounts-reveal-how-ratcliffe-buy-glazers-out-2029/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjaedq/james_ducker_man_utds_accounts_reveal_how_sir_jim/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjaedq/james_ducker_man_utds_accounts_reveal_how_sir_jim/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T09:08:19+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Youri Tielemans exclusive: Manchester United midfielder backs Michael Carrick stay at Old Trafford - ‘We don't want a sudden change’",
+      "items": [
+        {
+          "title": "Youri Tielemans exclusive: Manchester United midfielder backs Michael Carrick stay at Old Trafford - ‘We don't want a sudden change’",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/highleech\"> /u/highleech </a> <br /> <span><a href=\"https://www.tntsports.co.uk/football/premier-league/2026-2027/youri-tielemans-exclusive-manchester-united-michael-carrick-future-boos-tactics-meeting-chelsea_sto23350453/story.shtml\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjbnju/youri_tielemans_exclusive_manchester_united/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjbnju/youri_tielemans_exclusive_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T10:24:59+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "U21 XI vs Monaco: Byrne-Hughes; Kamason, Armer, Munro, Amass; T. Fletcher, Thwaites; Mantato, J. Fletcher, Thompson; Ibragimov",
+      "items": [
+        {
+          "title": "U21 XI vs Monaco: Byrne-Hughes; Kamason, Armer, Munro, Amass; T. Fletcher, Thwaites; Mantato, J. Fletcher, Thompson; Ibragimov",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><strong>Bench</strong>: Heath (GK), Helafu, McCormack, Leon, Orozco, Missin, Kana-Biyik </p> <p>19:00 kick-off on MUTV</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjn9tr/u21_xi_vs_monaco_byrnehughes_kamason_armer_munro/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjn9tr/u21_xi_vs_monaco_byrnehughes_kamason_armer_munro/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjn9tr/u21_xi_vs_monaco_byrnehughes_kamason_armer_munro/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T18:26:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd U21s 2-3 AS Monaco | Academy Highlights | Premier League International Cup",
+      "items": [
+        {
+          "title": "Man Utd U21s 2-3 AS Monaco | Academy Highlights | Premier League International Cup",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xjtoze/man_utd_u21s_23_as_monaco_academy_highlights/\"> <img alt=\"Man Utd U21s 2-3 AS Monaco | Academy Highlights | Premier League International Cup\" src=\"https://external-preview.redd.it/QlrjGJ3QxPXwShaeZM6Orw-ITW-Ogn0J-xYn54Apmpw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6cd86aca22792c861deafde6294ff6f7ecb23ced\" title=\"Man Utd U21s 2-3 AS Monaco | Academy Highlights | Premier League International Cup\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://youtu.be/QouKAQVy_9Y?si=fzshaATL-itqCO2y\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xjtoze/man_utd_u21s_23_as_monaco_academy_highlights/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xjtoze/man_utd_u21s_23_as_monaco_academy_highlights/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T22:41:49+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "How talking about Man Utd's cycle of doom became an industry -",
+      "items": [
+        {
+          "title": "How talking about Man Utd's cycle of doom became an industry -",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>How talking about Man Utd's cycle of doom became an industry - <a href=\"https://www.bbc.com/sport/football/articles/cjn5v3pl0159o\">https://www.bbc.com/sport/football/articles/cjn5v3pl0159o</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mightyboosher77\"> /u/mightyboosher77 </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xj8bej/how_talking_about_man_utds_cycle_of_doom_became/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xj8bej/how_talking_about_man_utds_cycle_of_doom_became/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xj8bej/how_talking_about_man_utds_cycle_of_doom_became/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-30T06:53:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 65,
+    "story_count": 61
+  }
+}
