@@ -1,0 +1,1476 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T07:12:08.441900+00:00",
+  "match_data": {
+    "collected_at": "2026-11-01T07:12:01.475526+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Has Martinez become a liability for Man Utd?",
+      "items": [
+        {
+          "title": "Has Martinez become a liability for Man Utd?",
+          "summary": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in Manchester United's 2-0 defeat to Chelsea, where the Argentinian defender was sent off.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 31 Oct 2026 23:59:22 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Are Manchester United really at risk of a relegation scrap?",
+      "items": [
+        {
+          "title": "Are Manchester United really at risk of a relegation scrap?",
+          "summary": "Manchester United's current tally of nine points from seven games would not even get them 30 points if it was continued for the full season.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 31 Oct 2026 23:52:28 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+      "items": [
+        {
+          "title": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+          "summary": "Lisandro Martinez is sent off for Manchester United as they suffer a 2-0 defeat against Chelsea at Stamford Bridge to pile more pressure on under-fire manager Michael Carrick.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckn8w20nn9g7o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 31 Oct 2026 22:30:16 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "What questions face Man Utd after Chelsea defeat?",
+      "items": [
+        {
+          "title": "What questions face Man Utd after Chelsea defeat?",
+          "summary": "Manchester United's defeat at Stamford Bridge leaves them without a win in nine games, in all competitions. BBC Sport's Simon Stone highlights the questions raised by this most recent loss.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6d09mz873xyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 31 Oct 2026 17:47:02 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+      "items": [
+        {
+          "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+          "summary": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 31 Oct 2026 17:27:06 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I don't know how Michael Carrick survives this'",
+      "items": [
+        {
+          "title": "'I don't know how Michael Carrick survives this'",
+          "summary": "Man Utd fan Jay Motty says the club are coming to the end of the road with Michael Carrick.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckzd6e1myjz0o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 31 Oct 2026 17:20:34 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+      "items": [
+        {
+          "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+          "summary": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sat, 31 Oct 2026 14:35:50 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Xabi Alonso told Chelsea players to do against Manchester United",
+      "items": [
+        {
+          "title": "What Xabi Alonso told Chelsea players to do against Manchester United",
+          "summary": "Man United were beaten 2-0 by Chelsea in the Premier League on Saturday and Xabi Alonso's half-time instructions helped to change the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-xabi-alonso-told-chelsea-34843961",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 1 Nov 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Chelsea penalty shout against Manchester Utd 61'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkasa9/chelsea_penalty_shout_against_manchester_utd_61/\"> <img alt=\"Chelsea penalty shout against Manchester Utd 61'\" src=\"https://external-preview.redd.it/1h_yyab3640AXQW5Fvj6id8RYWX0DBWJXVWP229MXs0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=21945b5cc7200452c5fe866911f83a9c37fde6cd\" title=\"Chelsea penalty shout against Manchester Utd 61'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamin.link/v/44126e31\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkasa9/chelsea_penalty_shout_against_manchester_utd_61/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkasa9/chelsea_penalty_shout_against_manchester_utd_61/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T13:52:11+00:00"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "r/reddevils"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Julian Nagelsmann 'contacted' as Man United face missing out on Michael Carrick replacement",
+      "items": [
+        {
+          "title": "Julian Nagelsmann 'contacted' as Man United face missing out on Michael Carrick replacement",
+          "summary": "Manchester United have identified a number of potential candidates to replace Michael Carrick with one of those being eyed up by another European club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/julian-nagelsmann-juventus-man-united-34844693",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 16:15:52 +0000"
+        },
+        {
+          "title": "Michael Carrick future LIVE: Man Utd boss facing sack as Julian Nagelsmann 'contacted'",
+          "summary": "After Manchester United were beaten by Chelsea in west London, Michael Carrick's position as manager appears to be under immense threat again",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-sack-man-utd-37829900",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 20:17:55 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick says he will be in charge for Manchester United's next game",
+      "items": [
+        {
+          "title": "Michael Carrick says he will be in charge for Manchester United's next game",
+          "summary": "A disappointed Michael Carrick reflected on Man Utd's performance after losing to Chelsea on Saturday afternoon.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-says-charge-manchester-34843673",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 15:51:51 +0000"
+        },
+        {
+          "title": "Michael Carrick insists he will still be in charge of Manchester United against Roma",
+          "summary": "<ul><li><p>Defeat against Chelsea extends winless run to nine games</p></li><li><p>Carrick clinging on to job after club’s worst run since 1988</p></li></ul><p>Michael Carrick insisted he would still be in charge when Manchester United face Roma in the Champions League on Tuesday, despite the 2-0 defeat at Chelsea on Saturday. United’s problems mounted as their <a href=\"https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report\">winless run reached nine games</a>. Carrick is clinging on to his job after overseeing the club’s first such run since 1988 and tried to focus on the next game as he analysed his side’s defending when Morgan Rogers opened the scoring for Chelsea.</p><p>“It’s never a good goal to concede,” he said. “Morgan went through the middle of us and at that point the game was right in the balance. To concede like that was a big moment. I’m just looking forward to getting the boys ready for midweek now.”</p> <a href=\"https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/31/michael-carrick-chelsea-manchester-united-roma-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 16:43:37 GMT"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Chelsea vs Manchester United highlights and reaction as Martinez sent off in another defeat",
+      "items": [
+        {
+          "title": "Chelsea vs Manchester United highlights and reaction as Martinez sent off in another defeat",
+          "summary": "Man United were beaten by Chelsea at Stamford Bridge as Lisandro Martinez saw red.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/chelsea-vs-manchester-united-live-34840480",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 15:20:00 +0000"
+        },
+        {
+          "title": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
+          "summary": "<p>Get ready for another week of agonising over the sorry state of Manchester United. The legends of old will rage on podcasts, clips of a fuming Gary Neville will fly around social media and by the time United play again there is every chance a new manager will be in the dugout.</p><p>There were echoes of Erik ten Hag’s final game in charge as the walls closed in on Michael Carrick here on Saturday. United missed chances at 0-0, just as they did when Ten Hag lost to West Ham a day <a href=\"https://www.theguardian.com/football/2024/oct/28/manchester-united-sack-erik-ten-hag\">before his sacking two years ago</a>, and Chelsea exacted punishment after initially delivering a performance so bad it had you worrying for the nascent Xabi Alonso project.</p> <a href=\"https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 14:42:36 GMT"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Chelsea vs Man United TV channel, live stream and kick-off time",
+      "items": [
+        {
+          "title": "Chelsea vs Man United TV channel, live stream and kick-off time",
+          "summary": "Manchester United face a tough test in the Premier League away at Chelsea",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/chelsea-man-united-tv-channel-34837664",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 10:00:00 +0000"
+        },
+        {
+          "title": "How to watch Chelsea vs Man Utd - TV channel, live stream and kick-off time",
+          "summary": "A struggling Manchester United return to action this weekend in a tough test against Chelsea",
+          "url": "https://www.mirror.co.uk/sport/football/news/chelsea-man-utd-tv-channel-37823871",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 09:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "How Manchester United dressing room reacted to Chelsea defeat",
+      "items": [
+        {
+          "title": "How Manchester United dressing room reacted to Chelsea defeat",
+          "summary": "Man United were beaten 2-0 by Chelsea at Stamford Bridge on Saturday afternoon in the Premier League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-dressing-room-34843949",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 1 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick future LIVE: Man United boss on the brink as two managers shortlisted",
+      "items": [
+        {
+          "title": "Michael Carrick future LIVE: Man United boss on the brink as two managers shortlisted",
+          "summary": "Manchester United suffered defeat to Chelsea after failing to make opportunities count as pressure mounts on Michael Carrick",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-sack-man-united-34844297",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 22:55:52 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'Heaven sent us an angel' - Roy Keane's son Aidan welcomes first child",
+      "items": [
+        {
+          "title": "'Heaven sent us an angel' - Roy Keane's son Aidan welcomes first child",
+          "summary": "The legendary United midfielder's only son has now become a father himself",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/heaven-sent-angel-roy-keanes-34845625",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 20:27:51 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel rejects transfer as Man United ace left with just one club willing to pay £8.5m",
+      "items": [
+        {
+          "title": "JJ Gabriel rejects transfer as Man United ace left with just one club willing to pay £8.5m",
+          "summary": "Manchetser United academy star JJ Gabriel has been linked with several clubs as he looks to leave Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-jj-gabriel-transfer-34845449",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 18:44:48 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United's next five fixtures after Chelsea loss as Michael Carrick faces nightmare run",
+      "items": [
+        {
+          "title": "Manchester United's next five fixtures after Chelsea loss as Michael Carrick faces nightmare run",
+          "summary": "Michael Carrick could be forced to wait a number of weeks for his next win as Manchester United boss with some challenging fixtures on the horizon",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-fixtures-michael-carrick-34845008",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 18:29:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick reacts to Martinez red card and Man United possibly being in the relegation zone",
+      "items": [
+        {
+          "title": "Michael Carrick reacts to Martinez red card and Man United possibly being in the relegation zone",
+          "summary": "Man Utd were beaten 2-0 by Chelsea in the Premier League, suffering another defeat under Michael Carrick.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-reacts-martinez-red-34843666",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 15:33:38 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick shouldn't be punished for the ridiculous behaviour of one Man United player vs Chelsea",
+      "items": [
+        {
+          "title": "Michael Carrick shouldn't be punished for the ridiculous behaviour of one Man United player vs Chelsea",
+          "summary": "Man Utd were beaten 2-0 by Chelsea in the Premier League on Saturday after Lisandro Martinez's sending-off in the second half.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-shouldnt-punished-ridiculous-34843664",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 15:12:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United player ratings vs Chelsea with a 2/10 as Reds left to rue shocking finishing",
+      "items": [
+        {
+          "title": "Manchester United player ratings vs Chelsea with a 2/10 as Reds left to rue shocking finishing",
+          "summary": "Man United lost 2-0 to Chelsea in the Premier League and this is how the players rated at Stamford Bridge.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34843679",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 14:30:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Lisandro Martinez blasted after 'unacceptable' red card and 'letting down' Man United",
+      "items": [
+        {
+          "title": "Lisandro Martinez blasted after 'unacceptable' red card and 'letting down' Man United",
+          "summary": "Manchester United were firmly in the match against Chelsea, until Lisandro Martinez's moment of madness left Michael Carrick's side on their knees",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/chelsea-man-united-lisandro-martinez-34844358",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 14:00:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United get immediate Matheus Cunha VAR verdict as pundits despair for Michael Carrick",
+      "items": [
+        {
+          "title": "Man United get immediate Matheus Cunha VAR verdict as pundits despair for Michael Carrick",
+          "summary": "Michael Carrick thought his Manchester United side had taken the lead against Chelsea, only for VAR to intervene and break his heart",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-chelsea-carrick-var-34844141",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 13:18:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why Michael Carrick has brought Bruno Fernandes back into Manchester United team vs Chelsea",
+      "items": [
+        {
+          "title": "Why Michael Carrick has brought Bruno Fernandes back into Manchester United team vs Chelsea",
+          "summary": "Man United have welcomed Bruno Fernandes back to their starting line-up to face Chelsea at Stamford Bridge",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-brought-bruno-fernandes-34843459",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 11:55:35 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Michael Carrick said when asked about lack of communication from Man United chiefs with fans",
+      "items": [
+        {
+          "title": "What Michael Carrick said when asked about lack of communication from Man United chiefs with fans",
+          "summary": "Michael Carrick has come under pressure after Manchester United's dreadful start to the season but fans are more angry with the hierarchy.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-michael-carrick-said-asked-34843833",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 11:50:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lisandro Martinez to get transfer wish as 'five clubs register interest' in Man United star",
+      "items": [
+        {
+          "title": "Lisandro Martinez to get transfer wish as 'five clubs register interest' in Man United star",
+          "summary": "Lisandro Martinez appears open to leaving Manchester United, having done little to help his situation by publicly criticising the club's previous transfer dealings",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/martinez-man-united-barcelona-atletico-34843722",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 11:21:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United stars' 'opinion of Bruno Fernandes' as players accused of 'dismissing' him",
+      "items": [
+        {
+          "title": "Man United stars' 'opinion of Bruno Fernandes' as players accused of 'dismissing' him",
+          "summary": "The Manchester United captain has come under fire for publicly expressing his frustration over the coaching staff's tactics of not pressing man-to-man during the Champions League defeat at Como",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-united-chelsea-34843532",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 10:16:29 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Six pundits predict Chelsea vs Man United result with everyone expecting the same outcome",
+      "items": [
+        {
+          "title": "Six pundits predict Chelsea vs Man United result with everyone expecting the same outcome",
+          "summary": "Michael Carrick approaches another potential make-or-break fixture as Manchester United travel to Chelsea",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-chelsea-pundit-predictions-34839855",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd insiders give exciting Kai Rooney update after being handed chance to step up",
+      "items": [
+        {
+          "title": "Man Utd insiders give exciting Kai Rooney update after being handed chance to step up",
+          "summary": "Manchester United prospect Kai Rooney, son of club legend Wayne, is due a step up in responsibilities after netting four in a recent under-18 match",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-kai-rooney-goals-37821484",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 1 Nov 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "'I played with Ronaldo, Messi and Rooney – but one Man Utd legend was a level above'",
+      "items": [
+        {
+          "title": "'I played with Ronaldo, Messi and Rooney – but one Man Utd legend was a level above'",
+          "summary": "The Manchester United icon was ranked above Cristiano Ronaldo and Lionel Messi",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ronaldo-messi-rooney-37821304",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 1 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick sack timeline emerges after Chelsea loss sees Man Utd hit 38-year low",
+      "items": [
+        {
+          "title": "Michael Carrick sack timeline emerges after Chelsea loss sees Man Utd hit 38-year low",
+          "summary": "Manchester United are 17th in the Premier League, just outside the relegation zone, having gone nine matches without a win in all competitions, heaping pressure onto Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-man-utd-sack-timeline-37830710",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 21:24:43 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick told Lisandro Martinez can't play for Man Utd again after Chelsea nightmare",
+      "items": [
+        {
+          "title": "Michael Carrick told Lisandro Martinez can't play for Man Utd again after Chelsea nightmare",
+          "summary": "Lisandro Martinez was sent off in Manchester United's 2-0 defeat by Chelsea on Saturday and the Argentina international's lack of discipline is a real issue for Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-lisandro-martinez-man-utd-37830579",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 19:08:54 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "New footage shows Bruno Fernandes' honest reaction to Man Utd losing at Chelsea",
+      "items": [
+        {
+          "title": "New footage shows Bruno Fernandes' honest reaction to Man Utd losing at Chelsea",
+          "summary": "Manchester United were beaten 2-0 by Chelsea at Stamford Bridge on Saturday, plunging them further into disaster, and Bruno Fernandes' reaction told a story",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-chelsea-37830388",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 17:32:15 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd players have 'lost belief' in Michael Carrick as brutal sack verdict issued",
+      "items": [
+        {
+          "title": "Man Utd players have 'lost belief' in Michael Carrick as brutal sack verdict issued",
+          "summary": "Michael Carrick's job is under even more scrutiny after Manchester United were beaten by Chelsea on Saturday, extending their winless run to nine matches",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-sack-man-utd-37830272",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 16:36:12 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick's one-word response to threat of being sacked by Man Utd today",
+      "items": [
+        {
+          "title": "Michael Carrick's one-word response to threat of being sacked by Man Utd today",
+          "summary": "Michael Carrick has had his say on Manchester United's brutal defeat to Chelsea and his future as Red Devils boss with the pressure continuing to pile on him",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-reaction-37830070",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 15:34:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick past the point of no return as Man Utd stars let him down again vs Chelsea",
+      "items": [
+        {
+          "title": "Michael Carrick past the point of no return as Man Utd stars let him down again vs Chelsea",
+          "summary": "CHELSEA 2-0 MAN UTD: The Blues outclassed Michael Carrick's side in the second half to earn all three points and apply a devastating amount of pressure on the position of the United boss",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-chelsea-match-highlights-37829836",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 14:32:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick's telling reaction to Lisandro Martinez red card vs Chelsea says it all",
+      "items": [
+        {
+          "title": "Michael Carrick's telling reaction to Lisandro Martinez red card vs Chelsea says it all",
+          "summary": "Lisandro Martinez outrageously gave away a penalty and was shown his second yellow card for a collision with Wesley Fofana - just seconds after he'd picked up his first booking",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-martinez-manchester-united-chelsea-37829888",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 14:14:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd told to immediately strip Bruno Fernandes of captaincy as Michael Carrick U-turns",
+      "items": [
+        {
+          "title": "Man Utd told to immediately strip Bruno Fernandes of captaincy as Michael Carrick U-turns",
+          "summary": "Bruno Fernandes was back in Manchester United's starting line-up to face Chelsea, having been dropped in their last match after criticising Michael Carrick's tactics",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-manchester-united-chelsea-37829706",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 12:24:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man City 'reject explanation' over Liverpool, Man Utd and Arsenal dinner meeting",
+      "items": [
+        {
+          "title": "Man City 'reject explanation' over Liverpool, Man Utd and Arsenal dinner meeting",
+          "summary": "Manchester City are preparing for their appeal hearing after the independent commission found them guilty of over 100 financial breaches",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-city-appeal-premier-league-37829574",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 12:11:50 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick gives Gary Neville blunt response over damning claim about Man Utd stars",
+      "items": [
+        {
+          "title": "Michael Carrick gives Gary Neville blunt response over damning claim about Man Utd stars",
+          "summary": "Gary Neville made headlines following Manchester United's 3-0 loss against Bournemouth last Sunday by accusing some players of being unprofessional, hitting out at the 'lack of standards'",
+          "url": "https://www.mirror.co.uk/sport/football/news/michael-carrick-neville-manchester-united-37829362",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 09:47:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chelsea vs Man Utd predicted by six pundits as Michael Carrick fights for his job",
+      "items": [
+        {
+          "title": "Chelsea vs Man Utd predicted by six pundits as Michael Carrick fights for his job",
+          "summary": "Manchester United head coach Michael Carrick remains under pressure as his side travel to Stamford Bridge to face Chelsea in the Premier League at Saturday lunchtime",
+          "url": "https://www.mirror.co.uk/sport/football/news/chelsea-man-utd-predictions-result-37828473",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 08:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Should Michael Carrick recall Bruno Fernandes with his Man Utd job on the line?",
+      "items": [
+        {
+          "title": "Should Michael Carrick recall Bruno Fernandes with his Man Utd job on the line?",
+          "summary": "HAVE YOUR SAY: Michael Carrick chose to drop Bruno Fernandes last weekend but, with it job on the line and private talks held, should the Manchester United boss bring his captain back into the starting picture",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-carrick-37829006",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 07:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
+      "items": [
+        {
+          "title": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
+          "summary": "<p>Michael Carrick is now a little more pre-doomed, pre-sacked, but is miles away from being the actual story</p><p>On and on and on. And then on just a little bit more it would seem. Manchester United: always crashing in the same Carrick.</p><p>The obvious question after <a href=\"https://www.theguardian.com/football/2026/oct/31/chelsea-manchester-united-premier-league-match-report\">this 2-0 defeat to Chelsea </a>is how much longer United will continue to lose games under the current manager, as opposed to losing games under the next one. But it is also a mark of the dysfunction of this club, its ambient levels of sadness, that this matters so little.</p> <a href=\"https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/31/manchester-united-chelsea-premier-league-michael-carrick",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 17:54:19 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Chelsea 2-0 Manchester United: Premier League – as it happened",
+      "items": [
+        {
+          "title": "Chelsea 2-0 Manchester United: Premier League – as it happened",
+          "summary": "<p>Lisandro Martínez was sent off as Manchester United lost again to keep Michael Carrick’s future uncertain</p><p><strong>3 min:</strong> A rare old atmosphere at the Bridge. Saturday lunchtime pints! You see? We have photographic proof.</p><p><strong>2 min:</strong> A fairly hectic and shapeless start. “The ghosts of managerial past are truly haunting this fixture,” writes Michael Coppejans. “Will there be an exorcism or just a sad departing at the end of this one? Chances are neither as I see in my crystal ball a draw. Let’s hope it as at least exciting for your MBM. Happy Halloween or Samhain if that is your preference!”</p> <a href=\"https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 15:07:14 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Premier League today: How to watch, TV channels & live stream",
+      "items": [
+        {
+          "title": "Premier League today: How to watch, TV channels & live stream",
+          "summary": "<p>How will Chelsea and Manchester United fare today? Here is what to know, including kick-off time, TV channels and live stream options</p><p>Chelsea and Manchester United both need a response to recent bad results. The former suffered a penalty shootout Carabao Cup <a href=\"https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report\">exit</a> to Liverpool on Wednesday days after a dismal home <a href=\"https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report\">defeat</a> to Tottenham Hotspur in the Premier League.</p><p>The latter, meanwhile, have endured a chaotic week despite not playing a match. Michael Carrick is still in place as United manager despite widespread belief that Sunday’s 3-0 <a href=\"https://www.theguardian.com/football/2026/oct/25/manchester-united-bournemouth-premier-league-match-report-michael-carrick\">loss</a> to Bournemouth would be his final act.</p> <a href=\"https://www.theguardian.com/football/2026/oct/31/how-to-watch-premier-league-chelsea-manchester-united\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/oct/31/how-to-watch-premier-league-chelsea-manchester-united",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 07:30:36 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd Transfer News Today: Fermin Lopez targeted as Romano confirms January signing - LiveScore",
+      "items": [
+        {
+          "title": "Man Utd Transfer News Today: Fermin Lopez targeted as Romano confirms January signing - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc?oc=5\" target=\"_blank\">Man Utd Transfer News Today: Fermin Lopez targeted as Romano confirms January signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTFUtVGU3RXNRekNsSmlfcWtDZU1mVEhjc0UwNEEwRWQ3X0M2QzJsUUl1a1hlWGg5WHk2Q2ZTN0s3dFlNT05Ya1hUcml3RmVXVmpHMXZoWXFkd0xpVm5xczVKVHI5TWJJWktVaGQ4OC1GeXdpaXJ6bTFpcC01M25TcE9RNkpYSWp1c2wtUmpmbTdjWTVIUmszNUJKLW9TRHdWRWdFT3FCZXdBdnZiVW14LWV1Sm1xYi1CX1plNkFyY0dlaVRDV1IyS1ZqVnQ1MlAzWEF1X0hxTnlQTEFxTm1mclZPRWJQYmtCcERuSXhpc184VGc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 30 Oct 2026 21:13:10 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano names the elite tactician “most appreciated” by the Man United board, he is a serial winner - Yahoo Sports",
+      "items": [
+        {
+          "title": "Fabrizio Romano names the elite tactician “most appreciated” by the Man United board, he is a serial winner - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkZxc2NjdWl1T2hUS2R1UWlJdWNfajNLZURBRHd3R25hZ3JuMk04UC1CSG1FWFNVb3R2ZVUyRFN1OWFxcFAwelZwcDFNMU5ka2VyVlJJWlFUeHE2SlFHblZfTGhqN1Z6LWh0SUlvRnRyMGZXNWNIVUlxWjNidnRyYms0RXFvamFzb3JpME45WQ?oc=5\" target=\"_blank\">Fabrizio Romano names the elite tactician “most appreciated” by the Man United board, he is a serial winner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYkZxc2NjdWl1T2hUS2R1UWlJdWNfajNLZURBRHd3R25hZ3JuMk04UC1CSG1FWFNVb3R2ZVUyRFN1OWFxcFAwelZwcDFNMU5ka2VyVlJJWlFUeHE2SlFHblZfTGhqN1Z6LWh0SUlvRnRyMGZXNWNIVUlxWjNidnRyYms0RXFvamFzb3JpME45WQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 06:00:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Romano reveals Barcelona decision on selling Fermin to Red Devils - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Romano reveals Barcelona decision on selling Fermin to Red Devils - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzlGSnFxeHo5ZDFITFRHOGlMbEJEMXl4UWM0bWN1ajR6TEJLYTBEaVVVZXBfQVFIT2U0MHBGam1YZ2hySDZCd1FVMXJ1VWxIUF9KbUV1a0RkLVpIYjl6enJhVHNLMXJVR2FJd05sMGpxeFowSEhmV1QwcU9FVVp4ellzaFIzWjIyY3hpODhQd3A?oc=5\" target=\"_blank\">Man Utd: Romano reveals Barcelona decision on selling Fermin to Red Devils</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzlGSnFxeHo5ZDFITFRHOGlMbEJEMXl4UWM0bWN1ajR6TEJLYTBEaVVVZXBfQVFIT2U0MHBGam1YZ2hySDZCd1FVMXJ1VWxIUF9KbUV1a0RkLVpIYjl6enJhVHNLMXJVR2FJd05sMGpxeFowSEhmV1QwcU9FVVp4ellzaFIzWjIyY3hpODhQd3A?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 11:51:51 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Barcelona midfield mainstay ‘extremely happy’ and has no intention of leaving amid Manchester United interest – Romano - Yahoo Sports",
+      "items": [
+        {
+          "title": "Barcelona midfield mainstay ‘extremely happy’ and has no intention of leaving amid Manchester United interest – Romano - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnA4azB4c3RwNExtRTJwMGJjX0ljUklITHI2dGlrdmpfcHlValdJRXpyR0FaTld0VkVIT1ltM05LemRrblBKTjFGTTRTb21QcUNIbkt6Ul9IQ2h0eUlPTDRBUDJBaklNYkJ0emlzRlY2UTJFU0pKX0YtMDdGRHF5U3VlRVo0NFpmdng1SVhYNjdQY2VkdjRJ?oc=5\" target=\"_blank\">Barcelona midfield mainstay ‘extremely happy’ and has no intention of leaving amid Manchester United interest – Romano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnA4azB4c3RwNExtRTJwMGJjX0ljUklITHI2dGlrdmpfcHlValdJRXpyR0FaTld0VkVIT1ltM05LemRrblBKTjFGTTRTb21QcUNIbkt6Ul9IQ2h0eUlPTDRBUDJBaklNYkJ0emlzRlY2UTJFU0pKX0YtMDdGRHF5U3VlRVo0NFpmdng1SVhYNjdQY2VkdjRJ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 31 Oct 2026 08:20:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United make defensive Premier League player their top January window target",
+      "items": [
+        {
+          "title": "Man United make defensive Premier League player their top January window target",
+          "summary": "<p>Manchester United are reportedly considering a January move for Fulham defender Calvin Bassey as the club prepares to strengthen a squad that has been badly exposed by injuries. The 26-year-old has been one of Fulham’s standout performers this season and has also taken on the captaincy. His ability to operate at both centre-back and left-back [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/01/man-united-defensive-premier-league-player-top-target/\">Man United make defensive Premier League player their top January window target</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/01/man-united-defensive-premier-league-player-top-target/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 01 Nov 2026 06:22:53 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United ready to target player ‘fantastic in front of goal’ to replace Bruno Fernandes",
+      "items": [
+        {
+          "title": "Man United ready to target player ‘fantastic in front of goal’ to replace Bruno Fernandes",
+          "summary": "<p>Manchester United are reportedly considering Barcelona midfielder Fermín López as they assess potential successors to Bruno Fernandes, although convincing the Spanish champions to sell could prove extremely difficult. The 23-year-old has enjoyed another productive start to the season, combining goals with the energy and versatility needed to operate as a No.10, central midfielder or wide [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/01/man-united-target-player-fantastic-replace-bruno-fernandes/\">Man United ready to target player &#8216;fantastic in front of goal&#8217; to replace Bruno Fernandes</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/01/man-united-target-player-fantastic-replace-bruno-fernandes/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 01 Nov 2026 06:12:27 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Latest: Man United could cash in on key defender after relationship breakdown",
+      "items": [
+        {
+          "title": "Latest: Man United could cash in on key defender after relationship breakdown",
+          "summary": "<p>Manchester United could be heading towards a major defensive change in 2027, with Lisandro Martínez reportedly attracting serious interest from both Barcelona and Atlético Madrid. The Argentina international’s contract expires at the end of the season, although United retain an option to extend it by another year. However, the relationship between player and club has [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/01/man-united-cash-in-on-key-defender-relationship-breakdown/\">Latest: Man United could cash in on key defender after relationship breakdown</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/01/man-united-cash-in-on-key-defender-relationship-breakdown/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 01 Nov 2026 06:08:49 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“The priority…” – Sources reveal Man United interest in signing England international",
+      "items": [
+        {
+          "title": "“The priority…” – Sources reveal Man United interest in signing England international",
+          "summary": "<p>Manchester United have problems up front as the injury to Benjamin Sesko has proven more serious than expected, and it’s likely to lead them into the transfer market this January. Enquiries have already been made about two big-name players, and I’m told their list is even longer than that. This story was first published via [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/31/the-priority-sources-reveal-man-united-interest-in-signing-england-international/\">&#8220;The priority&#8230;&#8221; &#8211; Sources reveal Man United interest in signing England international</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/31/the-priority-sources-reveal-man-united-interest-in-signing-england-international/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 31 Oct 2026 19:58:26 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick gives one-word response when asked if he expects to remain Man United manager",
+      "items": [
+        {
+          "title": "Michael Carrick gives one-word response when asked if he expects to remain Man United manager",
+          "summary": "<p>Manchester United manager Michael Carrick delivered a defiant response when questioned about his future following Saturday&#8217;s 2-0 Premier League defeat against Chelsea at Stamford Bridge. The 45-year-old is under mounting pressure after United&#8217;s winless run extended to nine matches across all competitions, leaving the club languishing in 16th place in the Premier League table. Despite [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/10/31/michael-carrick-man-united-future-chelsea-defeat/\">Michael Carrick gives one-word response when asked if he expects to remain Man United manager</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/10/31/michael-carrick-man-united-future-chelsea-defeat/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 31 Oct 2026 19:08:35 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkgx2e/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkgx2e/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkgx2e/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T18:00:54+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Michael Cox, The Athletic] Lisandro Martinez has been the worst player in the Premier League this season (Gift Article)",
+      "items": [
+        {
+          "title": "[Michael Cox, The Athletic] Lisandro Martinez has been the worst player in the Premier League this season (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkebgg/michael_cox_the_athletic_lisandro_martinez_has/\"> <img alt=\"[Michael Cox, The Athletic] Lisandro Martinez has been the worst player in the Premier League this season (Gift Article)\" src=\"https://external-preview.redd.it/4_cSLQ8xYmX4UCRJEnk2JHQFE4r28PAcLeeurfzdJx8.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c2b69bb4c296a79baa92ee8d863a06e682a1aee\" title=\"[Michael Cox, The Athletic] Lisandro Martinez has been the worst player in the Premier League this season (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7741484/2026/10/31/lisandro-martinez-man-united-mistakes-red-card-performance/?unlocked_article_code=1.M1E.XaXE.U5fd7OuTX5Vh&amp;source=user_shared_article&amp;smid=ta-ios-share\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkebgg/michael_cox_the_athletic_lisandro_martinez_has/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkebgg/michael_cox_the_athletic_lisandro_martinez_has/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T16:17:05+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Simon Stone] FT 2-0. @ManUtd nine without a win in all comps. Worst run since 1988-89.",
+      "items": [
+        {
+          "title": "[Simon Stone] FT 2-0. @ManUtd nine without a win in all comps. Worst run since 1988-89.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkbps0/simon_stone_ft_20_manutd_nine_without_a_win_in/\"> <img alt=\"[Simon Stone] FT 2-0. @ManUtd nine without a win in all comps. Worst run since 1988-89.\" src=\"https://preview.redd.it/aluyqhjmctyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eebac54ae46b357ec69515c4767ea38f7a0841c1\" title=\"[Simon Stone] FT 2-0. @ManUtd nine without a win in all comps. Worst run since 1988-89.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/aluyqhjmctyh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkbps0/simon_stone_ft_20_manutd_nine_without_a_win_in/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkbps0/simon_stone_ft_20_manutd_nine_without_a_win_in/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T14:31:17+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Will Jeanes] Manchester United have failed to win any of their first seven away games in all competitions in a season for the first time since 1973-74, when they were last relegated.",
+      "items": [
+        {
+          "title": "[Will Jeanes] Manchester United have failed to win any of their first seven away games in all competitions in a season for the first time since 1973-74, when they were last relegated.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkeksd/will_jeanes_manchester_united_have_failed_to_win/\"> <img alt=\"[Will Jeanes] Manchester United have failed to win any of their first seven away games in all competitions in a season for the first time since 1973-74, when they were last relegated.\" src=\"https://preview.redd.it/d9n4z2dextyh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a4d2ed43a28137bb5d4aa5d557ddee7abebd7cd8\" title=\"[Will Jeanes] Manchester United have failed to win any of their first seven away games in all competitions in a season for the first time since 1973-74, when they were last relegated.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/XHentaiHunterX\"> /u/XHentaiHunterX </a> <br /> <span><a href=\"https://i.redd.it/d9n4z2dextyh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkeksd/will_jeanes_manchester_united_have_failed_to_win/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkeksd/will_jeanes_manchester_united_have_failed_to_win/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T16:27:26+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie Whitwell] Nine games without a win for United, who could be in relegation zone by 5pm if Forest draw at Brentford + there’s a winner in Coventry v Sunderland. Galling for United to lose after spirited first-half, but crumbled yet again. Chelsea didn’t even have to be particularly good.",
+      "items": [
+        {
+          "title": "[Laurie Whitwell] Nine games without a win for United, who could be in relegation zone by 5pm if Forest draw at Brentford + there’s a winner in Coventry v Sunderland. Galling for United to lose after spirited first-half, but crumbled yet again. Chelsea didn’t even have to be particularly good.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkc314/laurie_whitwell_nine_games_without_a_win_for/\"> <img alt=\"[Laurie Whitwell] Nine games without a win for United, who could be in relegation zone by 5pm if Forest draw at Brentford + there’s a winner in Coventry v Sunderland. Galling for United to lose after spirited first-half, but crumbled yet again. Chelsea didn’t even have to be particularly good.\" src=\"https://preview.redd.it/kun3m2e5ftyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=de51e0bfab62bd4fa564c5b547701bc3b83180ad\" title=\"[Laurie Whitwell] Nine games without a win for United, who could be in relegation zone by 5pm if Forest draw at Brentford + there’s a winner in Coventry v Sunderland. Galling for United to lose after spirited first-half, but crumbled yet again. Chelsea didn’t even have to be particularly good.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/kun3m2e5ftyh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkc314/laurie_whitwell_nine_games_without_a_win_for/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkc314/laurie_whitwell_nine_games_without_a_win_for/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T14:46:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Rival Watch",
+      "items": [
+        {
+          "title": "Rival Watch",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Coventry 3-1 Sunderland</p> <p>Brentford 2-0 N. Forest</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dondaldTramp\"> /u/dondaldTramp </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xke7kp/rival_watch/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xke7kp/rival_watch/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xke7kp/rival_watch/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T16:12:40+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Laurie] What do Manchester United do now? Is there a plan?",
+      "items": [
+        {
+          "title": "[Laurie] What do Manchester United do now? Is there a plan?",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkiiuf/laurie_what_do_manchester_united_do_now_is_there/\"> <img alt=\"[Laurie] What do Manchester United do now? Is there a plan?\" src=\"https://external-preview.redd.it/RMaktv-qFmQuUo7wXOxF06oxFKyTP8hXIywLWzO4EpY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b42d7229a6aaa25abc2a56cc0255cb741082991d\" title=\"[Laurie] What do Manchester United do now? Is there a plan?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7741838/2026/10/31/man-united-carrick-manager-future-international-break/?unlocked_article_code=1.M1E.5foR.qn_6l4XX42b_&amp;source=emp_shared_article&amp;smid=ta-ios-share\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkiiuf/laurie_what_do_manchester_united_do_now_is_there/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkiiuf/laurie_what_do_manchester_united_do_now_is_there/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T19:05:21+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "MOTD post match interviews and analysis VS Chelsea 31/10/2026",
+      "items": [
+        {
+          "title": "MOTD post match interviews and analysis VS Chelsea 31/10/2026",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkqrym/motd_post_match_interviews_and_analysis_vs/\"> <img alt=\"MOTD post match interviews and analysis VS Chelsea 31/10/2026\" src=\"https://external-preview.redd.it/cWxnajBoa2psd3loMVwV8HJTlrsiw9AOIyeznVdaJPSK2gy-jxbjpkFaUHWu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f0d54577afb438a9c585660c425891101f1a76d\" title=\"MOTD post match interviews and analysis VS Chelsea 31/10/2026\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/herkalurk\"> /u/herkalurk </a> <br /> <span><a href=\"https://v.redd.it/rz0g23kjlwyh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkqrym/motd_post_match_interviews_and_analysis_vs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkqrym/motd_post_match_interviews_and_analysis_vs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-01T01:26:46+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Lisandro Martinez's elbow vs Chelsea",
+      "items": [
+        {
+          "title": "Lisandro Martinez's elbow vs Chelsea",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://v.redd.it/5q8ygt6r5tyh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkatdy/lisandro_martinezs_elbow_vs_chelsea/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkatdy/lisandro_martinezs_elbow_vs_chelsea/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T13:53:33+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[Solskjær] Rumours about contracts demands are nonsense",
+      "items": [
+        {
+          "title": "[Solskjær] Rumours about contracts demands are nonsense",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xk7l4s/solskjær_rumours_about_contracts_demands_are/\"> <img alt=\"[Solskjær] Rumours about contracts demands are nonsense\" src=\"https://external-preview.redd.it/D-DFPqy52_hA6FE8i2zZ8FYb0q_O6D8oGGDHInfMC8g.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c5016507a1176bd8e5df03e1a7b83af343d76eef\" title=\"[Solskjær] Rumours about contracts demands are nonsense\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FlyingSpaceElephants\"> /u/FlyingSpaceElephants </a> <br /> <span><a href=\"https://www.vg.no/sport/i/vlLnO5/solskjaer-ut-mot-ryktene-bare-tull\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xk7l4s/solskjær_rumours_about_contracts_demands_are/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xk7l4s/solskjær_rumours_about_contracts_demands_are/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T11:16:00+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[@ManUtd] The United Calypso continues to be sung by our travelling Reds in the away end ❤️",
+      "items": [
+        {
+          "title": "[@ManUtd] The United Calypso continues to be sung by our travelling Reds in the away end ❤️",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkbirm/manutd_the_united_calypso_continues_to_be_sung_by/\"> <img alt=\"[@ManUtd] The United Calypso continues to be sung by our travelling Reds in the away end ❤️\" src=\"https://preview.redd.it/1796loe6btyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e7f576db16468ac525abc01b834d92d0218df4ec\" title=\"[@ManUtd] The United Calypso continues to be sung by our travelling Reds in the away end ❤️\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nanobookworm\"> /u/nanobookworm </a> <br /> <span><a href=\"https://i.redd.it/1796loe6btyh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkbirm/manutd_the_united_calypso_continues_to_be_sung_by/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkbirm/manutd_the_united_calypso_continues_to_be_sung_by/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T14:23:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Post Match Thread: Chelsea 2-0 Manchester United | PL MD 9",
+      "items": [
+        {
+          "title": "Post Match Thread: Chelsea 2-0 Manchester United | PL MD 9",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>FT: Chelsea 2-0 Manchester United</h1> <p>Goal Scorers Chelsea : Morgan Rogers 50', Cole Palmer 64' (Pen)</p> <p>Red Card United : Lisandro Martinez 61' (2nd Yellow)</p> <p>____________________________</p> <p><strong>Venue</strong>: - Stamford Bridge, London<br /> ____________________________</p> <p><strong>Manchester United</strong></p> <p><strong>Starting XI</strong>: </p> <p>Senne Lammens; Leny Yoro, Harry Maguire, Lisandro Martinez, Diogo Dalot; Andrey Santos, Carlos Baleba; Amad Diallo, Bruno Fernandes, Matheus Cunha; Bryan Mbeumo.</p> <p><strong>SUBS:</strong> </p> <p>Karl Darlow, Noussair Mazraoui, Ayden Heaven, Matthijs de Ligt, Kobbie Mainoo, Mason Mount, Youri Tielemans, Joshua Zirkzee, Shea Lacey.</p> <p><strong>Chelsea</strong></p> <p><strong>Starting XI:</strong></p> <p>Mike Penders; Josh Acheampong, Wesley Fofana, Levi Colwill; Pedro Neto, Moises Caicedo, Romeo Lavia, Marco Palestra; Estevao, Cole Palmer; Morgan Rogers.</p> <p><strong>SUBS:</strong> </p> <p>Teddy Sharman-Lowe, Malo Gusto, Olutayo Subuloye, Pep Chavarria, Mahdi Nicoll-Jazuli, Geovany Quenda, Valentin Barco, Emmanuel Emegha, Danny Welbeck.</p> <p>____________________________</p> <p><strong>MATCH EVENTS</strong></p> <p>15' ESTEVAO SCORES, BUT IT WON'T COUNT! Chelsea's joy is cut short by the offside flag. The Blues embark on a quickfire attack, and Lammens can only parry Neto's shot. Estevao's there to tuck away the rebound, but he's ahead of the last defender and the flag rightly goes up.</p> <p>19' CHANCE FOR FERNANDES! He must do better from there! It's a rapid counter by United, with Mbeumo leading their charge. The forward sweeps a superb pass in behind the Chelsea defence for Fernandes. The skipper takes a touch, but blazes his left-footed shot high and wide of the target. Sarcastic cheers from the home fans ring around Stamford Bridge.</p> <p>25' OOH IT JUST NEEDED A TOUCH! Fernandes is onside and the ball's slipped through to him in the box. He flashes it right across the face of goal. Mbeumo's in the centre, but can't react quickly enough, and the ball whizzes past him before he can get a touch.</p> <p>34' OOOH IT'S IN!!! UNITED HAVE THE LEAD! Fernandes swings a deep corner to the far post. Maguire does well to win the header, and Cunha flicks it in from close range. Just a minute, though, VAR are having a look...</p> <p>35' NO GOAL! Replays show Cunha was fractionally offside when Maguire won the initial header. VAR advises the referee of this, and he subsequently rules out the goal.</p> <p>42' IT'S HIT THE POST! Chelsea have a corner, which Palmer swings into the box. Fofana wins the initial header, and the ball ricochets off Caicedo, before trickling towards goal. It's almost in slow-motion, but thankfully for United, the ball clips the post and bounces out.</p> <p>43' AMAD HAS TO SCORE! It's another howler from Fofana, who's beaten to a one-on-one with Amad again. The United winger's clear on goal with only Penders to beat, but lifts his shot too high. That's a big chance for the visitors.</p> <p>45'+3' HALF-TIME: CHELSEA 0-0 MANCHESTER UNITED</p> <p>50' Chelsea Goal 1-0 CHELSEA! It needed something special to break the deadlock here, and we've just seen it. United are dispossessed just inside their own half and Lavia feeds Rogers, who drives into the heart of the visiting defence. He glides past a couple of challenges, and calmly dinks the ball over the outrushing Lammens. </p> <p>58' Manchester United Substitution Carrick, the former midfield maestro, makes a change in the middle of the park, introducing Mainoo in place of Baleba.</p> <p>63' PENALTY TO CHELSEA! It's hardly surprising that, after review, the referee overturns his initial decision and points to the spot. There's further jeopardy for Martinez, too...</p> <p>63' Manchester United Red Card RED CARD FOR MARTINEZ! Moments after his first yellow card, Martinez is shown his second, and United are down to 10 men. It's a Halloween horror show from the Argentina international and, given his experience, completely irresponsible.</p> <p>64' Chelsea Penalty - Scored JUST ABOUT FROM PALMER!!! 2-0 CHELSEA! Lammens guesses the right way by getting down to his left. He gets a hand to Palmer's penalty, but only succeeds in helping it into the corner of the net.</p> <p>72' WHAT A FINISH FROM ESTEVAO!!! That will surely be that! United have simply capitulated in this second half. Mount's loose touch just inside the visitors' half hands possession back to Chelsea, who quickly counter. Palmer drives the hosts forward and feeds Estevao, who rifles a shot into the roof of the net. Just a minute, though...</p> <p>73' OFFSIDE GIVEN! How's your luck?! Estevao's now had two goals ruled out for offside! Replays show his shoulder was ahead of Maguire, which is deemed enough to disallow the goal. It seems harsh, but it's the letter of the law.</p> <p>85' GOOD SAVE, LAMMENS! How has Estevao not scored today?! That's all that's been missing from his performance. The Brazilian works space to shoot from the edge of the box after a neat one-two. There's plenty of venom in his strike, but Lammens gets down well to his right and palms the ball away.</p> <p>90'+2' WHAT A HIT BY MBEUMO! That's so unlucky! Zirkzee's positive spell down the right leads to a United corner. It's only cleared to the edge of the box, where Mbeumo connects so purely with his volley. It's an absolute thunderbolt, but it crashes against the crossbar. It's actually a wonderful save by Penders, who got a fingertip to the volley.</p> <p>____________________________</p> <p><strong>NEXT MATCH</strong></p> <p>Man Utd vs Roma - UEFA Champions League</p> <p>November 3, 2026 • 20:00</p> <p>Old Trafford, Manchester </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkbopi/post_match_thread_chelsea_20_manchester_united_pl/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkbopi/post_match_thread_chelsea_20_manchester_united_pl/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkbopi/post_match_thread_chelsea_20_manchester_united_pl/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T14:30:03+00:00"
+        },
+        {
+          "title": "Match Thread: Chelsea vs Manchester United | Premier League | 9 | 31 Oct 12:30 UTC",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>This post contains content not supported on old Reddit. <a href=\"https://sh.reddit.com/r/reddevils/comments/1xk8sxk\">Click here to view the full post</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/matchpal-live\"> /u/matchpal-live </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xk8sxk/match_thread_chelsea_vs_manchester_united_premier/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xk8sxk/match_thread_chelsea_vs_manchester_united_premier/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xk8sxk/match_thread_chelsea_vs_manchester_united_premier/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T12:21:04+00:00"
+        },
+        {
+          "title": "Half Time Thread: Chelsea 0-0 Manchester United",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>HT: Chelsea 0-0 Manchester United</h1> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xka0kk/half_time_thread_chelsea_00_manchester_united/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xka0kk/half_time_thread_chelsea_00_manchester_united/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xka0kk/half_time_thread_chelsea_00_manchester_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T13:18:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Quotes] Carrick: \"There's no hiding from the fact that we haven't won enough games. The boys were in a good place in the first half. We didn't start the 2nd half particularly great. A bit scrappy & we didn't get going. They made first blow in the second half & it goes on to be the difference.\"",
+      "items": [
+        {
+          "title": "[Quotes] Carrick: \"There's no hiding from the fact that we haven't won enough games. The boys were in a good place in the first half. We didn't start the 2nd half particularly great. A bit scrappy & we didn't get going. They made first blow in the second half & it goes on to be the difference.\"",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><h1>Michael Carrick</h1> <p><strong>Michael Carrick tells TNT Sports he will be in charge for Man Utd's CL game against Roma on Tuesday. In his after-match press conference, he also said, 'I'm just looking forward to getting the boys ready for midweek now'.</strong> [Chris Wheeler]</p> <p>MUFC in relegation zone as things stand.</p> <p>Asked Carrick about squad mentality for fight against drop: &quot;You can look at it like that. You can look at how far you can move up the league quite quickly if you win football matches. That's the way it's got to be approached, for sure.&quot; [Laurie Whitwell]</p> <p>Michael Carrick: &quot;Let it unravel too much when the moments went against us.&quot; [Simon Stone]</p> <h1>Carrick expects to be in charge for next game</h1> <p><strong>Manchester United boss Michael Carrick, speaking to TNT Sports:</strong> &quot;We didn't come out, and didn't get going in the second half.</p> <p>&quot;Half-time we could have and should have been up. Everything was positive as we hoped for.</p> <p>&quot;We could have made more chances. We looked in a good place and then found a way of unravelling the second half. A bad way to concede, penalty, and then we were right up against it at that moment. It turned right on its head.</p> <p><strong>&quot;There is no hiding from the fact that we haven't won enough games. The boys were in a good place in the first half.</strong></p> <p><strong>&quot;I think we didn't start the second half particularly great. A bit scrappy and we didn't get going. They made first blow in the second half and in the end that goes on to be the difference.&quot;</strong></p> <p><strong>On Lisandro Martinez red card:</strong> &quot;I have not looked at it to be honest. I have not seen it.&quot;</p> <p><strong>On feeling let down by Martinez?:</strong> &quot;No.&quot;</p> <p><strong>On the fans:</strong> &quot;There is a lot of emotion, we're a great football club, and we want to win football matches. The supporters come, make a lot of effort, pay a lot of money to watch us play. You can see from today the boys had the game in the right place and things have gone against us.</p> <p>&quot;Things have gone against us, and gone against us in a big way. Unravelled quickly. A lot of emotion right now.</p> <p>&quot;We have got to move forward and take the things that worked for us today. A lot of the good things, especially in the first half and use that moving forward.</p> <p><strong>Does he think he will be in charge of the next game?</strong> &quot;Yes.&quot;</p> <h1>Martinez's red 'huge moment' in game - Carrick</h1> <p><strong>Manchester United boss Michael Carrick, speaking to MOTD:</strong> &quot;We were more in the game first half.</p> <p>&quot;Felt we should have been ahead. The game ended up getting away from us. The first goal is not a good goal to concede. After that, we never got the game to where we got in the first half.</p> <p>&quot;Not a good goal from our point of view at all.&quot;</p> <p><strong>On Lisandro Martinez's red card:</strong> &quot;It has a major importance on the game. A huge moment. I think that is pretty obvious really.&quot;</p> <p><strong>On Bryan Mbeumo hitting the crossbar:</strong> &quot;Probably summed it up really. Great strike from Bryan at the point. We would have been right in the game again. You back the lads to score, you back the lads to create chances.</p> <p>&quot;Bryan is one who epitomised how the game went.&quot;</p> <p><strong>On Bruno Fernandes:</strong> &quot;I was happy with the team first half, especially individually in it. The discipline, the role, the quality of the football were all there.&quot;</p> <h1>Bryan Mbeumo</h1> <p><strong>'The mentality was there'</strong></p> <p><strong>Man Utd forward Bryan Mbeumo, speaking to TNT Sports:</strong></p> <p>&quot;A lot of disappointment. I think we have done a lot of right things, especially in the first half when we could have been up one or two-nil.</p> <p>&quot;I think the first half we had a lot of chances, which is a positive. The last few games we didn't create a lot, but obviously they're a good team with qualities.</p> <p>&quot;What we have shown today - the mentality was there. Everyone worked really hard and we still have to find some bits at the training ground. Work even harder and yes we have two very important games.&quot;</p> <p><strong>On the players letting the manager and players down today?:</strong>&quot;No, obviously not. I think the mentality was there right from the first minute. Harder with 10 men. We still trust everyone. With the men down, we still had some frustrations at the end. But I think we have done everything as a team today.</p> <p>&quot;Maybe today we just missed some chances. We could have been up early in the game, but that's a positive to take out of this game.&quot;</p> <h1>Morgan Rogers</h1> <p><strong>'We stamped our authority'</strong></p> <p><strong>Chelsea forward Morgan Rogers, speaking to TNT Sports</strong>: &quot;Massive.</p> <p>&quot;A difficult week with a poor result last weekend. We knew we had to come out here strong. In the second half, we stamped our authority and that was really good. We deserved the win.&quot;</p> <p><strong>On his goal:</strong> &quot;Just to try to commit the defenders. All of a sudden, I was in on goal and had to stay composed. Luckily it went in.&quot;</p> <p><strong>On life at Chelsea:</strong> &quot;Loving it. A new challenge and looking forward to playing with these wonderful quality players. It is about the team coming together as a whole. Try to be a leader and stick to what I know best. A good start, but I need to keep going.&quot;</p> <p><strong>On role today:</strong> &quot;To try to occupy defenders in whatever space it may be. We were interchanging and doing what was necessary to occupy defenders and drag them out.&quot;</p> <p><strong>On Cole Palmer:</strong> &quot;Friendly competition. We always push each other in training every day. If we're both doing well and the team is doing well, that's the most important.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkd0g6/quotes_carrick_theres_no_hiding_from_the_fact/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkd0g6/quotes_carrick_theres_no_hiding_from_the_fact/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkd0g6/quotes_carrick_theres_no_hiding_from_the_fact/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T15:24:11+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United Team vs Chelsea, Premier League, 31 October 2026 | Starting XI: Lammens; Yoro, Maguire, Martinez, Dalot; Santos, Baleba; Amad, Fernandes (c), Cunha; Mbeumo.",
+      "items": [
+        {
+          "title": "Manchester United Team vs Chelsea, Premier League, 31 October 2026 | Starting XI: Lammens; Yoro, Maguire, Martinez, Dalot; Santos, Baleba; Amad, Fernandes (c), Cunha; Mbeumo.",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RedDevil_Forever\"> /u/RedDevil_Forever </a> <br /> <span><a href=\"https://www.manutd.com/en/matches/mens-team/chelsea-fc-v-manchester-united-premier-league-20261031?tab=live\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xk7l3n/manchester_united_team_vs_chelsea_premier_league/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xk7l3n/manchester_united_team_vs_chelsea_premier_league/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T11:15:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Passing Network and Ball Progression against Chelsea",
+      "items": [
+        {
+          "title": "Passing Network and Ball Progression against Chelsea",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkfl2f/passing_network_and_ball_progression_against/\"> <img alt=\"Passing Network and Ball Progression against Chelsea\" src=\"https://preview.redd.it/v9dx1kfm4uyh1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2ccbe7b3272780d92f39327d146c64381cf34794\" title=\"Passing Network and Ball Progression against Chelsea\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/WalkingOnSunshine_\"> /u/WalkingOnSunshine_ </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1xkfl2f\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkfl2f/passing_network_and_ball_progression_against/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkfl2f/passing_network_and_ball_progression_against/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T17:07:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Full Time Match Stats - Chelsea vs United",
+      "items": [
+        {
+          "title": "Full Time Match Stats - Chelsea vs United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkbsvb/full_time_match_stats_chelsea_vs_united/\"> <img alt=\"Full Time Match Stats - Chelsea vs United\" src=\"https://preview.redd.it/bifyorz4dtyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=850bcc86410cb14e0949e507ebd537625ba4465a\" title=\"Full Time Match Stats - Chelsea vs United\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/bifyorz4dtyh1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkbsvb/full_time_match_stats_chelsea_vs_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkbsvb/full_time_match_stats_chelsea_vs_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T14:34:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mbeumo hits the bar against Chelsea 90+1'",
+      "items": [
+        {
+          "title": "Mbeumo hits the bar against Chelsea 90+1'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xkbkid/mbeumo_hits_the_bar_against_chelsea_901/\"> <img alt=\"Mbeumo hits the bar against Chelsea 90+1'\" src=\"https://external-preview.redd.it/keKhOUgkcxxYhbBOX1DNxAZZJ23iSpU8C5SkEXDrveY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ecc6d275d3251beca2c61f78c46c0bdcc2a831e\" title=\"Mbeumo hits the bar against Chelsea 90+1'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eliseihado\"> /u/eliseihado </a> <br /> <span><a href=\"https://streamin.link/v/4b628b22\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkbkid/mbeumo_hits_the_bar_against_chelsea_901/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkbkid/mbeumo_hits_the_bar_against_chelsea_901/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T14:25:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes big chance against Chelsea 18'",
+      "items": [
+        {
+          "title": "Bruno Fernandes big chance against Chelsea 18'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xk9eif/bruno_fernandes_big_chance_against_chelsea_18/\"> <img alt=\"Bruno Fernandes big chance against Chelsea 18'\" src=\"https://external-preview.redd.it/N9KYPtPPCs-aZvngyI902JMaBxq1TP4YRmYymAgprl0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6df071c8819a18bccb1ac39b83e912cfd4d1fcd3\" title=\"Bruno Fernandes big chance against Chelsea 18'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eliseihado\"> /u/eliseihado </a> <br /> <span><a href=\"https://streamin.link/v/cc44cbfb\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xk9eif/bruno_fernandes_big_chance_against_chelsea_18/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xk9eif/bruno_fernandes_big_chance_against_chelsea_18/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T12:50:57+00:00"
+        },
+        {
+          "title": "Amad Diallo big chance against Chelsea 43'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xka1er/amad_diallo_big_chance_against_chelsea_43/\"> <img alt=\"Amad Diallo big chance against Chelsea 43'\" src=\"https://external-preview.redd.it/mOhIz6jG2ybRhDawUqDwsi23rRgMyyTqaXqJ42iKLJU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f848ba1f0c5dd7c06594a698602451f3e4e7c545\" title=\"Amad Diallo big chance against Chelsea 43'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/eliseihado\"> /u/eliseihado </a> <br /> <span><a href=\"https://streamin.link/v/9818a5f5\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xka1er/amad_diallo_big_chance_against_chelsea_43/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xka1er/amad_diallo_big_chance_against_chelsea_43/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T13:19:32+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Half time stats",
+      "items": [
+        {
+          "title": "Half time stats",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xka2ud/half_time_stats/\"> <img alt=\"Half time stats\" src=\"https://preview.redd.it/86qpmt460tyh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1f6a09b795c76a35458830278b5292434855135\" title=\"Half time stats\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/prettyweirdperson\"> /u/prettyweirdperson </a> <br /> <span><a href=\"https://i.redd.it/86qpmt460tyh1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xka2ud/half_time_stats/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xka2ud/half_time_stats/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T13:21:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chelsea [1] - 0 Manchester United - M. Rogers 50'",
+      "items": [
+        {
+          "title": "Chelsea [1] - 0 Manchester United - M. Rogers 50'",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/VegitoTheBest\"> /u/VegitoTheBest </a> <br /> <span><a href=\"https://streamin.link/v/78c8cb68\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xkahkv/chelsea_1_0_manchester_united_m_rogers_50/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xkahkv/chelsea_1_0_manchester_united_m_rogers_50/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-10-31T13:39:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 81,
+    "story_count": 73
+  }
+}
