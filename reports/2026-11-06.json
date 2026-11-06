@@ -1,0 +1,976 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T07:44:54.671546+00:00",
+  "match_data": {
+    "collected_at": "2026-11-06T07:44:48.115366+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+      "items": [
+        {
+          "title": "'He'll regret it': The day Alex Ferguson quit Aberdeen for Man Utd",
+          "summary": "It's 40 years since the legendary manager left the Dons after eight trophy-laden years.",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy4edrdp02o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 06 Nov 2026 06:17:13 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United latest: Avram Glazer makes rare comment as chiefs agree on replacement plan",
+      "items": [
+        {
+          "title": "Man United latest: Avram Glazer makes rare comment as chiefs agree on replacement plan",
+          "summary": "Manchester United news as Avram Glazer makes a rare public statement and plans are made for the future",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-avram-glazer-carrick-34868354",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 6 Nov 2026 05:30:00 +0000"
+        },
+        {
+          "title": "Avram Glazer makes rare Man United comment in public after making sale plans",
+          "summary": "Protests against the Glazer family from Manchester United fans have continued this season with supporters wanting them to sell the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/avram-glazer-manchester-united-sale-34865205",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 08:25:06 +0000"
+        },
+        {
+          "title": "Man Utd news: Agreement reached on next manager plan as Glazers make rare comment",
+          "summary": "Manchester United round-up as Michael Carrick looks to build on the win over Roma and Avram Glazer speaks out",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-next-manager-carrick-37847182",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 6 Nov 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel plan emerges as Real Madrid fear repeating mistake after signing Man United ace",
+      "items": [
+        {
+          "title": "JJ Gabriel plan emerges as Real Madrid fear repeating mistake after signing Man United ace",
+          "summary": "JJ Gabriel's impending move to Real Madrid brings back memories of a similar signing that went wrong",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-gabriel-real-madrid-34866200",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 11:27:12 +0000"
+        },
+        {
+          "title": "Real Madrid plan to avoid JJ Gabriel mistake that cost Arsenal star after Man Utd swoop",
+          "summary": "Real Madrid's previous record with signing wonderkids isn't perfect as they close in on Manchester United wantaway JJ Gabriel",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-gabriel-real-madrid-37846230",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 12:35:46 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Every word Marcus Rashford said as audio leaked from chat before Manchester United game",
+      "items": [
+        {
+          "title": "Every word Marcus Rashford said as audio leaked from chat before Manchester United game",
+          "summary": "Man Utd played Roma in the Champions League on Tuesday night and Marcus Rashford spoke to fans before the game.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/every-word-marcus-rashford-said-34865202",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 10:57:41 +0000"
+        },
+        {
+          "title": "What Marcus Rashford said to Man Utd fans before Roma game as audio leaked",
+          "summary": "Marcus Rashford addressed Manchester United fans in a Q&amp;A session at Old Trafford before the Europa League clash with Roma, speaking publicly for the first time since his return from Barcelona",
+          "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-roma-37848593",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 20:11:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "‘Here we go soon’: Romano confirms Man United player is set to leave in high-profile move - CaughtOffside",
+      "items": [
+        {
+          "title": "‘Here we go soon’: Romano confirms Man United player is set to leave in high-profile move - CaughtOffside",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc004MklZRS1GSGNaaGJ5MG01a0l1RG5YZmpxVWFNNnZHTk9CSG5uWTNJQ1l2ZXdfb2ZacURERE5yU3M3YjBTbm9uRVM1a0hfeEg4eFUwZFdjell3cGw5UFFJYTJTb010Um9WbDI0T05UTWlhMDl1bTIwMDBKWlBNVW93NGJ5TFpVMkFVZ0ZmODMyMWZIX0Y4alMtOXdST2hqcXdXRndNZ9IBrAFBVV95cUxQNXRfUmFrVWlmYW5Uak5Gem82RURLSG9TUGhydWRfc0pIV1IyOVdUczVNaUUwRVh2bVBEM3E4R3R2R3VjbWh2ZE4yUFo4dEd0ZTdoY2hOZ015N0R6UlVKYXVnNGU3N01CWnc0LWZuWHRvbTc3VW9mRElaOUs3ZlB6V1JRRWtVRVhrN2JuMU81blNrRDhHVkQ2UnU1SWlMSHBvMzRZVlVXbmJETkc3?oc=5\" target=\"_blank\">‘Here we go soon’: Romano confirms Man United player is set to leave in high-profile move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CaughtOffside</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc004MklZRS1GSGNaaGJ5MG01a0l1RG5YZmpxVWFNNnZHTk9CSG5uWTNJQ1l2ZXdfb2ZacURERE5yU3M3YjBTbm9uRVM1a0hfeEg4eFUwZFdjell3cGw5UFFJYTJTb010Um9WbDI0T05UTWlhMDl1bTIwMDBKWlBNVW93NGJ5TFpVMkFVZ0ZmODMyMWZIX0Y4alMtOXdST2hqcXdXRndNZ9IBrAFBVV95cUxQNXRfUmFrVWlmYW5Uak5Gem82RURLSG9TUGhydWRfc0pIV1IyOVdUczVNaUUwRVh2bVBEM3E4R3R2R3VjbWh2ZE4yUFo4dEd0ZTdoY2hOZ015N0R6UlVKYXVnNGU3N01CWnc0LWZuWHRvbTc3VW9mRElaOUs3ZlB6V1JRRWtVRVhrN2JuMU81blNrRDhHVkQ2UnU1SWlMSHBvMzRZVlVXbmJETkc3?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 06 Nov 2026 06:28:50 GMT"
+        },
+        {
+          "title": "‘Here we go soon’: Romano confirms Man United player is set to leave in high-profile move",
+          "summary": "<p>Manchester United are set to lose one of their most highly rated academy talents, with JJ Gabriel now closing in on a move to Real Madrid after making his final decision. The 16-year-old has attracted interest from some of Europe’s biggest clubs since deciding his future lies away from Old Trafford. Barcelona, Bayern Munich and [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/06/here-we-go-soon-romano-confirms-man-united-player-set-to-leave/\">&#8216;Here we go soon&#8217;: Romano confirms Man United player is set to leave in high-profile move</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/06/here-we-go-soon-romano-confirms-man-united-player-set-to-leave/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 06 Nov 2026 06:28:50 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick must scrap a tactic that has angered Manchester United fans",
+      "items": [
+        {
+          "title": "Michael Carrick must scrap a tactic that has angered Manchester United fans",
+          "summary": "Michael Carrick needs to rethink a tactic that was to blame for Roma's goals against Man Utd earlier in the week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-must-scrap-tactic-34867876",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 6 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel development sparks rule change demand as Man United await confirmation",
+      "items": [
+        {
+          "title": "JJ Gabriel development sparks rule change demand as Man United await confirmation",
+          "summary": "Real Madrid reportedly verbally agreeing to sign JJ Gabriel while he is still a registered Manchester United player has led to calls for transfer rule changes",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jj-gabriel-real-madrid-manutd-34870220",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 21:20:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jason Wilcox under fire as staff at Man United rivals believe they overpaid by £25m",
+      "items": [
+        {
+          "title": "Jason Wilcox under fire as staff at Man United rivals believe they overpaid by £25m",
+          "summary": "Manchester United's summer transfer window business is being questioned by Premier League rivals with Jason Wilcox under fire",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jason-wilcox-man-united-santos-34869303",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 18:12:35 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United squad savaged as Fabio Capello pulls no punches after remarkable Roma win",
+      "items": [
+        {
+          "title": "Man United squad savaged as Fabio Capello pulls no punches after remarkable Roma win",
+          "summary": "Fabio Capello savaged the Manchester United squad and pulled no punches after their Champions League comeback win over the ex-England manager's former club, Roma",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-utd-roma-fabio-capello-34869207",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 17:21:04 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United get instant response after 'contacting' World Cup-winner to replace Michael Carrick",
+      "items": [
+        {
+          "title": "Man United get instant response after 'contacting' World Cup-winner to replace Michael Carrick",
+          "summary": "Manchester United have reportedly made contact with former France manager Didier Deschamps amid uncertainty over the long-term future of Michael Carrick at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/didier-deschamps-carrick-man-united-34868728",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 16:24:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Scott McTominay's furious rant as contract talks linger and Napoli stars clash - 'I'm angry'",
+      "items": [
+        {
+          "title": "Scott McTominay's furious rant as contract talks linger and Napoli stars clash - 'I'm angry'",
+          "summary": "Scott McTominay was furious after his Napoli side endured a nightmare evening in the Champions League against Porto",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/scott-mctominay-napoli-contract-angry-34868336",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 15:45:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'He could manage Manchester United' - What next for Cristiano Ronaldo after Portugal retirement",
+      "items": [
+        {
+          "title": "'He could manage Manchester United' - What next for Cristiano Ronaldo after Portugal retirement",
+          "summary": "Cristiano Ronaldo has retired from international football and one former Man Utd colleague believes he could return to the club one day.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/he-could-manage-manchester-united-34867863",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 14:29:03 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "David Beckham's true feelings on Man United takeover as club legend given backing for huge move",
+      "items": [
+        {
+          "title": "David Beckham's true feelings on Man United takeover as club legend given backing for huge move",
+          "summary": "David Beckham has already opened up on the prospect of returning to Manchester United as part of the club's ownership structure",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/david-beckham-man-united-takeover-34865203",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 12:57:05 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Avram Glazer's tone-deaf comments will only help Manchester United fans' push for change",
+      "items": [
+        {
+          "title": "Avram Glazer's tone-deaf comments will only help Manchester United fans' push for change",
+          "summary": "Man Utd fans are discussing new ways to protest against the club's owner as efforts to remove them gain momentum again.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/avram-glazers-tone-deaf-comments-34866115",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 12:48:23 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel transfer truth as ex-Premier League striker arrives - Manchester United Academy Notebook",
+      "items": [
+        {
+          "title": "JJ Gabriel transfer truth as ex-Premier League striker arrives - Manchester United Academy Notebook",
+          "summary": "This week's Man Utd Academy Notebook reacts to the latest JJ Gabriel development and highlights two new appointments.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/jj-gabriel-transfer-truth-ex-34865595",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 11:11:17 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United fans race to get 50% off 26/27 home shirt before flash sale ends in hours",
+      "items": [
+        {
+          "title": "Man United fans race to get 50% off 26/27 home shirt before flash sale ends in hours",
+          "summary": "Manchester United's 2026/27 adidas home jersey is half price at one sport retailer ahead of Black Friday, but the exclusive discount code will expire in hours",
+          "url": "https://www.manchestereveningnews.co.uk/news/money-saving/man-united-fans-race-50-34863444",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 10:41:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United told to immediately abandon new 100,000-seater stadium plans by former chairman",
+      "items": [
+        {
+          "title": "Man United told to immediately abandon new 100,000-seater stadium plans by former chairman",
+          "summary": "Manchester United are pushing on with plans to build a new state-of-the-art stadium despite the team's struggles on the pitch",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-new-stadium-ratcliffe-34865562",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 10:29:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United 'make Michael Carrick replacement decision' ahead of crunch Aston Villa game",
+      "items": [
+        {
+          "title": "Man United 'make Michael Carrick replacement decision' ahead of crunch Aston Villa game",
+          "summary": "Manchester United face Aston Villa on Saturday and a crucial decision regarding Michael Carrick's future has been made by the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-aston-villa-carrick-34865938",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 10:28:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane responds to management return pleas as Michael Carrick battles Man United sack",
+      "items": [
+        {
+          "title": "Roy Keane responds to management return pleas as Michael Carrick battles Man United sack",
+          "summary": "A former Premier League star has encouraged Manchester United to hire Roy Keane as manager - and the Irishman has addressed whether or not he plans to return to coaching",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/roy-keane-man-united-job-34865288",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 09:51:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Kai Rooney sends telling two-word message to Shea Lacey after Man United heroics",
+      "items": [
+        {
+          "title": "Kai Rooney sends telling two-word message to Shea Lacey after Man United heroics",
+          "summary": "Wayne Rooney's oldest son sent a message following Shea Lacey's super-sub appearance against Roma",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-kai-rooney-shea-lacey-34865108",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 09:04:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd's three-man January shortlist including forgotten Man City star",
+      "items": [
+        {
+          "title": "Man Utd's three-man January shortlist including forgotten Man City star",
+          "summary": "Manchester United are likely to be forced into the transfer market come January with players at left-back and a centre forward stuck on their shortlist",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-january-targets-recruitment-37849137",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 6 Nov 2026 07:18:58 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Jason Wilcox singled out as Man Utd rivals say transfer 'cost £25m too much'",
+      "items": [
+        {
+          "title": "Jason Wilcox singled out as Man Utd rivals say transfer 'cost £25m too much'",
+          "summary": "Jason Wilcox has taken huge flack from Manchester United players and supporters with rival Premier League teams now questioning his transfer decisions",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-andrey-santos-transfer-37848493",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 19:25:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Didier Deschamps' brutal reply to offer of replacing Michael Carrick at Man Utd",
+      "items": [
+        {
+          "title": "Didier Deschamps' brutal reply to offer of replacing Michael Carrick at Man Utd",
+          "summary": "Manchester United are moving forward with Michael Carrick for the time being, but reports continue to suggest they are quietly sounding out his eventual replacement",
+          "url": "https://www.mirror.co.uk/sport/football/news/didier-deschamps-brutal-reply-offer-37848212",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 16:52:54 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ex-Man Utd chairman says fans are right to tell chiefs where to stick new stadium",
+      "items": [
+        {
+          "title": "Ex-Man Utd chairman says fans are right to tell chiefs where to stick new stadium",
+          "summary": "Manchester United are pressing on with plans to leave Old Trafford and build a new £2billion stadium, but ex-Red Devils chairman Martin Edwards is firmly against the move",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-new-stadium-ratcliffe-37846793",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 13:51:30 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Keely Hodgkinson reveals surprising daily habit and tells people what they 'don't realise'",
+      "items": [
+        {
+          "title": "Keely Hodgkinson reveals surprising daily habit and tells people what they 'don't realise'",
+          "summary": "Keely Hodgkinson made a surprising revelation about her diet as she opened up about her daily routine",
+          "url": "https://www.mirror.co.uk/sport/other-sports/athletics/keely-hodgkinson-man-utd-toone-37845411",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 11:45:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane makes Man Utd return stance clear as he admits he 'feels for Michael Carrick'",
+      "items": [
+        {
+          "title": "Roy Keane makes Man Utd return stance clear as he admits he 'feels for Michael Carrick'",
+          "summary": "Roy Keane has been backed for the Manchester United manager's job as pressure continues to mount on Michael Carrick",
+          "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-man-utd-job-37845422",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 11:01:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Ex-Man Utd star calls for Mason Greenwood to 'come home' after beating Liverpool",
+      "items": [
+        {
+          "title": "Ex-Man Utd star calls for Mason Greenwood to 'come home' after beating Liverpool",
+          "summary": "Mason Greenwood helped Fenerbahce beat Liverpool in the Champions League on Wednesday night and has prompted a former Manchester United player to call for his return",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-mason-greenwood-liverpool-37845121",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 5 Nov 2026 09:44:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League: 10 things to look out for this weekend",
+      "items": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "summary": "<p>Lampard appreciation at Everton, Glasner sparking Forest fire, Zubimendi and Kroupi in spotlight and Carrick v Emery</p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/10/premier-league-top-scorers-2026-27-race-for-golden-boot\">Premier League top scorers</a></p></li></ul><p>Nothing better encapsulates the dysfunction that was Everton under Farhad Moshiri than the idea that an unknown vandal with a can of spray paint could influence the club’s managerial direction. “Pereira out, Lampard in” they daubed on a wall at Goodison Park when it appeared Vítor Pereira was in line to replace Rafael Benítez in 2022. Alarmed by fan protests, the Everton board opted instead for Frank Lampard and, while his tenure ended 12 months later with the club immersed in another relegation battle, there will be appreciation for the Coventry manager when he makes a first visit to Hill Dickinson Stadium on Friday. The connection between Lampard and Evertonians was genuine and a factor in keeping the club up in 2022. Both parties will be glad to see the other emerging stronger from those troubled times. Jack Grealish, meanwhile, will again be absent for Everton after his recent disciplinary breach, although the manager, David Moyes, said: “We will be working again with Jack soon.” <strong>Andy Hunter</strong></p><p><em>Everton v Coventry City, Friday 8pm (all times GMT)</em></p><p><em>Leeds </em><em>v Tottenham, Saturday 12.30pm</em></p> <a href=\"https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 06 Nov 2026 00:01:37 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Champions League review: comebacks, thrashings and a Mauritanian first",
+      "items": [
+        {
+          "title": "Champions League review: comebacks, thrashings and a Mauritanian first",
+          "summary": "<p>Bayern Munich and Paris Saint-Germain flexed their muscles, Manchester United fought back and an unlikely star stole the show for AEK Athens</p><p>Still without the recovering Vincent Kompany, Bayern Munich are among the favorites to win the Champions League, which would be their first European title since 2019-20. René Marić’s side produced a dominant display at the Metropolitano, playing Atlético Madrid off the field in a commanding 2-0 win. Lennart Karl and Konrad Laimer made the difference, with Harry Kane providing Laimer with a fine assist in his first continental appearance since winning the Ballon d’Or. Bayern remain just outside the top eight, which guarantees automatic passage to the last 16, having won two and drawn two of their opening four matches.</p> <a href=\"https://www.theguardian.com/football/2026/nov/05/champions-league-roundup-koita-real-madrid-bayern-psg\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/05/champions-league-roundup-koita-real-madrid-bayern-psg",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 15:00:26 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "The international break is almost here: so wave goodbye to your players, and maybe your manager | Max Rushden",
+      "items": [
+        {
+          "title": "The international break is almost here: so wave goodbye to your players, and maybe your manager | Max Rushden",
+          "summary": "<p>What used to be a time to reset is now a time to rehire, and Michael Carrick is not the only Premier League manager looking over his shoulder</p><p>Perhaps the most telling moment of Manchester United’s <a href=\"https://www.theguardian.com/football/2026/nov/03/manchester-united-roma-champions-league-match-report\">comeback against Roma</a> was at the final whistle. The camera focused on Michael Carrick, who shook the hand of Gian Piero Gasperini before looking around trying to remember what you’re meant to do after a victory. The camera then cut to the director of football, Jason Wilcox, and chief executive, Omar Berrada, clapping with two of the most ashen faces you could imagine – as if it was a minute’s applause in the 87th minute for a lifelong, octogenarian fan who died peacefully in his sleep earlier in the week (most probably not at a United game but you couldn’t rule it out).</p><p>Of course, there are rules about smiling when you are involved with a failing football club. Players can’t be seen to be enjoying themselves in the week after a defeat, managers have to be earnest at almost all times, apart from when a journalist’s phone goes off at a press conference – a moment of sporting hilarity on a par with a pigeon landing on Centre Court.</p> <a href=\"https://www.theguardian.com/football/2026/nov/05/the-international-break-is-almost-here-so-wave-goodbye-to-your-players-and-maybe-your-manager\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/05/the-international-break-is-almost-here-so-wave-goodbye-to-your-players-and-maybe-your-manager",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 13:00:24 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd: Fabrizio Romano reveals real reason for Unai Emery final verdict on replacing Michael Carrick - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Fabrizio Romano reveals real reason for Unai Emery final verdict on replacing Michael Carrick - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVp0UkVKWTY0WmZYQ1VpZS1vZDBZV2I3bE1FOEdua0tEMXlDSnBjaXRtQlFVTW9xNENuV2V2OFVwZzJ0bzBibklhN2RBR3VocnQ3OHJXX05QcVBmSEVsRlBSbFgzdjJlcV93YVl5QVhGZkF1ZEtUTFNpZ0RwQlNtYzRJUzZhSW5JSzZCT3I4a01jTnFZWHA1Y2dCMDNzanVLWXVvYjBuZGk?oc=5\" target=\"_blank\">Man Utd: Fabrizio Romano reveals real reason for Unai Emery final verdict on replacing Michael Carrick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVp0UkVKWTY0WmZYQ1VpZS1vZDBZV2I3bE1FOEdua0tEMXlDSnBjaXRtQlFVTW9xNENuV2V2OFVwZzJ0bzBibklhN2RBR3VocnQ3OHJXX05QcVBmSEVsRlBSbFgzdjJlcV93YVl5QVhGZkF1ZEtUTFNpZ0RwQlNtYzRJUzZhSW5JSzZCT3I4a01jTnFZWHA1Y2dCMDNzanVLWXVvYjBuZGk?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 15:08:50 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Man Utd’s ‘ideal’ Carrick replacement is in ‘very advanced’ contract talks - utdreport",
+      "items": [
+        {
+          "title": "Romano: Man Utd’s ‘ideal’ Carrick replacement is in ‘very advanced’ contract talks - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzAwMHp6eERLNHlreE5IdFh3R3RhdUJBZmZfdWZIcVJabGg4VmZ1Y0tXZlM1Y2FUMGs5ZGhYVUFxZjg2MlJ4a2x0V1RadnhuSFRlc29IZ2lJUmhReFFtd0F5dUpaYTNSOW9rUkhJY2pFN1U5eWpYbEZlbFVEakg1Ui12STZGQ0JHdnfSAY8BQVVfeXFMUHNwSldmc3BmMUxqTGhSMHUxUUxhOGJhazBjeXFaNURDOWVCZEZzWk1WX2k1VGwwZFNlZEFOcU5KeXhGTWdmbTR3Znp2NzAxWkhGcjBKRWI3XzQ4NmM5MDhjdjJmMkRuWVRoUG91SXl3SzV6ZE9nV21YWW81TnhTdnRJd09SUlZlMlRsQTZtQWc?oc=5\" target=\"_blank\">Romano: Man Utd’s ‘ideal’ Carrick replacement is in ‘very advanced’ contract talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMzAwMHp6eERLNHlreE5IdFh3R3RhdUJBZmZfdWZIcVJabGg4VmZ1Y0tXZlM1Y2FUMGs5ZGhYVUFxZjg2MlJ4a2x0V1RadnhuSFRlc29IZ2lJUmhReFFtd0F5dUpaYTNSOW9rUkhJY2pFN1U5eWpYbEZlbFVEakg1Ui12STZGQ0JHdnfSAY8BQVVfeXFMUHNwSldmc3BmMUxqTGhSMHUxUUxhOGJhazBjeXFaNURDOWVCZEZzWk1WX2k1VGwwZFNlZEFOcU5KeXhGTWdmbTR3Znp2NzAxWkhGcjBKRWI3XzQ4NmM5MDhjdjJmMkRuWVRoUG91SXl3SzV6ZE9nV21YWW81TnhTdnRJd09SUlZlMlRsQTZtQWc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 14:50:14 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "JJ Gabriel: Romano reveals Real Madrid internal verdict on Man Utd 'legal battle' with 'decision made' - Football365",
+      "items": [
+        {
+          "title": "JJ Gabriel: Romano reveals Real Madrid internal verdict on Man Utd 'legal battle' with 'decision made' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFZxRkFGUnRBQUpZbEtGd1lUX3dBc2RGbmc0ZThVNGRUVU9PaFB4N25lVWlIU185Mk83RXA0cURqb3lNdkgzc0dwcUo5MUJGcnQ3QmhGOUVJZXZLT2R5ZW5PWDUzbkJCODNJRmhZZXlxV2ZfOU91YXh2TllkV09tMUdLaTM0Yi1Vd0JYUlF6TkhEZ19ia2NuY2k4UmJmZUpVRFczeUZFSU9VenM3?oc=5\" target=\"_blank\">JJ Gabriel: Romano reveals Real Madrid internal verdict on Man Utd 'legal battle' with 'decision made'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTFZxRkFGUnRBQUpZbEtGd1lUX3dBc2RGbmc0ZThVNGRUVU9PaFB4N25lVWlIU185Mk83RXA0cURqb3lNdkgzc0dwcUo5MUJGcnQ3QmhGOUVJZXZLT2R5ZW5PWDUzbkJCODNJRmhZZXlxV2ZfOU91YXh2TllkV09tMUdLaTM0Yi1Vd0JYUlF6TkhEZ19ia2NuY2k4UmJmZUpVRFczeUZFSU9VenM3?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 08:20:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "REAL REASON Unai Emery rejected Man Utd to re-sign with Aston Villa revealed - TEAMtalk",
+      "items": [
+        {
+          "title": "REAL REASON Unai Emery rejected Man Utd to re-sign with Aston Villa revealed - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDdsM0pkZ0ZwaU92bDNLQ3ZZYmVIYWwta0g1MWg0WkJjMDFDbFNhMFAtVHN2MElqeWZZb0RwOXJhRkp4c3p6RG9URkdFRzR4R0FDN1Z2dDlDNHRhOEw3eWN1SWptX3VPR3VzVkNTdXZ0NXdnU0otMTRsaWh1Wjk1dEl0MjJfenFqQnJRQmVZZGktWWh1VkR0UlJRd1lpYWNBZTlZS1d1SmMxTEdJaGYwdA?oc=5\" target=\"_blank\">REAL REASON Unai Emery rejected Man Utd to re-sign with Aston Villa revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeDdsM0pkZ0ZwaU92bDNLQ3ZZYmVIYWwta0g1MWg0WkJjMDFDbFNhMFAtVHN2MElqeWZZb0RwOXJhRkp4c3p6RG9URkdFRzR4R0FDN1Z2dDlDNHRhOEw3eWN1SWptX3VPR3VzVkNTdXZ0NXdnU0otMTRsaWh1Wjk1dEl0MjJfenFqQnJRQmVZZGktWWh1VkR0UlJRd1lpYWNBZTlZS1d1SmMxTEdJaGYwdA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 14:16:31 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein Explains Why Man Utd Decided To Give Michael Carrick More Time - roundtable.io",
+      "items": [
+        {
+          "title": "David Ornstein Explains Why Man Utd Decided To Give Michael Carrick More Time - roundtable.io",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTjB3dWc1cXNXRFhmcFdJajd2ZlNTNmdfQ3p3R0lQRTJ5ZGpOZnAtOUR0aHNCbU9jTjdIUUUyMWR3SUY2cVBJTGN3VU5ua196WTMwcmlVYk5wTlktZGEzSTlEcjZ2U2xZUXFla0l5cHNEUU1qeGxvYTU5N3J3S21Dc1B6VjBrWVNRZkZ2bmxjLXZEQ014SzFld283MHdycmU3YUpVeUpjNWdCZjQ3aGM2NGdYTFpDQ1k4WU5lSFVBb25EeFNmVGxfeHNwVGprUWlTdVpzd0hRNUpmY2liVlZwNVd0blBtQQ?oc=5\" target=\"_blank\">David Ornstein Explains Why Man Utd Decided To Give Michael Carrick More Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">roundtable.io</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTjB3dWc1cXNXRFhmcFdJajd2ZlNTNmdfQ3p3R0lQRTJ5ZGpOZnAtOUR0aHNCbU9jTjdIUUUyMWR3SUY2cVBJTGN3VU5ua196WTMwcmlVYk5wTlktZGEzSTlEcjZ2U2xZUXFla0l5cHNEUU1qeGxvYTU5N3J3S21Dc1B6VjBrWVNRZkZ2bmxjLXZEQ014SzFld283MHdycmU3YUpVeUpjNWdCZjQ3aGM2NGdYTFpDQ1k4WU5lSFVBb25EeFNmVGxfeHNwVGprUWlTdVpzd0hRNUpmY2liVlZwNVd0blBtQQ?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 13:42:59 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Carrick given 'vote of confidence' as Ornstein reveals players' bid to 'see him off' failed - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Carrick given 'vote of confidence' as Ornstein reveals players' bid to 'see him off' failed - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGNMZUo3RmVDVnV5X1FNb0h1Rk5XNTd5dFBwYjFKY3ZtZ1ZGUzdGQ0x4MmVHQkowbVoxZGhTRWpoWjVOc3I5ZnhBMkU2VkF4eE5FcFMwQzFKLWU4Ym5wUEdZMGY2WVNQN0VhWUlLSENJcTZEeVh0OWFkYnZTWWVsTksxaTVfdjRfc1Z1UVdqZEVEQ3A2aHNwSVhQbUozbUYwdkhIZ094ZmZZSXc?oc=5\" target=\"_blank\">Man Utd: Carrick given 'vote of confidence' as Ornstein reveals players' bid to 'see him off' failed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVGNMZUo3RmVDVnV5X1FNb0h1Rk5XNTd5dFBwYjFKY3ZtZ1ZGUzdGQ0x4MmVHQkowbVoxZGhTRWpoWjVOc3I5ZnhBMkU2VkF4eE5FcFMwQzFKLWU4Ym5wUEdZMGY2WVNQN0VhWUlLSENJcTZEeVh0OWFkYnZTWWVsTksxaTVfdjRfc1Z1UVdqZEVEQ3A2aHNwSVhQbUozbUYwdkhIZ094ZmZZSXc?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 07:56:11 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick: David Ornstein explains why Man United board decided not to pull the trigger - The Peoples Person",
+      "items": [
+        {
+          "title": "Michael Carrick: David Ornstein explains why Man United board decided not to pull the trigger - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FYY2lMUllyVmlkYW5SM3FtNnRQX1hnVU5BNy1RalpLSEExNWpWU3RlSGIzU3IxUWpaeVVkYWhxZDF0RjV1cHJ4WWRUNnZLZ1BQV2NXb3RWbUV3dDN5d05PcmNKbkRfZktaa2s5Y3ZWTFljMjlmcVVXUWE4cFZvUjdCalUyTEVZOEFoSEx6VTlLdzBVS0ZmQzNId2xSQjdvYnVWUWo2NDgwZUE?oc=5\" target=\"_blank\">Michael Carrick: David Ornstein explains why Man United board decided not to pull the trigger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS1FYY2lMUllyVmlkYW5SM3FtNnRQX1hnVU5BNy1RalpLSEExNWpWU3RlSGIzU3IxUWpaeVVkYWhxZDF0RjV1cHJ4WWRUNnZLZ1BQV2NXb3RWbUV3dDN5d05PcmNKbkRfZktaa2s5Y3ZWTFljMjlmcVVXUWE4cFZvUjdCalUyTEVZOEFoSEx6VTlLdzBVS0ZmQzNId2xSQjdvYnVWUWo2NDgwZUE?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 05 Nov 2026 13:30:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“On their radar” – Newcastle could rival Man United for proven Premier League striker this January",
+      "items": [
+        {
+          "title": "“On their radar” – Newcastle could rival Man United for proven Premier League striker this January",
+          "summary": "<p>Newcastle United could reportedly be set to rival Manchester United for the potential transfer of former Premier League striker Ivan Toney this January. The England international, currently on the books at Saudi Pro League side Al Ahli, has been the subject of a recent enquiry by Man Utd, as we revealed in an exclusive report [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/06/newcastle-rival-man-united-for-ivan-toney-transfer/\">&#8220;On their radar&#8221; &#8211; Newcastle could rival Man United for proven Premier League striker this January</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/06/newcastle-rival-man-united-for-ivan-toney-transfer/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 06 Nov 2026 06:24:16 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United consider shock January move after Man City star makes transfer decision",
+      "items": [
+        {
+          "title": "Man United consider shock January move after Man City star makes transfer decision",
+          "summary": "<p>Manchester United are considering a surprise January move for Manchester City defender Rayan Aït-Nouri as they continue searching for a long-term solution at left-back. The Algeria international has endured a frustrating season at the Etihad, making just four appearances in all competitions and failing to feature in the Premier League. With regular football proving difficult [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/06/man-united-consider-shock-january-move-man-city-star/\">Man United consider shock January move after Man City star makes transfer decision</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/06/man-united-consider-shock-january-move-man-city-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 06 Nov 2026 05:54:37 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United make contact with World Cup-winning manager but face unexpected setback – report",
+      "items": [
+        {
+          "title": "Man United make contact with World Cup-winning manager but face unexpected setback – report",
+          "summary": "<p>Manchester United have made contact with former France manager Didier Deschamps as the club continues to explore managerial options amid growing uncertainty surrounding Michael Carrick&#8217;s future. That is according to a report from French outlet Foot Mercato, which claims that Manchester United board leaders have reached out to Deschamps in recent days to see if [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/05/manchester-united-didier-deschamps-manager-contact/\">Man United make contact with World Cup-winning manager but face unexpected setback – report</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/05/manchester-united-didier-deschamps-manager-contact/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 05 Nov 2026 22:29:12 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United eye experienced Premier League star who “could be tempted” to join",
+      "items": [
+        {
+          "title": "Man United eye experienced Premier League star who “could be tempted” to join",
+          "summary": "<p>Manchester United are reportedly interested in signing Fulham defender Calvin Bassey, with Michael Carrick keen to strengthen his defensive options ahead of the January transfer window. The Nigerian international has attracted attention with impressive Premier League performances, and the Red Devils may now have a chance to secure his services. Manchester United keen on signing [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/05/man-united-identify-experienced-premier-league-star-who-could-be-tempted-to-join/\">Man United eye experienced Premier League star who &#8220;could be tempted&#8221; to join</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/05/man-united-identify-experienced-premier-league-star-who-could-be-tempted-to-join/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 05 Nov 2026 21:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Free Talk Friday",
+      "items": [
+        {
+          "title": "Free Talk Friday",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>What's the craic? </p> <p><strong>Looking for memes? Head over to</strong> <a href=\"https://www.reddit.com/r/memechesterunited\">/r/memechesterunited</a><strong>!</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PhelansShorts\"> /u/PhelansShorts </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xp5e51/free_talk_friday/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xp5e51/free_talk_friday/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xp5e51/free_talk_friday/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-06T06:00:06+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[The Athletic] The BookKeeper: Man United’s finances show the Glazers cast a lengthening shadow over the club (Gift Article)",
+      "items": [
+        {
+          "title": "[The Athletic] The BookKeeper: Man United’s finances show the Glazers cast a lengthening shadow over the club (Gift Article)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xojhc3/the_athletic_the_bookkeeper_man_uniteds_finances/\"> <img alt=\"[The Athletic] The BookKeeper: Man United’s finances show the Glazers cast a lengthening shadow over the club (Gift Article)\" src=\"https://external-preview.redd.it/VGijns45sKJSgiRrmER6a2kn9qGetWt3JlkgbY4_DGM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eae90791b6bb6fee97d663aa6f84667d21d9a534\" title=\"[The Athletic] The BookKeeper: Man United’s finances show the Glazers cast a lengthening shadow over the club (Gift Article)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7710702/2026/11/05/manchester-united-2025-2026-bookkeeper/?unlocked_article_code=1.OFE.zHUQ.lKElaj1816tg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xojhc3/the_athletic_the_bookkeeper_man_uniteds_finances/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xojhc3/the_athletic_the_bookkeeper_man_uniteds_finances/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-05T14:05:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Rob Dorsett] \"Its been made clear to me that Manchester United are unlikely to appoint another interim head coach if they decide to replace Michael Carrick in the coming weeks. The prefered option still is that results improve & that Carrick keeps his job, but there are lingering concerns\"",
+      "items": [
+        {
+          "title": "[Rob Dorsett] \"Its been made clear to me that Manchester United are unlikely to appoint another interim head coach if they decide to replace Michael Carrick in the coming weeks. The prefered option still is that results improve & that Carrick keeps his job, but there are lingering concerns\"",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xoferk/rob_dorsett_its_been_made_clear_to_me_that/\"> <img alt=\"[Rob Dorsett] &quot;Its been made clear to me that Manchester United are unlikely to appoint another interim head coach if they decide to replace Michael Carrick in the coming weeks. The prefered option still is that results improve &amp; that Carrick keeps his job, but there are lingering concerns&quot;\" src=\"https://external-preview.redd.it/NGFuamw0NjF1cnpoMQ-G3CtcSIoR0MROtWt53Z0s-3OmK2gRytghpmZyWILn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2c5122af9274cfa06efc569e215cc988a31b44a\" title=\"[Rob Dorsett] &quot;Its been made clear to me that Manchester United are unlikely to appoint another interim head coach if they decide to replace Michael Carrick in the coming weeks. The prefered option still is that results improve &amp; that Carrick keeps his job, but there are lingering concerns&quot;\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/7pgeik51urzh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xoferk/rob_dorsett_its_been_made_clear_to_me_that/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xoferk/rob_dorsett_its_been_made_clear_to_me_that/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-05T10:35:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Avram Glazer says Manchester United not reliant on sporting success for commercial power",
+      "items": [
+        {
+          "title": "Avram Glazer says Manchester United not reliant on sporting success for commercial power",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xocwxe/avram_glazer_says_manchester_united_not_reliant/\"> <img alt=\"Avram Glazer says Manchester United not reliant on sporting success for commercial power\" src=\"https://external-preview.redd.it/JdOpzDqalG-S0v_2BDas7KVvgh8R45ZibKfZCk4pA7A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1ee1d0327d2e1d753d3c672561f3b638492f915\" title=\"Avram Glazer says Manchester United not reliant on sporting success for commercial power\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/moonski\"> /u/moonski </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7753722/2026/11/05/avram-glazer-manchester-united-commercial-power/?smid=ta-android-share&amp;source=user_shared_article&amp;unlocked_article_code=1.OFE.9-sL.sr6mxu0Uu7eh\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xocwxe/avram_glazer_says_manchester_united_not_reliant/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xocwxe/avram_glazer_says_manchester_united_not_reliant/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-05T07:51:01+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes: “There are many factors outside the dressing room, outside the players and the staff, which make the club’s performances and what we can do on the pitch more difficult. It affects a lot of players. Some deal with it better, others deal with it worse.”",
+      "items": [
+        {
+          "title": "Bruno Fernandes: “There are many factors outside the dressing room, outside the players and the staff, which make the club’s performances and what we can do on the pitch more difficult. It affects a lot of players. Some deal with it better, others deal with it worse.”",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xodske/bruno_fernandes_there_are_many_factors_outside/\"> <img alt=\"Bruno Fernandes: “There are many factors outside the dressing room, outside the players and the staff, which make the club’s performances and what we can do on the pitch more difficult. It affects a lot of players. Some deal with it better, others deal with it worse.”\" src=\"https://external-preview.redd.it/5aNlBCl8-gmY6cfdVAeMoXCrTkVFw4UAZRNMrqba8eA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=d23dc6e8bf0a4ca953c854d30b863285e5ab4417\" title=\"Bruno Fernandes: “There are many factors outside the dressing room, outside the players and the staff, which make the club’s performances and what we can do on the pitch more difficult. It affects a lot of players. Some deal with it better, others deal with it worse.”\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><em>“But obviously, I think we also create a lot of things, we create a lot of expectations for ourselves. And then, when things don’t work out, we end up mentally battered by the frustration of not being able to give the club what we believe we’re genuinely capable of giving.”</em></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/khangkarot\"> /u/khangkarot </a> <br /> <span><a href=\"https://youtube.com/watch?v=gu32fW9NI1s&amp;si=s8_suN8lSzE7gMk4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xodske/bruno_fernandes_there_are_many_factors_outside/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xodske/bruno_fernandes_there_are_many_factors_outside/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-05T08:49:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why Sir Alex Ferguson wrote to young Harry Maguire | Exclusive interview",
+      "items": [
+        {
+          "title": "Why Sir Alex Ferguson wrote to young Harry Maguire | Exclusive interview",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xp71ln/why_sir_alex_ferguson_wrote_to_young_harry/\"> <img alt=\"Why Sir Alex Ferguson wrote to young Harry Maguire | Exclusive interview\" src=\"https://external-preview.redd.it/6iFNyhPIwNydQEGi7ZoKCa_ddTPcssmDcC7KCHEQVfc.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=36a07a96b2896209a617e099d5d9dd7844ea276b\" title=\"Why Sir Alex Ferguson wrote to young Harry Maguire | Exclusive interview\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/simplsimonmetapieman\"> /u/simplsimonmetapieman </a> <br /> <span><a href=\"https://youtu.be/3rHHeI3mIMA?si=wAPyrJpUarL-O_Pd\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xp71ln/why_sir_alex_ferguson_wrote_to_young_harry/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xp71ln/why_sir_alex_ferguson_wrote_to_young_harry/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-06T07:44:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xoi1tm/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xoi1tm/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xoi1tm/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-05T13:00:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 53,
+    "story_count": 48
+  }
+}
