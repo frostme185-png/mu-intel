@@ -1,0 +1,1143 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T07:33:19.617923+00:00",
+  "match_data": {
+    "collected_at": "2026-11-11T07:33:14.946835+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+      "items": [
+        {
+          "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+          "summary": "Manchester United's power brokers meet in Monaco on Wednesday to decide whether Michael Carrick will remain as head coach",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 10 Nov 2026 18:12:02 GMT"
+        },
+        {
+          "title": "[Stone, Mokbel, BBC] The Monaco summit that will decide the future of Carrick and Man Utd",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsv055/stone_mokbel_bbc_the_monaco_summit_that_will/\"> <img alt=\"[Stone, Mokbel, BBC] The Monaco summit that will decide the future of Carrick and Man Utd\" src=\"https://external-preview.redd.it/Rb9BoyLRknn4zAzNVNI-3b6GLuJ-qlodPvDFzlFhaHM.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d66e9f300fd8fb0bc2dc7120a9b3d70fad126e4\" title=\"[Stone, Mokbel, BBC] The Monaco summit that will decide the future of Carrick and Man Utd\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/articles/c8wy9yzyzxnko\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsv055/stone_mokbel_bbc_the_monaco_summit_that_will/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsv055/stone_mokbel_bbc_the_monaco_summit_that_will/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T18:43:05+00:00"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "r/reddevils"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How close is Carrick to Man United exit?",
+      "items": [
+        {
+          "title": "How close is Carrick to Man United exit?",
+          "summary": "BBC Sports editor Dan Roan looks into when a decision about Michael Carrick's  Manchester United future could be made.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cr3elell04q1o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 10 Nov 2026 16:59:28 GMT"
+        },
+        {
+          "title": "Fabrizio Romano drops huge Mauricio Pochettino update as Man United close in on Michael Carrick replacement - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjE1LWItclBJWGVveHI5UXdJWUIydmk5ZGtVdS15cEU4S1NvblpkSU5QY2VaVktZZDc1X2owNzFXNFJvZzJOT29ERmd5WnFPelJmdE9JVXAxLUE4VmhTWDQydDNacWd4enk5MWgtYTJBdDB3VVV6ZVd3WDI5OFlvZDVHXzlUNkMzMEhzbQ?oc=5\" target=\"_blank\">Fabrizio Romano drops huge Mauricio Pochettino update as Man United close in on Michael Carrick replacement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSjE1LWItclBJWGVveHI5UXdJWUIydmk5ZGtVdS15cEU4S1NvblpkSU5QY2VaVktZZDc1X2owNzFXNFJvZzJOT29ERmd5WnFPelJmdE9JVXAxLUE4VmhTWDQydDNacWd4enk5MWgtYTJBdDB3VVV6ZVd3WDI5OFlvZDVHXzlUNkMzMEhzbQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 22:10:00 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+      "items": [
+        {
+          "title": "Pochettino, Howe, Emery... or Carrick? Man Utd's managerial options",
+          "summary": "As doubts grow over Manchester United boss Michael Carrick's future, what are the club's managerial options?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c5rmymrvm004o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 10 Nov 2026 16:17:10 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Nine Man United players who could follow Michael Carrick out the door",
+      "items": [
+        {
+          "title": "Nine Man United players who could follow Michael Carrick out the door",
+          "summary": "With Manchester United expected to part ways with Michael Carrick imminently, we're looking at the players who may end up following the Englishman out the door",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/carrick-sack-man-united-exodus-34890295",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 11 Nov 2026 06:30:00 +0000"
+        },
+        {
+          "title": "Nine Man Utd players set to follow Michael Carrick out the door in mass exodus if boss is sacked",
+          "summary": "With Manchester United expected to part ways with Michael Carrick imminently, we're looking at the players who may follow him out the door",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-mass-exodus-37861321",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 12:37:39 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick taking Manchester United training ahead of meeting to decide his future",
+      "items": [
+        {
+          "title": "Michael Carrick taking Manchester United training ahead of meeting to decide his future",
+          "summary": "Michael Carrick's future as Man Utd head coach is on the line this week but he is taking training as normal on Tuesday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/michael-carrick-taking-manchester-united-34889622",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 11:36:09 +0000"
+        },
+        {
+          "title": "Michael Carrick takes Manchester United training with execs set for talks",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsp1ul/michael_carrick_takes_manchester_united_training/\"> <img alt=\"Michael Carrick takes Manchester United training with execs set for talks\" src=\"https://external-preview.redd.it/lIHb9VQmjSvf5U_z1O7JRAHdG_4r-HISctumE7Zh_nU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ed46f349d18bf304f3aad9c05ac43d03b3ac546\" title=\"Michael Carrick takes Manchester United training with execs set for talks\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/The-Black-Angel\"> /u/The-Black-Angel </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7770047/2026/11/10/manchester-united-michael-carrick-training-monaco-meeting/?unlocked_article_code=1.PVE.grYK.DTn72R2hD9rF&amp;source=user_shared_article&amp;smid=ta-ios-share\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsp1ul/michael_carrick_takes_manchester_united_training/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsp1ul/michael_carrick_takes_manchester_united_training/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T14:59:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick's Man Utd future to be decided in Monaco meeting with Sir Jim Ratcliffe",
+      "items": [
+        {
+          "title": "Michael Carrick's Man Utd future to be decided in Monaco meeting with Sir Jim Ratcliffe",
+          "summary": "Manchester United CEO and technical director Jason Wilcox will recommend to co-owner Sir Jim Ratcliffe that Michael Carrick is sacked in a crunch Monaco meeting",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-sack-37861790",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 11:24:00 +0000"
+        },
+        {
+          "title": "[BBC, Mokbel, Roan] Manchester United head coach Michael Carrick's future will be decided at a meeting attended by owner Sir Jim Ratcliffe and executives Omar Berrada and Jason Wilcox in Monaco on Wednesday. The meeting is pre-planned and has not been organised to strictly discuss Carrick’s future.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsk4cb/bbc_mokbel_roan_manchester_united_head_coach/\"> <img alt=\"[BBC, Mokbel, Roan] Manchester United head coach Michael Carrick's future will be decided at a meeting attended by owner Sir Jim Ratcliffe and executives Omar Berrada and Jason Wilcox in Monaco on Wednesday. The meeting is pre-planned and has not been organised to strictly discuss Carrick’s future.\" src=\"https://external-preview.redd.it/ZG-EoTr2ZkRZ5buv4nZN4CWikI1FKJlBPchLK-NFITI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a7d20f8a3883e9d08d65b5749a0e0ea2f7201d3a\" title=\"[BBC, Mokbel, Roan] Manchester United head coach Michael Carrick's future will be decided at a meeting attended by owner Sir Jim Ratcliffe and executives Omar Berrada and Jason Wilcox in Monaco on Wednesday. The meeting is pre-planned and has not been organised to strictly discuss Carrick’s future.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OkayFine101\"> /u/OkayFine101 </a> <br /> <span><a href=\"https://www.bbc.com/sport/football/live/cmjwewv6p9vxt?post=asset%3A2eac055a-f846-4149-8915-8139abc9f5f4#post\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsk4cb/bbc_mokbel_roan_manchester_united_head_coach/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsk4cb/bbc_mokbel_roan_manchester_united_head_coach/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T11:04:34+00:00"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "r/reddevils"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "David Squires on … You Can MUFC Everything",
+      "items": [
+        {
+          "title": "David Squires on … You Can MUFC Everything",
+          "summary": "<p>Our cartoonist takes us behind the scenes as Manchester United’s leading minds try to control the narrative</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/products-2026-11-10-13-48-06-david-squires-on-you-can-mufc-everything\"><strong>Buy this cartoon</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\"><strong>Some of David’s favourite works</strong></a></p></li><li><p><a href=\"https://guardianbookshop.com/chaos-in-the-box-9781783352838/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article\"><strong>And his latest book, Chaos in the Box: get it now</strong></a></p></li></ul> <a href=\"https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 11:02:54 GMT"
+        },
+        {
+          "title": "David Squires on … You Can MUFC Everything",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsm2l3/david_squires_on_you_can_mufc_everything/\"> <img alt=\"David Squires on … You Can MUFC Everything\" src=\"https://external-preview.redd.it/hhzdjbvn5VuDZOm3QwCIP7S5x34y7YbqSqqturIgGBw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9122874a627409539735b4cbcca028e234c50b1\" title=\"David Squires on … You Can MUFC Everything\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HeavyHevonen\"> /u/HeavyHevonen </a> <br /> <span><a href=\"https://www.theguardian.com/football/picture/2026/nov/10/david-squires-on-you-can-mufc-everything-manchester-united\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsm2l3/david_squires_on_you_can_mufc_everything/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsm2l3/david_squires_on_you_can_mufc_everything/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T12:49:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United have five potential new managers but none of them are perfect",
+      "items": [
+        {
+          "title": "Manchester United have five potential new managers but none of them are perfect",
+          "summary": "Man Utd are set to be searching for a new manager once again this week, but the pool of candidates isn't as deep as it has been previously.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-five-potential-new-34891424",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 11 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Jason Wilcox's major error that has left Michael Carrick fighting for Manchester United job",
+      "items": [
+        {
+          "title": "Jason Wilcox's major error that has left Michael Carrick fighting for Manchester United job",
+          "summary": "Manchester United are on the verge of sacking Michael Carrick but one major problem will not be solved by his departure",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/jason-wilcoxs-major-error-left-34890983",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 11 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United handed Unai Emery update as Michael Carrick sack decision looms",
+      "items": [
+        {
+          "title": "Man United handed Unai Emery update as Michael Carrick sack decision looms",
+          "summary": "Michael Carrick is expected to be let go by Manchester United later this week, with Unai Emery emerging as a potential successor at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-sack-unai-emery-34893085",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 22:32:39 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino to Man United path amid '£7.43m clause' as Michael Carrick sack decision looms",
+          "summary": "Manchester United could sack Michael Carrick today after a poor start to the season with United in the Premier League relegation zone",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-man-united-path-34888343",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 09:14:00 +0000"
+        },
+        {
+          "title": "Manchester United sent Michael Carrick sack verdict as decision looms",
+          "summary": "Manchester United head coach Michael Carrick could be sacked today with the Reds lingering in the Premier League relegation zone",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-sent-michael-carrick-34888252",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 08:40:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Wayne Rooney names manager who's 'exactly what Man United need' after Michael Carrick",
+      "items": [
+        {
+          "title": "Wayne Rooney names manager who's 'exactly what Man United need' after Michael Carrick",
+          "summary": "It seems the writing is on the wall for Michael Carrick after Manchester United's nightmare start to the season, with Wayne Rooney naming the perfect successor",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/united-wayne-rooney-carrick-replacement-34891665",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 16:15:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel comment ‘shocks Real Madrid’ as concern raised about Man United star’s dad",
+      "items": [
+        {
+          "title": "JJ Gabriel comment ‘shocks Real Madrid’ as concern raised about Man United star’s dad",
+          "summary": "JJ Gabriel looks set to complete a move from Manchester United to Real Madrid in a blow to the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-real-madrid-united-34891397",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 15:48:41 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United hierarchy’s alarming ‘admission’ in crunch Michael Carrick sack meeting",
+      "items": [
+        {
+          "title": "Man United hierarchy’s alarming ‘admission’ in crunch Michael Carrick sack meeting",
+          "summary": "Michael Carrick looks set to be sacked by Manchester United with the club sitting in the Premier League bottom three",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-sack-34890262",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 13:39:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Sir Jim Ratcliffe and his band of yes men have made Manchester United worse rather than better",
+      "items": [
+        {
+          "title": "Sir Jim Ratcliffe and his band of yes men have made Manchester United worse rather than better",
+          "summary": "Man Utd are a shambles off the pitch and the blame for the mess can be laid at the door of Sir Jim Ratcliffe and Ineos.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/sir-jim-ratcliffe-band-yes-34889449",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 13:05:18 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens' response to Roy Keane and Man United backlash as club figures 'see improvement'",
+      "items": [
+        {
+          "title": "Senne Lammens' response to Roy Keane and Man United backlash as club figures 'see improvement'",
+          "summary": "After a tricky start to the season, Manchester United goalkeeper Senne Lammens has had a telling response to the criticism he's faced",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/senne-lammens-roy-keane-united-34888884",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 10:59:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "7 pundits have their say on sacking Michael Carrick with opinions split on Man United boss",
+      "items": [
+        {
+          "title": "7 pundits have their say on sacking Michael Carrick with opinions split on Man United boss",
+          "summary": "Michael Carrick's future at Manchester has divided opinion for much of the Premier League season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-sack-34888165",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 10:11:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick sack timeline as Man United board set for showdown talks",
+      "items": [
+        {
+          "title": "Michael Carrick sack timeline as Man United board set for showdown talks",
+          "summary": "Manchester United's board are set for showdown talks as a timeline for when the club will decide on whether to sack Michael Carrick as head coach has now emerged",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-sack-34888540",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 09:15:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Police name 16 men charged with violent disorder before Manchester United match",
+      "items": [
+        {
+          "title": "Police name 16 men charged with violent disorder before Manchester United match",
+          "summary": "The suspects are all due to appear in court in January",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/police-name-16-men-charged-34888370",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 09:08:33 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Michael Carrick LIVE: Man Utd chiefs set for crunch Monaco meeting as Mauricio Pochettino tops shortlist",
+      "items": [
+        {
+          "title": "Michael Carrick LIVE: Man Utd chiefs set for crunch Monaco meeting as Mauricio Pochettino tops shortlist",
+          "summary": "Michael Carrick is set to be relieved of his duties as Manchester United manager after a disastrous start to the season left them in the Premier League relegation zone",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-sack-live-man-utd-37860771",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 22:34:55 +0000"
+        },
+        {
+          "title": "Damning total cost of Man Utd sacking Michael Carrick for Mauricio Pochettino",
+          "summary": "Manchester United are seemingly on the verge of sacking Michael Carrick following a poor start to the season, with Mauricio Pochettino",
+          "url": "https://www.mirror.co.uk/sport/football/news/carrick-manchester-united-sack-pochettino-37863852",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 18:24:41 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd draw up fresh plan that could save Michael Carrick ahead of crunch Monaco meeting",
+      "items": [
+        {
+          "title": "Man Utd draw up fresh plan that could save Michael Carrick ahead of crunch Monaco meeting",
+          "summary": "Manchester United could still keep Michael Carrick in his role as they seek to further bolster their coaching line-up to ensure the under fire boss has more quality around him",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-future-37864129",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 21:16:04 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd's 'final two' to become new manager before dramatic sack U-turn",
+      "items": [
+        {
+          "title": "Man Utd's 'final two' to become new manager before dramatic sack U-turn",
+          "summary": "Manchester United were ready to axe Erik ten Hag back in 2024 with Thomas Tuchel on their radar, only to change their stance following their FA Cup success",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-next-manager-sack-37863979",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 19:47:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd and Ineos' five shocking decisions as constant failure set to cost Michael Carrick",
+      "items": [
+        {
+          "title": "Man Utd and Ineos' five shocking decisions as constant failure set to cost Michael Carrick",
+          "summary": "Manchester United's demise has been a long time coming and, even if Michael Carrick is set to pay the price, the club's Ineos hierarchy have proved hugely unsuccessful during their tenure",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ineos-carrick-ratcliffe-37863899",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 18:29:49 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ineos make Omar Berrada and Jason Wilcox sack decisions ahead of crunch Man Utd talks",
+      "items": [
+        {
+          "title": "Ineos make Omar Berrada and Jason Wilcox sack decisions ahead of crunch Man Utd talks",
+          "summary": "Manchester United's poor season could cost Michael Carrick his job but Omar Berrada and Jason Wilcox have come in for particular criticism as fans and pundits take aim at the duo",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-ineos-wilcox-berrada-37863559",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 16:43:51 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick's class can't defy the raft of Man Utd problems that will end his tenure",
+      "items": [
+        {
+          "title": "Michael Carrick's class can't defy the raft of Man Utd problems that will end his tenure",
+          "summary": "OPINION: Michael Carrick's tenure could be over this week and whilst his results have been poor, Manchester United's problems are far deeper than their manager",
+          "url": "https://www.mirror.co.uk/sport/football/news/michal-carrick-man-utd-future-37863287",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 15:38:31 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sir Jim Ratcliffe is the real problem at Man Utd - he's put clueless yes-men in charge",
+      "items": [
+        {
+          "title": "Sir Jim Ratcliffe is the real problem at Man Utd - he's put clueless yes-men in charge",
+          "summary": "Manchester United's brains trust are meeting in Monaco on Wednesday to discuss the way forward after another disastrous start to the season. They should be looking at themselves",
+          "url": "https://www.mirror.co.uk/sport/football/man-utd-jim-ratcliffe-failures-37862676",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 14:06:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick has let slip what his next job will be after Man Utd sack",
+      "items": [
+        {
+          "title": "Michael Carrick has let slip what his next job will be after Man Utd sack",
+          "summary": "Michael Carrick's next step after Manchester United has already been revealed",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-sack-37861210",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 12:01:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd chiefs 'reach three agreements' as Michael Carrick sack talks run hit complication",
+      "items": [
+        {
+          "title": "Man Utd chiefs 'reach three agreements' as Michael Carrick sack talks run hit complication",
+          "summary": "Manchester United chiefs reportedly agree on three key points explaining why they've not rushed into a decision to sack Michael Carrick so far",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-agreement-carrick-sack-37861562",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 11:28:37 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd would have to pay huge fee to hire Mauricio Pochettino as Michael Carrick's successor",
+      "items": [
+        {
+          "title": "Man Utd would have to pay huge fee to hire Mauricio Pochettino as Michael Carrick's successor",
+          "summary": "Manchester United's hierarchy are mulling over their next steps with Michael Carrick expected to be sacked on Tuesday, and Mauricio Pochettino is one of the candidates in the frame",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-buyout-37861393",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 10:44:51 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Inside Mauricio Pochettino's private meeting he 'set up' with ex-Man Utd boss",
+      "items": [
+        {
+          "title": "Inside Mauricio Pochettino's private meeting he 'set up' with ex-Man Utd boss",
+          "summary": "Manchester United are on the verge of sacking Michael Carrick, with Mauricio Pochettino reportedly being lined up as his successor",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-meeting-37860831",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 09:58:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The four contenders to replace Michael Carrick as Man Utd boss as crunch talks called",
+      "items": [
+        {
+          "title": "The four contenders to replace Michael Carrick as Man Utd boss as crunch talks called",
+          "summary": "Manchester United chiefs are meeting on Tuesday to decide who should replace Michael Carrick as manager following a miserable start to the season, with four names in consideration",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-howe-pochettino-conte-37860789",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 09:53:56 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wilcox and Berrada poised to tell Ratcliffe in Monaco that Carrick should be sacked",
+      "items": [
+        {
+          "title": "Wilcox and Berrada poised to tell Ratcliffe in Monaco that Carrick should be sacked",
+          "summary": "<ul><li><p>Manchester United executives to settle head coach’s fate</p></li><li><p>Mauricio Pochettino a strong candidate to take over</p></li></ul><p>Manchester United’s director of football, Jason Wilcox, and chief executive, Omar Berrada, are expected to travel to Monaco on Tuesday to meet Sir Jim Ratcliffe and <a href=\"https://www.theguardian.com/football/2026/nov/09/manchester-united-michael-carrick-jason-wilcox-review-sacking\">recommend the sacking</a> of Michael Carrick.</p><p>Wilcox and Berrada have come to the conclusion that the 45-year-old Carrick should be removed as head coach after analysing his and the team’s performance.</p> <a href=\"https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 09:01:09 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Firing a manager is often more about maintaining the illusion of control | Leander Schaerlaeckens",
+      "items": [
+        {
+          "title": "Firing a manager is often more about maintaining the illusion of control | Leander Schaerlaeckens",
+          "summary": "<p>In an era of advanced analytics, deciding when to move on from a manager still seems to come down to vibes rather than logic</p><p>He just had to go.</p><p>His position had become untenable.</p><p><em>Leander Schaerlaeckens is the author of The Long Game: U.S. Men’s Soccer and Its Savage, Four-Decade Journey to the Top, or Thereabouts, <a href=\"https://www.penguinrandomhouse.com/books/722130/the-long-game-by-leander-schaerlaeckens/\">which is out now</a>. He teaches at Marist University.</em></p> <a href=\"https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/10/michael-carrick-firing-managers-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 19:03:04 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+      "items": [
+        {
+          "title": "Mauricio Pochettino interested in leaving USMNT job for Manchester United",
+          "summary": "<ul><li><p>Coach’s contract has release clause of about $10m</p></li><li><p>United expected to sack Michael Carrick after awful start</p></li></ul><p>US men’s national team head coach Mauricio Pochettino is interested in a move to Manchester United, multiple sources told the Guardian, with those same sources characterizing the interest as mutual.</p><p>United are <a href=\"https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked\">expected to sack</a> their head coach, Michael Carrick, after a disastrous start to their season which leaves them at risk of relegation from the Premier League, their worst opening to a campaign in four decades.</p> <a href=\"https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 17:40:40 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Man Utd Open Talks With 'World-Class' Manager to Replace Michael Carrick - GiveMeSport",
+      "items": [
+        {
+          "title": "Romano: Man Utd Open Talks With 'World-Class' Manager to Replace Michael Carrick - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMndfWXJkVWRfcmh5SnRKV0pGcG9ZVFBka2ctNENGZ0ZveEVwY3kyUDhsLVZKSU1JdDVNVXpsUGZkQ2xWekhvMllWWlliREp2OF9wdzZLM0hYZWs2TUJPTUtkS0o3UmFmQ3d0RGJ0YTZHX0tfNFVpeFYzZ0dyWW5OVjZJMXdla0NVZ1dTSzlTTWJsZEg0QUxSMlJKWEtrQkE?oc=5\" target=\"_blank\">Romano: Man Utd Open Talks With 'World-Class' Manager to Replace Michael Carrick</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMndfWXJkVWRfcmh5SnRKV0pGcG9ZVFBka2ctNENGZ0ZveEVwY3kyUDhsLVZKSU1JdDVNVXpsUGZkQ2xWekhvMllWWlliREp2OF9wdzZLM0hYZWs2TUJPTUtkS0o3UmFmQ3d0RGJ0YTZHX0tfNFVpeFYzZ0dyWW5OVjZJMXdla0NVZ1dTSzlTTWJsZEg0QUxSMlJKWEtrQkE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 17:44:17 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals Man Utd move to appoint Eddie Howe with THREE manager ‘candidates’ on shortlist - TEAMtalk",
+      "items": [
+        {
+          "title": "Romano reveals Man Utd move to appoint Eddie Howe with THREE manager ‘candidates’ on shortlist - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSFN1VG1wR3ROSTJzem5lcTQ3ZlB4eUJadEZwaXlhQnNESDFmbkpKVm90WFU4a1RVYURESDBPTDRxX0lRZXhxV0pYUzJQZ3J5WTZWcl91LU9CTnZEa3N2TXNVN0J5M082RExEWlUtSjhHcUt5TjdSb1pNVF9ZOFR4ZXhjVE05THBtdUsxUGNYaUJlMXFOT0JOU1lYdnplZVpJRzB0N19RZ0pXWjZYLXc4S2FqSG1SOHRoTUV3WVdYN0JnZnd2ZnBjN0VBazJwM3dfNmw1ZkMyUQ?oc=5\" target=\"_blank\">Romano reveals Man Utd move to appoint Eddie Howe with THREE manager ‘candidates’ on shortlist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSFN1VG1wR3ROSTJzem5lcTQ3ZlB4eUJadEZwaXlhQnNESDFmbkpKVm90WFU4a1RVYURESDBPTDRxX0lRZXhxV0pYUzJQZ3J5WTZWcl91LU9CTnZEa3N2TXNVN0J5M082RExEWlUtSjhHcUt5TjdSb1pNVF9ZOFR4ZXhjVE05THBtdUsxUGNYaUJlMXFOT0JOU1lYdnplZVpJRzB0N19RZ0pXWjZYLXc4S2FqSG1SOHRoTUV3WVdYN0JnZnd2ZnBjN0VBazJwM3dfNmw1ZkMyUQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 08:31:18 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "\"There have been discussions”: Blockbuster update as Man United edge closer to appointing Mauricio Pochettino - The Peoples Person",
+      "items": [
+        {
+          "title": "\"There have been discussions”: Blockbuster update as Man United edge closer to appointing Mauricio Pochettino - The Peoples Person",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNWno1M05yU3pReTBXeS1xazdiMGcwRXVGUERUWE0tYVNKV01sVnh5bDQwVGxjaEVhQVcycXplOEdWMlFndmhaM3FfZjEzMG5QX3E0Tk84WXNfWDlPMjNyeWtrLTVnYzItSmZ0Z2NacS1CWWZUTmpEbmt0aHkzWkd0YWMxSTBNWmJBakJLajZMblgxSHMxNjlOekhTaGFGMkowUTNnZGVUSWxBcDgtdEE?oc=5\" target=\"_blank\">\"There have been discussions”: Blockbuster update as Man United edge closer to appointing Mauricio Pochettino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peoples Person</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWno1M05yU3pReTBXeS1xazdiMGcwRXVGUERUWE0tYVNKV01sVnh5bDQwVGxjaEVhQVcycXplOEdWMlFndmhaM3FfZjEzMG5QX3E0Tk84WXNfWDlPMjNyeWtrLTVnYzItSmZ0Z2NacS1CWWZUTmpEbmt0aHkzWkd0YWMxSTBNWmJBakJLajZMblgxSHMxNjlOekhTaGFGMkowUTNnZGVUSWxBcDgtdEE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 22:10:50 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Ratcliffe 'advised NOT to appoint' leading manager target as Romano reveals new shortlist - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Ratcliffe 'advised NOT to appoint' leading manager target as Romano reveals new shortlist - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQekktX0xGNGtwMWlHYTdNTWtNcUVvVnZVS0ZhZGtCbHJKMFJLT050SUJhNGZVelFPOGRnRUo3TEFWOHhzRjFHa0NIclhqS3VGVEg4VVlHeXRadFF6Q21oSW52N09fSDk5RFVCXzRDcXlNOUFCVDdkNTd6T21KZGVITUR4T0pOYUZ1Q3FBdVRIYlpqcTg5cmpPVFJpTmlRSEJRZ1NYNHVYT19wc0t5YURVQVZab3Y?oc=5\" target=\"_blank\">Man Utd: Ratcliffe 'advised NOT to appoint' leading manager target as Romano reveals new shortlist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQekktX0xGNGtwMWlHYTdNTWtNcUVvVnZVS0ZhZGtCbHJKMFJLT050SUJhNGZVelFPOGRnRUo3TEFWOHhzRjFHa0NIclhqS3VGVEg4VVlHeXRadFF6Q21oSW52N09fSDk5RFVCXzRDcXlNOUFCVDdkNTd6T21KZGVITUR4T0pOYUZ1Q3FBdVRIYlpqcTg5cmpPVFJpTmlRSEJRZ1NYNHVYT19wc0t5YURVQVZab3Y?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 19:01:17 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Man Utd Hold Talks to Appoint 48-Year-Old Manager Instead of Pochettino - GiveMeSport",
+      "items": [
+        {
+          "title": "Romano: Man Utd Hold Talks to Appoint 48-Year-Old Manager Instead of Pochettino - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXNiV2pNWkRNYnY3aS10a3A4dDlkNHlHZ0l1dWZYbTVRdEF5dVF6NFloNElTX2t3Z2ltRjZXenlSSnhaZWpBSXBUM1dVNmZQc04tVUhOZUk4Q2d0OVpFcUpQWDVwWTVjcVZWbzVDYTNmdjlwSTVOSTE0cUV1RTc2aUlQOHp3YzB1VG5xUzFRVE0zTk5TNHRlZWM1ZEpMWWc?oc=5\" target=\"_blank\">Romano: Man Utd Hold Talks to Appoint 48-Year-Old Manager Instead of Pochettino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLXNiV2pNWkRNYnY3aS10a3A4dDlkNHlHZ0l1dWZYbTVRdEF5dVF6NFloNElTX2t3Z2ltRjZXenlSSnhaZWpBSXBUM1dVNmZQc04tVUhOZUk4Q2d0OVpFcUpQWDVwWTVjcVZWbzVDYTNmdjlwSTVOSTE0cUV1RTc2aUlQOHp3YzB1VG5xUzFRVE0zTk5TNHRlZWM1ZEpMWWc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 09:16:48 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why Conte will NOT become Man Utd manager as new favourite emerges - London Evening Standard",
+      "items": [
+        {
+          "title": "Why Conte will NOT become Man Utd manager as new favourite emerges - London Evening Standard",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUhGU2lsdlpsTlJxYTl3RXdiTThOZ3VIZmRrUUhXb25MTVBLSFpLQ3hzeHpjNW5mYkRfa19oQm5zbHV0dTk2T1JLS3VaVzE1bE5LVl9Xd0pIa0NCX2NSY09yODZoUUpKVFdRS2t0NUNLOExZdS1Ta1VoVUI0MEpJVkItZHg2bi1oNmVhWnBoY2M0b2E0SlpLem0zaU9VTjF1eW4w?oc=5\" target=\"_blank\">Why Conte will NOT become Man Utd manager as new favourite emerges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUhGU2lsdlpsTlJxYTl3RXdiTThOZ3VIZmRrUUhXb25MTVBLSFpLQ3hzeHpjNW5mYkRfa19oQm5zbHV0dTk2T1JLS3VaVzE1bE5LVl9Xd0pIa0NCX2NSY09yODZoUUpKVFdRS2t0NUNLOExZdS1Ta1VoVUI0MEpJVkItZHg2bi1oNmVhWnBoY2M0b2E0SlpLem0zaU9VTjF1eW4w?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 11 Nov 2026 03:50:22 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“Really close now” – Romano delivers latest updates on Carrick & Pochettino as Man Utd brace for change - utdreport",
+      "items": [
+        {
+          "title": "“Really close now” – Romano delivers latest updates on Carrick & Pochettino as Man Utd brace for change - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDV4d19IZjJQS29jenJ4N2w5R1BvaTRpNWFxa2ZiV3Nla21YaUtqbXpMLTMzYTR2UGpLZzBKZXBxd2YyUDJqQUtaNmUxZzMyTVVBbGlMM1BqeDlfVTlMTV9MZjhLcG5zbDNrRGVQcVVKWG1WbEJWRmxUbkROb0hpLUhMa1E2SWZhc2NZ0gGQAUFVX3lxTE1vVmNGUkEtVS0tTnYtLUlsMUM1Zm53azRpcVAxUzVMMGZPOTNmejlVVEVnMFlrblBQakJ5akhzODFiX1A3emx0Ykx0VjJFbTdxbU0wdkhfUGNlcndZVHU2azdxZlIxS1RpRGZJQWRyMi1GUTRMYmpnZGdwdllmd05VcDFkVEJXMThKMGJKYlR0Xw?oc=5\" target=\"_blank\">“Really close now” – Romano delivers latest updates on Carrick & Pochettino as Man Utd brace for change</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDV4d19IZjJQS29jenJ4N2w5R1BvaTRpNWFxa2ZiV3Nla21YaUtqbXpMLTMzYTR2UGpLZzBKZXBxd2YyUDJqQUtaNmUxZzMyTVVBbGlMM1BqeDlfVTlMTV9MZjhLcG5zbDNrRGVQcVVKWG1WbEJWRmxUbkROb0hpLUhMa1E2SWZhc2NZ0gGQAUFVX3lxTE1vVmNGUkEtVS0tTnYtLUlsMUM1Zm53azRpcVAxUzVMMGZPOTNmejlVVEVnMFlrblBQakJ5akhzODFiX1A3emx0Ykx0VjJFbTdxbU0wdkhfUGNlcndZVHU2azdxZlIxS1RpRGZJQWRyMi1GUTRMYmpnZGdwdllmd05VcDFkVEJXMThKMGJKYlR0Xw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 07:45:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United are 'scared' of Conte? Romano delivers a brutal verdict on the club - Dailysports",
+      "items": [
+        {
+          "title": "Manchester United are 'scared' of Conte? Romano delivers a brutal verdict on the club - Dailysports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnZpclRLUWVycTRXTC1fMVYwZS1tVGg5M0lTaHlkUURObWRkbUM0RzdwTGs5b1dZQ0czWnFLZ0hJeVc0c2p3Yndtd01xakhucEtfVTI2VDVOd1dkYUlCMDVpY2JNeGwwWVd1NDE1cmdXd05RQWNLZWMxbFJwVWR3NkZiSEJNeGc3Y09vMDM2dzZHY1RIYWxKNXh6czI0cWw4TjRYeWdFT0loRzVPeklCSU5B?oc=5\" target=\"_blank\">Manchester United are 'scared' of Conte? Romano delivers a brutal verdict on the club</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailysports</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnZpclRLUWVycTRXTC1fMVYwZS1tVGg5M0lTaHlkUURObWRkbUM0RzdwTGs5b1dZQ0czWnFLZ0hJeVc0c2p3Yndtd01xakhucEtfVTI2VDVOd1dkYUlCMDVpY2JNeGwwWVd1NDE1cmdXd05RQWNLZWMxbFJwVWR3NkZiSEJNeGc3Y09vMDM2dzZHY1RIYWxKNXh6czI0cWw4TjRYeWdFT0loRzVPeklCSU5B?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 21:16:40 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Manchester United Holds High Regard for Pochettino - Telecom Asia Sport",
+      "items": [
+        {
+          "title": "Romano: Manchester United Holds High Regard for Pochettino - Telecom Asia Sport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWtXa3k4MmZzYXJJbEtueFk1Y1MzcWpLNEtaeGlGU1FzbnNQeVVaaEFaZndvcU9qeDBESFBEZDRObXRMMkViNndGRWd2NzBYMTBwMWtLbV9RZGhsYnZYUVJCcmR1ZEdnU3FhLWUwd2hXRkxOcHlKTGY2dk5NRnFReXh2RzZzdm9Xcl9mYlBR?oc=5\" target=\"_blank\">Romano: Manchester United Holds High Regard for Pochettino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecom Asia Sport</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYWtXa3k4MmZzYXJJbEtueFk1Y1MzcWpLNEtaeGlGU1FzbnNQeVVaaEFaZndvcU9qeDBESFBEZDRObXRMMkViNndGRWd2NzBYMTBwMWtLbV9RZGhsYnZYUVJCcmR1ZEdnU3FhLWUwd2hXRkxOcHlKTGY2dk5NRnFReXh2RzZzdm9Xcl9mYlBR?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 21:29:58 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick’s Manchester United job under serious threat after two internal meetings: Reports - Sports Tiger",
+      "items": [
+        {
+          "title": "Michael Carrick’s Manchester United job under serious threat after two internal meetings: Reports - Sports Tiger",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkkwZllyaFhBcUFBN2ZTTkNlTmZCMWg0Ry15eXlnODE2Rmhva29wWEt2U3F2dFAtTmRsV2hUVVhKRkM5bE8xR3JGZ25XUTc0XzJJeU1tOFZYam51V1V4OE1rU0NhQ1FWNTRaREMybk1KSjExVWxDN2pOV3J4aUI5Z1VmcEN0bVZCVC1wMGhZLVRHbjAyOEppbFNfUm1laGRUblVUVWIwblg0VXphQlN4UUxnRmJRMFlVdERJX2VJaWFPUFRLMTNpVUdRWmFkdw?oc=5\" target=\"_blank\">Michael Carrick’s Manchester United job under serious threat after two internal meetings: Reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sports Tiger</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkkwZllyaFhBcUFBN2ZTTkNlTmZCMWg0Ry15eXlnODE2Rmhva29wWEt2U3F2dFAtTmRsV2hUVVhKRkM5bE8xR3JGZ25XUTc0XzJJeU1tOFZYam51V1V4OE1rU0NhQ1FWNTRaREMybk1KSjExVWxDN2pOV3J4aUI5Z1VmcEN0bVZCVC1wMGhZLVRHbjAyOEppbFNfUm1laGRUblVUVWIwblg0VXphQlN4UUxnRmJRMFlVdERJX2VJaWFPUFRLMTNpVUdRWmFkdw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 17:11:16 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein Names Likely Next Man Utd Manager as Three Contenders Ruled Out - GiveMeSport",
+      "items": [
+        {
+          "title": "David Ornstein Names Likely Next Man Utd Manager as Three Contenders Ruled Out - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEszZmR0R2premwxeGs2VERDdU5iN3RMZzJlaFBBUVhXbV9mYTdLdTU3OFY5WVVON01uM2lTWl94N3JJQ3cxcnMyV255SmN1LWRMcUgwc21QSTI5QXBjdlo4ZHRMcU40RFFOZER6cnZKbUwtS3B1VGtNVktqeUg2d1RDaUhhYUQ0ZHdQUEJQb21DVHFBTmE4?oc=5\" target=\"_blank\">David Ornstein Names Likely Next Man Utd Manager as Three Contenders Ruled Out</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdEszZmR0R2premwxeGs2VERDdU5iN3RMZzJlaFBBUVhXbV9mYTdLdTU3OFY5WVVON01uM2lTWl94N3JJQ3cxcnMyV255SmN1LWRMcUgwc21QSTI5QXBjdlo4ZHRMcU40RFFOZER6cnZKbUwtS3B1VGtNVktqeUg2d1RDaUhhYUQ0ZHdQUEJQb21DVHFBTmE4?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Tue, 10 Nov 2026 16:11:42 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United eye signing of Premier League star to make up for summer transfer error",
+      "items": [
+        {
+          "title": "Manchester United eye signing of Premier League star to make up for summer transfer error",
+          "summary": "<p>Manchester United are reportedly eyeing up a potential transfer move for Brentford centre-back Nathan Collins for January after failing to strengthen in that position in the summer. It&#8217;s been a terrible start to the season for Man Utd, who drew 4-4 with Aston Villa in their most recent game, which could finally spell the end [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/11/man-united-eye-nathan-collins-transfer-from-brentford/\">Manchester United eye signing of Premier League star to make up for summer transfer error</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/11/man-united-eye-nathan-collins-transfer-from-brentford/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 11 Nov 2026 07:04:46 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "La Liga giants eyeing transfer moves for Arsenal and Manchester United stars",
+      "items": [
+        {
+          "title": "La Liga giants eyeing transfer moves for Arsenal and Manchester United stars",
+          "summary": "<p>Arsenal midfielder Martin Zubimendi is reportedly a transfer target for Atletico Madrid, who are also eyeing up Manchester United centre-back Lisandro Martinez. The Spanish giants are said to be leading the race to sign Zubimendi, who has fallen down the pecking order at Arsenal in recent times despite initially making a strong start to life [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/11/atletico-eye-martin-zubimendi-and-lisandro-martinez-transfers/\">La Liga giants eyeing transfer moves for Arsenal and Manchester United stars</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/11/atletico-eye-martin-zubimendi-and-lisandro-martinez-transfers/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 11 Nov 2026 06:45:37 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xtb3kw/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xtb3kw/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xtb3kw/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-11T07:00:12+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Charlotte Duncker, Times] Mauricio Pochettino wants Man United job if Michael Carrick is sacked",
+      "items": [
+        {
+          "title": "[Charlotte Duncker, Times] Mauricio Pochettino wants Man United job if Michael Carrick is sacked",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.thetimes.com/sport/football/article/mauricio-pochettino-manchester-united-michael-carrick-sacked-jim-ratcliffe-mb7cczp33\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsx803/charlotte_duncker_times_mauricio_pochettino_wants/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsx803/charlotte_duncker_times_mauricio_pochettino_wants/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T20:08:27+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Wheeler, Salt] Man United Confidential: Jim Ratcliffe makes new 'brutal' cutbacks to ex-players' charity, Nathan Collins and Calvin Bassey among January targets, Luke Shaw eyes Anfield return and why club confiscated two anti-owner banners",
+      "items": [
+        {
+          "title": "[Wheeler, Salt] Man United Confidential: Jim Ratcliffe makes new 'brutal' cutbacks to ex-players' charity, Nathan Collins and Calvin Bassey among January targets, Luke Shaw eyes Anfield return and why club confiscated two anti-owner banners",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xssv64/wheeler_salt_man_united_confidential_jim/\"> <img alt=\"[Wheeler, Salt] Man United Confidential: Jim Ratcliffe makes new 'brutal' cutbacks to ex-players' charity, Nathan Collins and Calvin Bassey among January targets, Luke Shaw eyes Anfield return and why club confiscated two anti-owner banners\" src=\"https://external-preview.redd.it/b1SSxc2G5vMRQUbiJE0Q7ckeBVDOPG2WDWAvMKx-s0s.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb7ac23e44611ad51c696698c28f4279fec73715\" title=\"[Wheeler, Salt] Man United Confidential: Jim Ratcliffe makes new 'brutal' cutbacks to ex-players' charity, Nathan Collins and Calvin Bassey among January targets, Luke Shaw eyes Anfield return and why club confiscated two anti-owner banners\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.dailymail.com/sport/football/article-16281981/Man-United-Jim-Ratcliffe-cuts-charity-transfers-Collins-Bassey-banners.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xssv64/wheeler_salt_man_united_confidential_jim/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xssv64/wheeler_salt_man_united_confidential_jim/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T17:23:49+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[ManUtdWomen] Eyes forward 👊",
+      "items": [
+        {
+          "title": "[ManUtdWomen] Eyes forward 👊",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsqodp/manutdwomen_eyes_forward/\"> <img alt=\"[ManUtdWomen] Eyes forward 👊\" src=\"https://preview.redd.it/w1mlggm06t0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7fbfe122e8ddff5ef459d740e388c0b3fb805b89\" title=\"[ManUtdWomen] Eyes forward 👊\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/w1mlggm06t0i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsqodp/manutdwomen_eyes_forward/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsqodp/manutdwomen_eyes_forward/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T16:02:16+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Ducker] Jason Wilcox and Omar Berrada to keep jobs despite Man Utd chaos",
+      "items": [
+        {
+          "title": "[Ducker] Jason Wilcox and Omar Berrada to keep jobs despite Man Utd chaos",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsoxdp/ducker_jason_wilcox_and_omar_berrada_to_keep_jobs/\"> <img alt=\"[Ducker] Jason Wilcox and Omar Berrada to keep jobs despite Man Utd chaos\" src=\"https://external-preview.redd.it/Z7RHFbPfd-UmwkzFVi287a4Gw-rM3u1qeaHp42Fnycs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81783a7af1705acc77e1ae4c318cb89f33ca7142\" title=\"[Ducker] Jason Wilcox and Omar Berrada to keep jobs despite Man Utd chaos\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/11/10/wilcox-and-berrada-to-keep-jobs-despite-man-utd-chaos/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsoxdp/ducker_jason_wilcox_and_omar_berrada_to_keep_jobs/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsoxdp/ducker_jason_wilcox_and_omar_berrada_to_keep_jobs/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T14:54:49+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The Stretford End singing \"It's Carrick you know...\" after the 4-4 draw with Villa, possibly Carrick's final match as Man Utd head coach",
+      "items": [
+        {
+          "title": "The Stretford End singing \"It's Carrick you know...\" after the 4-4 draw with Villa, possibly Carrick's final match as Man Utd head coach",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsi350/the_stretford_end_singing_its_carrick_you_know/\"> <img alt=\"The Stretford End singing &quot;It's Carrick you know...&quot; after the 4-4 draw with Villa, possibly Carrick's final match as Man Utd head coach\" src=\"https://external-preview.redd.it/eXBiODdhaGoxcjBpMZKMXzzhMFgzfjOJ89udpQxyX8hjwwrVVWSJyQYnoai8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=59da2583ba31a7d33b7c032f13843ebb690f8a47\" title=\"The Stretford End singing &quot;It's Carrick you know...&quot; after the 4-4 draw with Villa, possibly Carrick's final match as Man Utd head coach\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/OkayFine101\"> /u/OkayFine101 </a> <br /> <span><a href=\"https://v.redd.it/n2fw1ufj1r0i1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsi350/the_stretford_end_singing_its_carrick_you_know/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsi350/the_stretford_end_singing_its_carrick_you_know/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T08:58:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[The Athletic] The buyout clause in U.S. men’s national team head coach Mauricio Pochettino’s contract is in the ballpark of $10 million, sources briefed on the situation tell The Athletic. To also buy out Pochettino’s assistant coaches, United would have to pay millions more dollars, sources added.",
+      "items": [
+        {
+          "title": "[The Athletic] The buyout clause in U.S. men’s national team head coach Mauricio Pochettino’s contract is in the ballpark of $10 million, sources briefed on the situation tell The Athletic. To also buy out Pochettino’s assistant coaches, United would have to pay millions more dollars, sources added.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsis67/the_athletic_the_buyout_clause_in_us_mens/\"> <img alt=\"[The Athletic] The buyout clause in U.S. men’s national team head coach Mauricio Pochettino’s contract is in the ballpark of $10 million, sources briefed on the situation tell The Athletic. To also buy out Pochettino’s assistant coaches, United would have to pay millions more dollars, sources added.\" src=\"https://external-preview.redd.it/SLh5u8fqLoyuy6x3fHUF_mOMKpJUsBe7-IQ--r8wOUw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=009a19f46793e4901ac51c83318483048a06c3f6\" title=\"[The Athletic] The buyout clause in U.S. men’s national team head coach Mauricio Pochettino’s contract is in the ballpark of $10 million, sources briefed on the situation tell The Athletic. To also buy out Pochettino’s assistant coaches, United would have to pay millions more dollars, sources added.\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><strong>(Gift Link) The buyout clause in U.S. men’s national team head coach Mauricio Pochettino’s contract is in the ballpark of $10 million,</strong> sources briefed on the situation tell <em>The Athletic.</em></p> <p>Manchester United would be expected to consider Pochettino as a potential head coach to replace Michael Carrick, as The Athletic reported on Monday, and if United were to recruit Pochettino, the club could get him out of his U.S. contract by triggering that buyout clause.</p> <p><strong>To also buy out Pochettino’s assistant coaches, who have followed him from job to job for more than a decade, United would have to pay millions more dollars, sources added.</strong> Those sources were granted anonymity because they were not authorized to speak publicly.</p> <p><strong>A buyout in a contract is typically the starting point in negotiations,</strong> ensuring U.S. Soccer would receive a fee to potentially reinvest in its next coach.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7769270/2026/11/09/mauricio-pochettino-contract-buyout-us-soccer-manchester-united/?unlocked_article_code=1.PVE.6j3p.yEIvG_llFgtJ&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsis67/the_athletic_the_buyout_clause_in_us_mens/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsis67/the_athletic_the_buyout_clause_in_us_mens/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T09:43:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League Table since Michael Carrick was first appointed on 13 January 2026",
+      "items": [
+        {
+          "title": "Premier League Table since Michael Carrick was first appointed on 13 January 2026",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xsl362/premier_league_table_since_michael_carrick_was/\"> <img alt=\"Premier League Table since Michael Carrick was first appointed on 13 January 2026\" src=\"https://preview.redd.it/n58g2ofiyr0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=be8ff38130f179e678c664a290ec633567292d44\" title=\"Premier League Table since Michael Carrick was first appointed on 13 January 2026\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/NomaanMalick\"> /u/NomaanMalick </a> <br /> <span><a href=\"https://i.redd.it/n58g2ofiyr0i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xsl362/premier_league_table_since_michael_carrick_was/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xsl362/premier_league_table_since_michael_carrick_was/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T12:00:28+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "[@ManUtd] 🌍 Twelve first-team Reds have been called up by their national teams this month 💪",
+      "items": [
+        {
+          "title": "[@ManUtd] 🌍 Twelve first-team Reds have been called up by their national teams this month 💪",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://www.manutd.com/en/teams/mens-team/karl-darlow\">Karl Darlow</a>'s inclusion in the Wales squad, after injury forced him out of the October games, and <a href=\"https://www.manutd.com/en/teams/mens-team/dermot-mee\">Dermot Mee</a>'s maiden senior call-up for Northern Ireland means we have three goalkeepers away.</p> <p><a href=\"https://www.manutd.com/en/teams/mens-team/senne-lammens\">Senne Lammens</a> is with Belgium, along with his country's skipper <a href=\"https://www.manutd.com/en/teams/mens-team/youri-tielemans\">Youri Tielemans</a>, fresh from his maiden Reds goal against Aston Villa on Sunday.</p> <p>Portugal also have two Old Trafford representatives in <a href=\"https://www.manutd.com/en/teams/mens-team/diogo-dalot\">Diogo Dalot</a> and <a href=\"https://www.manutd.com/en/teams/mens-team/bruno-fernandes\">Bruno Fernandes</a>, as they embark on life after Cristiano Ronaldo, following our former star's international retirement.</p> <p><a href=\"https://www.manutd.com/en/teams/mens-team/leny-yoro\">Leny Yoro</a> has retained his place in the France squad, earning Zinedine Zidane's trust after an <a href=\"https://www.manutd.com/en/news/yoro-makes-debut-for-les-bleus\">impressive debut</a> for Les Bleus against Belgium.</p> <p>In addition to the UEFA Nations League ties, further afield, <a href=\"https://www.manutd.com/en/teams/mens-team/andrey-santos\">Andrey Santos</a> has linked up with Brazil for two friendlies in the Far East and <a href=\"https://www.manutd.com/en/teams/mens-team/lisandro-martinez\">Lisandro Martinez</a>, suspended for the Villa draw, is heading to Argentina.</p> <p>In the Africa Cup of Nations, <a href=\"https://www.manutd.com/en/teams/mens-team/amad-diallo\">Amad</a> (Ivory Coast), <a href=\"https://www.manutd.com/en/teams/mens-team/noussair-mazraoui\">Noussair Mazraoui</a> (Morocco) and <a href=\"https://www.manutd.com/en/teams/mens-team/bryan-mbeumo\">Bryan Mbeumo</a>(Cameroon) are all set to feature for their respective countries. <a href=\"https://www.manutd.com/en/teams/mens-team/carlos-baleba\">Carlos Baleba</a> was in the Cameroon squad as well but was injured in the UEFA Champions League victory over Roma.</p> <p>Dermot Mee has been named in the Northern Ireland squad.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.manutd.com/en/news/international-reds-guide-for-november?t=y&amp;utm_source=twitter&amp;utm_medium=story&amp;utm_campaign=club_news\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xslc8k/manutd_twelve_firstteam_reds_have_been_called_up/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xslc8k/manutd_twelve_firstteam_reds_have_been_called_up/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-10T12:13:01+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 64,
+    "story_count": 55
+  }
+}
