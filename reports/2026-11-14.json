@@ -1,0 +1,1455 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T07:26:39.890483+00:00",
+  "match_data": {
+    "collected_at": "2026-11-14T07:26:34.034155+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Emotional Pochettino in tears at USA press conference",
+      "items": [
+        {
+          "title": "Emotional Pochettino in tears at USA press conference",
+          "summary": "Incoming Manchester United head coach Mauricio Pochettino was visibly emotional in his USA press conference on Thursday, describing the decision to move as \"one of the most difficult decisions of his career\".",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c50md0g9ymlyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 15:25:31 GMT"
+        },
+        {
+          "title": "What emotional Mauricio Pochettino said during USA press conference after taking Man United job",
+          "summary": "Mauricio Pochettino will take charge of the USA national team before joining Man United next week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-press-conference-live-34906479",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 15:21:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Fernandes rejects second Man Utd contract offer",
+      "items": [
+        {
+          "title": "Fernandes rejects second Man Utd contract offer",
+          "summary": "Manchester United captain Bruno Fernandes rejects the club's second contract offer, with his current deal due to expire at the end of the season.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm782d4pz9jyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 09:55:01 GMT"
+        },
+        {
+          "title": "Bruno Fernandes rejects another Manchester United contract offer as talks continue",
+          "summary": "Man Utd and Bruno Fernandes remain in talks over a new contract as the club looks to tie him down to another deal.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-rejects-another-manchester-34905608",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 10:04:50 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+      "items": [
+        {
+          "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+          "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino?  BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 22:53:17 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Pochettino defends USA exit to take Man Utd job",
+      "items": [
+        {
+          "title": "Pochettino defends USA exit to take Man Utd job",
+          "summary": "Incoming Manchester United head coach Mauricio Pochettino defended his decision to leave his role as USA boss, saying it would have been \"difficult\" to turn down.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmrrg5x49l7yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 16:16:49 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+      "items": [
+        {
+          "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+          "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 15:28:06 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd fan thinks Mauricio Pochettino is what club needs",
+      "items": [
+        {
+          "title": "Man Utd fan thinks Mauricio Pochettino is what club needs",
+          "summary": "Manchester United fan Jay Motty believes Mauricio Pochettino is the right fit for what the club needs at this time",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cr0qjz55z9gvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 12:10:11 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+      "items": [
+        {
+          "title": "How Ferguson-inspired Pochettino can succeed where Carrick failed at Man Utd",
+          "summary": "With Mauricio Pochettino set to become Man Utd manager, we analyse if he can clear the tactical hurdles others haven't.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm2kljzkw77ko?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 12:09:48 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "What do Man Utd fans think of Pochettino?",
+      "items": [
+        {
+          "title": "What do Man Utd fans think of Pochettino?",
+          "summary": "Manchester United fans outside Old Trafford give their opinions on incoming manager Mauricio Pochettino.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6702j2wnngvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 12:01:01 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Does Alderweireld think Pochettino is right for Man Utd?",
+      "items": [
+        {
+          "title": "Does Alderweireld think Pochettino is right for Man Utd?",
+          "summary": "Former Tottenham Hotspur defender Toby Alderweireld recalls what it was like to work with Mauricio Pochettino, who has agreed to succeed Michael Carrick at Manchester United.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6174gwyr17vo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 13 Nov 2026 12:00:58 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino in tears as he speaks about decision to leave USA job for Manchester United",
+      "items": [
+        {
+          "title": "Mauricio Pochettino in tears as he speaks about decision to leave USA job for Manchester United",
+          "summary": "Mauricio Pochettino was confirmed as Man United's replacement for Michael Carrick on Friday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-tears-speaks-leaving-34908333",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 15:04:55 +0000"
+        },
+        {
+          "title": "Why Manchester United have appointed Mauricio Pochettino",
+          "summary": "Man Utd have confirmed the appointment of Mauricio Pochettino, who has signed a contract until the summer of 2029.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/why-manchester-united-appointed-pochettino-34907119",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:25:06 +0000"
+        },
+        {
+          "title": "Manchester United confirm Mauricio Pochettino as new head coach as statement released",
+          "summary": "Mauricio Pochettino has been appointed as the new Man Utd head coach.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-confirm-mauricio-pochettino-34902407",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:06:07 +0000"
+        },
+        {
+          "title": "USA dressing room break silence on Mauricio Pochettino's exit for Manchester United",
+          "summary": "Mauricio Pochettino will soon be announced as the next Man United manager after Michael Carrick was sacked.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/usa-dressing-room-break-silence-34906071",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 11:12:25 +0000"
+        },
+        {
+          "title": "Official: Manchester United confirm Mauricio Pochettino appointment",
+          "summary": "<p>Manchester United have officially confirmed an agreement to hire Mauricio Pochettino as their new manager to replace Michael Carrick. Carrick&#8217;s sacking was announced yesterday, and now Man Utd have provided a further update by confirming that Pochettino will be their new manager with immediate effect. The former Tottenham and Chelsea manager is leaving his role [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/13/man-united-officially-confirm-mauricio-pochettino/\">Official: Manchester United confirm Mauricio Pochettino appointment</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/13/man-united-officially-confirm-mauricio-pochettino/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 13 Nov 2026 12:11:56 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino speaks after being appointed Manchester United manager",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv9a6b/mauricio_pochettino_speaks_after_being_appointed/\"> <img alt=\"Mauricio Pochettino speaks after being appointed Manchester United manager\" src=\"https://external-preview.redd.it/GC428GHLTHKNkm2jf1Q86r6C0g2nXH84OtQycx13Zvo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=3764f611b13963e57615695b7be20ee25ed45cdb\" title=\"Mauricio Pochettino speaks after being appointed Manchester United manager\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/CaptainIggy\"> /u/CaptainIggy </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=1hFrWMmPC20\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv9a6b/mauricio_pochettino_speaks_after_being_appointed/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv9a6b/mauricio_pochettino_speaks_after_being_appointed/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T14:27:10+00:00"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "r/reddevils",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 3,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Marcus Rashford agrees to new Man United plan with Mauricio Pochettino's arrival imminent",
+      "items": [
+        {
+          "title": "Marcus Rashford agrees to new Man United plan with Mauricio Pochettino's arrival imminent",
+          "summary": "Manchester United star Marcus Rashford has agreed to a new plan as he braces for the arrival of Mauricio Pochettino",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-marcus-rashford-pochettino-34906369",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 11:35:16 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino’s true feelings on seven Man Utd players including Marcus Rashford",
+          "summary": "With Mauricio Pochettino set to soon be unveiled as the manager of Manchester United, seven current Red Devils have been earmarked as players he would like",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-rashford-37873170",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 09:37:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino signs contract to become Manchester United head coach – Romano - Tribuna.com",
+      "items": [
+        {
+          "title": "Mauricio Pochettino signs contract to become Manchester United head coach – Romano - Tribuna.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHJrblBuSkthaXNiSEhyLUJQNzBiYXBzQ1MxTG1wWnVoVU9qd3FpVHZoVU1yeGEzMWZ1TnRoakhyM2ZZNkg2b1FMOXB2ZWNjZTZqb1BpQ05kUG1NMVlOYjg2TnJkQjdsZER6ZUhTandTMEc4UTRuZ3NzMk1nbHVyTDNXZUd3UTlmaUFmRWE5OVFXTXFmNlJCUUQ1NGRIajUwM3lYWmcwaF9OaEFSR09wblZpZ2dJY1FLT3RuUNIBwgFBVV95cUxPcS1YS3lvbS1QMFhMenNtWnVHZGt5el9vU2duRWkwdDk3YmlteVZ2eGtleVhxZWVPVjR6SmR6TFlJbnljNEhjQzlBbm5MVUtMay1WWk11WU9DbTlQMERtcGRNczFUYThZenJYXzg1TFJsSDZXb0NDVjJBUWVlajVZb282d0lnR1Z2ZmZ3Z3NzeTZoRnFpTGNKUGN5Y1dCSVU5WDNlbzhIVmt2bVVlSWNWYmNhTG11NHNvMnZ2MEtfXzdqdw?oc=5\" target=\"_blank\">Mauricio Pochettino signs contract to become Manchester United head coach – Romano</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tribuna.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUHJrblBuSkthaXNiSEhyLUJQNzBiYXBzQ1MxTG1wWnVoVU9qd3FpVHZoVU1yeGEzMWZ1TnRoakhyM2ZZNkg2b1FMOXB2ZWNjZTZqb1BpQ05kUG1NMVlOYjg2TnJkQjdsZER6ZUhTandTMEc4UTRuZ3NzMk1nbHVyTDNXZUd3UTlmaUFmRWE5OVFXTXFmNlJCUUQ1NGRIajUwM3lYWmcwaF9OaEFSR09wblZpZ2dJY1FLT3RuUNIBwgFBVV95cUxPcS1YS3lvbS1QMFhMenNtWnVHZGt5el9vU2duRWkwdDk3YmlteVZ2eGtleVhxZWVPVjR6SmR6TFlJbnljNEhjQzlBbm5MVUtMay1WWk11WU9DbTlQMERtcGRNczFUYThZenJYXzg1TFJsSDZXb0NDVjJBUWVlajVZb282d0lnR1Z2ZmZ3Z3NzeTZoRnFpTGNKUGN5Y1dCSVU5WDNlbzhIVmt2bVVlSWNWYmNhTG11NHNvMnZ2MEtfXzdqdw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:17:08 GMT"
+        },
+        {
+          "title": "Pochettino agrees to become United head coach",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.manutd.com/en/news/mauricio-pochettino-agrees-to-become-united-head-coach\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv616k/pochettino_agrees_to_become_united_head_coach/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv616k/pochettino_agrees_to_become_united_head_coach/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T12:00:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils",
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Old Trafford's 'once-in-a-generation' plan that could be ruined by 'weeing in the garden'",
+      "items": [
+        {
+          "title": "Old Trafford's 'once-in-a-generation' plan that could be ruined by 'weeing in the garden'",
+          "summary": "Residents want to see a solution to matchday parking problems, related anti-social behaviour and the use of alleys and front gardens as an alternative to actual toilets",
+          "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/old-traffords-once-generation-plan-34900876",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 07:13:37 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's best Manchester United XI with forward trial as stars return",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's best Manchester United XI with forward trial as stars return",
+          "summary": "Mauricio Pochettino will take charge of Man United for the first time against Liverpool next weekend.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettinos-best-manchester-united-34910718",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Manchester United reach breakthrough with Mauricio Pochettino",
+          "summary": "Man United are close to announcing the appointment of Mauricio Pochettino to replace Michael Carrick.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-reach-breakthrough-mauricio-34905495",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 09:46:23 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United told how they have 'disrespected' club legend Michael Carrick",
+      "items": [
+        {
+          "title": "Manchester United told how they have 'disrespected' club legend Michael Carrick",
+          "summary": "Man Utd announced the sacking of Michael Carrick on Thursday, finally confirming his exit after days of media reports.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-told-how-disrespected-34902447",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I was set to leave Man United but the deal fell through - then I became captain",
+      "items": [
+        {
+          "title": "I was set to leave Man United but the deal fell through - then I became captain",
+          "summary": "A former Manchester United captain was all set to leave for a Premier League rival - but the move fell through and a few months later he was wearing the armband for the very first time",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-failed-transfer-captain-34899300",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bryan Mbeumo sends message to Mauricio Pochettino as £40m striker linked to Man United",
+      "items": [
+        {
+          "title": "Bryan Mbeumo sends message to Mauricio Pochettino as £40m striker linked to Man United",
+          "summary": "Mauricio Pochettino is set to assume control of Manchester United's first team next week, and could have big plans for the January transfer window",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bryan-mbeumo-manchester-united-pochettino-34910860",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 04:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Senne Lammens speaks up after red flags from two Man United icons - 'I won't lie'",
+      "items": [
+        {
+          "title": "Senne Lammens speaks up after red flags from two Man United icons - 'I won't lie'",
+          "summary": "Manchester United have endured a torrid start to the new season, with Michael Carrick losing his job as a result, and club legends have been particularly critical of one player",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/senne-lammens-manchester-united-keane-34910784",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 20:56:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane wants two Man United changes but Mauricio Pochettino can only deliver one",
+      "items": [
+        {
+          "title": "Roy Keane wants two Man United changes but Mauricio Pochettino can only deliver one",
+          "summary": "Mauricio Pochettino has been named as the new Manchester United head coach as he replaces Michael Carrick at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/roy-keane-pochettino-man-united-34910550",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 19:18:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick's 'explosive' rant at Man United players as tempers boiled over before sacking",
+      "items": [
+        {
+          "title": "Michael Carrick's 'explosive' rant at Man United players as tempers boiled over before sacking",
+          "summary": "Michael Carrick carried himself with dignity and pride as manager of Manchester United, but there were times where his temper got the better of him",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-pochettino-34906730",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Patrick Dorgu sent home from international duty as statement on Man United star released",
+      "items": [
+        {
+          "title": "Patrick Dorgu sent home from international duty as statement on Man United star released",
+          "summary": "Patrick Dorgu will not face Portugal or Norway with Denmark in the Nations League, with an official statement being shared by the team on Friday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/patrick-dorgu-injured-manchester-united-34910081",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 16:56:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United complete first transfer of Mauricio Pochettino era as wonderkid joins",
+      "items": [
+        {
+          "title": "Man United complete first transfer of Mauricio Pochettino era as wonderkid joins",
+          "summary": "Manchester United have registered a new signing in the same week that they have sacked Michael Carrick and appointed Mauricio Pochettino as their new head coach",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-news/man-united-transfer-mauricio-pochettino-34909474",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 16:15:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick releases statement immediately after Man United appoint Mauricio Pochettino",
+      "items": [
+        {
+          "title": "Michael Carrick releases statement immediately after Man United appoint Mauricio Pochettino",
+          "summary": "Michael Carrick has released a statement on social media having been sacked by Manchester United and replaced by Mauricio Pochettino",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-releases-statement-immediately-34907515",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 13:03:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Poll: Will Mauricio Pochettino be a success at Manchester United?",
+      "items": [
+        {
+          "title": "Poll: Will Mauricio Pochettino be a success at Manchester United?",
+          "summary": "Mauricio Pochettino has been confirmed as Man United's new head coach",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/poll-mauricio-pochettino-success-manchester-34907311",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:41:38 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Two players Mauricio Pochettino must sign for Man United named and profiled",
+      "items": [
+        {
+          "title": "Two players Mauricio Pochettino must sign for Man United named and profiled",
+          "summary": "Mauricio Pochettino has been told to target a specific area when the January transfer window opens",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-signings-34906024",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 10:45:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Shea Lacey shows true feelings about Michael Carrick after Man United exit",
+      "items": [
+        {
+          "title": "Shea Lacey shows true feelings about Michael Carrick after Man United exit",
+          "summary": "Manchester United players are now showing their true feelings about Michael Carrick after the head coach's exit from Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-zirkzee-34905504",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 09:50:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd's reality spelled out to Mauricio Pochettino - 'Surprised if he lasts 18 months'",
+      "items": [
+        {
+          "title": "Man Utd's reality spelled out to Mauricio Pochettino - 'Surprised if he lasts 18 months'",
+          "summary": "Mauricio Pochettino is the new man in the Manchester United hotseat but he's been tipped to have a relatively brief tenure given the state of affairs at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-lineker-37876823",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 06:49:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's dream Man Utd XI as Bruno Fernandes replaced and Chelsea star signs",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's dream Man Utd XI as Bruno Fernandes replaced and Chelsea star signs",
+          "summary": "Mauricio Pochettino faces a huge rebuilding job at Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-team-mauricio-pochettino-37875314",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'I played for Mauricio Pochettino and Jose Mourinho – one manager was better than both'",
+      "items": [
+        {
+          "title": "'I played for Mauricio Pochettino and Jose Mourinho – one manager was better than both'",
+          "summary": "Mauricio Pochettino is in line to become Manchester United's next manager, but one of his former players rates another coach more highly",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-mourinho-man-utd-37871645",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino’s wife dragged into relegation sacrifice as couple went to extreme lengths",
+      "items": [
+        {
+          "title": "Mauricio Pochettino’s wife dragged into relegation sacrifice as couple went to extreme lengths",
+          "summary": "Mauricio Pochettino will take charge of Manchester United when the Premier League returns, with the club currently in the bottom three of the table",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-wife-man-united-37876100",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 17:57:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "5 biggest issues Mauricio Pochettino will immediately face after arriving at Man Utd",
+      "items": [
+        {
+          "title": "5 biggest issues Mauricio Pochettino will immediately face after arriving at Man Utd",
+          "summary": "ANALYSIS: Mauricio Pochettino has finally landed his dream job at Manchester United, but he will find many fires that need to be put out upon his arrival at Carrington",
+          "url": "https://www.mirror.co.uk/sport/football/man-utd-mauricio-pochettino-problems-37875650",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 17:21:30 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford causes issue as Man Utd set to trigger his team-mate's contract clause",
+      "items": [
+        {
+          "title": "Marcus Rashford causes issue as Man Utd set to trigger his team-mate's contract clause",
+          "summary": "Mauricio Pochettino has been named as Michael Carrick's successor at Manchester United, and the Argentine will have his work cut out for him when he arrives next week",
+          "url": "https://www.mirror.co.uk/sport/football/news/marcus-rashford-man-utd-fernandes-37875619",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 16:26:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd 'complete signing of wonderkid striker' in first move of new era",
+      "items": [
+        {
+          "title": "Man Utd 'complete signing of wonderkid striker' in first move of new era",
+          "summary": "Manchester United have completed a signing on the same day Mauricio Pochettino was named as the club's new manager",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-new-signing-pochettino-37875296",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 15:23:11 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino bursts into tears in first interview after getting Man Utd job",
+      "items": [
+        {
+          "title": "Mauricio Pochettino bursts into tears in first interview after getting Man Utd job",
+          "summary": "Mauricio Pochettino was announced as Manchester United's new manager on Friday, with the outgoing USMNT boss explained the decision in an emotional press conference hours later",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-tears-37875228",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 14:39:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's first job must be getting rid of Bruno Fernandes - he's trouble at Man Utd",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's first job must be getting rid of Bruno Fernandes - he's trouble at Man Utd",
+          "summary": "If Mauricio Pochettino wants to succeed at Manchester United, he needs to be bold and kick troublemaker Bruno Fernandes to the curb",
+          "url": "https://www.mirror.co.uk/sport/football/news/pochettino-man-utd-bruno-fernandes-37873719",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 14:25:49 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "When will Mauricio Pochettino first take charge of Man Utd and his likely starting XI?",
+      "items": [
+        {
+          "title": "When will Mauricio Pochettino first take charge of Man Utd and his likely starting XI?",
+          "summary": "Mauricio Pochettino is set for a baptism of fire after replacing Michael Carrick as Manchester United boss",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-first-take-charge-37874626",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 13:11:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick breaks silence on Man Utd sacking with emotional open letter",
+      "items": [
+        {
+          "title": "Michael Carrick breaks silence on Man Utd sacking with emotional open letter",
+          "summary": "Michael Carrick has issued a public statement after being sacked by Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-michael-carrick-statement-37874552",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:50:16 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's first two January signings picked as Man Utd 'begin talks'",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's first two January signings picked as Man Utd 'begin talks'",
+          "summary": "Mauricio Pochettino has been announced as the next manager of Manchester United and he is reportedly targeting two new signings already",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-signings-37874169",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:38:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino named as new Man Utd boss with start date confirmed before Liverpool clash",
+      "items": [
+        {
+          "title": "Mauricio Pochettino named as new Man Utd boss with start date confirmed before Liverpool clash",
+          "summary": "Manchester United have confirmed Mauricio Pochettino is their new manager with the former Chelsea and Tottenham boss set to take charge officially after overseeing two final games with the USMNT",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-appoint-mauricio-pochettino-37869720",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:03:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Michael Carrick got the sack after making Man Utd prediction that hasn't worked out",
+      "items": [
+        {
+          "title": "Michael Carrick got the sack after making Man Utd prediction that hasn't worked out",
+          "summary": "Michael Carrick had high hopes for a Manchester United player who has so far failed to deliver",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-pochettino-sesko-37874105",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 11:50:47 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd star Bruno Fernandes shares how he really feels about Michael Carrick after 'lies'",
+      "items": [
+        {
+          "title": "Man Utd star Bruno Fernandes shares how he really feels about Michael Carrick after 'lies'",
+          "summary": "Manchester United sacking Michael Carrick has prompted Bruno Fernandes to share how he really feels about their now-former head coach",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-bruno-fernandes-37873975",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 11:46:52 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Five Man Utd winners and losers from Mauricio Pochettino's Old Trafford arrival",
+      "items": [
+        {
+          "title": "Five Man Utd winners and losers from Mauricio Pochettino's Old Trafford arrival",
+          "summary": "Manchester United are poised to unveil Mauricio Pochettino as their new manager and the Argentine's arrival will be positive for some and bad news for others at the club",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-rashford-37873669",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 11:46:42 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino faces immediate Man Utd problem already setting him up for failure",
+      "items": [
+        {
+          "title": "Mauricio Pochettino faces immediate Man Utd problem already setting him up for failure",
+          "summary": "Manchester United are set to appoint Mauricio Pochettino as their new head coach after sacking Michael Carrick - and the new boss will face an immediate problem",
+          "url": "https://www.mirror.co.uk/sport/football/news/united-man-utd-mauricio-pochettino-37873696",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 11:23:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Sacked Man Utd man labelled 'extremely arrogant' was the real target of Bruno Fernandes' anger",
+      "items": [
+        {
+          "title": "Sacked Man Utd man labelled 'extremely arrogant' was the real target of Bruno Fernandes' anger",
+          "summary": "Bruno Fernandes broke ranks at Manchester United and one of the sources of his anger has departed the club",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrick-coach-fernandes-37873228",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 09:31:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino’s switch from USA to Manchester United confirmed",
+      "items": [
+        {
+          "title": "Mauricio Pochettino’s switch from USA to Manchester United confirmed",
+          "summary": "<ul><li><p>Pochettino to take charge of two final USMNT matches</p></li><li><p>He has signed two-and-a-half-year United contract</p></li></ul><p>Mauricio Pochettino’s switch from the US men’s national team to Manchester United has been confirmed. Pochettino will guide the US through a pair of Concacaf Nations League matches on Saturday and Tuesday before joining United, for whom his first game will come at Liverpool next Sunday.</p><p>The former Chelsea, Tottenham and Southampton manager has signed a two-and-a-half-year deal to replace Michael Carrick, who <a href=\"https://www.theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino\">was sacked</a> on Thursday after leading United to their worst start to a season in four decades. United have won one of their past 11 games and are in the Premier League’s relegation zone.</p> <a href=\"https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-confirmed-manchester-united-usa\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-confirmed-manchester-united-usa",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 12:17:24 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+      "items": [
+        {
+          "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+          "summary": "<ul><li><p>Coach was ‘transparent’ in dealings with club, federation</p></li><li><p>Pochettino had signed deal to stay with US through 2030</p></li></ul><p>There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on Friday. It was only a matter of when. Pochettino is famously emotional, and nobody in attendance had to wait long for the waterworks – they came during his introductory remarks, as he thanked the US Soccer executives flanking him for the opportunity to guide the US men. He grew emotional again as he addressed his impending departure for Manchester United, one announced just hours earlier.</p><p>“I think [the decision was],” Pochettino said, pausing to compose himself, “one of the most difficult decisions of our careers. Thank you guys. Thank you so much.”</p> <a href=\"https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 16:53:14 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
+      "items": [
+        {
+          "title": "‘United is broken’: Guardian readers react to Michael Carrick’s sacking",
+          "summary": "<p>Emotions are running high after the confirmation of Michael Carrick’s dismissal at Old Trafford. Here are some views from our readers</p><p>“As a United fan who was around for the early 90s seeing Carrick go is a sad end to a horrible situation. He was the only likable thing about the club … I took my eight-year-old lad to Old Trafford for the Brighton game in the FA Cup in January and I’ve never experienced a more toxic atmosphere at a football ground. The fans deserve better … Better owners, better attitudes, better standards. Nothing will change with the setup of the club today and we are in this macabre holding pattern of failure, hope, anger and disappointment” – <strong>Chris</strong></p><p>“Wilcox, [Berada] and [Jim] Ratcliffe should have fired themselves. They are the common denominator of all this failure. [Mauricio] Pochettino will last 12 months if he’s lucky” – <strong>Deb</strong></p> <a href=\"https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/13/manchester-united-michael-carrick-sacking-readers-reaction",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 10:45:05 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Transfer rumors, news: Man United eye USMNT's Balogun, Freeman for Pochettino - ESPN",
+      "items": [
+        {
+          "title": "Transfer rumors, news: Man United eye USMNT's Balogun, Freeman for Pochettino - ESPN",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjZ1QnlkRDNEMWZEcEVGUXlGazhBTkZQeFdNbmpuSGVVTDNUQnBZOFotMERRWXg2d25SQnZMdk1aRGxxbjd0NTdwN2RReUJ3bXlQN09GVmV3ZmIxaWhkZjFEd1dmRGxRTmNjSFhCNnBOZmVhS1VFVjFDbnp5ZGF4VnRpTHAzLWNBWDFXTE1lcFV6YVk1amttX0xfb1Z0dmxWdnJ0N3hnbmtydw?oc=5\" target=\"_blank\">Transfer rumors, news: Man United eye USMNT's Balogun, Freeman for Pochettino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ESPN</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSjZ1QnlkRDNEMWZEcEVGUXlGazhBTkZQeFdNbmpuSGVVTDNUQnBZOFotMERRWXg2d25SQnZMdk1aRGxxbjd0NTdwN2RReUJ3bXlQN09GVmV3ZmIxaWhkZjFEd1dmRGxRTmNjSFhCNnBOZmVhS1VFVjFDbnp5ZGF4VnRpTHAzLWNBWDFXTE1lcFV6YVk1amttX0xfb1Z0dmxWdnJ0N3hnbmtydw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 19:59:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano: Man Utd still trying to secure the signature of ‘greatly disappointed’ star - utdreport",
+      "items": [
+        {
+          "title": "Fabrizio Romano: Man Utd still trying to secure the signature of ‘greatly disappointed’ star - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFR6X1pfV0RtOXdIcmNQWVJ2b0llTzAzME9fYUt3Z0I4dEozT081T0JLcFI2TmJHckljOHJ6T1dnVkNJUDBUc0hlSDhMOV9FaV8yZi1aY0h3ZmZvMW4xMTFEdVBaUGNDQTA4emgyVUpDSi13ZVFNQWtKcXZ4dFo2Z0lCTnY3OTV2SUZjatIBkgFBVV95cUxPV19haFliRHQza003cDFHd2F2alg2NHY1TzJmMEFuckJfN3JoMWtsNTZLaDA0TlRiWmYydGptbDVsWlB5a1lKRjNmV3J1UzNoWl9BcTlUaG1yTVpWVlZyMEVBTmM0X2xlMldUY1BTNnVpY2pQUFVmbDg4SHJNMlJmd3BsOVBwUkJnSDR3SmZIRVNjZw?oc=5\" target=\"_blank\">Fabrizio Romano: Man Utd still trying to secure the signature of ‘greatly disappointed’ star</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNFR6X1pfV0RtOXdIcmNQWVJ2b0llTzAzME9fYUt3Z0I4dEozT081T0JLcFI2TmJHckljOHJ6T1dnVkNJUDBUc0hlSDhMOV9FaV8yZi1aY0h3ZmZvMW4xMTFEdVBaUGNDQTA4emgyVUpDSi13ZVFNQWtKcXZ4dFo2Z0lCTnY3OTV2SUZjatIBkgFBVV95cUxPV19haFliRHQza003cDFHd2F2alg2NHY1TzJmMEFuckJfN3JoMWtsNTZLaDA0TlRiWmYydGptbDVsWlB5a1lKRjNmV3J1UzNoWl9BcTlUaG1yTVpWVlZyMEVBTmM0X2xlMldUY1BTNnVpY2pQUFVmbDg4SHJNMlJmd3BsOVBwUkJnSDR3SmZIRVNjZw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 06:20:58 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Romano confirms ‘under the radar’ January transfer ’95 percent done’ - TEAMtalk",
+      "items": [
+        {
+          "title": "Man Utd: Romano confirms ‘under the radar’ January transfer ’95 percent done’ - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkN4ZlVfTjZ0SHhYdE1hZzExSEYxaXAwb0FVZ1BGaW15RFRwS3RfYWxfTmlpU29FdXI4OFRmblhta0ttV3FSLU5rbkVUWTFNZ250ZEs3U2E2V3V1MFI1bTVLZTRuVzIwWjFCWDF1ejcxVnExZHJ1ZHlXRTNvdldMOFV3YmdCdXRyajlfcVljQ2t3eWR2VWpoYXRMM2dvUmEzTkU0elhnTVdRaGppVUt3UVU0WWhVUWprU04yLWZSV2ljdw?oc=5\" target=\"_blank\">Man Utd: Romano confirms ‘under the radar’ January transfer ’95 percent done’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNkN4ZlVfTjZ0SHhYdE1hZzExSEYxaXAwb0FVZ1BGaW15RFRwS3RfYWxfTmlpU29FdXI4OFRmblhta0ttV3FSLU5rbkVUWTFNZ250ZEs3U2E2V3V1MFI1bTVLZTRuVzIwWjFCWDF1ejcxVnExZHJ1ZHlXRTNvdldMOFV3YmdCdXRyajlfcVljQ2t3eWR2VWpoYXRMM2dvUmEzTkU0elhnTVdRaGppVUt3UVU0WWhVUWprU04yLWZSV2ljdw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 13:05:07 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals Pochettino stance on Marcus Rashford future at Man Utd - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals Pochettino stance on Marcus Rashford future at Man Utd - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQcExYU05mOE1vQmRtdm1wdzMxRnFzM2NWMlRNZVV1WTZub3g3TTN3ZGJlMWEzUERSeGF0LXZRRGNrc0JpMzlxdUtCZFE4S2MzMkNWajF5N2NiM1hsRWs4UEY1aVRBWFNTcEZ6MDdQVzdndDF6dXlKY0dybUU3TmtoNE1naEV0MUdORXJwU2xHNjZOaFhaYTQ2eWFJNG9WVDdwdG1kbDhSOXRwMFZI?oc=5\" target=\"_blank\">Fabrizio Romano reveals Pochettino stance on Marcus Rashford future at Man Utd</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcExYU05mOE1vQmRtdm1wdzMxRnFzM2NWMlRNZVV1WTZub3g3TTN3ZGJlMWEzUERSeGF0LXZRRGNrc0JpMzlxdUtCZFE4S2MzMkNWajF5N2NiM1hsRWs4UEY1aVRBWFNTcEZ6MDdQVzdndDF6dXlKY0dybUU3TmtoNE1naEV0MUdORXJwU2xHNjZOaFhaYTQ2eWFJNG9WVDdwdG1kbDhSOXRwMFZI?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 21:31:50 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Romano reveals two real reasons why Pochettino has accepted job - 'he is 100% convinced' - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Romano reveals two real reasons why Pochettino has accepted job - 'he is 100% convinced' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUpkdlVCWmJIRlJGQVNYaHNzSW1WNzBRSHV2QmVhVFE1U09MNWd4SUFkOEdvMDlPX2dTUnVPa0ZDXzljbXotRHBReTlqYy0tWEQ5RW5CTEx6VVY1eURmZ1ByMVI5MmE2NURpeDRSUnR2QTNKcXM3VDNhVnRRaENnUkJTdGpZVnltVFEtZG5meTNIU2d4UTM2VGgxWjk?oc=5\" target=\"_blank\">Man Utd: Romano reveals two real reasons why Pochettino has accepted job - 'he is 100% convinced'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdUpkdlVCWmJIRlJGQVNYaHNzSW1WNzBRSHV2QmVhVFE1U09MNWd4SUFkOEdvMDlPX2dTUnVPa0ZDXzljbXotRHBReTlqYy0tWEQ5RW5CTEx6VVY1eURmZ1ByMVI5MmE2NURpeDRSUnR2QTNKcXM3VDNhVnRRaENnUkJTdGpZVnltVFEtZG5meTNIU2d4UTM2VGgxWjk?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 08:25:48 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Romano reveals private truth on Pochettino replacing Carrick for TWO real reasons - TEAMtalk",
+      "items": [
+        {
+          "title": "Man Utd: Romano reveals private truth on Pochettino replacing Carrick for TWO real reasons - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd0dIWE1OVUxnQ1Y0a1BvVGJTVXZETU1xbEtYWkhZWlN3M1B2WHoyTk1BT0RCM0ctQ2o1ZGFGTUYtWnU1dGR6Ql9NRWd0STF4bjNrUU42WGZaYnc1UG9kelZGOWk1U0daOE1vZkhxY3ZYdUxYRk5hTGZ5cXVlUmozeVFKLXc1bkFkUU8tUTZmZ2hLSVRlQnRySm5tMTlTTjk2eHRLTnhMSHY5VXk3eTBhSERBMFN0NWZIcUM0LWtud1hsWkk?oc=5\" target=\"_blank\">Man Utd: Romano reveals private truth on Pochettino replacing Carrick for TWO real reasons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd0dIWE1OVUxnQ1Y0a1BvVGJTVXZETU1xbEtYWkhZWlN3M1B2WHoyTk1BT0RCM0ctQ2o1ZGFGTUYtWnU1dGR6Ql9NRWd0STF4bjNrUU42WGZaYnc1UG9kelZGOWk1U0daOE1vZkhxY3ZYdUxYRk5hTGZ5cXVlUmozeVFKLXc1bkFkUU8tUTZmZ2hLSVRlQnRySm5tMTlTTjk2eHRLTnhMSHY5VXk3eTBhSERBMFN0NWZIcUM0LWtud1hsWkk?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 13 Nov 2026 11:35:08 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United expected to back Pochettino with two signings this January",
+      "items": [
+        {
+          "title": "Manchester United expected to back Pochettino with two signings this January",
+          "summary": "<p>Manchester United&#8217;s new manager Mauricio Pochettino is reportedly expected to be backed with two new signings in the January transfer window. The Red Devils have this week sacked Michael Carrick and officially announced that Pochettino is set to take over, though the Argentine has one match remaining in charge of the US Men&#8217;s National Team. [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/14/man-united-eye-striker-and-defender-signings-for-pochettino/\">Manchester United expected to back Pochettino with two signings this January</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/14/man-united-eye-striker-and-defender-signings-for-pochettino/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 14 Nov 2026 07:13:26 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sources: Chelsea & Man United make contact over potential €80m transfer",
+      "items": [
+        {
+          "title": "Sources: Chelsea & Man United make contact over potential €80m transfer",
+          "summary": "<p>Chelsea and Manchester United have both made direct contact over Como attacking midfielder Martin Baturina, who has long been on the radar of top Premier League clubs, as first reported via the Daily Briefing. The likes of Tottenham, Aston Villa, and Newcastle United have also been closely monitoring the Croatia international, while I’m also told that [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/14/martin-baturina-transfer-contact-by-chelsea-and-man-united/\">Sources: Chelsea &#038; Man United make contact over potential €80m transfer</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/14/martin-baturina-transfer-contact-by-chelsea-and-man-united/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 14 Nov 2026 06:12:21 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Video: Mauricio Pochettino can’t hold back tears just hours after Man United move made official",
+      "items": [
+        {
+          "title": "Video: Mauricio Pochettino can’t hold back tears just hours after Man United move made official",
+          "summary": "<p>Mauricio Pochettino was visibly emotional as he struggled to hold back the tears in a press conference with the US Men&#8217;s National Team today. Earlier this morning, Pochettino was officially announced as Manchester United&#8217;s new manager, following yesterday&#8217;s sacking of Michael Carrick. Man Utd have confirmed the Argentine&#8217;s appointment on their official site, but he [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/13/mauricio-pochettinos-emotional-message-on-usmnt-exit/\">Video: Mauricio Pochettino can&#8217;t hold back tears just hours after Man United move made official</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/13/mauricio-pochettinos-emotional-message-on-usmnt-exit/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 13 Nov 2026 14:55:59 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United considering signing Argentine talent for key role in Pochettino’s squad",
+      "items": [
+        {
+          "title": "Man United considering signing Argentine talent for key role in Pochettino’s squad",
+          "summary": "<p>Manchester United are reportedly monitoring Como star Nico Paz as a potential transfer target amid uncertainty over Bruno Fernandes&#8217; future. Man Utd should soon announce that they&#8217;ve hired Mauricio Pochettino as their new manager, and it could be that his fellow Argentine will be brought in for that key role in attacking midfield. BBC Sport [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/13/man-united-eye-nico-paz-transfer-to-replace-bruno-fernandes/\">Man United considering signing Argentine talent for key role in Pochettino&#8217;s squad</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/13/man-united-eye-nico-paz-transfer-to-replace-bruno-fernandes/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 13 Nov 2026 11:41:28 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xvsol4/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xvsol4/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xvsol4/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T04:00:20+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Michael Carrick IG] Dear United Fans….",
+      "items": [
+        {
+          "title": "[Michael Carrick IG] Dear United Fans….",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/shkweech\"> /u/shkweech </a> <br /> <span><a href=\"https://www.instagram.com/p/DfroitajLWu/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv6p7b/michael_carrick_ig_dear_united_fans/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv6p7b/michael_carrick_ig_dear_united_fans/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T12:33:52+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Nieuwsblad] “They were difficult weeks”: Senne Lammens rises again with the Belgian Red Devils after the chaos at Man United",
+      "items": [
+        {
+          "title": "[Nieuwsblad] “They were difficult weeks”: Senne Lammens rises again with the Belgian Red Devils after the chaos at Man United",
+          "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nieuwsblad.be/sport/het-waren-moeilijke-weken-senne-lammens-verrijst-bij-de-rode-duivels-na-de-chaos-bij-man-united/164492056.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xvg1kl/nieuwsblad_they_were_difficult_weeks_senne/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xvg1kl/nieuwsblad_they_were_difficult_weeks_senne/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T18:43:39+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[DBU] Dorgu withdraws from National team",
+      "items": [
+        {
+          "title": "[DBU] Dorgu withdraws from National team",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xvalr9/dbu_dorgu_withdraws_from_national_team/\"> <img alt=\"[DBU] Dorgu withdraws from National team\" src=\"https://preview.redd.it/sse3xmsbde1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb043fb51bbf0ab05b9e92fde7304e774bfbade3\" title=\"[DBU] Dorgu withdraws from National team\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Dorgu withdraws from the squad </p> <p>Patrick Dorgu has undergone a series of tests ahead of the matches, but unfortunately, he will not be fully fit in time. </p> <p>“We have conducted a number of tests on Dorgu, and he did not perform at a sufficient level to be ready to play in the two matches. He requires further recovery following his injury, so we are sending him home for continued rehabilitation.” - Morten Boesen, national team doctor</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HOMMELICIOUS\"> /u/HOMMELICIOUS </a> <br /> <span><a href=\"https://i.redd.it/sse3xmsbde1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xvalr9/dbu_dorgu_withdraws_from_national_team/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xvalr9/dbu_dorgu_withdraws_from_national_team/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T15:20:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "United sources claim Pochettino's appointment was a unanimous decision recommended by club leadership and approved by ownership. He was the only coach the club spoke directly to [Steven Railston]",
+      "items": [
+        {
+          "title": "United sources claim Pochettino's appointment was a unanimous decision recommended by club leadership and approved by ownership. He was the only coach the club spoke directly to [Steven Railston]",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv66xx/united_sources_claim_pochettinos_appointment_was/\"> <img alt=\"United sources claim Pochettino's appointment was a unanimous decision recommended by club leadership and approved by ownership. He was the only coach the club spoke directly to [Steven Railston]\" src=\"https://preview.redd.it/2ec7s5dned1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=15af3d5e42d9369c542448a053b929d077dff182\" title=\"United sources claim Pochettino's appointment was a unanimous decision recommended by club leadership and approved by ownership. He was the only coach the club spoke directly to [Steven Railston]\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/2ec7s5dned1i1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv66xx/united_sources_claim_pochettinos_appointment_was/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv66xx/united_sources_claim_pochettinos_appointment_was/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T12:07:54+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Shea Lacey's brace for England U20s in their 6-1 win over Czechia last night. Harry Amass assisted his first, while Ayden Heaven & Jim Thwaites also featured.",
+      "items": [
+        {
+          "title": "Shea Lacey's brace for England U20s in their 6-1 win over Czechia last night. Harry Amass assisted his first, while Ayden Heaven & Jim Thwaites also featured.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv3tvk/shea_laceys_brace_for_england_u20s_in_their_61/\"> <img alt=\"Shea Lacey's brace for England U20s in their 6-1 win over Czechia last night. Harry Amass assisted his first, while Ayden Heaven &amp; Jim Thwaites also featured.\" src=\"https://external-preview.redd.it/eW1pdXo4NXZxYzFpMQTpFOP7MPBpOcusuW_-wNO1rN_9JB_DI4RzC4V3XoLf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe2dc761dac1baece789d6fbc77ed133d7abc09f\" title=\"Shea Lacey's brace for England U20s in their 6-1 win over Czechia last night. Harry Amass assisted his first, while Ayden Heaven &amp; Jim Thwaites also featured.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Gungerz\"> /u/Gungerz </a> <br /> <span><a href=\"https://v.redd.it/vyo73bxuqc1i1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv3tvk/shea_laceys_brace_for_england_u20s_in_their_61/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv3tvk/shea_laceys_brace_for_england_u20s_in_their_61/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T09:52:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Andy Mitten] Exclusive: Manchester United sign England youth international Tyler Adjei, 16, from Reading",
+      "items": [
+        {
+          "title": "[Andy Mitten] Exclusive: Manchester United sign England youth international Tyler Adjei, 16, from Reading",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv8c9u/andy_mitten_exclusive_manchester_united_sign/\"> <img alt=\"[Andy Mitten] Exclusive: Manchester United sign England youth international Tyler Adjei, 16, from Reading\" src=\"https://external-preview.redd.it/kE7k35ZNWa8xt4ap-_S3wEqv6wATyAMq9_jbVQpKe9A.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae5ebd9deda89cedbc425355e8509cea9d79ed0b\" title=\"[Andy Mitten] Exclusive: Manchester United sign England youth international Tyler Adjei, 16, from Reading\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7778570/2026/11/13/manchester-united-transfers-tyler-adjei/?unlocked_article_code=1.QFE.Q-nb.YyIgnO74t58P&amp;source=athletic_user_shared_gift_article_copylink&amp;smid=url-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv8c9u/andy_mitten_exclusive_manchester_united_sign/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv8c9u/andy_mitten_exclusive_manchester_united_sign/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T13:48:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[James Ducker] Man Utd said no to ‘burnt-out’ Pochettino, now they see his old hunger back",
+      "items": [
+        {
+          "title": "[James Ducker] Man Utd said no to ‘burnt-out’ Pochettino, now they see his old hunger back",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv6chg/james_ducker_man_utd_said_no_to_burntout/\"> <img alt=\"[James Ducker] Man Utd said no to ‘burnt-out’ Pochettino, now they see his old hunger back\" src=\"https://external-preview.redd.it/_JafMRBIbi9nP-kJ0NI9ocayyc7cANJ0x0_bX8r2GQo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f94ae72f68997c120062eb21f17e26bc1134d0d\" title=\"[James Ducker] Man Utd said no to ‘burnt-out’ Pochettino, now they see his old hunger back\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/11/13/man-utd-said-no-to-burnt-out-pochettino-now-old-hunger-back/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv6chg/james_ducker_man_utd_said_no_to_burntout/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv6chg/james_ducker_man_utd_said_no_to_burntout/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T12:15:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Ducker] US Soccer CEO JT Batson on Pochettino departure: “Mauricio has left a lasting mark on U.S. Soccer through his leadership, professionalism and commitment to our players and culture. What we are most proud of goes beyond the wins. He & his staff raised standards, strengthened our culture\"(.)",
+      "items": [
+        {
+          "title": "[Ducker] US Soccer CEO JT Batson on Pochettino departure: “Mauricio has left a lasting mark on U.S. Soccer through his leadership, professionalism and commitment to our players and culture. What we are most proud of goes beyond the wins. He & his staff raised standards, strengthened our culture\"(.)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv6iml/ducker_us_soccer_ceo_jt_batson_on_pochettino/\"> <img alt=\"[Ducker] US Soccer CEO JT Batson on Pochettino departure: “Mauricio has left a lasting mark on U.S. Soccer through his leadership, professionalism and commitment to our players and culture. What we are most proud of goes beyond the wins. He &amp; his staff raised standards, strengthened our culture&quot;(.)\" src=\"https://preview.redd.it/8ow89jb6hd1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bc6ed0dc9422a82a17f9343a869fea753c2cf66\" title=\"[Ducker] US Soccer CEO JT Batson on Pochettino departure: “Mauricio has left a lasting mark on U.S. Soccer through his leadership, professionalism and commitment to our players and culture. What we are most proud of goes beyond the wins. He &amp; his staff raised standards, strengthened our culture&quot;(.)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>US Soccer CEO JT Batson on Pochettino departure: “Mauricio has left a lasting mark on U.S. Soccer through his leadership, professionalism and commitment to our players and culture. What we are most proud of goes beyond the wins. He and his staff raised standards, strengthened our culture <strong>and created clearer connections from the Youth National Teams to the senior team. Those changes are now embedded in how we operate, and we will keep building on them as we pursue sustained success on the world stage.”</strong></p> <p>Takes charge of two games v Haiti then <strong>joins #MUFC on Nov 18</strong></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/8ow89jb6hd1i1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv6iml/ducker_us_soccer_ceo_jt_batson_on_pochettino/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv6iml/ducker_us_soccer_ceo_jt_batson_on_pochettino/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T12:24:35+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Telegraph] The one decision that triggered two-and-a-half years of failure at Man Utd",
+      "items": [
+        {
+          "title": "[Telegraph] The one decision that triggered two-and-a-half years of failure at Man Utd",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv89i5/telegraph_the_one_decision_that_triggered/\"> <img alt=\"[Telegraph] The one decision that triggered two-and-a-half years of failure at Man Utd\" src=\"https://external-preview.redd.it/Adr1d_OiTmkqfS12omLd0j4jyV7fsjUGFDhKnGSGWPI.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5b108dddb2e7e48acef8c10b62ef721f87cca39\" title=\"[Telegraph] The one decision that triggered two-and-a-half years of failure at Man Utd\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FragMasterMat117\"> /u/FragMasterMat117 </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/11/13/one-decision-that-triggered-years-of-failure-at-man-utd/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv89i5/telegraph_the_one_decision_that_triggered/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv89i5/telegraph_the_one_decision_that_triggered/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T13:45:17+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chicharito Goal Scored In 36 SECONDS!!! ⏰🤯",
+      "items": [
+        {
+          "title": "Chicharito Goal Scored In 36 SECONDS!!! ⏰🤯",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xvw2z1/chicharito_goal_scored_in_36_seconds/\"> <img alt=\"Chicharito Goal Scored In 36 SECONDS!!! ⏰🤯\" src=\"https://external-preview.redd.it/yiONvWZDlffDrQsQzjKAYc053RMBUsrsIIo9bXPNyWo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5574ed58b949660a6c6e2a890efca2775a90bf22\" title=\"Chicharito Goal Scored In 36 SECONDS!!! ⏰🤯\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MessiPayNegreira\"> /u/MessiPayNegreira </a> <br /> <span><a href=\"https://youtu.be/FBsYLf95Klo?is=wQfT3OrijA8pQgjV\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xvw2z1/chicharito_goal_scored_in_36_seconds/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xvw2z1/chicharito_goal_scored_in_36_seconds/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T07:11:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Getting Mauricio Pochettino shows Manchester United have an enduring appeal, in spite of all the chaos",
+      "items": [
+        {
+          "title": "Getting Mauricio Pochettino shows Manchester United have an enduring appeal, in spite of all the chaos",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv7bcd/getting_mauricio_pochettino_shows_manchester/\"> <img alt=\"Getting Mauricio Pochettino shows Manchester United have an enduring appeal, in spite of all the chaos\" src=\"https://external-preview.redd.it/2NAPIZwPrr2Su8WLG7lA0of_Iw7ILQ4la8zyjYzjDqw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc2923a35c04c1b7aa67940298524c44ab6249d4\" title=\"Getting Mauricio Pochettino shows Manchester United have an enduring appeal, in spite of all the chaos\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Manchester United are the best-supported team in the biggest league in the world, one with a global appeal.</p> <p>It’s the big time in the limelight that Mauricio Pochettino wants, the day-to-day action after a spell managing a national team.</p> <p>He’ll have the toughest job. It’s the one he’s long wanted.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7777081/2026/11/13/manchester-united-pochettino-enduring-appeal/?unlocked_article_code=1.QFE.eOit.hszZ2KwP-F0C&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv7bcd/getting_mauricio_pochettino_shows_manchester/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv7bcd/getting_mauricio_pochettino_shows_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T13:02:56+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Guardian] Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United",
+      "items": [
+        {
+          "title": "[Guardian] Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv31oi/guardian_pochettinos_chelsea_maelstrom_the_best/\"> <img alt=\"[Guardian] Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United\" src=\"https://external-preview.redd.it/T8Y4xPpsmIAhYMHEspTdOtqQZqn4Kn33lb3AAx0FdZA.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9bdda1508a57ef4b69167cd085e2d9ee2e7365d6\" title=\"[Guardian] Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv31oi/guardian_pochettinos_chelsea_maelstrom_the_best/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv31oi/guardian_pochettinos_chelsea_maelstrom_the_best/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T09:02:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The inside story of Michael Carrick’s Manchester United sacking",
+      "items": [
+        {
+          "title": "The inside story of Michael Carrick’s Manchester United sacking",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xv1wzf/the_inside_story_of_michael_carricks_manchester/\"> <img alt=\"The inside story of Michael Carrick’s Manchester United sacking\" src=\"https://external-preview.redd.it/jf1NqW_O87DH155NLuYHJ_YHH5afLIBBzQ43-Azyrmo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2af5361fc0476a38ec1d64d8ce91925df0202972\" title=\"The inside story of Michael Carrick’s Manchester United sacking\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>▫️ Wilcox and Berrada agreed change was needed<br /> ▫️ Amazon’s fiery footage shows Carrick’s sharp side<br /> ▫️ His passionate speech at Ferguson dinner<br /> ▫️ Questions over drop-off in set-piece performance</p> <p>This is the inside story of Michael Carrick’s Manchester United sacking.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheAthletic\"> /u/TheAthletic </a> <br /> <span><a href=\"https://www.nytimes.com/athletic/7775918/2026/11/13/inside-carrick-sack-man-utd/?unlocked_article_code=1.QFE.QlHr.ynYwUbhYwig2&amp;source=emp_shared_article&amp;smid=re-share-ta\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xv1wzf/the_inside_story_of_michael_carricks_manchester/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xv1wzf/the_inside_story_of_michael_carricks_manchester/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-13T07:51:38+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 81,
+    "story_count": 71
+  }
+}
