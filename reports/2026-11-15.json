@@ -1,0 +1,678 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T07:38:09.463202+00:00",
+  "match_data": {
+    "collected_at": "2026-11-15T07:37:52.586351+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man United news: Bruno Fernandes rejects offer as Mauricio Pochettino transfer plans drawn up",
+      "items": [
+        {
+          "title": "Man United news: Bruno Fernandes rejects offer as Mauricio Pochettino transfer plans drawn up",
+          "summary": "Man United news as Fernandes rejects offer as Pochettino transfer plans drawn up",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-live-mauricio-pochettino-34911029",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 22:57:19 +0000"
+        },
+        {
+          "title": "Rayan makes Man United admission as Mauricio Pochettino given transfer hope",
+          "summary": "Mauricio Pochettino will start rebuilding Manchester United's squad in January",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-rayan-transfer-pochettino-34912216",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 14:42:03 +0000"
+        },
+        {
+          "title": "Bruno Fernandes makes Man United decision as Mauricio Pochettino takes charge",
+          "summary": "<p>Bruno Fernandes is reportedly prepared to wait before committing his long-term future to Manchester United, with the club captain keen to see what progress Mauricio Pochettino can make at Old Trafford. The 32-year-old is approaching the final months of his current contract and has already rejected offers to extend his stay. United can activate an [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/15/bruno-fernandes-makes-man-united-contract-decision-pochettino/\">Bruno Fernandes makes Man United decision as Mauricio Pochettino takes charge</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/15/bruno-fernandes-makes-man-united-contract-decision-pochettino/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 15 Nov 2026 05:18:21 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I was turned down by Man United after two interviews – I still want to work in England",
+      "items": [
+        {
+          "title": "I was turned down by Man United after two interviews – I still want to work in England",
+          "summary": "The experienced manager couldn't have got much closer to landing the job",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-manager-rudi-garcia-34913046",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 19:29:06 +0000"
+        },
+        {
+          "title": "Man Utd turned me down after two interviews but I still want to work in England",
+          "summary": "One seasoned head coach has explained how Manchester United turned him down twice in the wake of Mauricio Pochettino's appointment",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-carrick-pochettino-sacked-37878167",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 20:26:29 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "I was there when ex-Man United boss called star fat in training – it was horrendous",
+      "items": [
+        {
+          "title": "I was there when ex-Man United boss called star fat in training – it was horrendous",
+          "summary": "A former Manchester United star has lifted the lid on the time Louis van Gaal called Luke Shaw \"fat\" during a training session, describing the incident as \"horrendous\"",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-luke-shaw-fat-34905074",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Loved by Sesko and respected by agents - Manchester United have lost an unsung academy hero",
+      "items": [
+        {
+          "title": "Loved by Sesko and respected by agents - Manchester United have lost an unsung academy hero",
+          "summary": "Travis Binnion was a huge part of Man Utd's academy for seven years before stepping up to work with the first-team.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/loved-sesko-respected-agents-manchester-34903204",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino has five issues that need an immediate fix at Manchester United",
+      "items": [
+        {
+          "title": "Mauricio Pochettino has five issues that need an immediate fix at Manchester United",
+          "summary": "Mauricio Pochettino has a lot to sort out at Manchester United having been appointed the club's new manager",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-five-issues-need-34911707",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 04:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino called to sign me again - but I had to break his heart",
+      "items": [
+        {
+          "title": "Mauricio Pochettino called to sign me again - but I had to break his heart",
+          "summary": "It remains to be seen whether Manchester United's new boss tries to resign more of his former players",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-mauricio-pochettino-34912927",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 19:17:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino to refuse Gary Neville instruction as Man United players learn fate",
+      "items": [
+        {
+          "title": "Mauricio Pochettino to refuse Gary Neville instruction as Man United players learn fate",
+          "summary": "Mauricio Pochettino will have some big decisions to make when he begins his role as Manchester United head coach",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/pochettino-man-united-transfers-neville-34912391",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 17:04:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The Man City wonderkid propelled to new heights by Manchester United boss Mauricio Pochettino",
+      "items": [
+        {
+          "title": "The Man City wonderkid propelled to new heights by Manchester United boss Mauricio Pochettino",
+          "summary": "Cavan Sullivan was handed his USA debut by Pochettino and has spoken of how much the now Man United boss has helped him",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-city-wonderkid-mauricio-pochettino-34912245",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 14:46:17 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "What Mauricio Pochettino's appointment means for every Manchester United player",
+      "items": [
+        {
+          "title": "What Mauricio Pochettino's appointment means for every Manchester United player",
+          "summary": "Mauricio Pochettino could tinker with Manchester United's XI following his appointment at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/what-mauricio-pochettinos-appointment-means-34911895",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 13:27:11 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Argentinian media call out Lisandro Martinez problem that's spilled over from Man United",
+      "items": [
+        {
+          "title": "Argentinian media call out Lisandro Martinez problem that's spilled over from Man United",
+          "summary": "Lisandro Martinez has suffered another setback while on international duty with Argentina",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-lisandro-martinez-argentina-34911702",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 12:13:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Dorgu, Sesko, Shaw - Man United injury latest and return dates ahead of Pochettino's first game",
+      "items": [
+        {
+          "title": "Dorgu, Sesko, Shaw - Man United injury latest and return dates ahead of Pochettino's first game",
+          "summary": "Manchester United injury latest ahead of Mauricio Pochettino officially taking charge at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/dorgu-sesko-shaw-man-united-34911137",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 10:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino has very easy choice to make on Bruno Fernandes' Man Utd future",
+      "items": [
+        {
+          "title": "Mauricio Pochettino has very easy choice to make on Bruno Fernandes' Man Utd future",
+          "summary": "New Manchester United boss Mauricio Pochettino has a laundry list of problems to solve when he arrives at Carrington next week - none more so than the future of his captain",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-bruno-fernandes-transfer-37877592",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd news LIVE: Pochettino transfer targets, Fernandes future, wonderkid signs",
+      "items": [
+        {
+          "title": "Man Utd news LIVE: Pochettino transfer targets, Fernandes future, wonderkid signs",
+          "summary": "All the latest Manchester United updates after Mauricio Pochettino was announced as Michael Carrick's successor at Old Trafford",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-transfers-37876833",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 17:55:06 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd star sends alarming message to Mauricio Pochettino as he confirms blow",
+      "items": [
+        {
+          "title": "Man Utd star sends alarming message to Mauricio Pochettino as he confirms blow",
+          "summary": "There's plenty of work for Mauricio Pochettino to do at Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-senne-lammens-pochettino-37877388",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 13:35:25 +0000"
+        },
+        {
+          "title": "Man Utd ready to spend big in January as Mauricio Pochettino picks his targets",
+          "summary": "New Manchester United manager Mauricio Pochettino will need to hit the ground running with the Red Devils languishing in the Premier League relegation zone",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-united-transfers-mauricio-pochettino-37877358",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 12:56:19 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd facing huge Bruno Fernandes dilemma after turning down contract offer",
+      "items": [
+        {
+          "title": "Man Utd facing huge Bruno Fernandes dilemma after turning down contract offer",
+          "summary": "Bruno Fernandes has turned down another contract offer from Manchester United, casting further doubt over his future at Old Trafford, with the club having to consider their options",
+          "url": "https://www.mirror.co.uk/sport/football/news/fernandes-man-utd-future-contract-37877080",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 11:14:18 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd's keep or sell squad plan as Mauricio Pochettino's ruthless side emerges",
+      "items": [
+        {
+          "title": "Man Utd's keep or sell squad plan as Mauricio Pochettino's ruthless side emerges",
+          "summary": "Manchester United, currently at their lowest ebb ever in the Premier League era, have hired Mauricio Pochettino, with the Argentine inheriting a squad that has long been criticised",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-keep-sell-pochettino-37876844",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 08:33:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
+      "items": [
+        {
+          "title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
+          "summary": "<ul><li><p>US take 6-0 lead in Nations League quarter-final</p></li><li><p>Hall, 18, scores again as Pochettino prepares for exit</p></li><li><p>Pulisic goes into fourth on all-time US scoring list</p></li></ul><p>When Mauricio Pochettino named his US roster for the November window, few could have expected that the games would double as his brief lame-duck era. A week of camp instead brought constant media coverage, efficient negotiations and questions about the future of the national team. Come Wednesday, his day job will take him far from the federation’s headquarters in Fayetteville, Georgia, as he <a href=\"https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united\">hopes to make sense of Manchester United</a>.</p><p>Saturday finally allowed Pochettino and his players to get on with the intended purpose of this window, and they took to the Concacaf Nations League quarter-finals with aplomb. The US opened their two-leg series against Haiti with a dominant 6-0 victory in front of a considerably pro-Haitian crowd in Miami. Auston Trusty provided the first half’s only goal before Julian Hall, Christian Pulisic, Weston McKennie and Folarin Balogun contributed to the eventual rout.</p> <a href=\"https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 23:43:28 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
+      "items": [
+        {
+          "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
+          "summary": "<p>Mauricio Pochettino’s arrival feels like yet another appointment that would have been better made a few years ago</p><p>Magnusson: And your time starts ... now! What is paleontology? Smithers: Yes, absolutely correct. Magnusson: What’s the name of the directory that lists members of the peerage? Smithers: A study of old fossils. Magnusson: Correct. Who are Len Murray and Sir Geoffrey Howe? Smithers: Burke’s. Magnusson: Correct. What is the difference between a donkey and an ass? Smithers: One’s a trade union leader, the other’s a member of the Cabinet …</p><p>One of the <a href=\"https://www.theguardian.com/media/2016/mar/31/ronnie-corbett-best-clips-two-ronnies-fork-handles-extras\">Two Ronnies’</a> most celebrated sketches involves a Mastermind contestant whose specialist subject is answering the previous question. History repeats itself: the first time as comedy, the second time as Manchester United, who seem continually to be answering not the question of who would be the best available manager now, but who might have been the best available manager a few years ago.</p> <a href=\"https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 20:00:53 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League attacker admits Man United dream amid fresh transfer speculation",
+      "items": [
+        {
+          "title": "Premier League attacker admits Man United dream amid fresh transfer speculation",
+          "summary": "<p>Bournemouth forward Rayan has opened the door to fresh Manchester United transfer speculation after revealing that he has supported the club since childhood. The 20-year-old has developed into one of Bournemouth’s most exciting attackers since arriving from Vasco da Gama in January 2026. United were among the clubs monitoring him before his move to the [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/15/premier-league-attacker-admits-man-united-dream/\">Premier League attacker admits Man United dream amid fresh transfer speculation</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/15/premier-league-attacker-admits-man-united-dream/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 15 Nov 2026 05:25:04 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Lisandro Martinez is surely finished at Man United, Argentine media unimpressed",
+      "items": [
+        {
+          "title": "Lisandro Martinez is surely finished at Man United, Argentine media unimpressed",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/lisandro-martinez-is-surely-finished-at-man-united-argentine-media-unimpressed",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Sun, 15 Nov 2026 07:20:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwkoow/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwkoow/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xwkoow/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T03:00:22+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Ducker] Pochettino: Man Utd job will be ‘very intense’",
+      "items": [
+        {
+          "title": "[Ducker] Pochettino: Man Utd job will be ‘very intense’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xwkye4/ducker_pochettino_man_utd_job_will_be_very_intense/\"> <img alt=\"[Ducker] Pochettino: Man Utd job will be ‘very intense’\" src=\"https://external-preview.redd.it/JpkykujWakL8emXv89Ex4bzZIt0hj41DFkhvbIVkeME.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b093598e1cc659a6cb1e167ce82a7f458cf31627\" title=\"[Ducker] Pochettino: Man Utd job will be ‘very intense’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PradipJayakumar\"> /u/PradipJayakumar </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/11/15/pochettino-man-utd-job-will-be-very-intense/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwkye4/ducker_pochettino_man_utd_job_will_be_very_intense/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xwkye4/ducker_pochettino_man_utd_job_will_be_very_intense/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T03:14:18+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd Women [1]-0 Crystal Palace - Maya Le Tissier 18' (Great Goal)",
+      "items": [
+        {
+          "title": "Man Utd Women [1]-0 Crystal Palace - Maya Le Tissier 18' (Great Goal)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw237d/man_utd_women_10_crystal_palace_maya_le_tissier/\"> <img alt=\"Man Utd Women [1]-0 Crystal Palace - Maya Le Tissier 18' (Great Goal)\" src=\"https://external-preview.redd.it/ZzZzcTV0aTV2azFpMX--y9bU3l68-HVhMKdRaYMySam1OQPDniubqkNztpLH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=113ad7ac0c85824475084bd82c3657ef147de591\" title=\"Man Utd Women [1]-0 Crystal Palace - Maya Le Tissier 18' (Great Goal)\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://v.redd.it/4u23tbi5vk1i1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw237d/man_utd_women_10_crystal_palace_maya_le_tissier/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw237d/man_utd_women_10_crystal_palace_maya_le_tissier/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T13:12:04+00:00"
+        },
+        {
+          "title": "Man Utd 2-0 Crystal Palace | Highlights",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xwhrjm/man_utd_20_crystal_palace_highlights/\"> <img alt=\"Man Utd 2-0 Crystal Palace | Highlights\" src=\"https://external-preview.redd.it/UC7Uuby3clryW5tNuYok5UNjQf_Sxu7fuwtGiHDjlRs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=cf96ddced360ff96601d421ff07978687364654f\" title=\"Man Utd 2-0 Crystal Palace | Highlights\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Lord_Sesshoumaru77\"> /u/Lord_Sesshoumaru77 </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=OI3ZkKxCVGE\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwhrjm/man_utd_20_crystal_palace_highlights/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xwhrjm/man_utd_20_crystal_palace_highlights/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T00:29:51+00:00"
+        },
+        {
+          "title": "Man Utd Women Starting XI vs Crystal Palace - WSL Match 10 | Tullis-Joyce; Riviere, Le Tissier (c), Janssen, Lundkvist; Miyazawa, Awujo, Zigiotti; Park, Terland, Medina.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw0jbv/man_utd_women_starting_xi_vs_crystal_palace_wsl/\"> <img alt=\"Man Utd Women Starting XI vs Crystal Palace - WSL Match 10 | Tullis-Joyce; Riviere, Le Tissier (c), Janssen, Lundkvist; Miyazawa, Awujo, Zigiotti; Park, Terland, Medina.\" src=\"https://preview.redd.it/z37ishw3gk1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f15da565ba1ccbefe4d1b5201254b5cba2daa77\" title=\"Man Utd Women Starting XI vs Crystal Palace - WSL Match 10 | Tullis-Joyce; Riviere, Le Tissier (c), Janssen, Lundkvist; Miyazawa, Awujo, Zigiotti; Park, Terland, Medina.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/z37ishw3gk1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw0jbv/man_utd_women_starting_xi_vs_crystal_palace_wsl/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw0jbv/man_utd_women_starting_xi_vs_crystal_palace_wsl/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T11:49:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "United Women Captain Maya Le Tissier was presented with a special commemorative from director of women's football Matt Johnson, for her 150th appearance for the club",
+      "items": [
+        {
+          "title": "United Women Captain Maya Le Tissier was presented with a special commemorative from director of women's football Matt Johnson, for her 150th appearance for the club",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw4drf/united_women_captain_maya_le_tissier_was/\"> <img alt=\"United Women Captain Maya Le Tissier was presented with a special commemorative from director of women's football Matt Johnson, for her 150th appearance for the club\" src=\"https://preview.redd.it/m1co7kosbl1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=781fc5bb76e7949a6aaf20d5931fd07f4841cfc3\" title=\"United Women Captain Maya Le Tissier was presented with a special commemorative from director of women's football Matt Johnson, for her 150th appearance for the club\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/m1co7kosbl1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw4drf/united_women_captain_maya_le_tissier_was/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw4drf/united_women_captain_maya_le_tissier_was/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T14:57:36+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Andy Mitten] Man United turn to Pochettino after Carrick pays price for transfer difficulties and dramatic slump in form",
+      "items": [
+        {
+          "title": "[Andy Mitten] Man United turn to Pochettino after Carrick pays price for transfer difficulties and dramatic slump in form",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw6d7t/andy_mitten_man_united_turn_to_pochettino_after/\"> <img alt=\"[Andy Mitten] Man United turn to Pochettino after Carrick pays price for transfer difficulties and dramatic slump in form\" src=\"https://external-preview.redd.it/2RUD8q0MfHTz2_GkJFFNJNebzol6g4srSZcNRONq5Bo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8bc0650767360b87aa219b51838cd047ed172c9\" title=\"[Andy Mitten] Man United turn to Pochettino after Carrick pays price for transfer difficulties and dramatic slump in form\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.thenationalnews.com/sport/football/2026/11/14/man-united-turn-to-pochettino-after-carrick-pays-price-for-transfer-difficulties-and-dramatic-slump-in-form/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw6d7t/andy_mitten_man_united_turn_to_pochettino_after/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw6d7t/andy_mitten_man_united_turn_to_pochettino_after/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T16:20:55+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "FT: Man Utd Women 2-0 Crystal Palace. Goals: Maya Le Tissier, Elisabeth Terland. Both assists: Jess Park. United unbeaten in 12 games in all competitions.",
+      "items": [
+        {
+          "title": "FT: Man Utd Women 2-0 Crystal Palace. Goals: Maya Le Tissier, Elisabeth Terland. Both assists: Jess Park. United unbeaten in 12 games in all competitions.",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw40a7/ft_man_utd_women_20_crystal_palace_goals_maya_le/\"> <img alt=\"FT: Man Utd Women 2-0 Crystal Palace. Goals: Maya Le Tissier, Elisabeth Terland. Both assists: Jess Park. United unbeaten in 12 games in all competitions.\" src=\"https://preview.redd.it/8yqymkpval1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3077ea734d4ed92aa031517f5ff765bb7909386d\" title=\"FT: Man Utd Women 2-0 Crystal Palace. Goals: Maya Le Tissier, Elisabeth Terland. Both assists: Jess Park. United unbeaten in 12 games in all competitions.\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/8yqymkpval1i1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw40a7/ft_man_utd_women_20_crystal_palace_goals_maya_le/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw40a7/ft_man_utd_women_20_crystal_palace_goals_maya_le/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T14:40:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[ManUtdWomen] Goal ✅ Clean sheet ✅ #WSL Player of the Match ✅ Not a bad way to mark your 150th game, Maya! 👌",
+      "items": [
+        {
+          "title": "[ManUtdWomen] Goal ✅ Clean sheet ✅ #WSL Player of the Match ✅ Not a bad way to mark your 150th game, Maya! 👌",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw59q5/manutdwomen_goal_clean_sheet_wsl_player_of_the/\"> <img alt=\"[ManUtdWomen] Goal ✅ Clean sheet ✅ #WSL Player of the Match ✅ Not a bad way to mark your 150th game, Maya! 👌\" src=\"https://preview.redd.it/kws90s3ukl1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ce111be8d3eba9a76e77f32ff3099e47357aaf\" title=\"[ManUtdWomen] Goal ✅ Clean sheet ✅ #WSL Player of the Match ✅ Not a bad way to mark your 150th game, Maya! 👌\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/kws90s3ukl1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw59q5/manutdwomen_goal_clean_sheet_wsl_player_of_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw59q5/manutdwomen_goal_clean_sheet_wsl_player_of_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T15:35:13+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United [2] - 0 Crystal Palace - Elisabeth Terland 65’",
+      "items": [
+        {
+          "title": "Manchester United [2] - 0 Crystal Palace - Elisabeth Terland 65’",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw3ff6/manchester_united_2_0_crystal_palace_elisabeth/\"> <img alt=\"Manchester United [2] - 0 Crystal Palace - Elisabeth Terland 65’\" src=\"https://external-preview.redd.it/YWQxZmsxMmQ2bDFpMf84U-f10-F_i0P4aYw9-vupwhyjtOrM9NQgps9mkw2l.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=330e770e664e6a02bb307957f65104aeccacbbd5\" title=\"Manchester United [2] - 0 Crystal Palace - Elisabeth Terland 65’\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://v.redd.it/hiq7ww8d6l1i1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw3ff6/manchester_united_2_0_crystal_palace_elisabeth/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw3ff6/manchester_united_2_0_crystal_palace_elisabeth/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T14:15:37+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[@Manutd On X] Have a good one, Nous ❤️🎈",
+      "items": [
+        {
+          "title": "[@Manutd On X] Have a good one, Nous ❤️🎈",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xw2w4m/manutd_on_x_have_a_good_one_nous/\"> <img alt=\"[@Manutd On X] Have a good one, Nous ❤️🎈\" src=\"https://preview.redd.it/cwgz80192l1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7ce710c8a923e5495b1f052e55f3a4b3a10bacc\" title=\"[@Manutd On X] Have a good one, Nous ❤️🎈\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Hot_Patience_5962\"> /u/Hot_Patience_5962 </a> <br /> <span><a href=\"https://i.redd.it/cwgz80192l1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xw2w4m/manutd_on_x_have_a_good_one_nous/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xw2w4m/manutd_on_x_have_a_good_one_nous/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T13:51:23+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Telegraph] How Pochettino will run Man Utd: His way or the highway",
+      "items": [
+        {
+          "title": "[Telegraph] How Pochettino will run Man Utd: His way or the highway",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xvyur8/telegraph_how_pochettino_will_run_man_utd_his_way/\"> <img alt=\"[Telegraph] How Pochettino will run Man Utd: His way or the highway\" src=\"https://external-preview.redd.it/92-G9XYDsuR_xXeVh379iQHG89_m-gaDPSAQqAk3hZw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8839169c36a0c559a456fdf551368c15e7d0183\" title=\"[Telegraph] How Pochettino will run Man Utd: His way or the highway\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/11/12/pochettino-man-utd-manager-ferguson-too-late-spurs-chelsea/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xvyur8/telegraph_how_pochettino_will_run_man_utd_his_way/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xvyur8/telegraph_how_pochettino_will_run_man_utd_his_way/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T10:05:44+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Haiti vs USA watch thread",
+      "items": [
+        {
+          "title": "Haiti vs USA watch thread",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Well it’s the Pocchetino swan song at USMNT. The game just started. I’ve been travelling all day, and while I don’t usually get excited anymore at managerial signings I’m sure we need to get behind the new boss now.</p> <p>How’s the game going? Do you expect a similar set up at United? What are you watching out for?</p> <p>Edit —</p> <p>Haiti 0-1 USA | A Trusty ‘10</p> <p>Haiti 0-2 USA | J. Hall ‘53</p> <p>Haiti 0-3 USA | C. Pulisic ‘62 (P)</p> <p>Haiti 0-4 USA | C. Pulisic ‘63</p> <p>Haiti 0-5 USA | W. McKennie ‘69</p> <p>Haiti 0-6 USA | F. Balogun ‘82</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/harshmangat\"> /u/harshmangat </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwe4mr/haiti_vs_usa_watch_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwe4mr/haiti_vs_usa_watch_thread/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xwe4mr/haiti_vs_usa_watch_thread/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T21:42:29+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Andrey Santos Starts for Brazil against Japan",
+      "items": [
+        {
+          "title": "Andrey Santos Starts for Brazil against Japan",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xvyd52/andrey_santos_starts_for_brazil_against_japan/\"> <img alt=\"Andrey Santos Starts for Brazil against Japan\" src=\"https://preview.redd.it/t8lozti5sj1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6195ec9a6a1000639cf8c0100c0ad9242245129a\" title=\"Andrey Santos Starts for Brazil against Japan\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/t8lozti5sj1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xvyd52/andrey_santos_starts_for_brazil_against_japan/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xvyd52/andrey_santos_starts_for_brazil_against_japan/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-14T09:34:08+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 38,
+    "story_count": 32
+  }
+}
