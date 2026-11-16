@@ -1,0 +1,765 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T07:43:12.739500+00:00",
+  "match_data": {
+    "collected_at": "2026-11-16T07:43:07.545814+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Mauricio Pochettino to introduce immediate Man United ban in Michael Carrick rule change",
+      "items": [
+        {
+          "title": "Mauricio Pochettino to introduce immediate Man United ban in Michael Carrick rule change",
+          "summary": "One of Michael Carrick's rules at Manchester United is set to be changed by Mauricio Pochettino as the club's new head coach stamps his authority",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-carrick-34913972",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 10:27:50 +0000"
+        },
+        {
+          "title": "Man Utd flops face brutal Mauricio Pochettino ban with Michael Carrick rule changed",
+          "summary": "Mauricio Pochettino is set to change one of Michael Carrick's rules after becoming Manchester United head coach for their Premier League match against Liverpool",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-carrick-37878804",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 11:04:36 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes 'snubs Man United contract talks' as he makes Mauricio Pochettino decision",
+      "items": [
+        {
+          "title": "Bruno Fernandes 'snubs Man United contract talks' as he makes Mauricio Pochettino decision",
+          "summary": "Bruno Fernandes has rejected two fresh contract offers from Manchester United and will wait and see how Mauricio Pochettino fares before signing a new deal, according to reports",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-contract-united-pochettino-34913662",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 09:16:49 +0000"
+        },
+        {
+          "title": "Bruno Fernandes halts Man Utd contract talks - until Mauricio Pochettino 'proves himself'",
+          "summary": "Bruno Fernandes has twice rejected contract offers from Manchester United and will now hold off on any further talks whilst Mauricio Pochettino shows his hand",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-fernandes-contract-pochettino-37878541",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 07:56:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United news LIVE: Pochettino 'issues immediate ban' and set to make historic appointment",
+      "items": [
+        {
+          "title": "Man United news LIVE: Pochettino 'issues immediate ban' and set to make historic appointment",
+          "summary": "Mauricio Pochettino has been appointed Manchester United boss but has yet to arrive at Old Trafford as the club prepares to face Liverpool at the weekend",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-news-live-pochettino-34915986",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 16 Nov 2026 07:32:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "We played under Mauricio Pochettino – this is what Man United players can expect",
+      "items": [
+        {
+          "title": "We played under Mauricio Pochettino – this is what Man United players can expect",
+          "summary": "Two former Mauricio Pochettino players have given an eye-opening insight into the new Manchester United boss",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-lambert-34914943",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 16 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino can unleash the 'next Phil Foden' at Manchester United",
+      "items": [
+        {
+          "title": "Mauricio Pochettino can unleash the 'next Phil Foden' at Manchester United",
+          "summary": "Man Utd's new head coach Mauricio Pochettino has a good track record for giving first-team opportunities to young players.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-can-unleash-next-34914533",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 16 Nov 2026 05:00:00 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino will create two new roles at Manchester United",
+          "summary": "Michael Carrick did not bring a specialist fitness coach to Man Utd but Mauricio Pochettino won't be following his lead.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-create-two-new-34914085",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 12:41:42 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino reveals plan to contact Manchester United legend",
+          "summary": "Man Utd's new head coach Mauricio Pochettino managed his penultimate game in charge of the USA on Saturday night.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reveals-plan-contact-34913959",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 10:53:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Six players currently set to leave Manchester United at the end of season as huge decisions near",
+      "items": [
+        {
+          "title": "Six players currently set to leave Manchester United at the end of season as huge decisions near",
+          "summary": "Mauricio Pochettino will have a number of contract decisions to make after taking charge as Man Utd's head coach.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/six-players-currently-set-leave-34914449",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 13:59:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What Mauricio Pochettino needs to tell Manchester United owners as soon as he arrives",
+      "items": [
+        {
+          "title": "What Mauricio Pochettino needs to tell Manchester United owners as soon as he arrives",
+          "summary": "Mauricio Pochettino will arrive in Manchester next week and a former Man Utd favourite has implored him to set his stall out early with the club's owners.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-mauricio-pochettino-needs-tell-34914279",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 12:20:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino handed early blow with first Manchester United task clear",
+      "items": [
+        {
+          "title": "Mauricio Pochettino handed early blow with first Manchester United task clear",
+          "summary": "Mauricio Pochettino will take the reins at Man United next week but a lot of fans aren't convinced he is the right man for the job.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-handed-early-blow-34913973",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 10:37:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Edwin van der Sar proven right with Manchester United warning to Michael Carrick",
+      "items": [
+        {
+          "title": "Edwin van der Sar proven right with Manchester United warning to Michael Carrick",
+          "summary": "Manchester United confirmed the departure of Michael Carrick as manager on Thursday, just over five months after he was handed the job at Old Trafford on a permanent basis.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/edwin-van-der-sar-proven-34905730",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 09:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "UK's top 50 academy stars ranked including 500-goal striker and 'next Wayne Rooney'",
+      "items": [
+        {
+          "title": "UK's top 50 academy stars ranked including 500-goal striker and 'next Wayne Rooney'",
+          "summary": "There's nothing like a wonderkid to get a crowd off its feet, so we're taking a look at the UK's top 50 most promising academy prospects",
+          "url": "https://www.mirror.co.uk/sport/football/news/gallery/wonderkids-premier-league-rooney-uk-37862352",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 16 Nov 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Why Mauricio Pochettino's dream January transfer window will be out of reach at Man Utd",
+      "items": [
+        {
+          "title": "Why Mauricio Pochettino's dream January transfer window will be out of reach at Man Utd",
+          "summary": "Thoughts have already turned to the January transfer window following the appointment of Mauricio Pochettino as the new Manchester United boss - but their grim financial reality will prevent any grand plans",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-january-transfers-pochettino-37879744",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 16 Nov 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd line up Premier League star for January transfer in boost for Mauricio Pochettino",
+      "items": [
+        {
+          "title": "Man Utd line up Premier League star for January transfer in boost for Mauricio Pochettino",
+          "summary": "Mauricio Pochettino will be looking to add new faces to his Manchester United squad in January and the club have their sights set on Fulham's Calvin Bassey after a fine start to the season",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-pochettino-bassey-37879581",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 16:24:53 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "I'm A Celeb's Wayne Rooney cut one habit to lose weight in pre-jungle health kick",
+      "items": [
+        {
+          "title": "I'm A Celeb's Wayne Rooney cut one habit to lose weight in pre-jungle health kick",
+          "summary": "The footballing star recently admitted this helped his health",
+          "url": "https://www.mirror.co.uk/3am/celebrity-news/im-celebs-wayne-rooney-cut-37863293",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 12:42:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd's January offer to Mauricio Pochettino is needed - but also a recipe for disaster",
+      "items": [
+        {
+          "title": "Man Utd's January offer to Mauricio Pochettino is needed - but also a recipe for disaster",
+          "summary": "Manchester United are prepared to give Mauricio Pochettino funds in January is a bid to aid their recovery this season, but the club's transfer strategy remains wholly unconvincing",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utds-january-offer-mauricio-37878812",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 11:40:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "’A serious possibility’: Romano discloses two signings Man Utd plan to make in January for Pochettino - LiveScore",
+      "items": [
+        {
+          "title": "’A serious possibility’: Romano discloses two signings Man Utd plan to make in January for Pochettino - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxONmktR2k1X3JaY2ZFdk53OFhHbGdRRkVENWlFWmJ4MWlLcmMxdGNGWU5KMkJxRFBoR3FPaEs4Umg2eWdSZ0NRS3FuZ1hPNDgyaW41WVB6dkk0andIVzg4MXdGNnZkSG03dEhLdkRQTkUwdjEtWWN0dmk3dmhPSjhLdExkcmxnWU1tampuS3M3OFJDaG9sUXBROVNKLW1yOWtZTzd6S3h6cVBJVDVBX1RNSHdxQUJNZ04xWFRiMHlFYWlZblVlbkxNaV9KcnIyWWNyWWlqRkVLMzQ5UE16Q0VNZV80dThMOGNiV1JCY1Bfb0wxWmIwaW5QTFZkQQ?oc=5\" target=\"_blank\">’A serious possibility’: Romano discloses two signings Man Utd plan to make in January for Pochettino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONmktR2k1X3JaY2ZFdk53OFhHbGdRRkVENWlFWmJ4MWlLcmMxdGNGWU5KMkJxRFBoR3FPaEs4Umg2eWdSZ0NRS3FuZ1hPNDgyaW41WVB6dkk0andIVzg4MXdGNnZkSG03dEhLdkRQTkUwdjEtWWN0dmk3dmhPSjhLdExkcmxnWU1tampuS3M3OFJDaG9sUXBROVNKLW1yOWtZTzd6S3h6cVBJVDVBX1RNSHdxQUJNZ04xWFRiMHlFYWlZblVlbkxNaV9KcnIyWWNyWWlqRkVLMzQ5UE16Q0VNZV80dThMOGNiV1JCY1Bfb0wxWmIwaW5QTFZkQQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 16 Nov 2026 06:35:42 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Romano confirms Pochettino first signing 'complete' with deal for 'talented' striker 'all done' - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Romano confirms Pochettino first signing 'complete' with deal for 'talented' striker 'all done' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1hreEpQNmZkNXY0THJ1eU5BYkNRaXkzakQ0U05XZTlwLW5UZjV5U2owcWJxMXBRSHQ3Qk1COGJXbjhXRVJ2UDdQQ2xjdGxLTmlJUUtUSlNVdkhqcVB6MG9KX1g4ZzluempPbU90dEtONmt6ZEhMb3JwWkdrTnEwTDlrRjlsU0drOGpJdmp6dWJwbHB6UXBfcGZhc1RUN1BnU1ZMRTVkeGlvb3hsWkFjeF9R?oc=5\" target=\"_blank\">Man Utd: Romano confirms Pochettino first signing 'complete' with deal for 'talented' striker 'all done'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1hreEpQNmZkNXY0THJ1eU5BYkNRaXkzakQ0U05XZTlwLW5UZjV5U2owcWJxMXBRSHQ3Qk1COGJXbjhXRVJ2UDdQQ2xjdGxLTmlJUUtUSlNVdkhqcVB6MG9KX1g4ZzluempPbU90dEtONmt6ZEhMb3JwWkdrTnEwTDlrRjlsU0drOGpJdmp6dWJwbHB6UXBfcGZhc1RUN1BnU1ZMRTVkeGlvb3hsWkFjeF9R?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 10:23:51 GMT"
+        },
+        {
+          "title": "Man Utd: Romano confirms deal for first Pochettino signing is ‘all done’ - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUQ4TmpQX1dqVkF5RmtEai1IVXNKd1Fvc0ZzZzJJNjVuVzdtRXZVdm9ybmFoSjBRd0FSbkx1cmdqdTdBbkxJOUZ6VTBQSTN2Sl9QLWgyVFVseGNaWGlRSlJ5MVVrb3Vjc1FvQWg1b004Vks5VnFnY0NzcThnOFJmRXRJTDU4a3dXTnR3cVV2QzBOeV9DT0Rz?oc=5\" target=\"_blank\">Man Utd: Romano confirms deal for first Pochettino signing is ‘all done’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUQ4TmpQX1dqVkF5RmtEai1IVXNKd1Fvc0ZzZzJJNjVuVzdtRXZVdm9ybmFoSjBRd0FSbkx1cmdqdTdBbkxJOUZ6VTBQSTN2Sl9QLWgyVFVseGNaWGlRSlJ5MVVrb3Vjc1FvQWg1b004Vks5VnFnY0NzcThnOFJmRXRJTDU4a3dXTnR3cVV2QzBOeV9DT0Rz?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 12:06:41 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Transfer News: Man Utd priorities, Nusa price, Barcelona denial - FootballTransfers.com",
+      "items": [
+        {
+          "title": "Fabrizio Romano Transfer News: Man Utd priorities, Nusa price, Barcelona denial - FootballTransfers.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHFJUjhIdmxDZmFsTFdnVEZpLS14OURnUmpXM1hqYVBtUEJENGxRYjJZS2RPZVpCeVF2Mkd6MUF6WkdPQ3psZ19mcTBJcEdEZC0wNjlIc054RUpTZkJrT0Znbml2bnNzcmtyQzhZdDVpUkZfMFFKTUxfMTRnUGpwNkdJdFBiRHJpdkpvaUl4SXRrcWVfN202c19oaU0wLUFOeDZlbzNKLTBtZGE0Y01IajhPUWJaNnlYNzhUcDFMdm9DUTAwY043c3J0dy1fMFM5VWZIVTZNUlZHV1J3V3JfSEtGcmlMeE96?oc=5\" target=\"_blank\">Fabrizio Romano Transfer News: Man Utd priorities, Nusa price, Barcelona denial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FootballTransfers.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHFJUjhIdmxDZmFsTFdnVEZpLS14OURnUmpXM1hqYVBtUEJENGxRYjJZS2RPZVpCeVF2Mkd6MUF6WkdPQ3psZ19mcTBJcEdEZC0wNjlIc054RUpTZkJrT0Znbml2bnNzcmtyQzhZdDVpUkZfMFFKTUxfMTRnUGpwNkdJdFBiRHJpdkpvaUl4SXRrcWVfN202c19oaU0wLUFOeDZlbzNKLTBtZGE0Y01IajhPUWJaNnlYNzhUcDFMdm9DUTAwY043c3J0dy1fMFM5VWZIVTZNUlZHV1J3V3JfSEtGcmlMeE96?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 16 Nov 2026 06:58:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd transfer news: Fabrizio Romano reveals Pochettino stance on signing Malo Gusto from Chelsea - TEAMtalk",
+      "items": [
+        {
+          "title": "Man Utd transfer news: Fabrizio Romano reveals Pochettino stance on signing Malo Gusto from Chelsea - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzc3RVJCRW1halhtQ2hVSndmNHBhOFc3Qk1yZ3dlV2QzcERVOHd0ajVEV0d4SDF2X1VTMjJES21BNzZhdG1nQ1NZQWo0NjA3QTlTLXFwcEQ3R2ZUeHVTY2NSV1F3QWpWeXV0RXZxU2JPSFQ2a0ZoSVczdE9sQ2RxR2RTcFo4dDEzOEpsclJPbnZTVDhMWnU5Zzg4cEdnMUEzNGlzYlRTbEtEZkpWbmEtNXQ1dWI2Z1dCeHNMU193?oc=5\" target=\"_blank\">Man Utd transfer news: Fabrizio Romano reveals Pochettino stance on signing Malo Gusto from Chelsea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzc3RVJCRW1halhtQ2hVSndmNHBhOFc3Qk1yZ3dlV2QzcERVOHd0ajVEV0d4SDF2X1VTMjJES21BNzZhdG1nQ1NZQWo0NjA3QTlTLXFwcEQ3R2ZUeHVTY2NSV1F3QWpWeXV0RXZxU2JPSFQ2a0ZoSVczdE9sQ2RxR2RTcFo4dDEzOEpsclJPbnZTVDhMWnU5Zzg4cEdnMUEzNGlzYlRTbEtEZkpWbmEtNXQ1dWI2Z1dCeHNMU193?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 18:03:17 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Romano reveals huge update on Bruno Fernandes future as INEOS told to 'move on' captain - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Romano reveals huge update on Bruno Fernandes future as INEOS told to 'move on' captain - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjV3WThtQzhVNXdhQlhhazBPeUxkZE5DbEhnY1dWdHpzRm5NS1lWYVl1cW1PY1NPY3FSRDRsZUhINXNka3F4Tk1lR0VDQzVSOG5qQTlqZFNBZlMySkM1SnB3QjFoOHg2QzM2ekd5eWt4VUoyUXNPbm13dDZwSUV3Z3laVGdSMXBCU3FWakUtbXRVX0Jz?oc=5\" target=\"_blank\">Man Utd: Romano reveals huge update on Bruno Fernandes future as INEOS told to 'move on' captain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdjV3WThtQzhVNXdhQlhhazBPeUxkZE5DbEhnY1dWdHpzRm5NS1lWYVl1cW1PY1NPY3FSRDRsZUhINXNka3F4Tk1lR0VDQzVSOG5qQTlqZFNBZlMySkM1SnB3QjFoOHg2QzM2ekd5eWt4VUoyUXNPbm13dDZwSUV3Z3laVGdSMXBCU3FWakUtbXRVX0Jz?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 04:52:25 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano: Man Utd in 20-team race \"ready\" to bid for Nico Paz - Football FanCast",
+      "items": [
+        {
+          "title": "Fabrizio Romano: Man Utd in 20-team race \"ready\" to bid for Nico Paz - Football FanCast",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDlKeTlEdVVZdXFneG5xeFE5RUFmMUV1cUU0ekNDa29SOExCRWNTaWdDejVMbnNZNWF5Yl9BTlZ5eHNuME0teU00WF9QZ2hmZzV5SlNCb0lYajQ2WU9XMFZhS2Q4RWFmUWFtdXJ3X0NjVVY4V2dobTdZVnhxQlNQVW1EalNKTXdXT3o1enhkYUk5RUxWemtPN1paRTBBTEE?oc=5\" target=\"_blank\">Fabrizio Romano: Man Utd in 20-team race \"ready\" to bid for Nico Paz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football FanCast</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDlKeTlEdVVZdXFneG5xeFE5RUFmMUV1cUU0ekNDa29SOExCRWNTaWdDejVMbnNZNWF5Yl9BTlZ5eHNuME0teU00WF9QZ2hmZzV5SlNCb0lYajQ2WU9XMFZhS2Q4RWFmUWFtdXJ3X0NjVVY4V2dobTdZVnhxQlNQVW1EalNKTXdXT3o1enhkYUk5RUxWemtPN1paRTBBTEE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 12:48:10 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Here we go! Manchester United unexpectedly sign a new forward - Dailysports",
+      "items": [
+        {
+          "title": "Here we go! Manchester United unexpectedly sign a new forward - Dailysports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmFCemxTYzBwYmQxLV8yQTJvWGNzMEs0cUVGalhiMy0zWHM0TGp2Qkt1MVlOa2p0aXVoVDUxdjNlbzhHY3FXaDN4a1dyOGtwVjh2OEY3Z2xibkpzUlFPTUNLcjl2eW43LXVtRnllaTF5YUVGbm5zNjd1WE50LTRrdkYxN19mZWhGYXpZenl6cEg5ZW5X?oc=5\" target=\"_blank\">Here we go! Manchester United unexpectedly sign a new forward</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dailysports</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmFCemxTYzBwYmQxLV8yQTJvWGNzMEs0cUVGalhiMy0zWHM0TGp2Qkt1MVlOa2p0aXVoVDUxdjNlbzhHY3FXaDN4a1dyOGtwVjh2OEY3Z2xibkpzUlFPTUNLcjl2eW43LXVtRnllaTF5YUVGbm5zNjd1WE50LTRrdkYxN19mZWhGYXpZenl6cEg5ZW5X?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 09:49:12 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Cools Malo Gusto to Man United Talk Despite Pochettino Link - Chelsea FC Online",
+      "items": [
+        {
+          "title": "Fabrizio Romano Cools Malo Gusto to Man United Talk Despite Pochettino Link - Chelsea FC Online",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEpBR2tuVjVaeTRQaFp4d2RkSDhhd0JFTTBUc1Q1Q1p2bnp6dHZwb2htRzJfOWFRbnlnWUNrMS10YVV5YzFQYWdFRnN4dUQ4c3NDLXVDYkNWcWFUY0k5Y0plOTJPNU9hOWpFa3dJYUFZQTBjbG1HTXNDZ0VqejNNb3M1Z1dqNmliYmdIWHlSeWdoNWZpaHQwV1ctNThWMzFlWHUyS1N4R0M2TGx1VWV2YnFR?oc=5\" target=\"_blank\">Fabrizio Romano Cools Malo Gusto to Man United Talk Despite Pochettino Link</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chelsea FC Online</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaEpBR2tuVjVaeTRQaFp4d2RkSDhhd0JFTTBUc1Q1Q1p2bnp6dHZwb2htRzJfOWFRbnlnWUNrMS10YVV5YzFQYWdFRnN4dUQ4c3NDLXVDYkNWcWFUY0k5Y0plOTJPNU9hOWpFa3dJYUFZQTBjbG1HTXNDZ0VqejNNb3M1Z1dqNmliYmdIWHlSeWdoNWZpaHQwV1ctNThWMzFlWHUyS1N4R0M2TGx1VWV2YnFR?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 15 Nov 2026 17:36:44 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano names the player Man United’s new manager Pochettino is “obsessed” with - CaughtOffside",
+      "items": [
+        {
+          "title": "Fabrizio Romano names the player Man United’s new manager Pochettino is “obsessed” with - CaughtOffside",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONU1RdzREamI4YWZ4OVFnWXZ4ajdqdUZBcGpHbVhKZ3pxOGVPWTNjM1d1M2JXNmEwVDdpWnIyMUdIQTBwQjRlbmhKU2xqNS1sRk1EYUttMzFsdnc3bzdGZklPOHVjRGtzMGg3dl9PN2JWRGY5ajhZVnlQaXVCX3ZRM0NSOEJFVDhoRnFKczJGTUV6WnIxMEJBNNIBngFBVV95cUxNQU5hQWJMM1N2cG5xcVB5Yk4zeEJISGNsUEM3cGdMOXo3N241c2Y4Q0RYQk5DeUlsR3dGNXh2SnNtQUx1bnY1NVVnMlNwTEpfOHo5ZnpoM2NrSDNvU2ZIV0FDcnhsYkUyeml2U2NabzVFUGdUeEotLVhBcjRPcGxkdllaNlZWdEZvTE94OENQOFdOTUw5bTk0bk9DUnQ4dw?oc=5\" target=\"_blank\">Fabrizio Romano names the player Man United’s new manager Pochettino is “obsessed” with</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CaughtOffside</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONU1RdzREamI4YWZ4OVFnWXZ4ajdqdUZBcGpHbVhKZ3pxOGVPWTNjM1d1M2JXNmEwVDdpWnIyMUdIQTBwQjRlbmhKU2xqNS1sRk1EYUttMzFsdnc3bzdGZklPOHVjRGtzMGg3dl9PN2JWRGY5ajhZVnlQaXVCX3ZRM0NSOEJFVDhoRnFKczJGTUV6WnIxMEJBNNIBngFBVV95cUxNQU5hQWJMM1N2cG5xcVB5Yk4zeEJISGNsUEM3cGdMOXo3N241c2Y4Q0RYQk5DeUlsR3dGNXh2SnNtQUx1bnY1NVVnMlNwTEpfOHo5ZnpoM2NrSDNvU2ZIV0FDcnhsYkUyeml2U2NabzVFUGdUeEotLVhBcjRPcGxkdllaNlZWdEZvTE94OENQOFdOTUw5bTk0bk9DUnQ4dw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 14:42:07 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "16-year-old Tyler Adjei completes first Pochettino-era signing — Fabrizio Romano Manchester United News - شبكة تواصل الإخبارية",
+      "items": [
+        {
+          "title": "16-year-old Tyler Adjei completes first Pochettino-era signing — Fabrizio Romano Manchester United News - شبكة تواصل الإخبارية",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HZTU1ZnNzMGRqTm9xdjNRUDVZNWw1NEtQTlpvcVotZjVoOVhrUHM1NnhXa3dKMHpPQU5JNGhJRl9FZ2hNQXhoVnZKRnUxUmEzN3hr?oc=5\" target=\"_blank\">16-year-old Tyler Adjei completes first Pochettino-era signing — Fabrizio Romano Manchester United News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">شبكة تواصل الإخبارية</font>",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HZTU1ZnNzMGRqTm9xdjNRUDVZNWw1NEtQTlpvcVotZjVoOVhrUHM1NnhXa3dKMHpPQU5JNGhJRl9FZ2hNQXhoVnZKRnUxUmEzN3hr?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 14 Nov 2026 14:35:50 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal enter race for main Man United target eyed to replace Bruno Fernandes",
+      "items": [
+        {
+          "title": "Arsenal enter race for main Man United target eyed to replace Bruno Fernandes",
+          "summary": "<p>Arsenal and Manchester United remain interested in Como star Nico Paz, but Real Madrid continue to hold a significant advantage in the race for the highly-rated Argentina international. The 22-year-old has developed into one of Europe’s most exciting attacking midfielders under Cesc Fabregas, with his performances in Serie A and the Champions League putting several [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/16/arsenal-enter-race-for-main-man-united-target/\">Arsenal enter race for main Man United target eyed to replace Bruno Fernandes</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/16/arsenal-enter-race-for-main-man-united-target/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 16 Nov 2026 06:11:09 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United consider January window move for midfielder admired by Pochettino",
+      "items": [
+        {
+          "title": "Man United consider January window move for midfielder admired by Pochettino",
+          "summary": "<p>Manchester United are reportedly considering a move for Juventus midfielder Weston McKennie as Mauricio Pochettino begins identifying players who could fit his plans at Old Trafford. The 28-year-old is well known to Pochettino following their time together with the United States national team, where his energy, versatility and ability to play several midfield roles made [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/16/man-united-consider-january-midfielder-by-pochettino/\">Man United consider January window move for midfielder admired by Pochettino</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/16/man-united-consider-january-midfielder-by-pochettino/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 16 Nov 2026 06:03:51 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United explore move for versatile 26-year-old capable of solving two problems",
+      "items": [
+        {
+          "title": "Man United explore move for versatile 26-year-old capable of solving two problems",
+          "summary": "<p>Manchester United are reportedly considering a move for Fulham defender Calvin Bassey as Mauricio Pochettino prepares to strengthen his defensive options during the January transfer window. According to a report from The Telegraph, the Nigerian international is expected to feature prominently on the incoming manager&#8217;s list of potential targets, with United keen to address their [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/15/man-united-explore-move-for-versatile-26-year-old-capable-of-solving-two-problems/\">Man United explore move for versatile 26-year-old capable of solving two problems</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/15/man-united-explore-move-for-versatile-26-year-old-capable-of-solving-two-problems/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 15 Nov 2026 20:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Pochettino wants 25-year-old Premier League leader as Man United prepare January plan",
+      "items": [
+        {
+          "title": "Pochettino wants 25-year-old Premier League leader as Man United prepare January plan",
+          "summary": "<p>Manchester United are reportedly interested in signing Brentford defender Nathan Collins as Mauricio Pochettino prepares to strengthen his defensive options ahead of the January transfer window. According to a Football Insider report, the Red Devils have identified the Republic of Ireland international as a potential backline addition, with the 25-year-old attracting attention for his consistent performances for [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/15/pochettino-wants-25-year-old-premier-league-leader-as-man-united-prepare-january-plan/\">Pochettino wants 25-year-old Premier League leader as Man United prepare January plan</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/15/pochettino-wants-25-year-old-premier-league-leader-as-man-united-prepare-january-plan/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 15 Nov 2026 19:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Daily Discussion",
+      "items": [
+        {
+          "title": "Daily Discussion",
+          "summary": "<!-- SC_OFF --><div class=\"md\"><p>Daily discussion on Manchester United.</p> <p><strong>BE CIVIL</strong></p> <p>We want <a href=\"https://www.reddit.com/r/reddevils/\">r/reddevils</a> to be a place where anyone and everyone is welcome to discuss and enjoy the best club on earth without fear of abuse or ridicule.</p> <ul> <li>The report button is your friend, we are way more likely to find and remove and/or ban rule breaking comments if you report them.</li> <li>The downvote button is not a &quot;I disagree or don't like your statement button&quot;, better discussion is generally had by using the upvote button more liberally and avoiding the downvote one whenever possible.</li> </ul> <p>Looking for memes? Head over to <a href=\"https://www.reddit.com/r/memechesterunited/\">r/memechesterunited</a>!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xxd9h3/daily_discussion/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xxd9h3/daily_discussion/\">[comments]</a></span>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xxd9h3/daily_discussion/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-16T02:00:42+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens penalty save against Italy 90+1'",
+      "items": [
+        {
+          "title": "Senne Lammens penalty save against Italy 90+1'",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xx7jad/senne_lammens_penalty_save_against_italy_901/\"> <img alt=\"Senne Lammens penalty save against Italy 90+1'\" src=\"https://external-preview.redd.it/bGZjrcw7U7K28Pz9oIm_xf1dFDGNs3pcQo7JWHJqVPs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a15924797f8b2f7bc40204c0c4bd2044cd33914b\" title=\"Senne Lammens penalty save against Italy 90+1'\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Infinite-Highway3432\"> /u/Infinite-Highway3432 </a> <br /> <span><a href=\"https://streamin.link/v/2f87c9d1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xx7jad/senne_lammens_penalty_save_against_italy_901/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xx7jad/senne_lammens_penalty_save_against_italy_901/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T21:38:48+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Sofascore] The 10 Highest rated players for the 2026/27 Nations League - Lammens in number 4",
+      "items": [
+        {
+          "title": "[Sofascore] The 10 Highest rated players for the 2026/27 Nations League - Lammens in number 4",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xxbn5y/sofascore_the_10_highest_rated_players_for_the/\"> <img alt=\"[Sofascore] The 10 Highest rated players for the 2026/27 Nations League - Lammens in number 4\" src=\"https://preview.redd.it/tbelimvf8v1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=64fe71940edf2104a27f41f62f79b49a1b281b6e\" title=\"[Sofascore] The 10 Highest rated players for the 2026/27 Nations League - Lammens in number 4\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/justaino\"> /u/justaino </a> <br /> <span><a href=\"https://i.redd.it/tbelimvf8v1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xxbn5y/sofascore_the_10_highest_rated_players_for_the/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xxbn5y/sofascore_the_10_highest_rated_players_for_the/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-16T00:41:24+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[Matt Law] Exclusive: Calvin Bassey among Mauricio Pochettino’s Man Utd targets",
+      "items": [
+        {
+          "title": "[Matt Law] Exclusive: Calvin Bassey among Mauricio Pochettino’s Man Utd targets",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xwwlp3/matt_law_exclusive_calvin_bassey_among_mauricio/\"> <img alt=\"[Matt Law] Exclusive: Calvin Bassey among Mauricio Pochettino’s Man Utd targets\" src=\"https://external-preview.redd.it/VduhDNfQVoCB3rxlcSMWbPL4SeaCnDnz4Awe6XScM3A.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5eebaba96dfa9f0b02194c193552c4d835495755\" title=\"[Matt Law] Exclusive: Calvin Bassey among Mauricio Pochettino’s Man Utd targets\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.telegraph.co.uk/football/2026/11/15/calvin-bassey-among-pochettinos-man-utd-targets/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwwlp3/matt_law_exclusive_calvin_bassey_among_mauricio/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xwwlp3/matt_law_exclusive_calvin_bassey_among_mauricio/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T14:17:49+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "[Henry Winter] New head coach, old ritual: exciting headlines about glamourous new signings, running stats magically improving and players wanting to stay. You can guarantee it’ll happen as Mauricio Pochettino arrives at Manchester United. Pochettino is an excellent choice. (..)",
+      "items": [
+        {
+          "title": "[Henry Winter] New head coach, old ritual: exciting headlines about glamourous new signings, running stats magically improving and players wanting to stay. You can guarantee it’ll happen as Mauricio Pochettino arrives at Manchester United. Pochettino is an excellent choice. (..)",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xwru96/henry_winter_new_head_coach_old_ritual_exciting/\"> <img alt=\"[Henry Winter] New head coach, old ritual: exciting headlines about glamourous new signings, running stats magically improving and players wanting to stay. You can guarantee it’ll happen as Mauricio Pochettino arrives at Manchester United. Pochettino is an excellent choice. (..)\" src=\"https://preview.redd.it/kienpzzv1r1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b9badcce82cd5c2c43f9832096c851b09551f643\" title=\"[Henry Winter] New head coach, old ritual: exciting headlines about glamourous new signings, running stats magically improving and players wanting to stay. You can guarantee it’ll happen as Mauricio Pochettino arrives at Manchester United. Pochettino is an excellent choice. (..)\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Best in class. <strong>Players and staff will like him and his staff (great bunch).</strong> United fans will give him a chance because that's what they do with managers and, besides, their anger is aimed at owners. </p> <p><strong>But unless Pochettino wrests recruitment away from Jason Wilcox, the problems will continue. Huge squad overhaul required, ins and outs, and that requires judicious choices by an experienced football man like Pochettino - and significant funds. Time for United to go for best in class with signings.</strong> </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://i.redd.it/kienpzzv1r1i1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xwru96/henry_winter_new_head_coach_old_ritual_exciting/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xwru96/henry_winter_new_head_coach_old_ritual_exciting/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T10:02:34+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "WSL Table at the end of Matchweek 10 - Man United 4th",
+      "items": [
+        {
+          "title": "WSL Table at the end of Matchweek 10 - Man United 4th",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xx3hjw/wsl_table_at_the_end_of_matchweek_10_man_united/\"> <img alt=\"WSL Table at the end of Matchweek 10 - Man United 4th\" src=\"https://preview.redd.it/n8rwtez3kt1i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=51e6ae28f1159863a407e23d0d87432afaf7521e\" title=\"WSL Table at the end of Matchweek 10 - Man United 4th\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/YourGrimes\"> /u/YourGrimes </a> <br /> <span><a href=\"https://i.redd.it/n8rwtez3kt1i1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xx3hjw/wsl_table_at_the_end_of_matchweek_10_man_united/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xx3hjw/wsl_table_at_the_end_of_matchweek_10_man_united/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T18:53:51+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Lammens and Tielemans starts for Belgium against Italy",
+      "items": [
+        {
+          "title": "Lammens and Tielemans starts for Belgium against Italy",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xx3uq8/lammens_and_tielemans_starts_for_belgium_against/\"> <img alt=\"Lammens and Tielemans starts for Belgium against Italy\" src=\"https://preview.redd.it/bypk1pctrt1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9ba696880af5d4ef48d32c53a8de1b264fce0f4\" title=\"Lammens and Tielemans starts for Belgium against Italy\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/PitchSafe\"> /u/PitchSafe </a> <br /> <span><a href=\"https://i.redd.it/bypk1pctrt1i1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xx3uq8/lammens_and_tielemans_starts_for_belgium_against/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xx3uq8/lammens_and_tielemans_starts_for_belgium_against/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T19:08:32+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pochettino Reveals Manchester United Was His Priority | Andrés Cantor Interview",
+      "items": [
+        {
+          "title": "Pochettino Reveals Manchester United Was His Priority | Andrés Cantor Interview",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xx291y/pochettino_reveals_manchester_united_was_his/\"> <img alt=\"Pochettino Reveals Manchester United Was His Priority | Andrés Cantor Interview\" src=\"https://external-preview.redd.it/mz1wfldy9h6Z_q1nrUDD5mXJpSXEhlOhumG7PWVtezk.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=58a530fa868be7e6c13d297f951b7f2fa47d9935\" title=\"Pochettino Reveals Manchester United Was His Priority | Andrés Cantor Interview\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nearly_headless_nic\"> /u/nearly_headless_nic </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=7vhCfi8cLiQ\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xx291y/pochettino_reveals_manchester_united_was_his/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xx291y/pochettino_reveals_manchester_united_was_his/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T18:05:07+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "[The Athletic] Why Man Utd’s squad isn’t as bad as you think",
+      "items": [
+        {
+          "title": "[The Athletic] Why Man Utd’s squad isn’t as bad as you think",
+          "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reddevils/comments/1xx2tyt/the_athletic_why_man_utds_squad_isnt_as_bad_as/\"> <img alt=\"[The Athletic] Why Man Utd’s squad isn’t as bad as you think\" src=\"https://external-preview.redd.it/ScYGqvj61YsHeErugJdZ5fq5vJgnJB2EesBsRPMBAGo.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=97311be13b9bb64bd6c90ccfb97c6e5f2908b67c\" title=\"[The Athletic] Why Man Utd’s squad isn’t as bad as you think\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/xtphty\"> /u/xtphty </a> <br /> <span><a href=\"https://www.youtube.com/watch?v=rLsU5aXqcUM\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/reddevils/comments/1xx2tyt/the_athletic_why_man_utds_squad_isnt_as_bad_as/\">[comments]</a></span> </td></tr></table>",
+          "url": "https://www.reddit.com/r/reddevils/comments/1xx2tyt/the_athletic_why_man_utds_squad_isnt_as_bad_as/",
+          "source": "r/reddevils",
+          "tier": 4,
+          "published_at": "2026-11-15T18:27:58+00:00"
+        }
+      ],
+      "sources": [
+        "r/reddevils"
+      ],
+      "min_tier": 4,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 42,
+    "story_count": 37
+  }
+}
