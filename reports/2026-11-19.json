@@ -1,0 +1,888 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T08:28:38.431131+00:00",
+  "match_data": {
+    "collected_at": "2026-11-19T08:28:32.537517+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "How Premier League's big six keep getting richer",
+      "items": [
+        {
+          "title": "How Premier League's big six keep getting richer",
+          "summary": "Ten games into the Premier League season, and the top five places are dominated by big six clubs. It should come as no surprise as they have a growing advantage of hundreds of millions of pounds.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 19 Nov 2026 07:38:22 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Even international rugby stars get starstruck!",
+      "items": [
+        {
+          "title": "Even international rugby stars get starstruck!",
+          "summary": "Louis Rees-Zammit admits he was shaking when he met his Manchester United heroes Bruno Fernandes and Diogo Dalot after Wales v Portugal.",
+          "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c64gnw3kll7yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 18 Nov 2026 17:00:20 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why does Pochettino keep lemons in his office?",
+      "items": [
+        {
+          "title": "Why does Pochettino keep lemons in his office?",
+          "summary": "Why does new Manchester United manager Mauricio Pochettino keep lemons in his office?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm4gnxr7rj0jo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 18 Nov 2026 16:59:49 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "The longest commute for the first day of a new job?",
+      "items": [
+        {
+          "title": "The longest commute for the first day of a new job?",
+          "summary": "Mauricio Pochettino arrives for his first day as Manchester United head coach after an overnight journey from Cincinnati to Manchester.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6dx1nejrpvno?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 18 Nov 2026 15:44:28 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Who has the harder job? - Pochettino or Frank?",
+      "items": [
+        {
+          "title": "Who has the harder job? - Pochettino or Frank?",
+          "summary": "Nedum Onuoha and Rory Smith on which of the new Premier League bosses has the harder job - Mauricio Pochettino or Thomas Frank",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckn80y39384xo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 18 Nov 2026 11:24:11 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Former Spain midfielder Mata retires aged 38",
+      "items": [
+        {
+          "title": "Former Spain midfielder Mata retires aged 38",
+          "summary": "Former Spain midfielder Juan Mata, who had spells at Chelsea and Manchester United in the Premier League, announces his retirement from playing at the age of 38.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c8p3vwe1rrzqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 18 Nov 2026 10:12:46 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester won't always be blue - Pochettino",
+      "items": [
+        {
+          "title": "Manchester won't always be blue - Pochettino",
+          "summary": "New boss Mauricio Pochettino says he will restore Manchester United to being the most successful footballing side in the city.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm782wnwzvq3o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 18 Nov 2026 08:42:28 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino has ‘look of regret’ after first Man United meeting",
+      "items": [
+        {
+          "title": "Mauricio Pochettino has ‘look of regret’ after first Man United meeting",
+          "summary": "Mauricio Pochettino arrived at Carrington for the first time as Manchester United boss and conducted a number of his obligations ahead of the weekend",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-wilcox-34933384",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 22:27:53 +0000"
+        },
+        {
+          "title": "Man Utd boss Mauricio Pochettino issues defiant message after meeting stars for first time",
+          "summary": "Mauricio Pochettino met some of his new Manchester United players on Wednesday as he officially started work at the club's Carrington training base",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-job-37892510",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 22:34:13 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino wants three Man United dressing room changes after 'constant phone calls'",
+      "items": [
+        {
+          "title": "Mauricio Pochettino wants three Man United dressing room changes after 'constant phone calls'",
+          "summary": "Mauricio Pochettino arrived at Carrington on Wednesday to take the reins of Manchester United, reuniting with a number of his backroom staff",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-manchester-united-staff-34930379",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 13:59:44 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino changing three things at Man Utd right away after 'non-stop phone calls'",
+          "summary": "Mauricio Pochettino is set to be reunited with his coaching staff who have already been getting to work at Manchester United",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-pochettino-rule-changes-37888646",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 09:44:55 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United prepared to take potential legal action after JJ Gabriel bombshell",
+      "items": [
+        {
+          "title": "Manchester United prepared to take potential legal action after JJ Gabriel bombshell",
+          "summary": "Teenage talent JJ Gabriel is set to join Real Madrid after submitting a request to leave Man Utd three months ago.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-prepared-take-potential-34928116",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 09:55:58 +0000"
+        },
+        {
+          "title": "Man Utd 'ready to take legal action' after JJ Gabriel's two bombshell announcements",
+          "summary": "Manchester United are concerned by the latest developments regarding JJ Gabriel - and legal action isn't off the table",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-jj-gabriel-madrid-37889164",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 10:35:36 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United news LIVE: Mauricio Pochettino’s first message as dressing room reaction revealed",
+      "items": [
+        {
+          "title": "Man United news LIVE: Mauricio Pochettino’s first message as dressing room reaction revealed",
+          "summary": "Mauricio Pochettino has arrived at Carrington as he prepares his first-team players for Sunday's baptism of fire against Liverpool in the Premier League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-live-updates-pochettino-34933722",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 07:43:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's first Manchester United transfer in January is obvious",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's first Manchester United transfer in January is obvious",
+          "summary": "The January transfer window will be an opportunity for Man United to strengthen Mauricio Pochettino's squad.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettinos-first-manchester-united-34930845",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 06:00:00 +0000"
+        },
+        {
+          "title": "Manchester United finally confirm Mauricio Pochettino's backroom staff",
+          "summary": "Mauricio Pochettino's first game in charge of Man Utd will come against Liverpool in the Premier League on Sunday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-finally-confirm-mauricio-34916368",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 15:57:42 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino arrives at Carrington as new Manchester United era begins",
+          "summary": "Mauricio Pochettino has started work as the new Man Utd head coach, just hours after he left his previous job.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-arrives-carrington-new-34929928",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 13:03:27 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Three Man United players Michael Carrick may sign if he lands new job to get gang back together",
+      "items": [
+        {
+          "title": "Three Man United players Michael Carrick may sign if he lands new job to get gang back together",
+          "summary": "Michael Carrick could poach a few Manchester United players in the upcoming January transfer window if he secures an immediate return to management.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-michael-carrick-job-34932227",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Message to players, Wilcox role and a catch-up - Inside Mauricio Pochettino's first day at Man United",
+      "items": [
+        {
+          "title": "Message to players, Wilcox role and a catch-up - Inside Mauricio Pochettino's first day at Man United",
+          "summary": "Mauricio Pochettino has started work as the new Man Utd head coach after taking charge of his final game with the USA",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/message-players-wilcox-role-perez-34931164",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Raheem Sterling delivers JJ Gabriel truth bomb as Man United consider legal action",
+      "items": [
+        {
+          "title": "Raheem Sterling delivers JJ Gabriel truth bomb as Man United consider legal action",
+          "summary": "Raheem Sterling has had his say on JJ Gabriel and his decision to leave Manchester United.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/raheem-sterling-jj-gabriel-united-34933267",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 21:24:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel sparks concern in Spain with ex-Man United star on verge of joining new club",
+      "items": [
+        {
+          "title": "JJ Gabriel sparks concern in Spain with ex-Man United star on verge of joining new club",
+          "summary": "JJ Gabriel looks set to join Real Madrid after controversially announcing his departure from Manchester United.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-man-united-spain-34932994",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 19:44:13 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's life away from football with 'rock' wife, family and where he might live in Manchester",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's life away from football with 'rock' wife, family and where he might live in Manchester",
+          "summary": "He has just been announced as the new Manchester United manager, and here's what we know about the man beyond the football who has \"always believed in following my heart\"",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettinos-life-away-football-34922286",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 18:28:52 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Marcus Rashford's time at Manchester United is about to take another twist",
+      "items": [
+        {
+          "title": "Marcus Rashford's time at Manchester United is about to take another twist",
+          "summary": "Man Utd forward Marcus Rashford has hardly contributed on the pitch this season, but that may be about to change.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/marcus-rashfords-time-manchester-united-34928554",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 16:29:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Amad snaps back at Manchester United fan on social media - 'Shut your mouth'",
+      "items": [
+        {
+          "title": "Amad snaps back at Manchester United fan on social media - 'Shut your mouth'",
+          "summary": "Man Utd winger Amad responded to a fan who questioned his performance for the Ivory Coast against Gambia.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/amad-snaps-back-manchester-united-34930243",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 14:25:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Gary Neville wants four Man United transfers cancelled and names players who 'have to go'",
+      "items": [
+        {
+          "title": "Gary Neville wants four Man United transfers cancelled and names players who 'have to go'",
+          "summary": "Mauricio Pochettino could look to welcome a number of fresh faces to Old Trafford this winter, but Gary Neville fears the names the club have been linked with aren't up to scratch",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-transfers-mauricio-pochettino-34929679",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 13:27:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United receive final verdict after Matheus Cunha accusations as Premier League panel agree",
+      "items": [
+        {
+          "title": "Man United receive final verdict after Matheus Cunha accusations as Premier League panel agree",
+          "summary": "The incident has been reviewed in full by Premier League officials after causing uproar before the international break",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-villa-dorgu-goal-34928734",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 10:40:44 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Manchester United training decision made as Mauricio Pochettino plans Carrington visit",
+      "items": [
+        {
+          "title": "Manchester United training decision made as Mauricio Pochettino plans Carrington visit",
+          "summary": "Mauricio Pochettino is on his way to Manchester but his assistants are already at Carrington and will take training again on Wednesday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-training-decision-made-34927842",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 09:31:33 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino makes immediate Manchester United vow",
+          "summary": "Mauricio Pochettino begins work at Man Utd today following his appointment as Michael Carrick's successor.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-makes-immediate-manchester-34927901",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 09:26:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino immediately sends 20-word message to Man City that Man United fans will love",
+      "items": [
+        {
+          "title": "Mauricio Pochettino immediately sends 20-word message to Man City that Man United fans will love",
+          "summary": "Mauricio Pochettino has immediately been drawn into the Manchester derby rivalry as he prepares to take charge of United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-pochettino-man-city-34928000",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 08:43:06 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United squad ‘in disbelief’ as popular figure has contract paid up - and he could join rival",
+      "items": [
+        {
+          "title": "Man United squad ‘in disbelief’ as popular figure has contract paid up - and he could join rival",
+          "summary": "Michael Carrick's sacking by Manchester United had a knock-on effect",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-squad-travis-binnion-34927858",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 08:34:13 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's January transfer shortlist revealed as Man Utd target three signings",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's January transfer shortlist revealed as Man Utd target three signings",
+          "summary": "New head coach Mauricio Pochettino is expected to be backed in the January transfer window with Manchester United searching for reinforcements in both defence and attack",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-mauricio-pochettino-37891314",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 16:57:30 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The true cost of being a football fan revealed as supporters fork out eye-watering costs",
+      "items": [
+        {
+          "title": "The true cost of being a football fan revealed as supporters fork out eye-watering costs",
+          "summary": "A study of 2,000 football fans who attend away matches, alongside analysis of this season’s league fixtures, reveals the financial and travel commitment involved in following a club around the country",
+          "url": "https://www.mirror.co.uk/sport/football/news/true-cost-being-football-fan-37889222",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 14:10:25 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mauricio Pochettino officially begins as Man Utd manager after gruelling flight",
+      "items": [
+        {
+          "title": "Mauricio Pochettino officially begins as Man Utd manager after gruelling flight",
+          "summary": "Mauricio Pochettino has officially started work at Carrington as Manchester United boss, having flown over the Atlantic following his final game in charge of the United States",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-start-37890289",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 13:21:58 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Oddball Gary Neville doesn't know what Grand Theft Auto is - and we love him for it",
+      "items": [
+        {
+          "title": "Oddball Gary Neville doesn't know what Grand Theft Auto is - and we love him for it",
+          "summary": "OPINION: Gary Neville doesn't know what Grand Theft Auto is - and that's barely in the top 10 weirdest things about him",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-grand-theft-auto-37889383",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 11:49:30 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "JJ Gabriel has gambled his bright future by forcing through messy exit from Man Utd",
+      "items": [
+        {
+          "title": "JJ Gabriel has gambled his bright future by forcing through messy exit from Man Utd",
+          "summary": "JJ Gabriel has taken an extraordinary approach to achieving his dream move from Manchester United to Real Madrid and once the saga is over he may find the grass isn't greener in Spain",
+          "url": "https://www.mirror.co.uk/sport/football/jj-gabriel-man-utd-exit-37889162",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 11:33:50 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd training ground improvements could be derailed by BATS after complaint made",
+      "items": [
+        {
+          "title": "Man Utd training ground improvements could be derailed by BATS after complaint made",
+          "summary": "EXCLUSIVE: Manchester United have made a planning application to Trafford Council, hoping to build floodlights and upgrade a pitch, but are facing objections from a local campaign group",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-carrington-works-bats-37887859",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 11:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "25 criticisms of Mauricio Pochettino at Chelsea and how much Man Utd should really worry",
+      "items": [
+        {
+          "title": "25 criticisms of Mauricio Pochettino at Chelsea and how much Man Utd should really worry",
+          "summary": "Mauricio Pochettino starts as Manchester United boss on Wednesday, but how many of the Chelsea supporter criticisms are really something to be concerned about?",
+          "url": "https://www.mirror.co.uk/sport/football/news/25-criticisms-mauricio-pochettino-chelsea-37888911",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 09:56:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino sends six-word warning to Premier League rivals before Man Utd arrival",
+      "items": [
+        {
+          "title": "Mauricio Pochettino sends six-word warning to Premier League rivals before Man Utd arrival",
+          "summary": "Mauricio Pochettino will begin his time as Manchester United manager on Wednesday (November 18) where he will need to hit the ground running to transform their season",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-sends-six-word-37888537",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 08:28:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mauricio Pochettino sends emotional parting message after USA win as he starts at Man Utd today",
+      "items": [
+        {
+          "title": "Mauricio Pochettino sends emotional parting message after USA win as he starts at Man Utd today",
+          "summary": "There were tears and cheers as Mauricio Pochettino oversaw his final game as United States manager",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-us-37888447",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 08:21:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Will Pochettino fix Manchester United? Put your questions to Will Unwin",
+      "items": [
+        {
+          "title": "Will Pochettino fix Manchester United? Put your questions to Will Unwin",
+          "summary": "<p>As Mauricio Pochettino prepares for his first game in charge at Anfield, the Guardian’s Will Unwin will answer your questions on Manchester United’s new head coach, the crisis he inherits and what comes next.</p><p><strong>Ask a question: log in or sign up </strong><a href=\"https://profile.theguardian.com/signin\"><strong>here</strong></a></p><p>Manchester United have a new head coach. Mauricio Pochettino has signed a two-and-a-half-year deal to replace Michael Carrick, who was sacked after leading the club to their worst start to a season in four decades.</p><p>In a <a href=\"https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united\">tearful farewell</a> to the US men’s national team, Pochettino called the move “one of the most difficult decisions” of his career. But the job he inherits may be harder still. No team in Europe’s top five leagues has conceded more goals in all competitions this season. Bruno Fernandes has rejected a second offer of a new contract. And fans have turned their anger on the hierarchy above the dugout.</p> <a href=\"https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 08:06:11 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United’s infamous 1974 relegation is a warning from history",
+      "items": [
+        {
+          "title": "Manchester United’s infamous 1974 relegation is a warning from history",
+          "summary": "<p>It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once again</p><p>In many ways, there are striking parallels between the Manchester United relegated in 1974 and the Manchester United sitting in the relegation zone at this stage of the season for the first time in 40 years. A legendary manager leaves, his shadow remains; with boardroom dithering and uncertainty, his replacements churn and burn as the club slide over several years.</p><p>Sir Matt Busby stepped aside as manager of the 1968 European Cup-winning side, but stayed on as a director, just as Sir Alex Ferguson did, watching from the Old Trafford directors’ box as successors tried and failed.</p> <a href=\"https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 22:30:10 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "‘An honour’: Pochettino up for challenge of leading Manchester United revival",
+      "items": [
+        {
+          "title": "‘An honour’: Pochettino up for challenge of leading Manchester United revival",
+          "summary": "<ul><li><p>New head coach faces tough opening match at Anfield</p></li><li><p>‘It’s a big challenge but at the same time it’s adrenaline’</p></li></ul><p>Mauricio Pochettino said it was “an honour” and “a privilege” <a href=\"https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss\">to be the new Manchester United head coach</a> after arriving in England on Wednesday.</p><p>Pochettino flew from Cincinnati to Manchester overnight <a href=\"https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino\">after overseeing the USA beating Haiti</a> in his final game in charge. Members of Pochettino’s staff <a href=\"https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-assistants-manchester-united-usmnt\">landed earlier in the week to begin work at Carrington</a>, laying the foundations as United seek to turn their season around. His right-hand man, Jesús Pérez, the goalkeeping coach Toni Jiménez and the fitness coach Sebastiano Pochettino, who continues to work with his father, have already taken training with those not on international duty.</p> <a href=\"https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 19:58:26 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
+      "items": [
+        {
+          "title": "Mauricio Pochettino’s USMNT time will be remembered fondly, but it wasn’t transformational",
+          "summary": "<p>The incoming Manchester United manager improved the US team’s culture and competitiveness, but could not bring about sea change in two years</p><p>In a theater high up in a midtown Manhattan skyscraper built from lots of glass, a highlight reel played to deafening music. And then, on “a monumental day for US Soccer”, federation president, Cindy Parlow Cone, announced they had bagged their man, Mauricio Pochettino, to become the highest-profile United States manager in the men’s national team’s history.</p><p>Pochettino held court for three-quarters of an hour in his signature blend of Spanglish before the assembled media and a grab bag of sponsors. Then he recorded some TV hits. And after that, in a bit of accidental prescience, he went off to record a podcast with Gary Neville.</p> <a href=\"https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/18/pochettino-usmnt-manchester-united",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 18:00:04 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Football Daily | From Cincinnati to Manchester: Pochettino in a hurry to paint town red",
+      "items": [
+        {
+          "title": "Football Daily | From Cincinnati to Manchester: Pochettino in a hurry to paint town red",
+          "summary": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>With his team mired in the relegation zone and a massive match at Liverpool this weekend, Mauricio Pochettino has been understandably busy since being appointed head coach of Manchester United. Unfortunately for Old Trafford regulars, the small print of his contract meant the Argentinian was tied up masterminding victory for USA USA USA in the second leg of their Concacaf Nations League quarter-final against Haiti when he ought to have been in Carrington moving red magnets around a tactics board in front of Marcus Rashford, Kobbie Mainoo and Harry Maguire.</p> <a href=\"https://www.theguardian.com/football/2026/nov/18/cincinnati-manchester-united-pochettino-football-daily-newsletter\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/18/cincinnati-manchester-united-pochettino-football-daily-newsletter",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 15:16:44 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano reveals Man Utd now have 'really serious' chance of signing Barcelona star in January - Football365",
+      "items": [
+        {
+          "title": "Romano reveals Man Utd now have 'really serious' chance of signing Barcelona star in January - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOQXRlYUREZ3A3aXdfWlNOTzFKWGJPSzZnVENzOUNYR1JRWUduSWk4VG50bVJVLWxORFhZMURZSDVfTEFncTFtS3JlejZieVZjcF9MTlg1M0l3Rk1jWW82V0E5b3NGZ0FQeXFrNXlCZEQxQ1l4ZE03LXd3em1lblMtR3B4cWpTM3JiUHRjRkl1OUVIWHNjLVBXb0tPZU81T0VBMXcxTXBvRVFxREVaeEhEa0Rn?oc=5\" target=\"_blank\">Romano reveals Man Utd now have 'really serious' chance of signing Barcelona star in January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQXRlYUREZ3A3aXdfWlNOTzFKWGJPSzZnVENzOUNYR1JRWUduSWk4VG50bVJVLWxORFhZMURZSDVfTEFncTFtS3JlejZieVZjcF9MTlg1M0l3Rk1jWW82V0E5b3NGZ0FQeXFrNXlCZEQxQ1l4ZE03LXd3em1lblMtR3B4cWpTM3JiUHRjRkl1OUVIWHNjLVBXb0tPZU81T0VBMXcxTXBvRVFxREVaeEhEa0Rn?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 18 Nov 2026 15:40:33 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Transfer News: Balde truth, Nico Paz to Man Utd, Bruno dilemma - FootballTransfers.com",
+      "items": [
+        {
+          "title": "Fabrizio Romano Transfer News: Balde truth, Nico Paz to Man Utd, Bruno dilemma - FootballTransfers.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVREZFczenBRN1cyektWRjllcHVNMDFKZ3FQTklQZGk5d24zTHZGN0E1Q2VKV3J4RUdVVGRhTmRSSjRmaGc0R3NZOTFtMkpIZ3c2SzdYdnZLcDBNaXNBTjljN3RqMXI1RGp2bXZ5emF2ZnoxYW5XSFI5WjFFV3F6XzFpVG9RNGxSUWtMN25iZEc1ZmN5ZmVWWkF5RGU5OGlLUmg3WGlic1VpVndpc2VRUTdnM1duVDllX2dXUEhrUDl1NktxN1pXVUloSjFxQ3JqU2laUXVPemVLaHFIaDFxQlJXQmdsTUE?oc=5\" target=\"_blank\">Fabrizio Romano Transfer News: Balde truth, Nico Paz to Man Utd, Bruno dilemma</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FootballTransfers.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVREZFczenBRN1cyektWRjllcHVNMDFKZ3FQTklQZGk5d24zTHZGN0E1Q2VKV3J4RUdVVGRhTmRSSjRmaGc0R3NZOTFtMkpIZ3c2SzdYdnZLcDBNaXNBTjljN3RqMXI1RGp2bXZ5emF2ZnoxYW5XSFI5WjFFV3F6XzFpVG9RNGxSUWtMN25iZEc1ZmN5ZmVWWkF5RGU5OGlLUmg3WGlic1VpVndpc2VRUTdnM1duVDllX2dXUEhrUDl1NktxN1pXVUloSjFxQ3JqU2laUXVPemVLaHFIaDFxQlJXQmdsTUE?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 06:55:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Pochettino connection could help Man United land one of Europe’s brightest midfielders",
+      "items": [
+        {
+          "title": "Pochettino connection could help Man United land one of Europe’s brightest midfielders",
+          "summary": "<p>Manchester United’s appointment of Mauricio Pochettino could strengthen their chances of signing Como star Nico Paz as the club considers adding another creative midfielder in 2027. The 22-year-old has developed into one of Europe’s most exciting attacking midfielders under Cesc Fàbregas, and United already know his quality firsthand after his outstanding Champions League performance against [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/19/pochettino-connection-help-man-united-land-brightest-midfielders/\">Pochettino connection could help Man United land one of Europe’s brightest midfielders</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/19/pochettino-connection-help-man-united-land-brightest-midfielders/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 19 Nov 2026 07:49:23 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United prepare £25m January offer for experienced Premier League defender",
+      "items": [
+        {
+          "title": "Manchester United prepare £25m January offer for experienced Premier League defender",
+          "summary": "<p>Manchester United are reportedly preparing a £25 million offer to sign Fulham defender Antonee Robinson, with Mauricio Pochettino keen to reunite with the American international during the January transfer window. The 29-year-old has established himself as one of Fulham&#8217;s most important players, attracting attention from several Premier League clubs ahead of the winter transfer window. [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/18/manchester-united-prepare-25m-january-offer-for-experienced-premier-league-defender/\">Manchester United prepare £25m January offer for experienced Premier League defender</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/18/manchester-united-prepare-25m-january-offer-for-experienced-premier-league-defender/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 18 Nov 2026 21:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Sources: Mauricio Pochettino identifies his preferred Jason Wilcox replacement at Man United",
+      "items": [
+        {
+          "title": "Sources: Mauricio Pochettino identifies his preferred Jason Wilcox replacement at Man United",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/sources-mauricio-pochettino-identifies-his-preferred-jason-wilcox-replacement-at-man-united",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Thu, 19 Nov 2026 06:55:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 49,
+    "story_count": 43
+  }
+}
