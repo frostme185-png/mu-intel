@@ -1,0 +1,1103 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T08:03:49.157186+00:00",
+  "match_data": {
+    "collected_at": "2026-11-21T08:03:45.200449+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Cost of Man Utd hiring and firing managers nears £100m",
+      "items": [
+        {
+          "title": "Cost of Man Utd hiring and firing managers nears £100m",
+          "summary": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 20 Nov 2026 23:18:16 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'That's not just about Arteta, Klopp or Pep' - Ferdinand on Man Utd public outbursts",
+      "items": [
+        {
+          "title": "'That's not just about Arteta, Klopp or Pep' - Ferdinand on Man Utd public outbursts",
+          "summary": "Rio Ferdinand speaking on 5 Live Sport's Premier League Kick-Off, addresses recent public outbursts from Manchester United's Bruno Fernandes and Lisandro Martinez",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ckn809wgvgvpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 20 Nov 2026 22:22:03 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd fan criticism has gone too far at times - Berrada",
+      "items": [
+        {
+          "title": "Man Utd fan criticism has gone too far at times - Berrada",
+          "summary": "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\".",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 20 Nov 2026 16:55:11 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'We are animals of the grass' - Pochettino missed club football",
+      "items": [
+        {
+          "title": "'We are animals of the grass' - Pochettino missed club football",
+          "summary": "New Manchester United boss Mauricio Pochettino underlines the importance of time on the pitch with his players having spent the last two years in international football as manager of the United States.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq62p5rd023mo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 20 Nov 2026 15:51:22 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Filming training by drones should be illegal - Iraola",
+      "items": [
+        {
+          "title": "Filming training by drones should be illegal - Iraola",
+          "summary": "Liverpool head coach Andoni Iraola says filming with drones around training grounds should be illegal.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 20 Nov 2026 15:08:51 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'My first target is to sleep'",
+      "items": [
+        {
+          "title": "'My first target is to sleep'",
+          "summary": "The new Man Utd boss shares what he's focused on ahead of the side's first game with him in charge.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cr3wg12q6940o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 20 Nov 2026 15:05:13 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Liverpool and Man Utd fans give very 'ambitious' predictions",
+      "items": [
+        {
+          "title": "Liverpool and Man Utd fans give very 'ambitious' predictions",
+          "summary": "Liverpool fan Abi Rudkin and Man Utd fan Jay Motty have very differing views on how their clubs' showdown may go on Sunday",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6rrgd9lx0zpo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 20 Nov 2026 08:15:09 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United CEO Omar Berrada breaks silence on Man City charges guilty verdict",
+      "items": [
+        {
+          "title": "Manchester United CEO Omar Berrada breaks silence on Man City charges guilty verdict",
+          "summary": "Man United's CEO Omar Berrada made the switch from the Etihad to Old Trafford two-and-a-half years ago.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-ceo-omar-berrada-34941893",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:49:07 +0000"
+        },
+        {
+          "title": "Man Utd CEO Omar Berrada breaks silence on Man City charges with firm message",
+          "summary": "Omar Berrada's time at Manchester City covered most of the years in which the Premier League club have now been found to have committed serious financial breaches",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-omar-berrada-city-37899925",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:56:40 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Mauricio Pochettino said in his first Manchester United press conference",
+      "items": [
+        {
+          "title": "What Mauricio Pochettino said in his first Manchester United press conference",
+          "summary": "Mauricio Pochettino spoke to the media for the first time since his appointment as Manchester United's head coach.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-press-conference-live-34936416",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:39:00 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino confirms Bruno Fernandes decision at Manchester United",
+          "summary": "Mauricio Pochettino has made a decision on whether Bruno Fernandes will remain as Man Utd captain.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-confirms-bruno-fernandes-34942584",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:11:11 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino pictured taking Manchester United training for the first time",
+          "summary": "New Man Utd head coach Mauricio Pochettino has taken training for the first time as he prepares for Sunday's fixture against Liverpool at Anfield.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-pictured-taking-manchester-34934144",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 12:37:47 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino demands say on all big first-team decisions at Manchester United",
+          "summary": "<ul><li><p>Head coach wants control recent predecessors lacked</p></li><li><p>Berrada says some fan criticism ‘does cross the line’</p></li></ul><p>Mauricio Pochettino has told the Manchester United hierarchy he wants a say in all major decisions related to the first team. The club’s transfer business in recent years has received plenty of criticism and the new head coach is eager for a level of control not enjoyed by his recent predecessors.</p><p>Pochettino has been given the title of head coach rather than manager but has made plain the power he is seeking, working alongside the director of football, Jason Wilcox, who is in overall charge of player recruitment.</p> <a href=\"https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-demands-say-decisions-fitness\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-demands-say-decisions-fitness",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:30:37 GMT"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Wayne Rooney admits he embarrassed himself when he broke son Kai's Man United rule",
+      "items": [
+        {
+          "title": "Wayne Rooney admits he embarrassed himself when he broke son Kai's Man United rule",
+          "summary": "Wayne Rooney is currently taking part in ITV's I'm A Celebrity...Get Me Out Of Here! with the Manchester United legend sharing a number of revelations about his personal life",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/wayne-rooney-kai-manchester-united-34939938",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 08:46:03 +0000"
+        },
+        {
+          "title": "Wayne Rooney left wife Coleen stunned by mistake as he broke son Kai's Man Utd rule",
+          "summary": "Wayne Rooney is currently in the Australian jungle as part of I'm A Celebrity...Get Me Out Of Here! where he has made a number of personal revelations",
+          "url": "https://www.mirror.co.uk/sport/football/news/wayne-kai-rooney-manchester-united-37897597",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 09:39:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino sends immediate January transfer plea to Man Utd chiefs",
+      "items": [
+        {
+          "title": "Mauricio Pochettino sends immediate January transfer plea to Man Utd chiefs",
+          "summary": "Mauricio Pochettino addressed the media for the first time since being appointed Manchester United's new manager, as he previewed Sunday's Premier League game away to Liverpool",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-manchester-united-conference-37899329",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 14:54:40 +0000"
+        },
+        {
+          "title": "Man Utd transfer news: Fulham reach decision on selling Calvin Bassey to Mauricio Pochettino in January - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXZaWHdWamtrdk5JMmJDdFR2Nmh2MG1NdjVfR1ZZNU05b0dGdmswaW1WalptcVBmZ3liRk5mNGNvRU0zZVU2c1ZOSGJhWi1xVDBqWkNhNGczNTdBSVpfbW5MWFpod0NmR3k0V0M2NV9tQW1YZ0NoQ2lsZEhZRFlra1lzZWx5SlQ3T3RxSFdWTlhEZUJ2YmpNV25nS1hwUUwwWlRFNVQ0SXE5TjA?oc=5\" target=\"_blank\">Man Utd transfer news: Fulham reach decision on selling Calvin Bassey to Mauricio Pochettino in January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXZaWHdWamtrdk5JMmJDdFR2Nmh2MG1NdjVfR1ZZNU05b0dGdmswaW1WalptcVBmZ3liRk5mNGNvRU0zZVU2c1ZOSGJhWi1xVDBqWkNhNGczNTdBSVpfbW5MWFpod0NmR3k0V0M2NV9tQW1YZ0NoQ2lsZEhZRFlra1lzZWx5SlQ3T3RxSFdWTlhEZUJ2YmpNV25nS1hwUUwwWlRFNVQ0SXE5TjA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 18:23:15 GMT"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United news RECAP: Bruno Fernandes decision made as Antonio Conte takes offence",
+      "items": [
+        {
+          "title": "Man United news RECAP: Bruno Fernandes decision made as Antonio Conte takes offence",
+          "summary": "Mauricio Pochettino is in the building at Manchester United as the new manager prepares for a tricky first match against bitter rivals Liverpool",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-pochettino-drone-recap-34933722",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 21 Nov 2026 07:39:16 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United news LIVE: Mauricio Pochettino's three new rules as boss makes Bruno Fernandes call",
+      "items": [
+        {
+          "title": "Man United news LIVE: Mauricio Pochettino's three new rules as boss makes Bruno Fernandes call",
+          "summary": "Mauricio Pochettino's first game in charge of Manchester United is swiftly approaching as the new manager prepares for a trip to Liverpool",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-live-mauricio-pochettino-34946608",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 21 Nov 2026 07:36:53 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino's three new Man United rules as new boss stamps his authority",
+          "summary": "Mauricio Pochettino has already outlined what he expects from his Manchester United players",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-rules-34946143",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 21 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Wayne Rooney reveals 'disagreements' with Coleen over son Kai",
+      "items": [
+        {
+          "title": "Wayne Rooney reveals 'disagreements' with Coleen over son Kai",
+          "summary": "Wayne Rooney has opened up on how he is trying to guide son Kai's burgeoning career at Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-kai-rooney-way-34938478",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 21 Nov 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "10 players could miss Liverpool vs Man United as Pochettino left sweating on stars' fitness",
+      "items": [
+        {
+          "title": "10 players could miss Liverpool vs Man United as Pochettino left sweating on stars' fitness",
+          "summary": "New Manchester United boss Mauricio Pochettino has some injury headaches ahead of his first game in charge",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-team-news-liverpool-34946472",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 21 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Transfer plans, training change and Dorgu hope - Manchester United Notebook",
+      "items": [
+        {
+          "title": "Transfer plans, training change and Dorgu hope - Manchester United Notebook",
+          "summary": "It's the start of a new era at Man Utd with Mauricio Pochettino taking over as the club's head coach this week.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/transfer-plans-training-change-dorgu-34934661",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 21 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Antonio Conte hits back at Man United claim as he reveals meeting with club legend",
+      "items": [
+        {
+          "title": "Antonio Conte hits back at Man United claim as he reveals meeting with club legend",
+          "summary": "The Italian isn't happy with the reports surrounding the Manchester United job",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/antonio-conte-man-united-ferguson-34945714",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 18:57:15 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why Mauricio Pochettino held three-hour meetings with Manchester United players",
+      "items": [
+        {
+          "title": "Why Mauricio Pochettino held three-hour meetings with Manchester United players",
+          "summary": "Mauricio Pochettino took over as Man Utd head coach this week and he is already making an impact with the players.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-held-three-hour-34942595",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:33:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Omar Berrada accepts criticism for Manchester United's failings",
+      "items": [
+        {
+          "title": "Omar Berrada accepts criticism for Manchester United's failings",
+          "summary": "Man Utd's CEO Omar Berrada has spoken publicly for the first time since June following Mauricio Pochettino's appointment.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/omar-berrada-accepts-criticism-manchester-34941642",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:23:04 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United release statement after Mauricio Pochettino training session secretly recorded",
+      "items": [
+        {
+          "title": "Man United release statement after Mauricio Pochettino training session secretly recorded",
+          "summary": "Manchester United have made their stance clear following the incident",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34943473",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 15:11:17 +0000"
+        },
+        {
+          "title": "Drone pilot sends Mauricio Pochettino message after secretly filming Man United training",
+          "summary": "Mauricio Pochettino's first Manchester United training session was filmed by a drone operator and a message has been sent to the new boss",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-drone-mauricio-pochettino-34940590",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 10:16:59 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino makes Manchester United request after being given head coach job title",
+      "items": [
+        {
+          "title": "Mauricio Pochettino makes Manchester United request after being given head coach job title",
+          "summary": "Mauricio Pochettino has been appointed head coach at Man Utd but he wants more control than the job title would suggest.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-makes-manchester-united-34942563",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 14:57:42 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Dorgu, Sesko, Rashford - Man United injury latest and return dates ahead of Liverpool showdown",
+      "items": [
+        {
+          "title": "Dorgu, Sesko, Rashford - Man United injury latest and return dates ahead of Liverpool showdown",
+          "summary": "Mauricio Pochettino takes the reins of Manchester United for the first time on Sunday in a tense battle with Liverpool at Anfield, where he will hope to kickstart the Reds' Premier League season",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-injury-news-liverpool-34943047",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 14:54:30 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Inside JJ Gabriel’s Man United exit: Cost to Real Madrid revealed with Jose Mourinho unhappy",
+      "items": [
+        {
+          "title": "Inside JJ Gabriel’s Man United exit: Cost to Real Madrid revealed with Jose Mourinho unhappy",
+          "summary": "JJ Gabriel is tipped to join Real Madrid having left Manchester United, with Jose Mourinho breaking his silence on the teenager's controversial transfer saga",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/jj-gabriel-real-madrid-transfer-34942681",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 13:55:46 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Four things spotted in drone footage of Mauricio Pochettino's first Man United training session",
+      "items": [
+        {
+          "title": "Four things spotted in drone footage of Mauricio Pochettino's first Man United training session",
+          "summary": "Mauricio Pochettino's first Manchester United training session was controversially recorded by a drone operator on Thursday morning.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/four-things-spotted-drone-footage-34939991",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 09:21:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Edwin van der Sar claims he 'saw a light' before brain haemorrhage that changed his life",
+      "items": [
+        {
+          "title": "Edwin van der Sar claims he 'saw a light' before brain haemorrhage that changed his life",
+          "summary": "Legendary Ajax and Manchester United goalkeeper Edwin van der Sar has reflected on his final memories before being rushed to intensive career with a bleed on the brain",
+          "url": "https://www.mirror.co.uk/sport/football/news/edwin-van-der-sar-health-37901113",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 22:00:38 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd chief sends JJ Gabriel clear message after departure triggers potential legal action",
+      "items": [
+        {
+          "title": "Man Utd chief sends JJ Gabriel clear message after departure triggers potential legal action",
+          "summary": "JJ Gabriel released a video on social media on Tuesday announcing his departure from Manchester United ahead of a move to Real Madrid and Omar Berrada has now responded",
+          "url": "https://www.mirror.co.uk/sport/football/man-utd-berrada-jj-gabriel-37900882",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 19:37:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino confirms Bruno Fernandes decision after private talks with Man Utd captain",
+      "items": [
+        {
+          "title": "Mauricio Pochettino confirms Bruno Fernandes decision after private talks with Man Utd captain",
+          "summary": "Mauricio Pochettino has spoken privately with Bruno Fernandes since touching down in Manchester and has revealed the outcome of their talks ahead of the Liverpool game",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-pochettino-man-utd-37900065",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 16:24:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Andoni Iraola insists Man Utd have advantage despite Liverpool watching drone training footage",
+      "items": [
+        {
+          "title": "Andoni Iraola insists Man Utd have advantage despite Liverpool watching drone training footage",
+          "summary": "Liverpool host Manchester United at Anfield on Sunday for Mauricio Pochettino's first game in charge after his training session was spied on by a rogue drone operator",
+          "url": "https://www.mirror.co.uk/sport/football/news/andoni-iraola-man-utd-drone-37899415",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 14:43:50 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Jamie Carragher takes swipe at Mauricio Pochettino and warns Man Utd over key 'issue'",
+      "items": [
+        {
+          "title": "Jamie Carragher takes swipe at Mauricio Pochettino and warns Man Utd over key 'issue'",
+          "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday and returns to England with a point to prove after a spell as manager of the USA",
+          "url": "https://www.mirror.co.uk/sport/football/news/jamie-carragher-pochettino-manchester-united-37898662",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 13:13:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd training footage removed after security breach as drone pilot speaks out on Liverpool",
+      "items": [
+        {
+          "title": "Man Utd training footage removed after security breach as drone pilot speaks out on Liverpool",
+          "summary": "The drone pilot who secretly filmed Mauricio Pochettino's first Manchester United training session at Carrington has issued a statement",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-drone-pochettino-liverpool-37898100",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 11:03:31 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Glazer family split over selling Man Utd after Mauricio Pochettino intervention",
+      "items": [
+        {
+          "title": "Glazer family split over selling Man Utd after Mauricio Pochettino intervention",
+          "summary": "Manchester United's long-term future has once again come into focus amid claims that the Glazer family intervened in the club's recent search for a new head coach",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-glazers-sale-takeover-37897794",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 10:15:46 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino dealt transfer blow as Man Utd target in new contract talks",
+      "items": [
+        {
+          "title": "Mauricio Pochettino dealt transfer blow as Man Utd target in new contract talks",
+          "summary": "Manchester United are expected to be active in January with defensive reinforcements on the agenda - but one transfer target has held contract talks with his current club",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-mauricio-pochettino-37897440",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 09:00:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Pochettino the connector: will human touch lift Manchester United?",
+      "items": [
+        {
+          "title": "Pochettino the connector: will human touch lift Manchester United?",
+          "summary": "<p>Argentinian has excelled in man-management – but will need his powers to energise new squad and impress owners</p><p>Mauricio Pochettino celebrated his 50th birthday in style. It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the kind that many capitals have but only Paris truly <em>does</em>. Pochettino’s family and friends were there. So were his inner coaching circle, who are basically family. There were lots of people from PSG. And a good time was had by all.</p><p>For Pochettino, it was emotional. As everybody knows, the <a href=\"https://www.theguardian.com/football/2026/nov/18/mauricio-pochettino-arrives-manchester-united-head-coach-premier-league\">new Manchester United head coach</a> is the kind of guy to well up when the speeches start, so imagine how he felt when he looked up at the big screen and a video montage of well-wishers started to roll.</p> <a href=\"https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 19:00:37 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Drone operator sorry for filming Pochettino’s first Manchester United training session",
+      "items": [
+        {
+          "title": "Drone operator sorry for filming Pochettino’s first Manchester United training session",
+          "summary": "<ul><li><p>Operator removes video from his channel</p></li><li><p>‘I fully accept it was unethical,’ he says</p></li></ul><p>A drone operator who filmed Mauricio Pochettino’s first ⁠Manchester United training ⁠session on Thursday has apologised for what he called a “total error of judgment” and removed ⁠the footage from ⁠his ​YouTube channel.</p><p>The footage was uploaded online under the username “CC OVERVIEW”. In a statement posted on his YouTube channel ⁠on Friday, the drone operator said that while the flight ​was legal under drone regulations, ‌filming the session ‌had been “unethical”.</p> <a href=\"https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-drone\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-drone",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 10:00:04 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Premier League: 10 things to look out for this weekend",
+      "items": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "summary": "<p>Bruno Guimarães to feel the heat on Tyneside, Alex Scott’s return further cheers Cherries and Manchester City face favourite whipping boys</p><p>After three Premier League defeats on the spin, Manchester City need something or someone to come along and put some pep in their step, and Fulham look like just the thing – after all, in the past 15 years these teams have played 20 times in all competitions, and City have won precisely 20 of those games. Their current run of 17 successive league wins against Fulham is the longest run of victories by one club against a single opponent in English top-flight history. It is a reflection of the changing realities of English football, and the gulf that has opened between the teams that dominate it and those who seek to challenge them, that of the top 10 such runs all but one occurred in whole or in part after 2010 and six of them have been achieved by Sheikh Mansour’s Manchester City, with Chelsea responsible for another two, Manchester United one, and Portsmouth’s postwar, 13-game supremacy over Everton – a wild ride that included two 5-0s, a 5-1, a 6-3 and a 7-0 – the anomaly. <strong>Simon Burnton</strong></p><p><em>Manchester City v Fulham, Saturday 12.30pm (all times GMT)</em></p><p><em>Aston Villa v Sunderland, Saturday 3pm</em></p><p><em>Bournemouth v Nottingham Forest, Saturday 3pm</em></p><p><em>Chelsea v Leeds</em><em>, Saturday 3pm</em></p><p><em>Coventry v Crystal Palace, Saturday 3pm</em></p> <a href=\"https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 00:00:15 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
+      "items": [
+        {
+          "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
+          "summary": "<ul><li><p>New head coach’s first game is at Anfield on Sunday</p></li><li><p>‘We are going there with the idea to win and be brave’</p></li></ul><p>Mauricio Pochettino has called on Manchester United to have “no fear” when they travel to Anfield on Sunday for his first game. The Argentinian does not want his players to take a backward step as he targets a fast start.</p><p>United are 18th in the Premier League and Liverpool fourth but the head coach will not accept any self-doubt. Pochettino is known for being attack-minded and is keen to instil those ideals, but will have had only three days with the players since replacing Michael Carrick.</p> <a href=\"https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 12:38:05 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals Benjamin Sesko decision on leaving Man Utd for Juventus - Football365",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals Benjamin Sesko decision on leaving Man Utd for Juventus - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3J6b3ZiQmU0cjZGQUhmLTNJQ0tVYXpMRkI1ZnU0c1FVd1Q5X2J1YzdEa3JBY2NmSnVSMDdkSXhJWm04UEdvbk5fVlNPc2wwc19SQ3FWUHRuTlBzUTRRWDRhN3F3eWVJektoNmtxT3A3Q0J6SC1GZnVIUHN4R3FrSUhDRjh1NE5XVXNzUkhlVVNHSDBjdG9MZkN1aHBVaEtNemVuQzFHUmtWSTRsSk9hdg?oc=5\" target=\"_blank\">Fabrizio Romano reveals Benjamin Sesko decision on leaving Man Utd for Juventus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa3J6b3ZiQmU0cjZGQUhmLTNJQ0tVYXpMRkI1ZnU0c1FVd1Q5X2J1YzdEa3JBY2NmSnVSMDdkSXhJWm04UEdvbk5fVlNPc2wwc19SQ3FWUHRuTlBzUTRRWDRhN3F3eWVJektoNmtxT3A3Q0J6SC1GZnVIUHN4R3FrSUhDRjh1NE5XVXNzUkhlVVNHSDBjdG9MZkN1aHBVaEtNemVuQzFHUmtWSTRsSk9hdg?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 11:19:18 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano confirms Man Utd’s January plans as Sesko & Zirkzee status revealed - utdreport",
+      "items": [
+        {
+          "title": "Romano confirms Man Utd’s January plans as Sesko & Zirkzee status revealed - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlGZUMwQ0dIZ1U3T1lGV3JnaENGcldsRU1YS0ZRU1hEZWNkWVlSc01oV0tkWGxzRzBKOG1vTzdvNXA4bkpObklUUUZKNEk4bG9MaTNDbk5PWUFHc1V6Q1BXd1VrOTNUSUg2S21QQWs1Y1VvQjBZQnFnOEhjMFBFR0VpZFdyTWMxUldrY3MwX3pybWfSAZgBQVVfeXFMTS1MWjN3VUdPOGVFZDZiLS1ZQXRLZXU2d3N4OEtKZ2FMNFdoellERl9pM1ZZbHp5aVhqM09Td05CVlp2OWRKS2JIRG5sSDJGN2RhSlc1bS1uSXRrcFoyd1Y3MHVab2pNZHpsbmdRUC1HVTZhN1pOZThQXzFraWdvWEt3MTZGaHQyekhWSGZlZTBralVZcFNGZXY?oc=5\" target=\"_blank\">Romano confirms Man Utd’s January plans as Sesko & Zirkzee status revealed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcXlGZUMwQ0dIZ1U3T1lGV3JnaENGcldsRU1YS0ZRU1hEZWNkWVlSc01oV0tkWGxzRzBKOG1vTzdvNXA4bkpObklUUUZKNEk4bG9MaTNDbk5PWUFHc1V6Q1BXd1VrOTNUSUg2S21QQWs1Y1VvQjBZQnFnOEhjMFBFR0VpZFdyTWMxUldrY3MwX3pybWfSAZgBQVVfeXFMTS1MWjN3VUdPOGVFZDZiLS1ZQXRLZXU2d3N4OEtKZ2FMNFdoellERl9pM1ZZbHp5aVhqM09Td05CVlp2OWRKS2JIRG5sSDJGN2RhSlc1bS1uSXRrcFoyd1Y3MHVab2pNZHpsbmdRUC1HVTZhN1pOZThQXzFraWdvWEt3MTZGaHQyekhWSGZlZTBralVZcFNGZXY?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 11:32:17 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Transfer-Linked Man Utd Star Will Not Leave Club In January - GiveMeSport",
+      "items": [
+        {
+          "title": "Romano: Transfer-Linked Man Utd Star Will Not Leave Club In January - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRnd0d082NkVlNWp2UU9UVjJ1WWVURzdpTm15LTdabmMyNFRmSWhCNDBmZ2c0ajRaM1B5OE02ejBjd1pDeHdqMThCNUVnRVp5Y3VuRmx4R1g4d3I0NTcyYmZaM2dNa3pBR0k3OWNwMVFlZnM2SEhlNGdIdE5BdFJBRE1n?oc=5\" target=\"_blank\">Romano: Transfer-Linked Man Utd Star Will Not Leave Club In January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRnd0d082NkVlNWp2UU9UVjJ1WWVURzdpTm15LTdabmMyNFRmSWhCNDBmZ2c0ajRaM1B5OE02ejBjd1pDeHdqMThCNUVnRVp5Y3VuRmx4R1g4d3I0NTcyYmZaM2dNa3pBR0k3OWNwMVFlZnM2SEhlNGdIdE5BdFJBRE1n?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 09:15:14 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano predicts double Man Utd swoop in January – ‘already started exploring’ - TEAMtalk",
+      "items": [
+        {
+          "title": "Fabrizio Romano predicts double Man Utd swoop in January – ‘already started exploring’ - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTdFUGFkSzhfM2VjY1VHZ0lwMTBncmItLUZhbWtkRDE5X0laMlpfbTVqYU1GdjhHLTBBV2JJZnVoemZMZzcwVmVLeVZaRUdfZnJQbkRwTDdySHY5aEJFSWdnQUh5cERfNFRsbzMzWWltZTRNZ3VCRFJqM1JRbmZBbHZIMk03WDZQS0xiOUlyV0N4LXB5SWg1cVQyMlJPM2gyZXNYMzJ4UndkNlppc1dNRkpPUU95Yjcyamc?oc=5\" target=\"_blank\">Fabrizio Romano predicts double Man Utd swoop in January – ‘already started exploring’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUTdFUGFkSzhfM2VjY1VHZ0lwMTBncmItLUZhbWtkRDE5X0laMlpfbTVqYU1GdjhHLTBBV2JJZnVoemZMZzcwVmVLeVZaRUdfZnJQbkRwTDdySHY5aEJFSWdnQUh5cERfNFRsbzMzWWltZTRNZ3VCRFJqM1JRbmZBbHZIMk03WDZQS0xiOUlyV0N4LXB5SWg1cVQyMlJPM2gyZXNYMzJ4UndkNlppc1dNRkpPUU95Yjcyamc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 09:51:03 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Man Utd Made ‘Very Aggressive’ Move To Sign 'Best DM in the World' - GiveMeSport",
+      "items": [
+        {
+          "title": "Romano: Man Utd Made ‘Very Aggressive’ Move To Sign 'Best DM in the World' - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEllNU9lRXZlNW9wd3pPekpvLWtKbzlCVGpZVmp2Si1lQUl4M3JrakxFb0dsdXFWaU8wbFQzbTlLRndOb2NZQ0d6RDVaQnNFV0pKX0pOdVdNM1laR2JJWVZSMmNBaXRGZVJYSGt2b0Uzd0hTWl9keV9pRW1nb3gyd1UwN0paS2hudV80M0FiNFFGTS10MkdTNA?oc=5\" target=\"_blank\">Romano: Man Utd Made ‘Very Aggressive’ Move To Sign 'Best DM in the World'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEllNU9lRXZlNW9wd3pPekpvLWtKbzlCVGpZVmp2Si1lQUl4M3JrakxFb0dsdXFWaU8wbFQzbTlLRndOb2NZQ0d6RDVaQnNFV0pKX0pOdVdNM1laR2JJWVZSMmNBaXRGZVJYSGt2b0Uzd0hTWl9keV9pRW1nb3gyd1UwN0paS2hudV80M0FiNFFGTS10MkdTNA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 20:15:14 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano reveals Man Utd’s stance on signing ex-Leeds flop: “All under control” - utdreport",
+      "items": [
+        {
+          "title": "Fabrizio Romano reveals Man Utd’s stance on signing ex-Leeds flop: “All under control” - utdreport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmJ5VVZBbWlkUE14VlQ3eUFCSlB0OEN1Unp5c2ZpZ2xOc1M2X0NZZWpkdDVqZFU2VEN3MndSaEZSM3BZUjNlbWJYV2F0RXZnOHZxVEE2TzdvOE0yeE5MaGRSRnZZNXE2am9CakJ4QV9LSUxyNy1iaHkyc3ltcGs5a9IBhgFBVV95cUxPaENxQmV3UGZRbUtCcWRQV215ZWE1X0wzVURKRVMtT0E3SUhjYXA0aEw4Q3pzbzNGRy1zTXF3WTRBZXhWV3N2eWNaUHEwVXZNV0FUTlJETHpBVC1tQ0Z6LUI0ZG5Gdks0U2d0UDd3elIyMlpZQ3VNWVUwTF8yTGRZTWtGZUZCZw?oc=5\" target=\"_blank\">Fabrizio Romano reveals Man Utd’s stance on signing ex-Leeds flop: “All under control”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">utdreport</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmJ5VVZBbWlkUE14VlQ3eUFCSlB0OEN1Unp5c2ZpZ2xOc1M2X0NZZWpkdDVqZFU2VEN3MndSaEZSM3BZUjNlbWJYV2F0RXZnOHZxVEE2TzdvOE0yeE5MaGRSRnZZNXE2am9CakJ4QV9LSUxyNy1iaHkyc3ltcGs5a9IBhgFBVV95cUxPaENxQmV3UGZRbUtCcWRQV215ZWE1X0wzVURKRVMtT0E3SUhjYXA0aEw4Q3pzbzNGRy1zTXF3WTRBZXhWV3N2eWNaUHEwVXZNV0FUTlJETHpBVC1tQ0Z6LUI0ZG5Gdks0U2d0UDd3elIyMlpZQ3VNWVUwTF8yTGRZTWtGZUZCZw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 05:12:17 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd reach verdict on signing McKennie from Juventus as Romano sheds light on 'a lot of talks' - Football365",
+      "items": [
+        {
+          "title": "Man Utd reach verdict on signing McKennie from Juventus as Romano sheds light on 'a lot of talks' - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFo1RGtVVW9YN2hqajNYNXlEQm84WDV5bFRFeFNqcUtPYVdNMnVBemVmVjZ5c0NzQXNzRFp5MkY3S3NGRjhIM0czTzhPazljNG5rYTdURW5tVWM5UnJpWEJaZmxnZEpUNGptYnVrbFBzWlBjcWRudFZveEx5ODd6Y0ZxRU01dUtrTE13Q05MalZoUQ?oc=5\" target=\"_blank\">Man Utd reach verdict on signing McKennie from Juventus as Romano sheds light on 'a lot of talks'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFo1RGtVVW9YN2hqajNYNXlEQm84WDV5bFRFeFNqcUtPYVdNMnVBemVmVjZ5c0NzQXNzRFp5MkY3S3NGRjhIM0czTzhPazljNG5rYTdURW5tVWM5UnJpWEJaZmxnZEpUNGptYnVrbFBzWlBjcWRudFZveEx5ODd6Y0ZxRU01dUtrTE13Q05MalZoUQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 10:10:20 GMT"
+        },
+        {
+          "title": "Man Utd reach decision on signing Weston McKennie from Juventus - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObmNobE5uYlFWTnFZeUhPQU9mNHBrYk1KRVM1b2JGSWZLLTVqQUpwMGcwbFc5MGh5QzdrVnN6RUUwQXVjT3RXLXFjRXpxMnZrSVQ3VjhncjY4UlhJMFhONVR6Q01zaGJ3bGRxc005ai1xalAyU294S19ZRkI3dDJOdUlQMUFjNkU1b1AwUWh3MWRoUjh0MG9WaTlxdG50VTl3YlZoMGtoYTBKNmZnNEJsOWhDZzJUTDRhQmIwdW1GWQ?oc=5\" target=\"_blank\">Man Utd reach decision on signing Weston McKennie from Juventus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmNobE5uYlFWTnFZeUhPQU9mNHBrYk1KRVM1b2JGSWZLLTVqQUpwMGcwbFc5MGh5QzdrVnN6RUUwQXVjT3RXLXFjRXpxMnZrSVQ3VjhncjY4UlhJMFhONVR6Q01zaGJ3bGRxc005ai1xalAyU294S19ZRkI3dDJOdUlQMUFjNkU1b1AwUWh3MWRoUjh0MG9WaTlxdG50VTl3YlZoMGtoYTBKNmZnNEJsOWhDZzJUTDRhQmIwdW1GWQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 08:22:54 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Pochettino Loves 'Unbelievable' Midfielder as Man Utd Transfer Decision Made - GiveMeSport",
+      "items": [
+        {
+          "title": "Romano: Pochettino Loves 'Unbelievable' Midfielder as Man Utd Transfer Decision Made - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFNxbG14ZC1SeFM1M3F5RlowczJZX3FubWdlVmpBY1Voa2ZaeFNrTE9paFpKZXVYbzRGZzZITWVmRWYteDY5TnNXTm5MZjhESVBnYjZtMHAzRERES1ptZ01XWDFVaEtzMUNSZVpjSU9WaE1yeENfMmZiRC1DT3NsOU1LckpNZnAtNDZXLUgyTG5CMFYtSWhQbg?oc=5\" target=\"_blank\">Romano: Pochettino Loves 'Unbelievable' Midfielder as Man Utd Transfer Decision Made</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFNxbG14ZC1SeFM1M3F5RlowczJZX3FubWdlVmpBY1Voa2ZaeFNrTE9paFpKZXVYbzRGZzZITWVmRWYteDY5TnNXTm5MZjhESVBnYjZtMHAzRERES1ptZ01XWDFVaEtzMUNSZVpjSU9WaE1yeENfMmZiRC1DT3NsOU1LckpNZnAtNDZXLUgyTG5CMFYtSWhQbg?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 12:18:56 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd Transfer News Today: Osimhen 'ready' to join as contract talks confirmed - LiveScore",
+      "items": [
+        {
+          "title": "Man Utd Transfer News Today: Osimhen 'ready' to join as contract talks confirmed - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxObVRZeTNJR19fS25qeDd0ZVBoeFI2SV93VkpTQ3V3SFFHNHB4bF9XYjliX2dpOFc0aEZmR1ZMS1JZdlg2ZGRzck9uTWpWX3JGS0ROcGxKYkdyb2pVQWFOYmxGejkxSVVMX0pWRGd2QUhPRXh5Skgzb2NDbDJQQml6SnJEd01KNVdQN3lhQWd0U0pQdV9kMGZPZGpIX1NMZUVaSGV1bDkxVGhQOF9DYWpnbDRRYnZKVm9PQ0ptSTl6dHRaUmdMM3Y1amhmVzVQLVhFQnNOYmd1WjNaVXl2SFBYbjdDRERXZ2dseWc?oc=5\" target=\"_blank\">Man Utd Transfer News Today: Osimhen 'ready' to join as contract talks confirmed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObVRZeTNJR19fS25qeDd0ZVBoeFI2SV93VkpTQ3V3SFFHNHB4bF9XYjliX2dpOFc0aEZmR1ZMS1JZdlg2ZGRzck9uTWpWX3JGS0ROcGxKYkdyb2pVQWFOYmxGejkxSVVMX0pWRGd2QUhPRXh5Skgzb2NDbDJQQml6SnJEd01KNVdQN3lhQWd0U0pQdV9kMGZPZGpIX1NMZUVaSGV1bDkxVGhQOF9DYWpnbDRRYnZKVm9PQ0ptSTl6dHRaUmdMM3Y1amhmVzVQLVhFQnNOYmd1WjNaVXl2SFBYbjdDRERXZ2dseWc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 20 Nov 2026 21:29:54 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano: Man Utd Have 'Already Started' Working on Striker Deal for January - GiveMeSport",
+      "items": [
+        {
+          "title": "Romano: Man Utd Have 'Already Started' Working on Striker Deal for January - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTBPMWktbnAwakk4ak03aUVWcGVfc0QyeGVJU3hRTHZfM2RvZG44Ri0zR0JpN2twXzBKMC1qam5VbUZyN3RHZ0FaRWk4X3liQU9xMnctZGlDR2xMS1J0Rmx2Wm16LVFwN0tsUFVJYUlSUHdJMWhTS2o2ejFXaGNlbTF4VThUekRUaDhzeTVqMFJVU0k5?oc=5\" target=\"_blank\">Romano: Man Utd Have 'Already Started' Working on Striker Deal for January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSTBPMWktbnAwakk4ak03aUVWcGVfc0QyeGVJU3hRTHZfM2RvZG44Ri0zR0JpN2twXzBKMC1qam5VbUZyN3RHZ0FaRWk4X3liQU9xMnctZGlDR2xMS1J0Rmx2Wm16LVFwN0tsUFVJYUlSUHdJMWhTS2o2ejFXaGNlbTF4VThUekRUaDhzeTVqMFJVU0k5?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 21 Nov 2026 07:20:14 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "FOUR things Man Utd fans need to know about Nico Paz links - United In Focus",
+      "items": [
+        {
+          "title": "FOUR things Man Utd fans need to know about Nico Paz links - United In Focus",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNRldGYTViVkVVakJQX1AyaTU5cDRLSnV2WjEwVXJTY0VQVlEwUktXVjh3Qkg3aGhMLXlOVHhTRjBtOHRxSUJEcjRnYnhGaXhjQ05pTE1oRU9PQUo1V3NPc3NtYVNTQXQwaHBEYmhYZzBtZy1UbjV4X0FidzRkRGJnU2o3emhPYUNySmF4XzhPNi1YMWJMQU9rWFJKMkRVUnE3a0R3ZXZB?oc=5\" target=\"_blank\">FOUR things Man Utd fans need to know about Nico Paz links</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">United In Focus</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRldGYTViVkVVakJQX1AyaTU5cDRLSnV2WjEwVXJTY0VQVlEwUktXVjh3Qkg3aGhMLXlOVHhTRjBtOHRxSUJEcjRnYnhGaXhjQ05pTE1oRU9PQUo1V3NPc3NtYVNTQXQwaHBEYmhYZzBtZy1UbjV4X0FidzRkRGJnU2o3emhPYUNySmF4XzhPNi1YMWJMQU9rWFJKMkRVUnE3a0R3ZXZB?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 21:00:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Juventus and Napoli eye January move for Manchester United’s Zirkzee - Football Italia",
+      "items": [
+        {
+          "title": "Juventus and Napoli eye January move for Manchester United’s Zirkzee - Football Italia",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBldUQ1eTNueUtkVHpQQ2RzYzVHV3d4SkU4UV9GWGs4b1pDbTd3YzJuNmVyZDFsMTV5UXI0SHhXTlFzU1A0bEloRjhkU3llbVluN2VXeDdLTDg5OUphbTUwby1TcldBVW5RRklTUGZxQVhWQnJueTY2M182djk4Z9IBgwFBVV95cUxObHFUMXBHOS1uVEdNRDJVcTlKVmdwcHlmOTgzdk9QQmhwc240S3ZVVHBuZmdhRjVPOHVycERNUTRiYU8tNzRseklTYmdxYzVXSWE2WE4yN0hKZjQwTkhURzREVzhHd1dLcFUzb3FvbjlSVFNGaUtGWG9hYy15ZWRLcTF5bw?oc=5\" target=\"_blank\">Juventus and Napoli eye January move for Manchester United’s Zirkzee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football Italia</font>",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBldUQ1eTNueUtkVHpQQ2RzYzVHV3d4SkU4UV9GWGs4b1pDbTd3YzJuNmVyZDFsMTV5UXI0SHhXTlFzU1A0bEloRjhkU3llbVluN2VXeDdLTDg5OUphbTUwby1TcldBVW5RRklTUGZxQVhWQnJueTY2M182djk4Z9IBgwFBVV95cUxObHFUMXBHOS1uVEdNRDJVcTlKVmdwcHlmOTgzdk9QQmhwc240S3ZVVHBuZmdhRjVPOHVycERNUTRiYU8tNzRseklTYmdxYzVXSWE2WE4yN0hKZjQwTkhURzREVzhHd1dLcFUzb3FvbjlSVFNGaUtGWG9hYy15ZWRLcTF5bw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Thu, 19 Nov 2026 21:02:19 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United make contact to sign €100m Liverpool target from Bundesliga club",
+      "items": [
+        {
+          "title": "Manchester United make contact to sign €100m Liverpool target from Bundesliga club",
+          "summary": "<p>Real Madrid are reportedly among several European heavyweights interested in signing Borussia Dortmund midfielder Felix Nmecha, with Manchester United and Manchester City also exploring a potential move for the German international. The 26-year-old has attracted considerable attention following his performances for Dortmund, with his physical attributes, technical ability and versatility making him an attractive option [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/20/manchester-united-make-contact-to-sign-e100m-liverpool-target-from-bundesliga-club/\">Manchester United make contact to sign €100m Liverpool target from Bundesliga club</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/20/manchester-united-make-contact-to-sign-e100m-liverpool-target-from-bundesliga-club/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 20 Nov 2026 20:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United consider surprise move for former Chelsea star ahead of 2027",
+      "items": [
+        {
+          "title": "Man United consider surprise move for former Chelsea star ahead of 2027",
+          "summary": "<p>Manchester United are reportedly monitoring Real Madrid defender Antonio Rudiger as Mauricio Pochettino looks to strengthen his defensive options ahead of the 2027 transfer windows. The German international has emerged as a potential target for the Red Devils, who are expected to prioritise defensive reinforcements following a difficult start to the Premier League campaign. According [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/20/man-united-consider-surprise-move-for-former-chelsea-star-ahead-of-2027/\">Man United consider surprise move for former Chelsea star ahead of 2027</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/20/man-united-consider-surprise-move-for-former-chelsea-star-ahead-of-2027/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 20 Nov 2026 20:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United target £50m Tottenham target to solve ongoing goalscoring problems",
+      "items": [
+        {
+          "title": "Manchester United target £50m Tottenham target to solve ongoing goalscoring problems",
+          "summary": "<p>Manchester United are reportedly considering a move for Freiburg striker Igor Matanovic as Mauricio Pochettino looks to strengthen his attacking options ahead of the January transfer window. The Croatian international has emerged as an attractive option for the Red Devils, who are keen to improve their goalscoring output after struggling to get consistent performances from [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/20/manchester-united-target-50m-tottenham-target-to-solve-ongoing-goalscoring-problems/\">Manchester United target £50m Tottenham target to solve ongoing goalscoring problems</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/20/manchester-united-target-50m-tottenham-target-to-solve-ongoing-goalscoring-problems/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 20 Nov 2026 19:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United and Chelsea monitor potential Premier League return for 29-year-old midfielder",
+      "items": [
+        {
+          "title": "Man United and Chelsea monitor potential Premier League return for 29-year-old midfielder",
+          "summary": "<p>Manchester United have reportedly been alerted to the possibility of re-signing Scott McTominay, with the midfielder considering a return to the Premier League amid uncertainty surrounding his future at Napoli. The Scotland international has developed into one of the most influential midfielders in Italian football since leaving Old Trafford, and his impressive performances have attracted [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/20/man-united-and-chelsea-monitor-potential-premier-league-return-for-29-year-old-midfielder/\">Man United and Chelsea monitor potential Premier League return for 29-year-old midfielder</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/20/man-united-and-chelsea-monitor-potential-premier-league-return-for-29-year-old-midfielder/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 20 Nov 2026 18:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United and Liverpool track highly rated 22-year-old defender ahead of 2027",
+      "items": [
+        {
+          "title": "Manchester United and Liverpool track highly rated 22-year-old defender ahead of 2027",
+          "summary": "<p>Manchester United are reportedly keeping a close eye on Atalanta defender Giorgio Scalvini, with Liverpool also interested in securing the highly-rated Italian international ahead of the 2027 transfer window. The 22-year-old has attracted considerable attention across Europe, and his recent return to top form has strengthened his reputation as one of the most promising young [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/20/manchester-united-and-liverpool-track-highly-rated-22-year-old-defender-ahead-of-2027/\">Manchester United and Liverpool track highly rated 22-year-old defender ahead of 2027</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/20/manchester-united-and-liverpool-track-highly-rated-22-year-old-defender-ahead-of-2027/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 20 Nov 2026 17:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 62,
+    "story_count": 53
+  }
+}
