@@ -1,0 +1,1192 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T08:40:10.316197+00:00",
+  "match_data": {
+    "collected_at": "2026-11-23T08:40:07.860953+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "items": [
+        {
+          "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+          "summary": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Mon, 23 Nov 2026 06:17:59 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Robinson: It will take Poch time to fix United",
+      "items": [
+        {
+          "title": "Robinson: It will take Poch time to fix United",
+          "summary": "Robinson: It will take Poch time to fix United",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cw62pnmx8l0yo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 23:39:02 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+      "items": [
+        {
+          "title": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
+          "summary": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 21:36:00 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+      "items": [
+        {
+          "title": "Chaotic week, nightmare start and huge reality check for Pochettino",
+          "summary": "Mauricio Pochettino's reign as Manchester United boss could barely have got off to a more chastening start, writes Simon Stone.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwd012903kvgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 21:22:10 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'As bad as it gets' - Man Utd fan on Pochettino's first game",
+      "items": [
+        {
+          "title": "'As bad as it gets' - Man Utd fan on Pochettino's first game",
+          "summary": "Man Utd fan Jay Motty has warned fellow supporters that Man Utd could be dragged into a relegation fight if the club doesn't start picking up wins soon.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cmregqe44w4no?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 20:13:06 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+      "items": [
+        {
+          "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+          "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 18:28:51 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "The red card that changed Liverpool-Man Utd: correct call?",
+      "items": [
+        {
+          "title": "The red card that changed Liverpool-Man Utd: correct call?",
+          "summary": "Leny Yoro's red card after eight minutes changed Liverpool v Manchester United - did officials make the correct call?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cq7827p8emmxo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 17:55:54 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd score dramatic late winner to extend record run",
+      "items": [
+        {
+          "title": "Man Utd score dramatic late winner to extend record run",
+          "summary": "Simi Awujo's last-gasp winner caps a remarkable Manchester United comeback at Birmingham, securing a dramatic victory and stretching the club's record unbeaten run to 14 matches.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cm0rkzzyl2ego?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 17:54:32 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Which three players will thrive the most under Pochettino?",
+      "items": [
+        {
+          "title": "Which three players will thrive the most under Pochettino?",
+          "summary": "Which three players who will thrive the most under Pochettino?",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq4gn851xkzzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 14:52:48 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+      "items": [
+        {
+          "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+          "summary": "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Sun, 22 Nov 2026 08:41:20 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What Mauricio Pochettino said to the referee immediately after Man United defeat to Liverpool",
+      "items": [
+        {
+          "title": "What Mauricio Pochettino said to the referee immediately after Man United defeat to Liverpool",
+          "summary": "Leny Yoro was controversially sent off for Manchester United against Liverpool as Mauricio Pochettino's reign got off to a horror start.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-mauricio-pochettino-said-referee-34951079",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 23 Nov 2026 04:00:00 +0000"
+        },
+        {
+          "title": "What Mauricio Pochettino said he'd learnt about his Man United players in Liverpool nightmare",
+          "summary": "Mauricio Pochettino saw his Man Utd reign get off to a horror start with a 4-0 defeat to Liverpool at Anfield.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-mauricio-pochettino-said-hed-34951077",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 19:48:04 +0000"
+        },
+        {
+          "title": "Liverpool thrash Man Utd as Mauricio Pochettino given immediate reality check over job",
+          "summary": "LIVERPOOL 4-0 MANCHESTER UNITED: An early red card for Leny Yoro, followed by goals from Dominik Szoboszlai, Florian Wirtz, Rio Ngumoha and Victor Munoz, saw Mauricio Pochettino lose his first game",
+          "url": "https://www.mirror.co.uk/sport/football/match-reports/liverpool-man-utd-goals-highlights-37904142",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:22:35 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino should axe Man United liability after his 0% display vs Liverpool",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/mauricio-pochettino-should-axe-man-united-liability-after-his-0-display-vs-liverpool",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Mon, 23 Nov 2026 07:47:25 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider",
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 3,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United player ratings vs Liverpool as three get 3/10 in nightmare start for Pochettino",
+      "items": [
+        {
+          "title": "Manchester United player ratings vs Liverpool as three get 3/10 in nightmare start for Pochettino",
+          "summary": "Man Utd were comfortably beaten by Liverpool at Anfield as Leny Yoro was sent-off in Mauricio Pochettino's first game in charge of the club.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-player-ratings-vs-34950688",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:22:47 +0000"
+        },
+        {
+          "title": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+          "summary": "<p>Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eighth minute onwards when Leny Yoro was sent off for denying Alexander Isak a clear goalscoring opportunity. Liverpool would not be denied anything else while tormenting their old rivals yet again.</p><p>Andoni Iraola indulged in his first fist-pumps towards the Kop after an utterly dominant, comfortable win illuminated by Rio Ngumoha and Florian Wirtz brilliance plus goals from Dominik Szoboszlai and Víctor Muñoz. Liverpool’s two creative forces were also on the scoresheet as Ngumoha became the youngster scorer in the fixture’s Premier League history.</p> <a href=\"https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:35:14 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United grant Mauricio Pochettino wish as system from Michael Carrick reign scrapped",
+      "items": [
+        {
+          "title": "Man United grant Mauricio Pochettino wish as system from Michael Carrick reign scrapped",
+          "summary": "New Manchester United boss Mauricio Pochettino seemed confused by how the team line-up was being announced on social media",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-grant-mauricio-pochettino-34949919",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 15:20:07 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino names both players Michael Carrick 'fell out with' in first Man Utd XI",
+          "summary": "Manchester United face bitter rivals Liverpool in Mauricio Pochettino's first game in charge",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-names-both-players-37903885",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 15:21:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Liverpool vs Man United TV channel, live stream and kick-off time",
+      "items": [
+        {
+          "title": "Liverpool vs Man United TV channel, live stream and kick-off time",
+          "summary": "New Manchester United boss Mauricio Pochettino will take charge of his first game on Sunday as a daunting trip to face Liverpool awaits",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-stream-watch-liverpool-34947807",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 13:30:00 +0000"
+        },
+        {
+          "title": "How to watch Liverpool vs Man Utd - TV channel, live stream, kick-off time",
+          "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday as his team face Andoni Iraola's Liverpool",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-watch-stream-37902112",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 13:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville slams Mauricio Pochettino as first Man Utd gamble instantly backfires vs Liverpool",
+      "items": [
+        {
+          "title": "Gary Neville slams Mauricio Pochettino as first Man Utd gamble instantly backfires vs Liverpool",
+          "summary": "Mauricio Pochettino's first game as Manchester United manager got off to the worst possible start after he saw Leny Yoro sent off after less than 10 minutes",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-de-ligt-pochettino-37904150",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 17:02:10 +0000"
+        },
+        {
+          "title": "Gary Neville “very surprised” by one Mauricio Pochettino decision for Man United vs Liverpool",
+          "summary": "<p>Manchester United legend Gary Neville has questioned Mauricio Pochettino&#8217;s decision to start Matthijs de Ligt against Liverpool. The Red Devils were thrashed 4-0 at Anfield on Sunday, and De Ligt was quickly caught out in the build-up to the opening goal for Dominik Szoboszlai. De Ligt was too slow to get back, leaving Leny Yoro [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/22/man-united-legend-neville-on-pochettino-playing-de-ligt/\">Gary Neville &#8220;very surprised&#8221; by one Mauricio Pochettino decision for Man United vs Liverpool</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/22/man-united-legend-neville-on-pochettino-playing-de-ligt/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sun, 22 Nov 2026 19:55:59 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United transfer news LIVE: Mauricio Pochettino eyes £84m target as contract talks begin",
+      "items": [
+        {
+          "title": "Man United transfer news LIVE: Mauricio Pochettino eyes £84m target as contract talks begin",
+          "summary": "Mauricio Pochettino's reign at Manchester United has begun in the worst possible way and the January transfer window cannot come soon enough",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfers-pochettino-live-34951682",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 23 Nov 2026 07:37:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes praises Manchester United teammates despite heavy defeat vs Liverpool",
+      "items": [
+        {
+          "title": "Bruno Fernandes praises Manchester United teammates despite heavy defeat vs Liverpool",
+          "summary": "Bruno Fernandes spoke after Man Utd's heavy defeat to Liverpool in the Premier League on Sunday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-praises-manchester-united-34950197",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 23 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United sale latest as upset Glazers waiting for 'big statement' after Liverpool defeat",
+      "items": [
+        {
+          "title": "Man United sale latest as upset Glazers waiting for 'big statement' after Liverpool defeat",
+          "summary": "Manchester United fans are desperate to see the back of the Glazers - and a key update regarding a potential sale has come out in the last 48 hours",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/glazers-man-united-sale-latest-34951359",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 23 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino must show his ruthless side with one Manchester United player",
+      "items": [
+        {
+          "title": "Mauricio Pochettino must show his ruthless side with one Manchester United player",
+          "summary": "Mauricio Pochettino took charge of his first Man Utd game against Liverpool on Sunday and the Reds were hammered 4-0 at Anfield.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-must-show-ruthless-34950311",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Mon, 23 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Everything said on Leny Yoro red and Premier League explanation as Man United hit out",
+      "items": [
+        {
+          "title": "Everything said on Leny Yoro red and Premier League explanation as Man United hit out",
+          "summary": "Leny Yoro was controversially sent off for a clumsy foul on Alexander Isak in the early stages of Manchester United’s defeat to Liverpool at Anfield.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-leny-yoro-red-34951312",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 21:17:05 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Kobbie Mainoo slams Leny Yoro red card decision vs Liverpool and issues Man United rallying cry",
+      "items": [
+        {
+          "title": "Kobbie Mainoo slams Leny Yoro red card decision vs Liverpool and issues Man United rallying cry",
+          "summary": "Man Utd were hammered 4-0 by Liverpool in the Premier League on Sunday, a nightmare start for Mauricio Pochettino.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/kobbie-mainoo-slams-leny-yoro-34950190",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 19:05:22 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Liverpool vs Manchester United highlights and reaction as 10-man Reds suffer Anfield nightmare",
+      "items": [
+        {
+          "title": "Liverpool vs Manchester United highlights and reaction as 10-man Reds suffer Anfield nightmare",
+          "summary": "Mauricio Pochettino took charge of his first Man United game against Liverpool on Sunday and it was a horrible afternoon for him.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-vs-manchester-united-live-34944225",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:57:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Two more people need to be sacked at Manchester United after Liverpool horror show",
+      "items": [
+        {
+          "title": "Two more people need to be sacked at Manchester United after Liverpool horror show",
+          "summary": "Man Utd turned in a disastrous defensive performance just two days after their chief executive suggested the defence wasn't an issue.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/two-more-people-need-sacked-34950718",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:44:49 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Brutal Mauricio Pochettino chants as Man United break record in Liverpool drubbing",
+      "items": [
+        {
+          "title": "Brutal Mauricio Pochettino chants as Man United break record in Liverpool drubbing",
+          "summary": "Manchester United and Mauricio Pochettino were humiliated as Liverpool ran riot against the 10-men Reds, exposing huge issues in the team",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-liverpool-34950995",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:35:30 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Roy Keane tears into Gary Neville immediately after Man United loss - ‘You played for the club’",
+      "items": [
+        {
+          "title": "Roy Keane tears into Gary Neville immediately after Man United loss - ‘You played for the club’",
+          "summary": "Roy Keane didn't hold back with his assessment of Manchester United following a 4-0 defeat to Liverpool.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-roy-keane-neville-34951038",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:31:24 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Poll: Who is to blame for Manchester United's nightmare at Liverpool?",
+      "items": [
+        {
+          "title": "Poll: Who is to blame for Manchester United's nightmare at Liverpool?",
+          "summary": "Man United made it nine Premier League games without a win on Sunday as Mauricio Pochettino suffered defeat in his first game in charge against Liverpool",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/poll-who-blame-manchester-uniteds-34950928",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:22:45 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Why has the sponsor changed on Man United's kit vs Liverpool?",
+      "items": [
+        {
+          "title": "Why has the sponsor changed on Man United's kit vs Liverpool?",
+          "summary": "Manchester United are wearing their third kit against Liverpool at Anfield and eagle-eyed fans may have noticed a difference to the sponsor on the front of their shirt",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/sponsor-changed-man-uniteds-kit-34950826",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 17:01:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Gary Neville points finger at Mauricio Pochettino as Leny Yoro red card stuns Man United icon",
+      "items": [
+        {
+          "title": "Gary Neville points finger at Mauricio Pochettino as Leny Yoro red card stuns Man United icon",
+          "summary": "Manchester United were reduced to 10 men inside the opening minutes of Sunday afternoon's clash against Liverpool when Leny Yoro made a clumsy challenge inside the box.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-yoro-red-card-34950788",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 16:45:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino explains shock Manchester United team selection vs Liverpool",
+      "items": [
+        {
+          "title": "Mauricio Pochettino explains shock Manchester United team selection vs Liverpool",
+          "summary": "Mauricio Pochettino has named his first line-up as Man United head coach and he has made a couple of surprise calls against Liverpool.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-explains-shock-manchester-34950662",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 16:19:26 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "What Bruno Fernandes was told by Mauricio Pochettino before he joined Man United",
+      "items": [
+        {
+          "title": "What Bruno Fernandes was told by Mauricio Pochettino before he joined Man United",
+          "summary": "Man United captain Bruno Fernandes nearly joined Tottenham back in 2019 and he has opened up on the chats he held with Spurs before his move to Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/what-bruno-fernandes-told-mauricio-34950277",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 14:42:28 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes explains why he's refused new Man United deal and manager's big mistake",
+      "items": [
+        {
+          "title": "Bruno Fernandes explains why he's refused new Man United deal and manager's big mistake",
+          "summary": "Bruno Fernandes has spoken out about his Manchester United future and the club captain explains why he has not yet signed a new deal",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-united-carrick-34949435",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 11:14:06 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United players 'taken aback' by Mauricio Pochettino as two things noticed ahead of Liverpool",
+      "items": [
+        {
+          "title": "Man United players 'taken aback' by Mauricio Pochettino as two things noticed ahead of Liverpool",
+          "summary": "Mauricio Pochettino is all set to begin his Manchester United reign against Liverpool but the new head coach's players have noticed something",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-liverpool-34949146",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 08:12:54 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino's stunning net worth, criticism from wife and successful son",
+      "items": [
+        {
+          "title": "Mauricio Pochettino's stunning net worth, criticism from wife and successful son",
+          "summary": "Mauricio Pochettino has some job on his hands turning Manchester United's season around but he'll be backed all the way by his loving family",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-man-united-wife-34927106",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 08:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Gary Neville slaps himself in the face during Man Utd rant to leave Jamie Carragher stunned",
+      "items": [
+        {
+          "title": "Gary Neville slaps himself in the face during Man Utd rant to leave Jamie Carragher stunned",
+          "summary": "Gary Neville lamented Manchester United's defenders and during his rant took the bizarre step of twice slapping himself in the race - to the amusement of the Sky Sports studio",
+          "url": "https://www.mirror.co.uk/sport/football/news/gary-neville-man-utd-slap-37904853",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Mon, 23 Nov 2026 08:07:11 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I don't see this in League Two' - Gary Neville and Roy Keane tear into Man Utd defending v Liverpool",
+      "items": [
+        {
+          "title": "'I don't see this in League Two' - Gary Neville and Roy Keane tear into Man Utd defending v Liverpool",
+          "summary": "Manchester United's disastrous start to the season continued as they were thumped 4-0 at Anfield by arch-rivals Liverpool in Mauricio Pochettino's first game as head coach",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-neville-keane-liverpool-37904481",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 20:31:33 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Ruben Amorim takes dig at clubs sacking managers after latest Ineos dismissal",
+      "items": [
+        {
+          "title": "Ruben Amorim takes dig at clubs sacking managers after latest Ineos dismissal",
+          "summary": "Former Manchester United manager Ruben Amorim has questioned how some big clubs operate on a weekend where Mauricio Pochettino prepares to oversee his first Red Devils game",
+          "url": "https://www.mirror.co.uk/sport/football/news/ruben-amorim-man-utd-milan-37904043",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 20:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino fumes over two decisions in Man Utd's trashing by Liverpool",
+      "items": [
+        {
+          "title": "Mauricio Pochettino fumes over two decisions in Man Utd's trashing by Liverpool",
+          "summary": "New Manchester United manager Mauricio Pochettino endured a nightmare start to his new job as the Red Devils were thumped by Liverpool at Anfield",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-fumes-over-two-37904493",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 19:53:27 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes and Kobbie Mainoo in complete agreement as they rip into Liverpool officials",
+      "items": [
+        {
+          "title": "Bruno Fernandes and Kobbie Mainoo in complete agreement as they rip into Liverpool officials",
+          "summary": "Leny Yoro's early red card changed the course of the match as Mauricio Pochettino's Manchester United suffered a humiliating defeat against Liverpool",
+          "url": "https://www.mirror.co.uk/sport/football/news/liverpool-man-utd-mainoo-yoro-37904426",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 19:06:49 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Roy Keane calls out Gary Neville in astonishing rant after Man Utd are thrashed by Liverpool",
+      "items": [
+        {
+          "title": "Roy Keane calls out Gary Neville in astonishing rant after Man Utd are thrashed by Liverpool",
+          "summary": "Roy Keane was in disbelief after hearing some of the comments made following Manchester United's latest heavy defeat, this time inflicted by arch-rivals Liverpool",
+          "url": "https://www.mirror.co.uk/sport/football/news/roy-keane-man-utd-neville-37904357",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 18:59:21 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "I'm A Celebrity's Ant and Dec 'want to get revenge' on one campmate after holding a grudge",
+      "items": [
+        {
+          "title": "I'm A Celebrity's Ant and Dec 'want to get revenge' on one campmate after holding a grudge",
+          "summary": "Ant and Dec have admitted they're hoping a certain member of the I'm a Celebrity... Get Me Out of Here! 2026 cast will be facing plenty of gruesome Bushtucker Trials.",
+          "url": "https://www.mirror.co.uk/tv/tv-news/im-celebritys-ant-dec-want-37903872",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 15:10:47 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Who are Mauricio Pochettino's coaches? Everything we know about new Man Utd staff",
+      "items": [
+        {
+          "title": "Who are Mauricio Pochettino's coaches? Everything we know about new Man Utd staff",
+          "summary": "Mauricio Pochettino kickstarts his Manchester United reign against arch-rivals Liverpool on Sunday",
+          "url": "https://www.mirror.co.uk/sport/football/news/pochettino-coaches-man-utd-liverpool-37902229",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 14:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Inside Mauricio Pochettino's huge fortune and private family life as he joins Man Utd",
+      "items": [
+        {
+          "title": "Inside Mauricio Pochettino's huge fortune and private family life as he joins Man Utd",
+          "summary": "Mauricio Pochettino has taken charge at Manchester United and will no doubt face scrutiny - but his wife has long been his most candid critic",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-man-utd-family-37887913",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 14:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes fires thinly veiled dig in pointed message to Man Utd teammates",
+      "items": [
+        {
+          "title": "Bruno Fernandes fires thinly veiled dig in pointed message to Man Utd teammates",
+          "summary": "Bruno Fernandes has entered the final year of his contract with Manchester United and has rejected two offers to extend his stay, putting him on course to leave as a free agent in June 2027",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-manchester-united-future-37903587",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 13:55:44 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino left key player out of starting XI and gave blunt explanation",
+      "items": [
+        {
+          "title": "Mauricio Pochettino left key player out of starting XI and gave blunt explanation",
+          "summary": "Mauricio Pochettino froze out Christian Pulisic in his former job as USA boss,",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-left-key-player-37903619",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 13:11:29 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino makes instant changes to Man Utd training with warning to players",
+      "items": [
+        {
+          "title": "Mauricio Pochettino makes instant changes to Man Utd training with warning to players",
+          "summary": "Mauricio Pochettino has only been in post at Manchester United for a matter of days, but the new Red Devils boss hasn't wasted time in making changes behind the scenes",
+          "url": "https://www.mirror.co.uk/sport/football/news/mauricio-pochettino-manchester-united-training-37903281",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 11:13:17 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes breaks silence on Man Utd future after double contract rejection",
+      "items": [
+        {
+          "title": "Bruno Fernandes breaks silence on Man Utd future after double contract rejection",
+          "summary": "Bruno Fernandes has entered the final year of his deal at Manchester United and has reportedly turned down two offers of a new contract, plunging his future into doubt",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-manchester-united-contract-37903138",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 09:45:10 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Andoni Iraola has two players that can beat Man Utd and change the mood at Liverpool",
+      "items": [
+        {
+          "title": "Andoni Iraola has two players that can beat Man Utd and change the mood at Liverpool",
+          "summary": "Liverpool face Manchester United - under the management of Mauricio Pochettino - at Anfield on Sunday, with Andoni Iraola looking for a statement win for his new club",
+          "url": "https://www.mirror.co.uk/sport/football/news/liverpool-vs-man-utd-match-37902806",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 08:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'We feel the pain': Pochettino on 4-0 defeat at  Liverpool to start Manchester United era – video",
+      "items": [
+        {
+          "title": "'We feel the pain': Pochettino on 4-0 defeat at  Liverpool to start Manchester United era – video",
+          "summary": "<p>Liverpool thrashed 10-man Manchester United 4-0 at Anfield on Sunday to climb to fourth in the Premier League. But the defeat left United 19th, only one point above bottom-placed Crystal Palace. There was no new manager bounce for Mauricio Pochettino, who saw Leny Yoro sent off in the eighth minute for a last-ditch foul on Alexander Isak.</p><p></p><p>Pochettino accepted full responsibility for the loss, but claimed the dismissal was wrong and United should have had a penalty moments earlier for a Jérémy Jacquet challenge on Bryan Mbeumo. 'It was a desperate take,\"' writes <a href=\"https://www.theguardian.com/profile/andyhunter\">Andy Hunter</a> at Anfield. </p><p></p><ul><li><p><a href=\"https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report\"><strong>Read the full match report here</strong></a></p></li></ul> <a href=\"https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/video/2026/nov/22/we-feel-the-pain-pochettino-on-4-0-defeat-at-liverpool-to-start-manchester-united-era-video",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 23:33:33 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "items": [
+        {
+          "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+          "summary": "<ul><li><p>Manchester United lose 4-0 to Liverpool after early red</p></li><li><p>Argentinian suffers club’s joint-heaviest debut defeat</p></li></ul><p>Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffering the joint-heaviest debut defeat in the club’s history.</p><p>Liverpool’s <a href=\"https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report\">emphatic 4-0 win</a> ensured Pochettino equalled Lal Hilditch’s unwanted record from 1926 of losing his first United game by such a scoreline. United’s 34 goals conceded across all competitions this season are the most by any team in European football’s top five leagues.</p> <a href=\"https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 21:31:03 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "items": [
+        {
+          "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+          "summary": "<p>Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit</p><p>Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino.</p><p>This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the <a href=\"https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report\">poorest opening result</a> of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete.</p> <a href=\"https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 20:58:35 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Liverpool 4-0 Manchester United: Premier League – as it happened",
+      "items": [
+        {
+          "title": "Liverpool 4-0 Manchester United: Premier League – as it happened",
+          "summary": "<p>Mauricio Pochettino suffered a nightmare start at Anfield, where Man Utd were reduced to 10 men and taken apart by Liverpool</p><p><strong>“Rob ‘Bob’ Smyth, as I live and breathe,”</strong> writes Ian Copestake. “Glad this game is in such .... hands. I will miss it, though. I am in the city as I need a break from looking after mother, and I don’t need this stress/catharsis. What I need is a curry, so damn the lot of youse.”</p><p>For youse are all fu- <a href=\"https://www.theguardian.com/sport/2011/nov/04/joy-of-six-sir-alex-ferguson\">well, never mind</a>.</p> <a href=\"https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 19:16:35 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Fernandes puts contract talks on hold; Liverpool v Manchester United buildup and more – matchday live",
+      "items": [
+        {
+          "title": "Fernandes puts contract talks on hold; Liverpool v Manchester United buildup and more – matchday live",
+          "summary": "<p>The latest Premier League and WSL news and buildup, as Bruno Fernandes revealed contract talks with Manchester United have been paused</p><p></p><p>The Tottenham head coach <strong>Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal</strong> following his heroics against Ipswich.</p><p>He said: “Luca is a special player. I’m not surprised because his talent is bigger than you think. He played very well. He’s lucky because he’s playing in a top club with top team-mates.</p> <a href=\"https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 12:00:05 GMT"
+        },
+        {
+          "title": "Bruno Fernandes reveals talks over new Manchester United contract are on hold",
+          "summary": "<ul><li><p>Club captain confirms he has been offered a new deal</p></li><li><p>‘Not the right moment to be talking about negotiations’</p></li></ul><p>Bruno Fernandes has revealed that Manchester United have offered him a new contract, but discussions have been ⁠put on hold as the club focus on turning around their terrible start to the season.</p><p>Fernandes’s current deal expires at the end of this campaign, although United ⁠hold an ​option to extend their captain’s contract by a further year until June 2028, giving the club more time to reach ⁠an agreement on fresh terms.</p> <a href=\"https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 11:33:54 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United Target January Striker Reinforcements - Demokratis.co.id",
+      "items": [
+        {
+          "title": "Manchester United Target January Striker Reinforcements - Demokratis.co.id",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0zQnl3OFN2Q0tkTVRDOXJPckI5WFFlVWE5TEdESlBVYTFwYnBvMm5qU3pQRGNSNFZZVm1sVnE1MGNqTW5GT05lRVljd2o0bkl3S1JJdk1Yd3hxTVlrbjdIbTgzVWJqakVQeUdVMFdvbjVTemhIVWc?oc=5\" target=\"_blank\">Manchester United Target January Striker Reinforcements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Demokratis.co.id</font>",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zQnl3OFN2Q0tkTVRDOXJPckI5WFFlVWE5TEdESlBVYTFwYnBvMm5qU3pQRGNSNFZZVm1sVnE1MGNqTW5GT05lRVljd2o0bkl3S1JJdk1Yd3hxTVlrbjdIbTgzVWJqakVQeUdVMFdvbjVTemhIVWc?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sun, 22 Nov 2026 17:58:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United’s £64m Star Rules Out Juventus - Vital Football",
+      "items": [
+        {
+          "title": "Manchester United’s £64m Star Rules Out Juventus - Vital Football",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOSEdST3YybEZYWHVSdWozNmpEVTZ6S09WZUFsVHNGMXFhVUVHYWQ5aTZ5bGliWGNtV2dMRGQxclNzUG1Xc0dxNmF6N2lpV3ExMWw1WnF0Y2VWRzUxaVM5bFhjdDRRMzdGcUNlV1R6TTBYRkJOLVBBbUZUWUIxUzQzazBOUQ?oc=5\" target=\"_blank\">Manchester United’s £64m Star Rules Out Juventus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vital Football</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSEdST3YybEZYWHVSdWozNmpEVTZ6S09WZUFsVHNGMXFhVUVHYWQ5aTZ5bGliWGNtV2dMRGQxclNzUG1Xc0dxNmF6N2lpV3ExMWw1WnF0Y2VWRzUxaVM5bFhjdDRRMzdGcUNlV1R6TTBYRkJOLVBBbUZUWUIxUzQzazBOUQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Mon, 23 Nov 2026 04:43:51 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "‘I felt like swearing’ – Roy Keane lets rip at ‘rubbish’ Man United after Anfield humiliation",
+      "items": [
+        {
+          "title": "‘I felt like swearing’ – Roy Keane lets rip at ‘rubbish’ Man United after Anfield humiliation",
+          "summary": "<p>Roy Keane couldn&#8217;t hide his anger at Manchester United&#8217;s performance as they were subjected to yet another humiliation at Anfield on Sunday. Any hopes of enjoying a &#8216;new manager bounce&#8217; in Mauricio Pochettino&#8217;s first game in charge were extinguished inside the opening quarter-hour, by which stage Leny Yoro had been sent off and Liverpool were [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/23/roy-keane-lets-rip-at-rubbish-man-united-after-anfield-humiliation/\">&#8216;I felt like swearing&#8217; &#8211; Roy Keane lets rip at &#8216;rubbish&#8217; Man United after Anfield humiliation</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/23/roy-keane-lets-rip-at-rubbish-man-united-after-anfield-humiliation/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 23 Nov 2026 08:29:09 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United handed setback as top defensive target opens contract talks",
+      "items": [
+        {
+          "title": "Man United handed setback as top defensive target opens contract talks",
+          "summary": "<p>Manchester United’s hopes of signing Calvin Bassey in January have suffered a setback after the Fulham captain confirmed discussions are underway over extending his stay at Craven Cottage. The 26-year-old has emerged as one of Mauricio Pochettino’s defensive targets as United look to strengthen a back line that has struggled for consistency. Bassey’s pace, physicality [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/23/man-united-handed-setback-defensive-target-contract-talks/\">Man United handed setback as top defensive target opens contract talks</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/23/man-united-handed-setback-defensive-target-contract-talks/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 23 Nov 2026 06:34:35 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United move for Premier League-proven forward as January plans accelerate",
+      "items": [
+        {
+          "title": "Man United move for Premier League-proven forward as January plans accelerate",
+          "summary": "<p>Manchester United are considering a January move for Ivan Toney as Mauricio Pochettino looks to add a proven Premier League goalscorer to his attacking options. The 30-year-old has been in outstanding form for Al-Ahli and is now weighing up a return to England. United are among several Premier League clubs who have been contacted about [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/23/man-united-move-for-premier-league-proven-forward/\">Man United move for Premier League-proven forward as January plans accelerate</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/23/man-united-move-for-premier-league-proven-forward/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Mon, 23 Nov 2026 06:12:40 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Sources: Mauricio Pochettino holds key to Man United signing Alex Freeman",
+      "items": [
+        {
+          "title": "Sources: Mauricio Pochettino holds key to Man United signing Alex Freeman",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/sources-mauricio-pochettino-holds-key-to-man-united-signing-alex-freeman",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Mon, 23 Nov 2026 08:20:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 66,
+    "story_count": 58
+  }
+}
