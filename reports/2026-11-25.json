@@ -1,0 +1,996 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T09:38:44.856706+00:00",
+  "match_data": {
+    "collected_at": "2026-11-25T09:38:40.654673+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Are Manchester United this season's Tottenham?",
+      "items": [
+        {
+          "title": "Are Manchester United this season's Tottenham?",
+          "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Wed, 25 Nov 2026 06:22:36 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+      "items": [
+        {
+          "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+          "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 24 Nov 2026 22:05:31 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'And the three points?' - Pochettino after Yoro red overturned",
+      "items": [
+        {
+          "title": "'And the three points?' - Pochettino after Yoro red overturned",
+          "summary": "Manchester United head coach Mauricio Pochettino criticises VAR after Leny Yoro had the red card shown to him at Anfield overturned by the Football Association.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c6lywn479rxeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 24 Nov 2026 21:56:20 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Why was Yoro's red card overturned?",
+      "items": [
+        {
+          "title": "Why was Yoro's red card overturned?",
+          "summary": "Manchester United's Leny Yoro has had the red card he received against Liverpool overturned, but referees' chief Howard Webb has backed the decision to dismiss the defender.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/ck987j3jgndjo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 24 Nov 2026 19:52:10 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Yoro red card overturned, but refs' chief Webb backs decision",
+      "items": [
+        {
+          "title": "Yoro red card overturned, but refs' chief Webb backs decision",
+          "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 24 Nov 2026 17:00:32 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Defender Heaven open to leaving Man Utd",
+      "items": [
+        {
+          "title": "Defender Heaven open to leaving Man Utd",
+          "summary": "Manchester United defender Ayden Heaven is open to a loan move in January amid concerns over his game time as his side battles in the Premier League relegation zone.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/crd61gy4ednvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 24 Nov 2026 15:56:55 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Luke Shaw back in Man Utd training",
+      "items": [
+        {
+          "title": "Luke Shaw back in Man Utd training",
+          "summary": "Defender Luke Shaw has returned to Manchester United training ahead of their Champions League fixture against Sporting.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c63rgprgywe8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Tue, 24 Nov 2026 13:37:49 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "5 Man United rule changes Mauricio Pochettino has made from Michael Carrick reign and why",
+      "items": [
+        {
+          "title": "5 Man United rule changes Mauricio Pochettino has made from Michael Carrick reign and why",
+          "summary": "Mauricio Pochettino is stamping his authority at Manchester United with sweeping rule changes following Michael Carrick's departure",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-carrick-34959381",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 05:30:00 +0000"
+        },
+        {
+          "title": "Every rule Mauricio Pochettino has scrapped and changes he's made so far at Man Utd",
+          "summary": "Mauricio Pochettino has wasted no time in implementing some major rule changes at Manchester United with fitness at the top of his agenda",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-rules-37910582",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 06:30:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino makes Champions League change as he names 22-man Man United squad",
+      "items": [
+        {
+          "title": "Mauricio Pochettino makes Champions League change as he names 22-man Man United squad",
+          "summary": "Man Utd face Sporting CP in Lisbon on Wednesday in what is Mauricio Pochettino's first Champions League fixture in charge of the club.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-makes-champions-league-34960039",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 15:35:17 +0000"
+        },
+        {
+          "title": "Mauricio Pochettino makes another Man Utd change as 22-man Champions League squad confirmed",
+          "summary": "Manchester United have named a 22-man squad for their Champions League trip to Lisbon to face Sporting CP, with goalkeeper Karl Darlow and left-back Luke Shaw both returning",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-mauricio-pochettino-squad-37911536",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 18:03:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United",
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United left with very obvious decision after £84m transfer audition at Arsenal",
+      "items": [
+        {
+          "title": "Man United left with very obvious decision after £84m transfer audition at Arsenal",
+          "summary": "A Manchester United target has had the chance to impress Premier League clubs in the Champions League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-felix-nmecha-transfer-34962194",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 09:03:46 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United news LIVE: Mauricio Pochettino already 'protesting' as Glazers admit to mistake",
+      "items": [
+        {
+          "title": "Man United news LIVE: Mauricio Pochettino already 'protesting' as Glazers admit to mistake",
+          "summary": "Mauricio Pochettino's first game in charge of Manchester United was a disaster but he'll look to put it behind him against Sporting CP on Wednesday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-mauricio-pochettino-sporting-34961945",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 07:32:40 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Champions League trip has exposed brutal new Manchester United reality",
+      "items": [
+        {
+          "title": "Champions League trip has exposed brutal new Manchester United reality",
+          "summary": "Man Utd are back in Lisbon to face Sporting for the first time in 19 years and it's a stark reminder of how far they have fallen.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/champions-league-trip-exposed-brutal-34959946",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United presented with transfer swap opportunity as Mauricio Pochettino 'causes concern'",
+      "items": [
+        {
+          "title": "Man United presented with transfer swap opportunity as Mauricio Pochettino 'causes concern'",
+          "summary": "Tightening up Manchester United's leaky defence is a key priorioty when the January transfer window opens",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-news-pochettino-34961486",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Michael Carrick linked with second job after Man United exit as manager receives firm offer",
+      "items": [
+        {
+          "title": "Michael Carrick linked with second job after Man United exit as manager receives firm offer",
+          "summary": "Michael Carrick is out of work after being sacked by Manchester United earlier this month less than a year after signing a new contract with the club",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/michael-carrick-linked-second-job-34961559",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "How Manchester United should line up vs Sporting Lisbon in Champions League fixture",
+      "items": [
+        {
+          "title": "How Manchester United should line up vs Sporting Lisbon in Champions League fixture",
+          "summary": "Man Utd play Sporting Lisbon in the Champions League on Wednesday and here is how our writers think they should start.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/how-manchester-united-should-line-34952360",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Ex-Man United star Rasmus Hojlund confirms six-word dig at Man City after Champions League goal",
+      "items": [
+        {
+          "title": "Ex-Man United star Rasmus Hojlund confirms six-word dig at Man City after Champions League goal",
+          "summary": "Former Manchester United striker Rasmus Hojlund stuck the boot in against Manchester City as he got on the scoresheet for Napoli in the Champions League",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/rasmus-hojlund-man-city-celebration-34961756",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 23:06:06 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino sends clear message to Man United players after 'fragile' question",
+      "items": [
+        {
+          "title": "Mauricio Pochettino sends clear message to Man United players after 'fragile' question",
+          "summary": "Man Utd face Sporting in the Champions League on Wednesday night at a time when they sit in the relegation places in the Premier League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-man-united-sporting-34960894",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 21:06:01 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Bruno Fernandes opens up on Man United contract decision and reveals Champions League aim",
+      "items": [
+        {
+          "title": "Bruno Fernandes opens up on Man United contract decision and reveals Champions League aim",
+          "summary": "Bruno Fernandes is out of contract at Man United in the summer, and as he approaches seven years at the club, he has reflected on a poor Champions League record.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-man-united-contract-34960888",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 20:48:13 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United criticise ProRef over Leny Yoro comments as Pochettino claims new Liverpool error",
+      "items": [
+        {
+          "title": "Manchester United criticise ProRef over Leny Yoro comments as Pochettino claims new Liverpool error",
+          "summary": "Man Utd have won an appeal against Leny Yoro's red card at Anfield but the head of the referees' body has stood by the decision.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-pochettino-yoro-var-34960882",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 20:35:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United make two rare transfer moves as Mauricio Pochettino and board 'reach agreement'",
+      "items": [
+        {
+          "title": "Man United make two rare transfer moves as Mauricio Pochettino and board 'reach agreement'",
+          "summary": "Manchester United are expected to be active in the January transfer window after coming to an agreement with new boss Mauricio Pochettino",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-transfer-news-january-34961343",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 19:43:08 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "One Man United departure the Glazers 'regret' as owners caught off-guard by £5.3bn agreement",
+      "items": [
+        {
+          "title": "One Man United departure the Glazers 'regret' as owners caught off-guard by £5.3bn agreement",
+          "summary": "Manchester United's majority owners, the Glazer family, regret the exit of one major player at the club, having allowed Sir Jim Ratcliffe's investment at Old Trafford",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-glazer-family-ratcliffe-34961193",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 18:32:27 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Howard Webb backs referee over Leny Yoro red card hours after Man United win appeal",
+      "items": [
+        {
+          "title": "Howard Webb backs referee over Leny Yoro red card hours after Man United win appeal",
+          "summary": "Leny Yoro was sent off in controversial fashion during Manchester United's defeat to Liverpool at Anfield, and chief refereeing officer Howard Webb has given his verdict",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/liverpool-man-united-leny-yoro-34960574",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 17:00:00 +0000"
+        },
+        {
+          "title": "Manchester United win Leny Yoro red card appeal after controversial sending off",
+          "summary": "Man Utd defender Leny Yoro was sent off during the Reds' heavy defeat against Liverpool in the Premier League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/breaking-manchester-united-win-leny-34959927",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 15:20:53 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United star stripped of major trophy as controversial decision finally announced",
+      "items": [
+        {
+          "title": "Man United star stripped of major trophy as controversial decision finally announced",
+          "summary": "The fallout from the controversial match has dragged on for almost a year",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/afcon-morocco-senegal-man-united-34959926",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 15:20:04 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Why Matheus Cunha missed Man United training session after Liverpool hammering",
+      "items": [
+        {
+          "title": "Why Matheus Cunha missed Man United training session after Liverpool hammering",
+          "summary": "The Manchester United forward took part in some light recovery work at the club's Carrington training ground",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/matheus-cunha-missed-man-united-34958983",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 13:37:32 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How Man United can line up with Mauricio Pochettino's transfer budget spent on 3 new players",
+      "items": [
+        {
+          "title": "How Man United can line up with Mauricio Pochettino's transfer budget spent on 3 new players",
+          "summary": "Manchester United's transfer budget for the January window has been shared and three recruits could be landed with the unexpected sum",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-january-transfer-pochettino-34958131",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 12:09:10 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United 26-man training squad vs Sporting Lisbon revealed as Luke Shaw returns",
+      "items": [
+        {
+          "title": "Manchester United 26-man training squad vs Sporting Lisbon revealed as Luke Shaw returns",
+          "summary": "Manchester United trained at Carrington on Tuesday morning as they prepared to face Sporting Lisbon in the Champions League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/manchester-united-26-man-training-34952375",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 11:47:31 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Unseen Man United interview shows Bruno Fernandes seething at Leny Yoro decision",
+      "items": [
+        {
+          "title": "Unseen Man United interview shows Bruno Fernandes seething at Leny Yoro decision",
+          "summary": "Leny Yoro was sent off for Manchester United against Liverpool on Sunday after fouling Alexander Isak on the edge of the area",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/bruno-fernandes-leny-yoro-united-34957832",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 11:25:47 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Eric Cantona makes candid admission about his career and time at Manchester United in trailer for new film",
+      "items": [
+        {
+          "title": "Eric Cantona makes candid admission about his career and time at Manchester United in trailer for new film",
+          "summary": "Cantona's new film tells the story of how the striker went from retiring in disgrace at 25 to becoming a Manchester United icon under Sir Alex Ferguson",
+          "url": "https://www.manchestereveningnews.co.uk/whats-on/whats-on-news/eric-cantona-makes-candid-admission-34956959",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 11:03:19 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Rasmus Hojlund sends message to Man Utd as he taunts Man City with Napoli celebration",
+      "items": [
+        {
+          "title": "Rasmus Hojlund sends message to Man Utd as he taunts Man City with Napoli celebration",
+          "summary": "Former Manchester United striker Rasmus Hojlund caught the eye with his celebration after scoring for Napoli in their 2-2 draw with Manchester City in the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/rasmus-hojlund-man-city-celebration-37912274",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 07:55:51 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "I was invited to Man Utd dressing room after humiliating them - they wanted to sign me",
+      "items": [
+        {
+          "title": "I was invited to Man Utd dressing room after humiliating them - they wanted to sign me",
+          "summary": "Mauricio Pochettino will be desperate to mark what has become a commemorative fixture with a maiden win as Manchester United head coach.",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-dressing-room-invited-37910641",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino reveals Bruno Fernandes complaint as angry Man Utd go to Premier League",
+      "items": [
+        {
+          "title": "Mauricio Pochettino reveals Bruno Fernandes complaint as angry Man Utd go to Premier League",
+          "summary": "Manchester United officials have strongly criticised ProRef and Howard Webb after the governing body backed the decision to dismiss Leny Yoro",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-liverpool-mauricio-pochettino-37911850",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 21:23:31 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mauricio Pochettino brutally digs out VAR after Leny Yoro appeal - 'What were they doing?'",
+      "items": [
+        {
+          "title": "Mauricio Pochettino brutally digs out VAR after Leny Yoro appeal - 'What were they doing?'",
+          "summary": "Manchester United manager Mauricio Pochettino has questioned VAR after the red card shown to Leny Yoro in Sunday's heavy 4-0 loss away at Liverpool was overturned",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-pochettino-yoro-var-37911770",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 20:25:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Gary Neville's 'desperate' warning puts Man Utd in difficult situation as transfer eyed",
+      "items": [
+        {
+          "title": "Gary Neville's 'desperate' warning puts Man Utd in difficult situation as transfer eyed",
+          "summary": "Manchester United will enter the market come January as they desperately seek defensive additions, but Gary Neville admits their situation will present even more challenges",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/neville-man-utd-january-targets-37911414",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 18:18:56 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Howard Webb insists Leny Yoro red card 'not wrong' despite Man Utd winning appeal",
+      "items": [
+        {
+          "title": "Howard Webb insists Leny Yoro red card 'not wrong' despite Man Utd winning appeal",
+          "summary": "Manchester United have won their appeal and seen Leny Yoro's red card overturned but the refereeing chief maintains that his dismissal was not the wrong call",
+          "url": "https://www.mirror.co.uk/sport/football/news/yoro-red-manutd-howard-webb-37911246",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd star Leny Yoro's red card vs Liverpool overturned in boost for Mauricio Pochettino",
+      "items": [
+        {
+          "title": "Man Utd star Leny Yoro's red card vs Liverpool overturned in boost for Mauricio Pochettino",
+          "summary": "Leny Yoro's red card at Liverpool was successfully overturned after Manchester United appeal the decision",
+          "url": "https://www.mirror.co.uk/sport/football/news/manutd-yoro-red-card-overturned-37910893",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 15:29:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man Utd without two players for Sporting Lisbon but Mauricio Pochettino handed one injury boost",
+      "items": [
+        {
+          "title": "Man Utd without two players for Sporting Lisbon but Mauricio Pochettino handed one injury boost",
+          "summary": "Manchester United don't have much time to dwell on their thrashing by Liverpool on Sunday, with a trip to Portugal to play Sporting Lisbon in the Champions League on the horizon",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-sporting-lisbon-squad-37909593",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 12:01:30 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "How Man Utd's spiralling debts have hamstrung Mauricio Pochettino's January transfer plans",
+      "items": [
+        {
+          "title": "How Man Utd's spiralling debts have hamstrung Mauricio Pochettino's January transfer plans",
+          "summary": "ANALYSIS: Mauricio Pochettino is facing a monumental task to turn around Manchester United and he cannot rely on the January transfer window, with the club's finances in a similar state to his squad",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-finances-january-transfers-37908657",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 10:58:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
+      "items": [
+        {
+          "title": "David Squires on … Pochettino flying into a storm at Manchester United. Here we go again",
+          "summary": "<p>Our cartoonist on a nightmare start for the Argentinian as he took charge of the Premier League’s biggest crisis club</p><ul><li><p><a href=\"https://guardianprintshop.com/collections/david-squires/products/products-2026-11-24-17-30-47-david-squires-on-pochettino-flying-into-a-storm-at-manchester-united-here-we-go-again\"><strong>Buy this cartoon</strong></a><strong> | </strong><a href=\"https://www.theguardian.com/football/2025/dec/04/david-squires-picks-his-favourite-cartoons-of-2025\"><strong>Some of David’s favourite works</strong></a></p></li><li><p><a href=\"https://guardianbookshop.com/chaos-in-the-box-9781783352838/?utm_source=editoriallink&amp;utm_medium=merch&amp;utm_campaign=article\"><strong>And his latest book, Chaos in the Box: get it now</strong></a></p></li></ul> <a href=\"https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/picture/2026/nov/24/david-squires-on-mauricio-pochettino-manchester-united-here-we-go-again",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 11:31:27 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd ready to sell hopeless £93.5m pair in most important January window ever - TEAMtalk",
+      "items": [
+        {
+          "title": "Man Utd ready to sell hopeless £93.5m pair in most important January window ever - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEV6UTRqTGRCNjdMbm8zSlFSU01QTTItOVRHNHVTWXBzVVNfWlhEU2VycXM2NW9CU1c1ZjBHMlR1cWhrY09mZllHZEhsa0RwX2ZLcEhsa0tFckJuSkk1TjFCUkVjeC00OERTaFFiSlhXZ2xETHoyaGRsVTlpbHhXTFpjNmxyQ2xaTEpYNWpDNFNqeGZDcmZucjUyNmVoOEk4Ul9DbnFha3J0NmVGUnpnNUZpYnlUTDA?oc=5\" target=\"_blank\">Man Utd ready to sell hopeless £93.5m pair in most important January window ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNEV6UTRqTGRCNjdMbm8zSlFSU01QTTItOVRHNHVTWXBzVVNfWlhEU2VycXM2NW9CU1c1ZjBHMlR1cWhrY09mZllHZEhsa0RwX2ZLcEhsa0tFckJuSkk1TjFCUkVjeC00OERTaFFiSlhXZ2xETHoyaGRsVTlpbHhXTFpjNmxyQ2xaTEpYNWpDNFNqeGZDcmZucjUyNmVoOEk4Ul9DbnFha3J0NmVGUnpnNUZpYnlUTDA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Tue, 24 Nov 2026 12:11:34 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano Transfer News: Evanilson’s Man Utd message, Arsenal update, Spurs signing - LiveScore",
+      "items": [
+        {
+          "title": "Fabrizio Romano Transfer News: Evanilson’s Man Utd message, Arsenal update, Spurs signing - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHZ3dmxrUkU4YWp4clc1X2ZrNDFBMW9LZ1ZrNXZBWmhuQ1VESEx6VU1adWhXMnRkWks0SHprSTBFQURIQ3J4YnlYNTYydXV5d3hWTWRvMjVmcGdOT283UFJJeERVMTdhS2gxR05Vdnh4X1ZuQWZtbDdRQ1JhaUp3X2dIenBycUlCME53dTZIeFo0eEpXQ3hDN190X1hQakxvQ3A2aGZxcE1kR09fZ2lvZmZLQ29ybGxOa3pxRERLd25hQk9mbnZkcEZXRlZNejhMRW9mc25sNjczSFhCaXlRUF81eExwam1aM2UxbjNtOTBsb0hh?oc=5\" target=\"_blank\">Fabrizio Romano Transfer News: Evanilson’s Man Utd message, Arsenal update, Spurs signing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaHZ3dmxrUkU4YWp4clc1X2ZrNDFBMW9LZ1ZrNXZBWmhuQ1VESEx6VU1adWhXMnRkWks0SHprSTBFQURIQ3J4YnlYNTYydXV5d3hWTWRvMjVmcGdOT283UFJJeERVMTdhS2gxR05Vdnh4X1ZuQWZtbDdRQ1JhaUp3X2dIenBycUlCME53dTZIeFo0eEpXQ3hDN190X1hQakxvQ3A2aGZxcE1kR09fZ2lvZmZLQ29ybGxOa3pxRERLd25hQk9mbnZkcEZXRlZNejhMRW9mc25sNjczSFhCaXlRUF81eExwam1aM2UxbjNtOTBsb0hh?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 08:49:09 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein’s The Athletic FC Q&A: Will Man Utd try to do business in January? Does Glasner have support? - The New York Times",
+      "items": [
+        {
+          "title": "David Ornstein’s The Athletic FC Q&A: Will Man Utd try to do business in January? Does Glasner have support? - The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUJBR1lxSUEwTzFCa0h6ME5ta3cwd1B4UGVHVkVpdVJUM1FXRlNETzNIdHB0VU9pal9LbXM1ZUdDUHJOQmt3MXRUSGR6dS1QVjd1bG9LdVhzZGNXNUFLQldiWnZDckxfV2E3Ry1VUVg4VDhhSWpFV2dxMTY0NGxCV3BoRTVDcFdPN2dGTUhUdExHUFhxbmpvMTF0UzhfTVhsX1E?oc=5\" target=\"_blank\">David Ornstein’s The Athletic FC Q&amp;A: Will Man Utd try to do business in January? Does Glasner have support?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUJBR1lxSUEwTzFCa0h6ME5ta3cwd1B4UGVHVkVpdVJUM1FXRlNETzNIdHB0VU9pal9LbXM1ZUdDUHJOQmt3MXRUSGR6dS1QVjd1bG9LdVhzZGNXNUFLQldiWnZDckxfV2E3Ry1VUVg4VDhhSWpFV2dxMTY0NGxCV3BoRTVDcFdPN2dGTUhUdExHUFhxbmpvMTF0UzhfTVhsX1E?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 08:56:08 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report: Man United change defensive transfer plan after learning £70m asking price",
+      "items": [
+        {
+          "title": "Report: Man United change defensive transfer plan after learning £70m asking price",
+          "summary": "<p>Manchester United are reportedly stepping up their interest in Brentford captain Nathan Collins as Mauricio Pochettino looks for an affordable way to strengthen his defence in January. United have admired Everton centre-back Jarrad Branthwaite for some time, but his price tag could effectively rule out a winter move. That has pushed Collins further up the [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/25/report-man-united-change-defensive-transfer-plan/\">Report: Man United change defensive transfer plan after learning £70m asking price</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/25/report-man-united-change-defensive-transfer-plan/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 09:02:25 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man United midfielder leaves door open to former club amid contract uncertainty",
+      "items": [
+        {
+          "title": "Man United midfielder leaves door open to former club amid contract uncertainty",
+          "summary": "<p>Bruno Fernandes has admitted he would never rule out returning to Sporting CP, adding another intriguing layer to the uncertainty surrounding his Manchester United future. The United captain returned to Lisbon ahead of Wednesday’s Champions League meeting with his former club, where questions about his emotional connection with Sporting were inevitable. Fernandes remains deeply attached [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/25/man-united-midfielder-leaves-door-open-former-club/\">Man United midfielder leaves door open to former club amid contract uncertainty</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/25/man-united-midfielder-leaves-door-open-former-club/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 08:55:01 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Liverpool move to secure wonderkid amid Bayern Munich and Real Madrid interest",
+      "items": [
+        {
+          "title": "Liverpool move to secure wonderkid amid Bayern Munich and Real Madrid interest",
+          "summary": "<p>Liverpool are reportedly close to finalising a new long-term contract for Rio Ngumoha as the club moves to secure the future of one of the most exciting young players in English football. The 18-year-old’s importance at Anfield is growing quickly, and his outstanding display in Liverpool’s 4-0 victory over Manchester United provided another reminder of [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/25/liverpool-move-to-secure-wonderkid-amid-interest/\">Liverpool move to secure wonderkid amid Bayern Munich and Real Madrid interest</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/25/liverpool-move-to-secure-wonderkid-amid-interest/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 08:49:57 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Just in: Man United youngster open to January exit after Pochettino snub",
+      "items": [
+        {
+          "title": "Just in: Man United youngster open to January exit after Pochettino snub",
+          "summary": "<p>Ayden Heaven is reportedly open to leaving Manchester United on loan in January as the highly-rated defender searches for the regular football needed to continue his development. The 20-year-old has struggled for consistent minutes during a turbulent period at Old Trafford and now finds himself working under his third manager since arriving from Arsenal in [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/25/man-united-youngster-open-january-exit-pochettino-snub/\">Just in: Man United youngster open to January exit after Pochettino snub</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/25/man-united-youngster-open-january-exit-pochettino-snub/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 07:20:12 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Report: Man United identify ‘dream’ January signing for Mauricio Pochettino",
+      "items": [
+        {
+          "title": "Report: Man United identify ‘dream’ January signing for Mauricio Pochettino",
+          "summary": "<p>Manchester United have reportedly made Bournemouth left-back Adrien Truffert their “dream target” for the January transfer window as Mauricio Pochettino looks to strengthen a struggling squad. United’s disastrous start to the season has increased the urgency around their winter plans. Sitting 19th in the Premier League following a 4-0 defeat to Liverpool in Pochettino’s first [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/25/report-man-united-identify-dream-january-signing-pochettino/\">Report: Man United identify ‘dream’ January signing for Mauricio Pochettino</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/25/report-man-united-identify-dream-january-signing-pochettino/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 06:15:53 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Bruno Fernandes explains why new contract talks at Man United have suddenly stopped",
+      "items": [
+        {
+          "title": "Bruno Fernandes explains why new contract talks at Man United have suddenly stopped",
+          "summary": "<p>Bruno Fernandes has put discussions over a new Manchester United contract on hold, insisting the club’s immediate priority should be winning football matches rather than deciding his future. The United captain’s situation has attracted considerable attention after two contract proposals were reportedly rejected, but his latest comments provide important context. Fernandes is not suggesting his [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/25/bruno-fernandes-new-contract-talks-man-united-stopped/\">Bruno Fernandes explains why new contract talks at Man United have suddenly stopped</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/25/bruno-fernandes-new-contract-talks-man-united-stopped/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 06:09:06 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "£50m offer rejected in 2024 as Man United discover what it could take to land 24-year-old star",
+      "items": [
+        {
+          "title": "£50m offer rejected in 2024 as Man United discover what it could take to land 24-year-old star",
+          "summary": "<p>Manchester United could face a significant financial hurdle in pursuing Everton defender Jarrad Branthwaite, as the centre-back&#8217;s potential transfer valuation has now emerged. The Red Devils have been interested in the 24-year-old for some time, but failed to secure his services in the summer of 2024. However, a fresh move could require a considerably bigger [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/24/50m-offer-rejected-in-2024-as-man-united-discover-what-it-could-take-to-land-24-year-old-star/\">£50m offer rejected in 2024 as Man United discover what it could take to land 24-year-old star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/24/50m-offer-rejected-in-2024-as-man-united-discover-what-it-could-take-to-land-24-year-old-star/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Tue, 24 Nov 2026 21:00:13 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "'I've heard' Mauricio Pochettino set for 'ridiculous' bonus if Man United avoid relegation",
+      "items": [
+        {
+          "title": "'I've heard' Mauricio Pochettino set for 'ridiculous' bonus if Man United avoid relegation",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/ive-heard-mauricio-pochettino-set-for-ridiculous-bonus-if-man-united-avoid-relegation",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 09:15:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Insider updates on Man United 'unsettling' Lewis Hall as he reveals 'what people are thinking'",
+      "items": [
+        {
+          "title": "Insider updates on Man United 'unsettling' Lewis Hall as he reveals 'what people are thinking'",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/transfers/insider-updates-on-man-united-unsettling-lewis-hall-as-he-reveals-what-people-are-thinking",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Wed, 25 Nov 2026 06:45:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 53,
+    "story_count": 50
+  }
+}
