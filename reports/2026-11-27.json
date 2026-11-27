@@ -1,0 +1,713 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T09:29:05.314240+00:00",
+  "match_data": {
+    "collected_at": "2026-11-27T09:29:00.324252+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "items": [
+        {
+          "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+          "summary": "Manchester United goalkeeper Senne Lammens made two major mistakes in the 2-2 draw with Sporting - could Mauricio Pochettino drop his goalkeeper?",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 26 Nov 2026 14:56:30 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Lammens one mistake from being dropped -  Young",
+      "items": [
+        {
+          "title": "Lammens one mistake from being dropped -  Young",
+          "summary": "Ashley Young says Senne Lammen's position could be at risk if he doesn't improve his current form.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c3qj5y08848po?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Thu, 26 Nov 2026 11:29:50 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man United team up with Liverpool to prepare lucrative legal claim against Man City",
+      "items": [
+        {
+          "title": "Man United team up with Liverpool to prepare lucrative legal claim against Man City",
+          "summary": "Manchester United, Liverpool and Tottenham have enlisted London-based media, entertainment and technology specialists, Wiggin",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-team-up-liverpool-34973008",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 22:05:41 +0000"
+        },
+        {
+          "title": "Manchester United, Liverpool and Spurs using same law firm to set up legal claim against City",
+          "summary": "<ul><li><p>Rivals engage law firm Wiggin as they seek damages</p></li><li><p>Claim could be worth hundreds of millions of pounds</p></li></ul><p>Manchester United, Liverpool and Tottenham are using the same law firm to prepare a legal claim against Manchester City <a href=\"https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches\">for breaking the Premier League’s financial rules</a> that could be worth hundreds of millions of pounds.</p><p>The clubs have engaged the services of the London-based media, entertainment and technology specialists Wiggin. Arsenal are using their retained lawyers, HFS Kramer, to prepare their own claim.</p> <a href=\"https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/26/manchester-united-liverpool-tottenham-arsenal-city-legal-claim-financial-breaches-damages",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 12:00:34 GMT"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "The inside story of Mauricio Pochettino's first week at Man United - Message to players, 12-hour days and staff demands",
+      "items": [
+        {
+          "title": "The inside story of Mauricio Pochettino's first week at Man United - Message to players, 12-hour days and staff demands",
+          "summary": "Mauricio Pochettino has been in charge of Manchester United for just over a week and he has crammed plenty in during that time.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/inside-story-mauricio-pochettinos-first-34968967",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'He's not a predictable character' - Working with Manchester United icon Eric Cantona",
+      "items": [
+        {
+          "title": "'He's not a predictable character' - Working with Manchester United icon Eric Cantona",
+          "summary": "Cantona: Flower of Evil, an intimate portrait of the legendary former Man Utd striker, is set to be released in two weeks.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/hes-not-predictable-character-working-34959149",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 05:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Aston Villa analyst hit with four-game ban and huge fine after Man United misconduct",
+      "items": [
+        {
+          "title": "Aston Villa analyst hit with four-game ban and huge fine after Man United misconduct",
+          "summary": "Aston Villa analyst Victor Manas has been handed a four-game ban following his conduct in a 4-4 draw against Manchester United",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-aston-villa-ban-34971789",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 16:22:34 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Reaction to dreadful refereeing display vs Sporting tells Manchester United everything",
+      "items": [
+        {
+          "title": "Reaction to dreadful refereeing display vs Sporting tells Manchester United everything",
+          "summary": "Man United were on the end of some awful refereeing decisions in Wednesday night's draw with Sporting Lisbon in the Champions League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/reaction-dreadful-refereeing-display-vs-34970444",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 14:18:06 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "FA release statement after Man United row and leaked Premier League panel vote",
+      "items": [
+        {
+          "title": "FA release statement after Man United row and leaked Premier League panel vote",
+          "summary": "Leny Yoro was sent off against Liverpool at the weekend for denying a goalscoring opportunity, but will not have to serve a one-match ban against Brentford on Saturday",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/yoro-red-card-overturned-liverpool-34969925",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 13:14:12 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United Premier League winner admits addiction as wife says 'I thought he was gone'",
+      "items": [
+        {
+          "title": "Man United Premier League winner admits addiction as wife says 'I thought he was gone'",
+          "summary": "Former Manchester United midfielder Darron Gibson broke down in tears as his wife Danielle recalled the moment she feared he had died during the worst part of his addiction to sleeping pills",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-premier-league-winner-34969658",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 12:35:25 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Champions League referee scandal sees Man United suffer £11.2m blow - 'A disgrace'",
+      "items": [
+        {
+          "title": "Champions League referee scandal sees Man United suffer £11.2m blow - 'A disgrace'",
+          "summary": "Manchester United drew 2-2 with Sporting Lisbon in Mauricio Pochettino's first Champions League match at the helm, on a night where referee Szymon Marciniak's inconsistent and frustrating display proved costly",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-champions-league-scandal-34968287",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 10:25:57 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Paul Pogba urges Man Utd to copy Arsenal as he gives Mauricio Pochettino verdict",
+      "items": [
+        {
+          "title": "Paul Pogba urges Man Utd to copy Arsenal as he gives Mauricio Pochettino verdict",
+          "summary": "Manchester United are in the early stages of a new era under Mauricio Pochettino and their former midfielder Paul Pogba believes he can turn things around, if given enough time",
+          "url": "https://www.mirror.co.uk/sport/football/news/paul-pogba-man-utd-pochettino-37920840",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 07:33:14 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino suffers fresh Man Utd transfer blow after outlining January priority",
+      "items": [
+        {
+          "title": "Mauricio Pochettino suffers fresh Man Utd transfer blow after outlining January priority",
+          "summary": "Mauricio Pochettino wants to sign a striker in the January transfer window but one of Manchester United's targets appears to have ruled himself out of a move already",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/pochettino-manchester-united-calvert-lewin-37920551",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd, Liverpool and Tottenham use same law firm to launch Man City legal claim",
+      "items": [
+        {
+          "title": "Man Utd, Liverpool and Tottenham use same law firm to launch Man City legal claim",
+          "summary": "Manchester City remain locked in their legal battle with the Premier League after appealing an independent commission's verdict that the club broke financial rules over a nine-year period",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-liverpool-tottenham-city-37919389",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 17:19:05 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "FA dish out four-match stadium ban after Man Utd vs Aston Villa stoppage time fury",
+      "items": [
+        {
+          "title": "FA dish out four-match stadium ban after Man Utd vs Aston Villa stoppage time fury",
+          "summary": "Aston Villa and Manchester United drew 4-4 earlier this month and there was a flashpoint near the tunnel at Old Trafford that involved Villa analyst Victor Manas",
+          "url": "https://www.mirror.co.uk/sport/football/news/fa-aston-villa-manchester-united-37919660",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 16:24:11 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Man United, Liverpool and Arsenal fans race to get 50% off 26/27 kits for Black Friday",
+      "items": [
+        {
+          "title": "Man United, Liverpool and Arsenal fans race to get 50% off 26/27 kits for Black Friday",
+          "summary": "Black Friday 2026 has arrived and a 48-hour sale has seen big discounts on jerseys, off-pitch wear and memorabilia from 13 Premier League clubs.",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-liverpool-arsenal-fans-37918732",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 14:29:42 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Ex-Man Utd star breaks down in tears as wife feared he'd DIED amid sleeping pill addiction",
+      "items": [
+        {
+          "title": "Ex-Man Utd star breaks down in tears as wife feared he'd DIED amid sleeping pill addiction",
+          "summary": "Darron Gibson became addicted to sleeping pills during his career and, on one occasion, his wife thought she'd found the former Manchester United midfielder dead",
+          "url": "https://www.mirror.co.uk/sport/football/news/darron-gibson-sleeping-pill-addiction-37918257",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 12:55:23 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Alejandro Garnacho's Aston Villa snub is latest step in slow demise as managers all agree",
+      "items": [
+        {
+          "title": "Alejandro Garnacho's Aston Villa snub is latest step in slow demise as managers all agree",
+          "summary": "Alejandro Garnacho is already out of favour at Aston Villa as his career continues to tumble out of control having been ushered out the door by Manchester United and Chelsea in recent years",
+          "url": "https://www.mirror.co.uk/sport/football/news/alejandro-garnachos-aston-villa-snub-37917401",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 11:21:48 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Peter Schmeichel shares worrying Senne Lammens theory after latest Man Utd error",
+      "items": [
+        {
+          "title": "Peter Schmeichel shares worrying Senne Lammens theory after latest Man Utd error",
+          "summary": "Manchester United goalkeeper Senne Lammens endured another difficult night after his error prevented the Red Devils from beating Sporting Lisbon in the Champions League",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-senne-lammens-schmeichel-37916879",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 10:06:24 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino implementing shock Man Utd training plan that stunned former player",
+      "items": [
+        {
+          "title": "Mauricio Pochettino implementing shock Man Utd training plan that stunned former player",
+          "summary": "Manchester United players were undergoing fitness sessions after full-time on Wednesday as Mauricio Pochettino looks to ramp up the squad's fitness levels",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-players-fitness-pochettino-37916965",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 09:59:08 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
+      "items": [
+        {
+          "title": "Neville, Carragher and the inescapable podcasting feedback loop of doom | Jonathan Liew",
+          "summary": "<p>Even the best managers can struggle to escape ex-players’ need to manufacture a crisis for content. Enter Michael Carrick …</p><p><em>A podcast studio in Manchester. A production runner pours water into jugs. Gary Neville enters the room with Michael Carrick.</em></p><p><strong>Neville:</strong> Just so you know, we’re already filming. This is the intro bit, where we show everyone coming on to set and doing some light banter. It humanises us. The viewer sees it and thinks we’re just mates chatting about football, rather than scions of a global podcast empire commercially obliged to produce an endless scroll of provocative content for money. I always say: why can’t you be both?</p> <a href=\"https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/26/gary-neville-jamie-carragher-podcast-manchester-united-michael-carrick",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 10:19:16 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Premier League: 10 things to look out for this weekend",
+      "items": [
+        {
+          "title": "Premier League: 10 things to look out for this weekend",
+          "summary": "<p>Liam Delap can exploit Chelsea’s defensive woes while Senne Lammens is under pressure against Brentford</p><p>Nottingham Forest’s last couple of seasons have been a story of good runs and bad runs, but it may help to know that last season’s encounters with Chelsea both presaged changes of fortune. After they lost to Chelsea in October, a seventh defeat in 10 winless games, Forest’s form improved and they won seven of their next 12 in all competitions. But after beating Chelsea in May, their seventh victory in a 10-game unbeaten run, Forest’s form dipped dramatically and they have won only twice since. <a href=\"https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english\">Oliver Glasner’s criticism of players</a> whose “standards [are] not high enough” is clearly designed to raise them. Time will tell if it has worked but the key man this week is one who should have no issues with motivation and whose English is at least decent. Liam Delap, facing the side that signed and swiftly discarded him, could really trouble Wesley Fofana and Levi Colwill. The Chelsea centre-back pairing were described as playing like “two novices” by Jamie Carragher after they were outfought by Dominic Calvert-Lewin last week. “Until they sign that dominant centre-back and leader, they’ve got absolutely no chance of achieving anything,” Carragher concluded. <strong>Simon Burnton</strong></p> <a href=\"https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/27/premier-league-10-things-to-look-out-for-this-weekend",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 00:00:48 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
+      "items": [
+        {
+          "title": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
+          "summary": "<p>Before the release of a new documentary, the unrepentant Manchester United icon reflects on his deep bond with English football and his darker instincts</p><p>“I’m an angel and a demon,” Éric Cantona says intently during a gripping new documentary about his life on and off the football pitch. “And an angel or a demon, you love him or you hate him. I’m far from being the person with the greatest integrity. I’m far from being the person who always tells the truth. I’m far from being the person who has never been hypocritical. Maybe I’m a good person, but I can also be a flower of evil. It’s the first time in my life I’ve realised this. I am a flower of evil, and I find it very beautiful.”</p><p>It’s hard to know what to expect&nbsp;from the only written interview pinned to the release of <a href=\"https://www.youtube.com/watch?reload=9&amp;amp;v=s4FMxe-WhiM\">Cantona: Flower of Evil</a>. Joel Cantona has warned that his famous brother will walk out at any mention of the enduring <a href=\"https://www.theguardian.com/football/2026/nov/23/mauricio-pochettino-can-now-see-just-how-desperate-manchester-united-are\">crisis&nbsp;surrounding Manchester United</a>, whether it’s a question about Mauricio Pochettino’s arrival or the Glazer family’s ruinous ownership of the club.</p> <a href=\"https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/26/eric-cantona-interview-new-documentary",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 20:00:44 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
+      "items": [
+        {
+          "title": "Champions League review: Lille monster Bayern, De Bruyne’s sad return and more United chaos",
+          "summary": "<p>The French side earned their first group win over troubled German giants as Bellingham and Betis also caught the eye</p><p>Bayern Munich have hit a snagging point, with injuries wracking Vincent Kompany’s squad just as the head coach returns to work following his own health scare. For Lille’s winner, to exact Bayern’s first loss of the season, Aleksandar Pavlović had an own goal for the ages, desperately chasing back to then somehow direct the ball into his own net. Bayern are 15th in the Champions League table, and with Harry Kane out until well into 2027 and 18-year-old Lennart Karl asked to lead the line, resources are stretched. Jamal Musiala, subject of club grandees Uli Hoeness and Karl-Heinz Rummenigge’s gripes over his contract in light of his neurological condition, could also play only 15 minutes.</p> <a href=\"https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/26/champions-league-review-lille-bayern-munich-kevin-de-bruyne-napoli",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 15:00:39 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
+      "items": [
+        {
+          "title": "Manchester United held in Lisbon: is Mauricio Pochettino just unlucky? – Football Weekly podcast",
+          "summary": "<p>Max Rushden is joined by Barry Glendenning, Nedum Onuoha and Mark Langdon to mop up all the Champions League midweek action</p><p><strong>Rate, review, share on <a href=\"https://itunes.apple.com/podcast/football-weekly-the-guardian/id188674007?mt=2\">Apple Podcasts</a> and join the conversation on <a href=\"mailto:footballweekly@theguardian.com\">email</a>.</strong></p><p>One day we’ll start a podcast with something other than Manchester United, but not today. Mauricio Pochettino’s side had a weird game in Lisbon, is the new manager just unlucky? United had two soft disallowed goals, one denying them victory. Is it unlucky to concede two penalties minutes apart or is that just bad?</p> <a href=\"https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/audio/2026/nov/26/manchester-united-held-in-lisbon-is-mauricio-pochettino-just-unlucky-football-weekly",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 12:11:18 GMT"
+        }
+      ],
+      "sources": [
+        "The Guardian - Manchester United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Leeds United: Fabrizio Romano confirms huge Man Utd rejection with four huge deals to follow Calvert-Lewin - TEAMtalk",
+      "items": [
+        {
+          "title": "Leeds United: Fabrizio Romano confirms huge Man Utd rejection with four huge deals to follow Calvert-Lewin - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbDdVdTM5TTBoU21uTEIxLTRQNEU0b3piUkJmQm1MZElkZzR2bDc1YTdqMlFOdjBnX3VXWVdKSFUzbjdST1hWa1RPZzNqQ3dIM0M0Y3MyMHgzVTlvcktsNUYxOWtocGNXSGlocEUwSmloS2VNU0RuRW1CLW5YRjdiMGlMeUtfaEZFS1l2U2JweHFLQTVUQmI5TGtkem9XYkU?oc=5\" target=\"_blank\">Leeds United: Fabrizio Romano confirms huge Man Utd rejection with four huge deals to follow Calvert-Lewin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbDdVdTM5TTBoU21uTEIxLTRQNEU0b3piUkJmQm1MZElkZzR2bDc1YTdqMlFOdjBnX3VXWVdKSFUzbjdST1hWa1RPZzNqQ3dIM0M0Y3MyMHgzVTlvcktsNUYxOWtocGNXSGlocEUwSmloS2VNU0RuRW1CLW5YRjdiMGlMeUtfaEZFS1l2U2JweHFLQTVUQmI5TGtkem9XYkU?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 08:14:56 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Jacobs reveals one name is ‘growing’ in realistic left-back transfer – ‘I am hearing’ - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Jacobs reveals one name is ‘growing’ in realistic left-back transfer – ‘I am hearing’ - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPb0VNWW8yS09XWDNVSUc5VzE5ZkVubzFkeFRHdmxmckJQWjV1Uk42UmlkZTRoUy1GQ2plTjQzcEFSYVhYMzh4Y05DZVpRTkxTd1llYWFpdUg5T1loTDRoT21tQlZpRkl0d2tRMVc5cVppMHRqbGVsRFNybHk4YnlXcmtyMm10WFFIUXA0bllWSlc1UW9i?oc=5\" target=\"_blank\">Man Utd: Jacobs reveals one name is ‘growing’ in realistic left-back transfer – ‘I am hearing’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb0VNWW8yS09XWDNVSUc5VzE5ZkVubzFkeFRHdmxmckJQWjV1Uk42UmlkZTRoUy1GQ2plTjQzcEFSYVhYMzh4Y05DZVpRTkxTd1llYWFpdUg5T1loTDRoT21tQlZpRkl0d2tRMVc5cVppMHRqbGVsRFNybHk4YnlXcmtyMm10WFFIUXA0bllWSlc1UW9i?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 07:59:58 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano Makes Surprising Claim About Man Utd’s Transfer “Priority” Ahead Of January - ManUNews.com",
+      "items": [
+        {
+          "title": "Romano Makes Surprising Claim About Man Utd’s Transfer “Priority” Ahead Of January - ManUNews.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPcTRWdFNkM0dxbVpUVXJDc0dZUlBoejdWdURSckhUTzdoTjFIVWVCUEMtdTZmMVJPQTl3c3Q0dzZpdTBKVWlwZXlTcHVIbnliRVJjcGU5cldWb2VPUEFEQXJmeTlKQlc0cmV2SHdkZElmM3VwajNxbXk4ck80cnB1alNuTFJ5SVhDZGFCQlo5UQ?oc=5\" target=\"_blank\">Romano Makes Surprising Claim About Man Utd’s Transfer “Priority” Ahead Of January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ManUNews.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcTRWdFNkM0dxbVpUVXJDc0dZUlBoejdWdURSckhUTzdoTjFIVWVCUEMtdTZmMVJPQTl3c3Q0dzZpdTBKVWlwZXlTcHVIbnliRVJjcGU5cldWb2VPUEFEQXJmeTlKQlc0cmV2SHdkZElmM3VwajNxbXk4ck80cnB1alNuTFJ5SVhDZGFCQlo5UQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Wed, 25 Nov 2026 15:13:52 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Video: David Ornstein on Pochettino's influence at Manchester United - The New York Times",
+      "items": [
+        {
+          "title": "Video: David Ornstein on Pochettino's influence at Manchester United - The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rcWdEQmlTUDhyTGhtRTIzemJZVzhDeW9YRE1TMGRvb0d3RFlmZFRNejV3ejQ5Z09sRzJyMU5sLTlrM3o0d09YUUlTUW5lVVZqUkcwVGIwVDNwdUE5VW1DT25SbFMxQQ?oc=5\" target=\"_blank\">Video: David Ornstein on Pochettino's influence at Manchester United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rcWdEQmlTUDhyTGhtRTIzemJZVzhDeW9YRE1TMGRvb0d3RFlmZFRNejV3ejQ5Z09sRzJyMU5sLTlrM3o0d09YUUlTUW5lVVZqUkcwVGIwVDNwdUE5VW1DT25SbFMxQQ?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 09:48:52 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United could sign a defender first in January - Dave.Sport",
+      "items": [
+        {
+          "title": "Manchester United could sign a defender first in January - Dave.Sport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdlhFWUk5WXp3YTBOM2prZV9zZnp5elJsakJUMnJUdHpXeWh4UmhVdHhBS09oaUV5Sm5pVGc4QXNwd3EzcXU3cGx6Zmw3WXZ2OGh6RUZhVGlQRWZBbnZmbU5SaTJuQ04xRGdCQmtjUXl0Tmh5eVdF?oc=5\" target=\"_blank\">Manchester United could sign a defender first in January</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dave.Sport</font>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qdlhFWUk5WXp3YTBOM2prZV9zZnp5elJsakJUMnJUdHpXeWh4UmhVdHhBS09oaUV5Sm5pVGc4QXNwd3EzcXU3cGx6Zmw3WXZ2OGh6RUZhVGlQRWZBbnZmbU5SaTJuQ04xRGdCQmtjUXl0Tmh5eVdF?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Thu, 26 Nov 2026 10:10:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Nico Paz reaches verdict on joining Man Utd over Real Madrid as David Ornstein makes U-turn claim - TEAMtalk",
+      "items": [
+        {
+          "title": "Nico Paz reaches verdict on joining Man Utd over Real Madrid as David Ornstein makes U-turn claim - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzJ0d1l3N3BVQ2ZuX3o4UGVkYS15cndpMlRMM3hYcE1uN0RUUWhnRXY2aG5OTVRYbFUtcFhCX212OWpBOE1tWnNfTnRobXlFQXZKZ19pVUlmOEl0RHRVWWFJbFZWUkxkNlBiaWV0Y2R3dGg4Z3Z1RVAtOENEcmR2ZldYc0FJdzlsbmVVWHhzUlE5Q2FlQU8ta2hxdHhjenYtekRkLUZKeU9QUlVlN213X1BrUkxTczNYOVhWdFpzZ3FtWXc?oc=5\" target=\"_blank\">Nico Paz reaches verdict on joining Man Utd over Real Madrid as David Ornstein makes U-turn claim</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzJ0d1l3N3BVQ2ZuX3o4UGVkYS15cndpMlRMM3hYcE1uN0RUUWhnRXY2aG5OTVRYbFUtcFhCX212OWpBOE1tWnNfTnRobXlFQXZKZ19pVUlmOEl0RHRVWWFJbFZWUkxkNlBiaWV0Y2R3dGg4Z3Z1RVAtOENEcmR2ZldYc0FJdzlsbmVVWHhzUlE5Q2FlQU8ta2hxdHhjenYtekRkLUZKeU9QUlVlN213X1BrUkxTczNYOVhWdFpzZ3FtWXc?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 09:11:24 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Ornstein reveals huge Paz transfer boost and CONFIRMS Red Devils interest - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Ornstein reveals huge Paz transfer boost and CONFIRMS Red Devils interest - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnZnWDNCam5OdTVUVkNUZkdCUkJrUk1Ud1dndVRWc0ptZzN6dEtrejBLRmhkY2lfX2tHMUV0bUxqbHo2QUlBOG84U0YzamI5bHFNeUVqRFNpcTVuWXBZZUkyd0JEd2dYNVp0Tll2REhkYU10OS1ubk1GcGJ5UmVQUE4yVHBkcDNjQkpZRWk4TExlWnV1Q19jTWtZVEVSZGM?oc=5\" target=\"_blank\">Man Utd: Ornstein reveals huge Paz transfer boost and CONFIRMS Red Devils interest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbnZnWDNCam5OdTVUVkNUZkdCUkJrUk1Ud1dndVRWc0ptZzN6dEtrejBLRmhkY2lfX2tHMUV0bUxqbHo2QUlBOG84U0YzamI5bHFNeUVqRFNpcTVuWXBZZUkyd0JEd2dYNVp0Tll2REhkYU10OS1ubk1GcGJ5UmVQUE4yVHBkcDNjQkpZRWk4TExlWnV1Q19jTWtZVEVSZGM?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 08:48:47 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "What Mauricio Pochettino made some Man United players do after full-time speaks volumes",
+      "items": [
+        {
+          "title": "What Mauricio Pochettino made some Man United players do after full-time speaks volumes",
+          "summary": "<p>Mauricio Pochettino ordered Manchester United’s non-starters to complete an extra pitchside weights session immediately after the full-time whistle following Wednesday night’s dramatic 2–2 UEFA Champions League draw against Sporting CP. The Argentine manager is renowned for his demanding approach to physical conditioning, and there were already signs of his methods being implemented following the full-time [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/26/mauricio-pochettino-man-united-post-match-weights-session/\">What Mauricio Pochettino made some Man United players do after full-time speaks volumes</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/26/mauricio-pochettino-man-united-post-match-weights-session/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 26 Nov 2026 21:12:02 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“He’s brilliant” – Chelsea & Man United urged to sign “magnificent” Premier League star",
+      "items": [
+        {
+          "title": "“He’s brilliant” – Chelsea & Man United urged to sign “magnificent” Premier League star",
+          "summary": "<p>Chelsea and Manchester United have both been advised to pursue a transfer move for Fulham centre-back Calvin Bassey. Speaking to Simon Phillips, ex-Blue Pat Nevin spoke about what a big fan he is of Bassey, who has proven a rock-solid performer at the back for Fulham in recent times. Bassey looks like he could be [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/26/chelsea-and-man-united-advised-to-sign-calvin-bassey/\">&#8220;He&#8217;s brilliant&#8221; &#8211; Chelsea &#038; Man United urged to sign &#8220;magnificent&#8221; Premier League star</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/26/chelsea-and-man-united-advised-to-sign-calvin-bassey/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 26 Nov 2026 11:00:24 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "“You worry” – Carragher questions Man United star after error that “can’t happen”",
+      "items": [
+        {
+          "title": "“You worry” – Carragher questions Man United star after error that “can’t happen”",
+          "summary": "<p>Jamie Carragher has questioned the confidence of Manchester United goalkeeper Senne Lammens, admitting he&#8217;s worried about him after his mistake against Sporting Lisbon last night. The Belgian shot-stopper has mostly performed well since joining Man Utd, but he&#8217;s been one of a number of their players to suffer a dip in form so far this [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/26/man-uniteds-senne-lammens-questioned-by-pundit/\">&#8220;You worry&#8221; &#8211; Carragher questions Man United star after error that &#8220;can&#8217;t happen&#8221;</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/26/man-uniteds-senne-lammens-questioned-by-pundit/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Thu, 26 Nov 2026 10:29:06 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Senne Lammens is really not the problem at Man United, these stats prove why",
+      "items": [
+        {
+          "title": "Senne Lammens is really not the problem at Man United, these stats prove why",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/senne-lammens-is-really-not-the-problem-at-man-united-these-stats-prove-why",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Fri, 27 Nov 2026 08:22:47 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'Manchester may not have a Premier League team next season' - Keith Wyness drops bombshell verdict after Man United and Man City latest",
+      "items": [
+        {
+          "title": "'Manchester may not have a Premier League team next season' - Keith Wyness drops bombshell verdict after Man United and Man City latest",
+          "summary": "",
+          "url": "https://www.footballinsider247.com/manchester-united/next-manager/manchester-may-not-have-a-premier-league-team-next-season-keith-wyness-drops-bombshell-verdict-after-man-united-and-man-city-latest",
+          "source": "Football Insider",
+          "tier": 3,
+          "published_at": "Fri, 27 Nov 2026 06:50:00 +0000"
+        }
+      ],
+      "sources": [
+        "Football Insider"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "match"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 37,
+    "story_count": 36
+  }
+}
