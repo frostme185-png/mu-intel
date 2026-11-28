@@ -1,0 +1,715 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T08:43:14.657186+00:00",
+  "match_data": {
+    "collected_at": "2026-11-28T08:43:10.928025+00:00",
+    "recent_fixture": null,
+    "recent_fixture_player_stats": [],
+    "upcoming_fixture": null
+  },
+  "known_entities": {
+    "league_clubs": [],
+    "known_surnames": []
+  },
+  "stories": [
+    {
+      "representative_title": "Man Utd trigger Fernandes' one-year contract extension",
+      "items": [
+        {
+          "title": "Man Utd trigger Fernandes' one-year contract extension",
+          "summary": "Manchester United activate an option on captain Bruno Fernandes' contract, extending it until 2028.",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6d91j5geepqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 27 Nov 2026 15:08:41 GMT"
+        },
+        {
+          "title": "Man Utd trigger new Bruno Fernandes contract extension - but he could still leave this summer",
+          "summary": "Manchester United have used a club option to extend Bruno Fernandes' contract for a further year to avoid losing their influential captain for nothing in the summer",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-contract-37922963",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:48:08 +0000"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Pochettino: 'I am not nice'",
+      "items": [
+        {
+          "title": "Pochettino: 'I am not nice'",
+          "summary": "Manchester United head coach Mauricio Pochettino says he 'is not nice' as he hits back at criticism of his management style from former Liverpool and England midfielder Jamie Redknapp.",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnzdyz30eo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport - Manchester United",
+          "tier": 1,
+          "published_at": "Fri, 27 Nov 2026 16:30:20 GMT"
+        }
+      ],
+      "sources": [
+        "BBC Sport - Manchester United"
+      ],
+      "min_tier": 1,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Manchester United make major Bruno Fernandes contract decision",
+      "items": [
+        {
+          "title": "Manchester United make major Bruno Fernandes contract decision",
+          "summary": "Bruno Fernandes' contract was due to expire in 2027 but the club have taken up the option to extend his deal by a year.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-make-major-bruno-34976176",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:13:35 +0000"
+        },
+        {
+          "title": "Manchester United extend Fernandes contract until 2028 to stop free transfer",
+          "summary": "<ul><li><p>Club activate option and plan further talks with captain</p></li><li><p>‘I am not nice,’ says Pochettino as he targets improvement</p></li></ul><p>Manchester United have triggered a clause to extend the captain Bruno Fernandes’ contract until the summer of 2028 on a day when Mauricio Pochettino warned his players they should not expect him to be “nice” in his attempts to turn around the club’s fortunes.</p><p>Fernandes’ deal was due to expire in June and by exercising the option United have avoided the risk from January that he could negotiate a pre-contract agreement with a club abroad to join on a free next summer. <a href=\"https://www.theguardian.com/football/2026/nov/22/bruno-fernandes-reveals-talks-over-new-manchester-united-contract-are-on-hold\">Fernandes said this month</a> that talks over a longer extension were on hold “because of the context of the team and the club”. He has turned down two United contract offers.</p> <a href=\"https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino\">Continue reading...</a>",
+          "url": "https://www.theguardian.com/football/2026/nov/27/manchester-united-bruno-fernandes-contract-2028-activate-option-mauricio-pochettino",
+          "source": "The Guardian - Manchester United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 15:29:41 GMT"
+        },
+        {
+          "title": "Manchester United make major decision on Bruno Fernandes - Goal.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWW43cUJFSmpwMHpUdHZCbnNUUmYtMFNOblljalg0VmFxTVM0RS1MSzFDWTVNa1hpVkRQdS12aWRjUVowQ09nNFR4eXJwTXBGNHZXV3hxMDhBRVU1NGl2V0VzQkQzaS11MkdDZ2E0aHBlQWdpanNmZ29KQnNMd0JUZ0hha1JYSnhJSVJ1OVUycXdVcC01TzJOaXhRdmd6cXZWV2JIaWIyS1Q?oc=5\" target=\"_blank\">Manchester United make major decision on Bruno Fernandes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Goal.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWW43cUJFSmpwMHpUdHZCbnNUUmYtMFNOblljalg0VmFxTVM0RS1MSzFDWTVNa1hpVkRQdS12aWRjUVowQ09nNFR4eXJwTXBGNHZXV3hxMDhBRVU1NGl2V0VzQkQzaS11MkdDZ2E0aHBlQWdpanNmZ29KQnNMd0JUZ0hha1JYSnhJSVJ1OVUycXdVcC01TzJOaXhRdmd6cXZWV2JIaWIyS1Q?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:47:16 GMT"
+        },
+        {
+          "title": "Manchester United make major decision on Bruno Fernandes - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWFtUVJwSGRIU1daMWF4a2czeWxzaUNYczFwYk1veXY3RGtQRjItY0tCMk5zclNJUENVeVY0bDJQSzVSTXYxMWQ0QWVyUWxiZG9KRXJRU0J1ZmJ2OUF5R1h6X0RrT0hTX01WS3RwYk5OQ2pvZzZFZ280VV9QeTdidnpIbTk0ckJYdzNQdW1SWl83LTNMX2hxbHdKRUoyNTJaSWtlbUxPdmJVNzdpN1NMUy1xUnRYVVBMdXRaTA?oc=5\" target=\"_blank\">Manchester United make major decision on Bruno Fernandes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbWFtUVJwSGRIU1daMWF4a2czeWxzaUNYczFwYk1veXY3RGtQRjItY0tCMk5zclNJUENVeVY0bDJQSzVSTXYxMWQ0QWVyUWxiZG9KRXJRU0J1ZmJ2OUF5R1h6X0RrT0hTX01WS3RwYk5OQ2pvZzZFZ280VV9QeTdidnpIbTk0ckJYdzNQdW1SWl83LTNMX2hxbHdKRUoyNTJaSWtlbUxPdmJVNzdpN1NMUy1xUnRYVVBMdXRaTA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 15:00:42 GMT"
+        },
+        {
+          "title": "Manchester United activate option to extend Bruno Fernandes contract - The Athletic - The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXBMY2VBeWU4NXp3MzdVVl82MDdLWjN2MlVmUzNNYUlHX2VCQ3lWRDZpZ1dLXzVKOUI3dWpqMzhfOXFxaWctdF9QNE95WThVM3NFLUdSa1pOQUhhQ3pIOWhQaV9jYXBkVEMyRURTZXhMV3p1T29UeWpLRkFwekxpNzl3VjAwY1hWTjA1U0xRRkQwTlJNdEh0YVhWT2hteUZQRkx0cw?oc=5\" target=\"_blank\">Manchester United activate option to extend Bruno Fernandes contract - The Athletic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXBMY2VBeWU4NXp3MzdVVl82MDdLWjN2MlVmUzNNYUlHX2VCQ3lWRDZpZ1dLXzVKOUI3dWpqMzhfOXFxaWctdF9QNE95WThVM3NFLUdSa1pOQUhhQ3pIOWhQaV9jYXBkVEMyRURTZXhMV3p1T29UeWpLRkFwekxpNzl3VjAwY1hWTjA1U0xRRkQwTlJNdEh0YVhWT2hteUZQRkx0cw?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 13:59:28 GMT"
+        },
+        {
+          "title": "Man Utd make Bruno Fernandes contract decision - David Ornstein - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY3FnS3pZRWViR0FWVUlpUWdWMnBuMndBTldsX2Q1ejZScXgwOXBaUjBZZXFrUC1yd3dzSlh0cklWdmoxUGRTVEt6ZnN4dHZPVFUtOGFNSF81WDFiazd5VXBuOE5scFdnZkRaSEFUVGZFNURaSUIzdGFJSUdtZElPWC1jdmxXa2hjUnhQMlpEQllNWU9GUHdNZld5bXVJcjFVQ3M2czRzN1p3YWZleWl4cHdqNDVPUEtZNnpQMVFqQWFNRDlzQUZtdlRWNXlZUlBjZjgtcw?oc=5\" target=\"_blank\">Man Utd make Bruno Fernandes contract decision - David Ornstein</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY3FnS3pZRWViR0FWVUlpUWdWMnBuMndBTldsX2Q1ejZScXgwOXBaUjBZZXFrUC1yd3dzSlh0cklWdmoxUGRTVEt6ZnN4dHZPVFUtOGFNSF81WDFiazd5VXBuOE5scFdnZkRaSEFUVGZFNURaSUIzdGFJSUdtZElPWC1jdmxXa2hjUnhQMlpEQllNWU9GUHdNZld5bXVJcjFVQ3M2czRzN1p3YWZleWl4cHdqNDVPUEtZNnpQMVFqQWFNRDlzQUZtdlRWNXlZUlBjZjgtcw?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 16:20:39 GMT"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Google News: David Ornstein",
+        "The Guardian - Manchester United",
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 4,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Mauricio Pochettino gives Bruno Fernandes update after missing Manchester United training",
+      "items": [
+        {
+          "title": "Mauricio Pochettino gives Bruno Fernandes update after missing Manchester United training",
+          "summary": "Mauricio Pochettino confirmed the latest team news ahead of Man Utd's return to Premier League action on Saturday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-gives-bruno-fernandes-34973497",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 13:49:21 +0000"
+        },
+        {
+          "title": "Man Utd suffer major blow as Mauricio Pochettino gives Bruno Fernandes update for Brentford",
+          "summary": "Manchester United host Brentford in the Premier League on Saturday afternoon at Old Trafford - and they might be without captain Bruno Fernandes due to illness",
+          "url": "https://www.mirror.co.uk/sport/football/news/man-utd-bruno-fernandes-brentford-37922824",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:11:05 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC",
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "match"
+    },
+    {
+      "representative_title": "Pochettino connection sparks Man United links as Romano confirms interest in 22-year-old - CaughtOffside",
+      "items": [
+        {
+          "title": "Pochettino connection sparks Man United links as Romano confirms interest in 22-year-old - CaughtOffside",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE3LTF4Yi0xNE5QOGg3MEdnOTF2NDMzWWZmUTJfbXh2TXdXWk5SN0UwdEpqZHI1VGcxV19aZHBLTkxGS2diaDBPWVdsX1Jya0RkdEV0cXk4eFVuZGRaa1NidWFkYjRWcGtQU2licE9Xc0hDNmRuV21DT3ZXSkdxX2ZsdThBRkFreHpwNTE0Sk1PZlcyVUJZazRodkxBN25LQVFJM3hyV1lpaUYwclZjUDFsbU04VUxEcXFPU05UZDJNcTU0UTVpUUpn0gHPAUFVX3lxTE1QeGVSN3R2dnZhUk1Eblo3T0N0c2xXcEhJUGM5Y3FTWEhST3JVSjQzRDh5TWxhSElhYmVQZFNPY3JkT2RGUHVrOUtsSXVmbXRwQmF4UE4zOVVabWZJb3laVjl1NDZIZFFiMHNQU3hjbWdaN3NqWjhPaXRVeHNsWnNXX2tKVGR3QWZfZDNCRzg2Y0hWT2o5UVBBUzVLVjgxSzFMWS1wTzRaWHQtb0V6VG4tMDZ2MUxObE9FZDZhZXQ3eG5MNm5DTEZsVDdSX05hVQ?oc=5\" target=\"_blank\">Pochettino connection sparks Man United links as Romano confirms interest in 22-year-old</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CaughtOffside</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTXE3LTF4Yi0xNE5QOGg3MEdnOTF2NDMzWWZmUTJfbXh2TXdXWk5SN0UwdEpqZHI1VGcxV19aZHBLTkxGS2diaDBPWVdsX1Jya0RkdEV0cXk4eFVuZGRaa1NidWFkYjRWcGtQU2licE9Xc0hDNmRuV21DT3ZXSkdxX2ZsdThBRkFreHpwNTE0Sk1PZlcyVUJZazRodkxBN25LQVFJM3hyV1lpaUYwclZjUDFsbU04VUxEcXFPU05UZDJNcTU0UTVpUUpn0gHPAUFVX3lxTE1QeGVSN3R2dnZhUk1Eblo3T0N0c2xXcEhJUGM5Y3FTWEhST3JVSjQzRDh5TWxhSElhYmVQZFNPY3JkT2RGUHVrOUtsSXVmbXRwQmF4UE4zOVVabWZJb3laVjl1NDZIZFFiMHNQU3hjbWdaN3NqWjhPaXRVeHNsWnNXX2tKVGR3QWZfZDNCRzg2Y0hWT2o5UVBBUzVLVjgxSzFMWS1wTzRaWHQtb0V6VG4tMDZ2MUxObE9FZDZhZXQ3eG5MNm5DTEZsVDdSX05hVQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 06:00:00 GMT"
+        },
+        {
+          "title": "Pochettino connection sparks Man United links as Romano confirms interest in 22-year-old",
+          "summary": "<p>Manchester United are reportedly keeping a close eye on Nico Paz, although Fabrizio Romano has downplayed speculation linking the Como star to a move to Old Trafford amid growing interest in the Argentine playmaker. The 22-year-old has established himself as one of the most exciting young midfielders in European football, drawing attention from several top [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/28/pochettino-connection-sparks-man-united-links-as-romano-confirms-interest-in-22-year-old/\">Pochettino connection sparks Man United links as Romano confirms interest in 22-year-old</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/28/pochettino-connection-sparks-man-united-links-as-romano-confirms-interest-in-22-year-old/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Sat, 28 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano",
+        "Caught Offside"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano drops update on Bruno Fernandes’ contract situation at Man United - Yahoo Sports",
+      "items": [
+        {
+          "title": "Fabrizio Romano drops update on Bruno Fernandes’ contract situation at Man United - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkZIVXFkOGlwZndxQ3ZlbjFIZjFiTklRZVVxaUdKVXpDRlBwNTRFemFfbnQwZWc2eGx5Z3g0ajRFUUFEVy1JVFBVZjN0N2hZMEplQWw0TXBmTmxrUnE1cXJucTVqV0tFa05qaS1VRkJsMV9tcnVkenNpV0tzVzVacmVwejU2TF90OVA2S1pDMndnd1l6?oc=5\" target=\"_blank\">Fabrizio Romano drops update on Bruno Fernandes’ contract situation at Man United</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdkZIVXFkOGlwZndxQ3ZlbjFIZjFiTklRZVVxaUdKVXpDRlBwNTRFemFfbnQwZWc2eGx5Z3g0ajRFUUFEVy1JVFBVZjN0N2hZMEplQWw0TXBmTmxrUnE1cXJucTVqV0tFa05qaS1VRkJsMV9tcnVkenNpV0tzVzVacmVwejU2TF90OVA2S1pDMndnd1l6?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 05:30:00 GMT"
+        },
+        {
+          "title": "Manchester United activate their option to extend Bruno Fernandes’ contract - Yahoo Sports",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDJuc1VINnNzTzBNMlg4U25Tbkdpc0FYQ0ZkaUwwdWlQdTkxTVRFd2JJWnJyYUFMRFJRMHFJMzM1WG9uY21ud2gyT2RlUGE0ZU5idlV0RFBfcEJPbFVOajNEd3c4MkhWeU1PSi1jUHhsaFhzQmxodjZHaFVkMFJWdTFNaTNwdFJfaWRqekplYXk4NWJJbXNJYUEtZXk?oc=5\" target=\"_blank\">Manchester United activate their option to extend Bruno Fernandes’ contract</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Sports</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSDJuc1VINnNzTzBNMlg4U25Tbkdpc0FYQ0ZkaUwwdWlQdTkxTVRFd2JJWnJyYUFMRFJRMHFJMzM1WG9uY21ud2gyT2RlUGE0ZU5idlV0RFBfcEJPbFVOajNEd3c4MkhWeU1PSi1jUHhsaFhzQmxodjZHaFVkMFJWdTFNaTNwdFJfaWRqekplYXk4NWJJbXNJYUEtZXk?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 00:00:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano",
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 2,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The 13 players who could miss Man United vs Brentford as big injury list adds up",
+      "items": [
+        {
+          "title": "The 13 players who could miss Man United vs Brentford as big injury list adds up",
+          "summary": "Manchester United host Brentford at Old Trafford on Saturday afternoon but there will be a large contingent of absentees",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-injury-news-brentford-34979585",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 07:50:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Mauricio Pochettino can help pull off second stunning Man United transfer with 'chiefs hopeful'",
+      "items": [
+        {
+          "title": "Mauricio Pochettino can help pull off second stunning Man United transfer with 'chiefs hopeful'",
+          "summary": "Manchester United are in desperate need of improvement and chiefs think Mauricio Pochettino could hold the key to revolutionary upcoming transfer windows",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/mauricio-pochettino-man-united-transfer-34979500",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United line-up vs Brentford predicted as Bruno Fernandes call made and one star returns",
+      "items": [
+        {
+          "title": "Manchester United line-up vs Brentford predicted as Bruno Fernandes call made and one star returns",
+          "summary": "Man United are looking for their first Premier League win since August today as they face Brentford at Old Trafford.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/manchester-united-line-up-vs-34975106",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 04:00:00 +0000"
+        },
+        {
+          "title": "Why Bruno Fernandes is missing from Manchester United training before Brentford",
+          "summary": "Man Utd trained on Friday morning ahead of their game against Brentford at Old Trafford in the Premier League.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/bruno-fernandes-missing-manchester-united-34974526",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 11:25:39 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Forgotten Man United star called up to first-team training by Mauricio Pochettino",
+      "items": [
+        {
+          "title": "Forgotten Man United star called up to first-team training by Mauricio Pochettino",
+          "summary": "Mauricio Pochettino will make his home debut from the Old Trafford dugout when Manchester United play Brentford this weekend",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/forgotten-man-united-star-called-34979387",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 21:49:09 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Poll: Should Manchester United sell Bruno Fernandes in the summer?",
+      "items": [
+        {
+          "title": "Poll: Should Manchester United sell Bruno Fernandes in the summer?",
+          "summary": "Bruno Fernandes has extended his stay at Man United until 2028 but should the club look to cash in on him next summer?",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/poll-should-manchester-united-sell-34976455",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 15:16:20 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Mauricio Pochettino reveals whether he has spoken to Manchester United legend Sir Alex Ferguson",
+      "items": [
+        {
+          "title": "Mauricio Pochettino reveals whether he has spoken to Manchester United legend Sir Alex Ferguson",
+          "summary": "Mauricio Pochettino first dined with legendary former Man United manager Sir Alex Ferguson over 10 years ago.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/mauricio-pochettino-reveals-whether-spoken-34973516",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:59:56 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "'I'm not nice' - Mauricio Pochettino warns his Manchester United players",
+      "items": [
+        {
+          "title": "'I'm not nice' - Mauricio Pochettino warns his Manchester United players",
+          "summary": "Mauricio Pochettino sent a warning to his Man Utd players during his press conference on Friday.",
+          "url": "https://www.manchestereveningnews.co.uk/sport/football/im-not-nice-mauricio-pochettino-34973510",
+          "source": "Manchester Evening News - MUFC",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:48:43 +0000"
+        }
+      ],
+      "sources": [
+        "Manchester Evening News - MUFC"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd boss's drastic action after Brentford match left stars gasping for breath",
+      "items": [
+        {
+          "title": "Man Utd boss's drastic action after Brentford match left stars gasping for breath",
+          "summary": "A LOOK BACK: Manchester United take on Brentford this Saturday and Red Devils supporters will be hoping to avoid a repeat of their humiliating 4-0 loss under Erik ten Hag in 2022",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-brentford-premier-league-37924148",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 08:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "13 players could miss Man Utd vs Brentford as Mauricio Pochettino confirms major doubt",
+      "items": [
+        {
+          "title": "13 players could miss Man Utd vs Brentford as Mauricio Pochettino confirms major doubt",
+          "summary": "Manchester United manager Mauricio Pochettino and Brentford boss Keith Andrews both have several injury headaches ahead of the Premier League clash between their sides",
+          "url": "https://www.mirror.co.uk/sport/football/news/manchester-united-brentford-injury-update-37923733",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 07:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "'Sir Alex Ferguson betrayed me - I put the phone down on him and we haven't spoken since'",
+      "items": [
+        {
+          "title": "'Sir Alex Ferguson betrayed me - I put the phone down on him and we haven't spoken since'",
+          "summary": "EXCLUSIVE: A former Premier League manager says his relationship with Sir Alex Ferguson has never been the same since the legendary Manchester United boss \"betrayed\" him",
+          "url": "https://www.mirror.co.uk/sport/football/news/sir-alex-ferguson-betrayed-phone-37894816",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Sat, 28 Nov 2026 06:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "match"
+    },
+    {
+      "representative_title": "Why Bruno Fernandes wasn't in Man Utd training, timeline out and games he'll miss",
+      "items": [
+        {
+          "title": "Why Bruno Fernandes wasn't in Man Utd training, timeline out and games he'll miss",
+          "summary": "Manchester United captain Bruno Fernandes has picked up a virus and missed training",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-wasnt-man-utd-37924121",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 19:16:02 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Leny Yoro red appeal is very dangerous - we now have THREE layers of refereeing on top of VAR",
+      "items": [
+        {
+          "title": "Leny Yoro red appeal is very dangerous - we now have THREE layers of refereeing on top of VAR",
+          "summary": "Will we start seeing more VAR decisions appealed by clubs in the neverending litigation of subjective decisions? It's an utter farce",
+          "url": "https://www.mirror.co.uk/sport/football/news/leny-yoro-red-appeal-very-37922128",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 17:00:00 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Bruno Fernandes absent from Man Utd training as worrying comment made before Brentford tie",
+      "items": [
+        {
+          "title": "Bruno Fernandes absent from Man Utd training as worrying comment made before Brentford tie",
+          "summary": "Bruno Fernandes missed Manchester United's training session at Carrington on Friday morning as Mauricio Pochettino goes in search of his first win at his new club",
+          "url": "https://www.mirror.co.uk/sport/football/news/bruno-fernandes-man-utd-brentford-37922119",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 11:49:57 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "off_pitch"
+    },
+    {
+      "representative_title": "Man Utd identify Bruno Fernandes replacement after captain makes contract stance clear",
+      "items": [
+        {
+          "title": "Man Utd identify Bruno Fernandes replacement after captain makes contract stance clear",
+          "summary": "Manchester United have been forced to consider a future without captain Bruno Fernandes, who is out of contract in the summer, and have shortlisted Como star Nico Paz",
+          "url": "https://www.mirror.co.uk/sport/football/transfer-news/man-utd-transfers-fernandes-replacement-37921330",
+          "source": "Mirror Football - Man United",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 10:28:13 +0000"
+        }
+      ],
+      "sources": [
+        "Mirror Football - Man United"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd enter talks for £50m first January signing as Romano sets Nico Paz timeline - TEAMtalk",
+      "items": [
+        {
+          "title": "Man Utd enter talks for £50m first January signing as Romano sets Nico Paz timeline - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxONjIyLUtZbjQ4VWlCaG9RUzVBakYtUFR5NzV0NkhUSFZDektKN1A4VEt0ZGdSaGJsbC1EWGt0TlpKUFcyTVBLcmxQMFowWXhQYzRpX25aOVI2MzhqVDVYanNZaFUzOVA2eVRaY1Q1QWdwVkdldVJGaDBGNDczQXllTkd1TWMtZDQ4TjZMYzVkR3BjOER6WFhIUU8xb29XNzZ4RnZNanQxMVktYmJRVXF1dzRVTGFxd2FHVWs3QnRqTDkxODZNRWh6b0Jxdw?oc=5\" target=\"_blank\">Man Utd enter talks for £50m first January signing as Romano sets Nico Paz timeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjIyLUtZbjQ4VWlCaG9RUzVBakYtUFR5NzV0NkhUSFZDektKN1A4VEt0ZGdSaGJsbC1EWGt0TlpKUFcyTVBLcmxQMFowWXhQYzRpX25aOVI2MzhqVDVYanNZaFUzOVA2eVRaY1Q1QWdwVkdldVJGaDBGNDczQXllTkd1TWMtZDQ4TjZMYzVkR3BjOER6WFhIUU8xb29XNzZ4RnZNanQxMVktYmJRVXF1dzRVTGFxd2FHVWs3QnRqTDkxODZNRWh6b0Jxdw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 21:34:27 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Leeds United: Fabrizio Romano confirms huge Man Utd rejection with four major deals to follow Calvert-Lewin - TEAMtalk",
+      "items": [
+        {
+          "title": "Leeds United: Fabrizio Romano confirms huge Man Utd rejection with four major deals to follow Calvert-Lewin - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSnNlaWRja2RFdDdpZlFybVo3UHVDSkZIdFlTRzhSZy1qOUlVUkJVN2JTdExNWmVLZmZ5LWUtNW4wOGFxSVpuVTJNQ0d0R2JNZE50OFpWYmVyYk13YnpxbklFTWJFcGNKN09JbTFSeG40VG1rbTBFRnBPNFg4a3ZRMDZ0V1FXTk82REFnZE10dURLcjhEMXROYmFIQkxuampmeWNDeUFnQXVEdw?oc=5\" target=\"_blank\">Leeds United: Fabrizio Romano confirms huge Man Utd rejection with four major deals to follow Calvert-Lewin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSnNlaWRja2RFdDdpZlFybVo3UHVDSkZIdFlTRzhSZy1qOUlVUkJVN2JTdExNWmVLZmZ5LWUtNW4wOGFxSVpuVTJNQ0d0R2JNZE50OFpWYmVyYk13YnpxbklFTWJFcGNKN09JbTFSeG40VG1rbTBFRnBPNFg4a3ZRMDZ0V1FXTk82REFnZE10dURLcjhEMXROYmFIQkxuampmeWNDeUFnQXVEdw?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 08:14:56 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd increasingly likely to complete spectacular left-back signing after transfer approved - TEAMtalk",
+      "items": [
+        {
+          "title": "Man Utd increasingly likely to complete spectacular left-back signing after transfer approved - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzlsNnRLcUZsclYyVUdmV2FXaEQtWlJlZnlQNUVVa3o5bzl2bmE1djBNRXdwVUFxb3FIR1o5WjNmRlFyeHFBUHZBbUpaUk9ad2MtdDhTN0hKQWxnZFJvblRRXzBwSHZXNDh3TENUZk0xZ3dtZ0JCRkJZS09wY1V5Nnlia0hWaUdtUE5IM2diV0tORjIwMHBrbXVxXzR5VDdMUkhPdzZfcEk4b2x5akFzNDhYQ0o5VWxqUTdtTmJ5Um53RzFaM0xqazVCOA?oc=5\" target=\"_blank\">Man Utd increasingly likely to complete spectacular left-back signing after transfer approved</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzlsNnRLcUZsclYyVUdmV2FXaEQtWlJlZnlQNUVVa3o5bzl2bmE1djBNRXdwVUFxb3FIR1o5WjNmRlFyeHFBUHZBbUpaUk9ad2MtdDhTN0hKQWxnZFJvblRRXzBwSHZXNDh3TENUZk0xZ3dtZ0JCRkJZS09wY1V5Nnlia0hWaUdtUE5IM2diV0tORjIwMHBrbXVxXzR5VDdMUkhPdzZfcEk4b2x5akFzNDhYQ0o5VWxqUTdtTmJ5Um53RzFaM0xqazVCOA?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 10:58:09 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Romano clarifies Bruno Fernandes release clause after Man Utd contract extended - TEAMtalk",
+      "items": [
+        {
+          "title": "Romano clarifies Bruno Fernandes release clause after Man Utd contract extended - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObG5ZWmluVXU5V0xMd3B2cTVPVk9jQUFGbl9HMmRlR0NWcFE5NGUtQWF5QTJfUWtzNkVFd0ZESlhvZkJEY19EQVAyOGZTVnJ2aS0ydmRJYk9ic2hyeTdaM2ZYWjBoMmMzR1NyOWtIVzNsT09UVFY3RUhQYzlQNHBlMl9taGN2bzBRakZZVVkxYTlDU0hNNnF6a0lGaTNNRlVobGlVOGZCQXQzQQ?oc=5\" target=\"_blank\">Romano clarifies Bruno Fernandes release clause after Man Utd contract extended</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObG5ZWmluVXU5V0xMd3B2cTVPVk9jQUFGbl9HMmRlR0NWcFE5NGUtQWF5QTJfUWtzNkVFd0ZESlhvZkJEY19EQVAyOGZTVnJ2aS0ydmRJYk9ic2hyeTdaM2ZYWjBoMmMzR1NyOWtIVzNsT09UVFY3RUhQYzlQNHBlMl9taGN2bzBRakZZVVkxYTlDU0hNNnF6a0lGaTNNRlVobGlVOGZCQXQzQQ?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 19:20:22 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Fabrizio Romano drops ‘100%’ Nico Paz guarantee after Man Utd bombshell - TEAMtalk",
+      "items": [
+        {
+          "title": "Fabrizio Romano drops ‘100%’ Nico Paz guarantee after Man Utd bombshell - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3RYb2MtUm10ODNEb2gyQzRjcU5raEpxRHMtazZ6WUFGc2hTSkZGUlV2OHBteXh6dmMzOXhkbkdzcFkyVHBrMXEycm9hbWlOeGdsV1lpV2l5cFZWOWwtQmdHMnA4eVV2d25lcVdJd1N5cVN5U3ZSVWhWVE9aTWpFTjZoOFNMSWM5bzVQM0htX0VUZ0VPNVI1bjFKVHNNLXg1cDJIOTduZTBzMUVDMF8w?oc=5\" target=\"_blank\">Fabrizio Romano drops ‘100%’ Nico Paz guarantee after Man Utd bombshell</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3RYb2MtUm10ODNEb2gyQzRjcU5raEpxRHMtazZ6WUFGc2hTSkZGUlV2OHBteXh6dmMzOXhkbkdzcFkyVHBrMXEycm9hbWlOeGdsV1lpV2l5cFZWOWwtQmdHMnA4eVV2d25lcVdJd1N5cVN5U3ZSVWhWVE9aTWpFTjZoOFNMSWM5bzVQM0htX0VUZ0VPNVI1bjFKVHNNLXg1cDJIOTduZTBzMUVDMF8w?oc=5",
+          "source": "Google News: Fabrizio Romano",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 16:48:21 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: Fabrizio Romano"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein: 'One of Europe's Best Players' Open to Joining Man Utd in 2027 - GiveMeSport",
+      "items": [
+        {
+          "title": "David Ornstein: 'One of Europe's Best Players' Open to Joining Man Utd in 2027 - GiveMeSport",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVJldm92Y3oxaXdyaE9ZN3J1MG5oUmJQMWRTbkZELWh1N21ISTNpU2loVG16QlJWR2VjN3pZcFZzSnd1Q3FQRFU1VVVnYXhscGhIcng0a20wYnpIYWtzZXF4TUhwUFZjNmFxNW9Jekh2UzhkR1lYaHVlN29XMHFmc1BEc3RkaUVzcXR2Y0x1cTFjRWM?oc=5\" target=\"_blank\">David Ornstein: 'One of Europe's Best Players' Open to Joining Man Utd in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GiveMeSport</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVJldm92Y3oxaXdyaE9ZN3J1MG5oUmJQMWRTbkZELWh1N21ISTNpU2loVG16QlJWR2VjN3pZcFZzSnd1Q3FQRFU1VVVnYXhscGhIcng0a20wYnpIYWtzZXF4TUhwUFZjNmFxNW9Jekh2UzhkR1lYaHVlN29XMHFmc1BEc3RkaUVzcXR2Y0x1cTFjRWM?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 09:16:02 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The 2027 Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+      "items": [
+        {
+          "title": "The 2027 Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzdTTkxpcFB2ckI4clNvX0E5OG0xd1VWY1ZFd2V1TlZadExPM3FiWlRNRGprY0Ixd3FpRkhwSTFDVkZoRnR4SWszbE93Rmd2Z2N3LUFXSW5ZbEpTTGJTQVFpdWIxT2RhTmxnUkxicWRIUkNvQkVYV1l3cnJJTUx5U2dfdk41TXBXd2xuZWY1b0FfZUpnSU5UYTNTTUVsNVJhcHU3QV9mblJYYWVJck9FZ01fSUpUd2JVQkY4Y21DdjVvUWtvc2d4bFV5WEkyaGNzbUE?oc=5\" target=\"_blank\">The 2027 Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYzdTTkxpcFB2ckI4clNvX0E5OG0xd1VWY1ZFd2V1TlZadExPM3FiWlRNRGprY0Ixd3FpRkhwSTFDVkZoRnR4SWszbE93Rmd2Z2N3LUFXSW5ZbEpTTGJTQVFpdWIxT2RhTmxnUkxicWRIUkNvQkVYV1l3cnJJTUx5U2dfdk41TXBXd2xuZWY1b0FfZUpnSU5UYTNTTUVsNVJhcHU3QV9mblJYYWVJck9FZ01fSUpUd2JVQkY4Y21DdjVvUWtvc2d4bFV5WEkyaGNzbUE?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 10:47:00 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Arsenal make contact to hijack £100m Man Utd move as Ornstein reveals Arteta advantage - TEAMtalk",
+      "items": [
+        {
+          "title": "Arsenal make contact to hijack £100m Man Utd move as Ornstein reveals Arteta advantage - TEAMtalk",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFR6SzluWl85bFJqLXJIRjNlUGg3dC1HYWtacGVXOEUxVkFLUHQtWHFBNU9uQUYxSVhsem9DYXJwVkxvTHEwWTVYb29FZUVjaUw4Z2RtcmIwMU12QXJyVHJOZ0pPbFVZeGdhRnk4ZF9Qek16eEFOSkNmMjJRYS1oelItbHZMeTkySFhvX0xZUC03WWZuYl9oZ1lENWROcGFLd0sxdEZoWkJHTzg?oc=5\" target=\"_blank\">Arsenal make contact to hijack £100m Man Utd move as Ornstein reveals Arteta advantage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TEAMtalk</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFR6SzluWl85bFJqLXJIRjNlUGg3dC1HYWtacGVXOEUxVkFLUHQtWHFBNU9uQUYxSVhsem9DYXJwVkxvTHEwWTVYb29FZUVjaUw4Z2RtcmIwMU12QXJyVHJOZ0pPbFVZeGdhRnk4ZF9Qek16eEFOSkNmMjJRYS1oelItbHZMeTkySFhvX0xZUC03WWZuYl9oZ1lENWROcGFLd0sxdEZoWkJHTzg?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 17:47:36 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Man Utd: Ornstein reveals Fernandes option has been activated after clear preference emerges - Football365",
+      "items": [
+        {
+          "title": "Man Utd: Ornstein reveals Fernandes option has been activated after clear preference emerges - Football365",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlVPZGdvRmZjak5SdDBfRlRNU0RFSmYtb0Rxc1IzdFV6S1hJU0dVV2RvSXhvN2dIc3Q5SU9FcWFzaDRPSWRETjBzelZtamM4OWphZ1h5MU1aQ0Nxb3dHZXFRZU4ySHVmZF9XN3M1MUhUR010WkowUHJHcUhBYS1xc2hOM1U1bE1JV3c?oc=5\" target=\"_blank\">Man Utd: Ornstein reveals Fernandes option has been activated after clear preference emerges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Football365</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdlVPZGdvRmZjak5SdDBfRlRNU0RFSmYtb0Rxc1IzdFV6S1hJU0dVV2RvSXhvN2dIc3Q5SU9FcWFzaDRPSWRETjBzelZtamM4OWphZ1h5MU1aQ0Nxb3dHZXFRZU4ySHVmZF9XN3M1MUhUR010WkowUHJHcUhBYS1xc2hOM1U1bE1JV3c?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:25:58 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "David Ornstein discloses what Man Utd can do to significantly boost their chances of signing Nico Paz in 2027 - LiveScore",
+      "items": [
+        {
+          "title": "David Ornstein discloses what Man Utd can do to significantly boost their chances of signing Nico Paz in 2027 - LiveScore",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPRkRrNkptaU9teEQybTlHVGxDaE4xbWc0RFRfSW15b2pXM3Q4M3gyeDNiOTh2d3ZFTVpHX0FWUkJ3WTlVOWtibHBNbUY2NGlGemVxTHdQb2NZUGVqNzhKOVdhVG5LY1JDZ08wN0dXczVQNkFnMV8wQWxFS2tON1JiRlY2T0ppa1AtYnJLMEtXYVgwT2dBMkEwZk9IZ2xMWGV4QW9ldGcyR0h4TlJfOFpDbngwNHlCNzhIQzRNWGlFSmRzSHoxLVZ3SnJnZ2FHV282OXRVSjR4OWFWR190SUo2NVM2bm1TN1R1ei01UFhqX1hiT3NnUjFtM0xYNTFSOW9ab0NmUk1TS3JEdw?oc=5\" target=\"_blank\">David Ornstein discloses what Man Utd can do to significantly boost their chances of signing Nico Paz in 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LiveScore</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPRkRrNkptaU9teEQybTlHVGxDaE4xbWc0RFRfSW15b2pXM3Q4M3gyeDNiOTh2d3ZFTVpHX0FWUkJ3WTlVOWtibHBNbUY2NGlGemVxTHdQb2NZUGVqNzhKOVdhVG5LY1JDZ08wN0dXczVQNkFnMV8wQWxFS2tON1JiRlY2T0ppa1AtYnJLMEtXYVgwT2dBMkEwZk9IZ2xMWGV4QW9ldGcyR0h4TlJfOFpDbngwNHlCNzhIQzRNWGlFSmRzSHoxLVZ3SnJnZ2FHV282OXRVSjR4OWFWR190SUo2NVM2bm1TN1R1ei01UFhqX1hiT3NnUjFtM0xYNTFSOW9ab0NmUk1TS3JEdw?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:02:13 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "The Athletic: Manchester United activate Bruno Fernandes’ contract extension - Milanreports.com",
+      "items": [
+        {
+          "title": "The Athletic: Manchester United activate Bruno Fernandes’ contract extension - Milanreports.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeEhKeGZsMjg1amZZY0VPeXlTd0lLcWd3dTBHQmhvQUlsLWp6SlRCZDFwWVEwc3BoOUI0MHVnTE5jbllSNFFWSTdmTGJhSVFnUV9EWS1mRENOMXVYSUF0Rnp0R25JOV85YWxTTjlqT2h4bVYyM2c?oc=5\" target=\"_blank\">The Athletic: Manchester United activate Bruno Fernandes’ contract extension</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milanreports.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zeEhKeGZsMjg1amZZY0VPeXlTd0lLcWd3dTBHQmhvQUlsLWp6SlRCZDFwWVEwc3BoOUI0MHVnTE5jbllSNFFWSTdmTGJhSVFnUV9EWS1mRENOMXVYSUF0Rnp0R25JOV85YWxTTjlqT2h4bVYyM2c?oc=5",
+          "source": "Google News: David Ornstein",
+          "tier": 2,
+          "published_at": "Fri, 27 Nov 2026 14:37:31 GMT"
+        }
+      ],
+      "sources": [
+        "Google News: David Ornstein"
+      ],
+      "min_tier": 2,
+      "corroboration_count": 1,
+      "category": "transfer"
+    },
+    {
+      "representative_title": "Manchester United begin exploring conditions for £50m January signing",
+      "items": [
+        {
+          "title": "Manchester United begin exploring conditions for £50m January signing",
+          "summary": "<p>Manchester United are reportedly exploring a January move for Fulham defender Calvin Bassey as Mauricio Pochettino looks to strengthen his defensive options ahead of the second half of the season. The Nigerian international has emerged as a serious candidate at Old Trafford, with the Red Devils assessing potential additions to improve their defensive solidity. Calvin [&#8230;]</p>\n<p>The post <a href=\"https://www.caughtoffside.com/2026/11/27/manchester-united-begin-exploring-conditions-for-50m-january-signing/\">Manchester United begin exploring conditions for £50m January signing</a> appeared first on <a href=\"https://www.caughtoffside.com\">CaughtOffside</a>.</p>",
+          "url": "https://www.caughtoffside.com/2026/11/27/manchester-united-begin-exploring-conditions-for-50m-january-signing/",
+          "source": "Caught Offside",
+          "tier": 3,
+          "published_at": "Fri, 27 Nov 2026 22:00:15 +0000"
+        }
+      ],
+      "sources": [
+        "Caught Offside"
+      ],
+      "min_tier": 3,
+      "corroboration_count": 1,
+      "category": "transfer"
+    }
+  ],
+  "meta": {
+    "raw_item_count": 42,
+    "story_count": 32
+  }
+}
